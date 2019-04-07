@@ -1,0 +1,67 @@
+{
+  "id": 1293895059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.68444,22.94639,-81.68444,22.94639",
+    "geom:latitude":22.94639,
+    "geom:longitude":-81.68444,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Paloma",
+    "gn:country_code":"CU",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3545014,
+    "gn:latitude":22.94639,
+    "gn:longitude":-81.68444,
+    "gn:modification_date":"1996-09-19",
+    "gn:name":"Paloma",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545014
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d7ce855ee73cb4b725e90b6bec186efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905663,
+            "locality_id":1293895059,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1293895059,
+    "wof:lastmodified":1536696859,
+    "wof:name":"Paloma",
+    "wof:parent_id":1091905663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.68444000000002,
+    22.94639,
+    -81.68444000000002,
+    22.94639
+],
+  "geometry": {"coordinates":[-81.68444000000002,22.94639],"type":"Point"}
+}

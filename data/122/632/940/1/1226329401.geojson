@@ -1,0 +1,67 @@
+{
+  "id": 1226329401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.09583,20.86,-76.09583,20.86",
+    "geom:latitude":20.86,
+    "geom:longitude":-76.09583,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Flor",
+    "gn:country_code":"CU",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3553899,
+    "gn:latitude":20.86,
+    "gn:longitude":-76.09583,
+    "gn:modification_date":"1996-04-25",
+    "gn:name":"La Flor",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553899
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"04de55e74781de3dd4cdcba4c5a88c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902841,
+            "locality_id":1226329401,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1226329401,
+    "wof:lastmodified":1536812502,
+    "wof:name":"La Flor",
+    "wof:parent_id":1091902841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.09583,
+    20.86,
+    -76.09583,
+    20.86
+],
+  "geometry": {"coordinates":[-76.09583000000001,20.86],"type":"Point"}
+}

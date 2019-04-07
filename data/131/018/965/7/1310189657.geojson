@@ -1,0 +1,70 @@
+{
+  "id": 1310189657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.79603,20.56353,-76.79603,20.56353",
+    "geom:latitude":20.56353,
+    "geom:longitude":-76.79603,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Cartuja",
+    "gn:country_code":"CU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746545,
+    "gn:latitude":20.56353,
+    "gn:longitude":-76.79603,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Cartuja",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cartuja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091907413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746545
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f98c71ad7ecdf62e1de454c3866da276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907413,
+            "locality_id":1310189657,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1310189657,
+    "wof:lastmodified":1537619133,
+    "wof:name":"La Cartuja",
+    "wof:parent_id":1091907413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79603,
+    20.56353,
+    -76.79603,
+    20.56353
+],
+  "geometry": {"coordinates":[-76.79603,20.56353],"type":"Point"}
+}

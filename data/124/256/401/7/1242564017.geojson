@@ -1,0 +1,74 @@
+{
+  "id": 1242564017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.05259,21.30568,-77.05259,21.30568",
+    "geom:latitude":21.30568,
+    "geom:longitude":-77.05259,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Tasajera",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535473,
+    "gn:latitude":21.30568,
+    "gn:longitude":-77.05259,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Tasajera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Tasajera"
+    ],
+    "name:und_x_variant":[
+        "La Tasajeras",
+        "Tasajeras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535473
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4355a0bba24aa0ebb47c3d6ae8e4ee24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905945,
+            "locality_id":1242564017,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1242564017,
+    "wof:lastmodified":1537618890,
+    "wof:name":"La Tasajera",
+    "wof:parent_id":1091905945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.05259000000002,
+    21.30568,
+    -77.05259000000002,
+    21.30568
+],
+  "geometry": {"coordinates":[-77.05259000000002,21.30568],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276198433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.72208,22.60795,-79.72208,22.60795",
+    "geom:latitude":22.60795,
+    "geom:longitude":-79.72208,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Chiqui Gomez",
+    "gn:country_code":"CU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007639,
+    "gn:latitude":22.60795,
+    "gn:longitude":-79.72208,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Chiqui G\u00f3mez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chiqui G\u00f3mez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091903633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007639
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0b1578e6253a84031f310e6a5b747e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903633,
+            "locality_id":1276198433,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1276198433,
+    "wof:lastmodified":1537619164,
+    "wof:name":"Chiqui Gomez",
+    "wof:parent_id":1091903633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.72208,
+    22.60795,
+    -79.72208,
+    22.60795
+],
+  "geometry": {"coordinates":[-79.72208000000001,22.60795],"type":"Point"}
+}

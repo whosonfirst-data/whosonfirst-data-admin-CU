@@ -1,0 +1,70 @@
+{
+  "id": 1310085731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3106,20.82899,-76.3106,20.82899",
+    "geom:latitude":20.82899,
+    "geom:longitude":-76.3106,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Jucaron",
+    "gn:country_code":"CU",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11062399,
+    "gn:latitude":20.82899,
+    "gn:longitude":-76.3106,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"El Jucar\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Jucar\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091905117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11062399
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"84a9b0e673ab0d74e4aeba6f8a235124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905117,
+            "locality_id":1310085731,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1310085731,
+    "wof:lastmodified":1537619210,
+    "wof:name":"El Jucaron",
+    "wof:parent_id":1091905117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.3106,
+    20.82899,
+    -76.3106,
+    20.82899
+],
+  "geometry": {"coordinates":[-76.31059999999999,20.82899],"type":"Point"}
+}

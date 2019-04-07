@@ -1,0 +1,72 @@
+{
+  "id": 1293694187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.00167,22.85194,-81.00167,22.85194",
+    "geom:latitude":22.85194,
+    "geom:longitude":-81.00167,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Paradero Villalba",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3544870,
+    "gn:latitude":22.85194,
+    "gn:longitude":-81.00167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paradero Villalba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villalba",
+        "Paradero Villalba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544870
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9d280c08930a91c375cf582c4cedcf81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906933,
+            "locality_id":1293694187,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1293694187,
+    "wof:lastmodified":1537618944,
+    "wof:name":"Paradero Villalba",
+    "wof:parent_id":1091906933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.00166999999998,
+    22.85194,
+    -81.00166999999998,
+    22.85194
+],
+  "geometry": {"coordinates":[-81.00166999999998,22.85194],"type":"Point"}
+}

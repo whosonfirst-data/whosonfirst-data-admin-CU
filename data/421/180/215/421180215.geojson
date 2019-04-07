@@ -1,0 +1,143 @@
+{
+  "id": 421180215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.5375,22.79528,-81.5375,22.79528",
+    "geom:latitude":22.79528,
+    "geom:longitude":-81.5375,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio de Uni\u00f3n de Reyes"
+    ],
+    "name:chi_x_preferred":[
+        "\u70cf\u5c3c\u7fc1\u5fb7\u96f7\u8036\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "name:eng_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "name:fra_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "name:fre_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e3\u10dc\u10d8\u10dd\u10dc-\u10d3\u10d4-\u10e0\u10d4\u10d8\u10d4\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "name:ita_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10dc\u10d8\u10dd\u10dc-\u10d3\u10d4-\u10e0\u10d4\u10d8\u10d4\u10e1\u10d8"
+    ],
+    "name:oci_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "name:pol_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "name:por_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u043d\u0438\u043e\u043d \u0434\u0435 \u0420\u0435\u0439\u0435\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "name:spa_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Uni\u00f3n de Reyes"
+    ],
+    "name:unk_x_variant":[
+        "Union Reyes"
+    ],
+    "name:vie_x_preferred":[
+        "Uni\u00f3n de Reyes"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3534761,
+    "qs:gn_pop":33646,
+    "qs:name":"Uni\u00f3n de Reyes",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Matanzas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1200667,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":68463,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":22.800278,
+    "wd:longitude":-81.537222,
+    "wd:wordcount":197,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091908517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534761,
+        "gp:id":68463,
+        "qs:id":1200667,
+        "wd:id":"Q5002"
+    },
+    "wof:country":"CU",
+    "wof:created":1459009248,
+    "wof:geomhash":"d592701f9bebeea01254fe31304bdc07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908517,
+            "locality_id":421180215,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":421180215,
+    "wof:lastmodified":1527716239,
+    "wof:name":"Uni\u00f3n de Reyes",
+    "wof:parent_id":1091908517,
+    "wof:placetype":"locality",
+    "wof:population":33646,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.5375,
+    22.79528,
+    -81.5375,
+    22.79528
+],
+  "geometry": {"coordinates":[-81.53749999999999,22.79528],"type":"Point"}
+}

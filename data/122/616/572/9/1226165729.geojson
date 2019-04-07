@@ -1,0 +1,67 @@
+{
+  "id": 1226165729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.97306,20.79583,-77.97306,20.79583",
+    "geom:latitude":20.79583,
+    "geom:longitude":-77.97306,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Rosalia",
+    "gn:country_code":"CU",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3551706,
+    "gn:latitude":20.79583,
+    "gn:longitude":-77.97306,
+    "gn:modification_date":"1996-02-16",
+    "gn:name":"La Rosal\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551706
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6dc3dba6e8a1c53435e4d0fe58b5eeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908085,
+            "locality_id":1226165729,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1226165729,
+    "wof:lastmodified":1537046945,
+    "wof:name":"La Rosalia",
+    "wof:parent_id":1091908085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.97306,
+    20.79583,
+    -77.97306,
+    20.79583
+],
+  "geometry": {"coordinates":[-77.97306,20.79583],"type":"Point"}
+}

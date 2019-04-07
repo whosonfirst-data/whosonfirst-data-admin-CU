@@ -1,0 +1,67 @@
+{
+  "id": 1326740081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.81667,22.36667,-83.81667,22.36667",
+    "geom:latitude":22.36667,
+    "geom:longitude":-83.81667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rincon de la Ceiba",
+    "gn:country_code":"CU",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3542223,
+    "gn:latitude":22.36667,
+    "gn:longitude":-83.81667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Rinc\u00f3n de la Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542223
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1b0b127bb27ace1007d980d23d8cf486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907755,
+            "locality_id":1326740081,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1326740081,
+    "wof:lastmodified":1536684289,
+    "wof:name":"Rincon de la Ceiba",
+    "wof:parent_id":1091907755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.81667,
+    22.36667000000001,
+    -83.81667,
+    22.36667000000001
+],
+  "geometry": {"coordinates":[-83.81667,22.36667000000001],"type":"Point"}
+}

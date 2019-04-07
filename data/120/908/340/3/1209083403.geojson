@@ -1,0 +1,64 @@
+{
+  "id": 1209083403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.05684,21.06879,-76.05684,21.06879",
+    "geom:latitude":21.06879,
+    "geom:longitude":-76.05684,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cuatro Caminos",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060996,
+    "gn:latitude":21.06879,
+    "gn:longitude":-76.05684,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Cuatro Caminos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cuatro Caminos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060996
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8af323782b1f76bde5aff5298cceb569",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209083403
+        }
+    ],
+    "wof:id":1209083403,
+    "wof:lastmodified":1537619209,
+    "wof:name":"Cuatro Caminos",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.05684000000002,
+    21.06879,
+    -76.05684000000002,
+    21.06879
+],
+  "geometry": {"coordinates":[-76.05684000000002,21.06879],"type":"Point"}
+}

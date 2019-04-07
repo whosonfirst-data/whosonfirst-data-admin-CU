@@ -1,0 +1,73 @@
+{
+  "id": 1326731267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.95354,21.81348,-82.95354,21.81348",
+    "geom:latitude":21.81348,
+    "geom:longitude":-82.95354,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"La Demajagua",
+    "gn:country_code":"CU",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3554352,
+    "gn:latitude":21.81348,
+    "gn:longitude":-82.95354,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"La Demajagua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa B\u00e1rbara",
+        "La de Majagua",
+        "La Demajagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670405,
+        1091906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554352,
+        "wk:page":"La_Demajagua,_Isle_of_Youth"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"950048c0388f0d8df4ec2c5f481567de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906563,
+            "locality_id":1326731267,
+            "region_id":85670405
+        }
+    ],
+    "wof:id":1326731267,
+    "wof:lastmodified":1537619009,
+    "wof:name":"La Demajagua",
+    "wof:parent_id":1091906563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.95354,
+    21.81348,
+    -82.95354,
+    21.81348
+],
+  "geometry": {"coordinates":[-82.95354,21.81348],"type":"Point"}
+}

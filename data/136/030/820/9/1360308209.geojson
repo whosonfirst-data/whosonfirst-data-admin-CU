@@ -1,0 +1,67 @@
+{
+  "id": 1360308209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.96345,21.16488,-77.96345,21.16488",
+    "geom:latitude":21.16488,
+    "geom:longitude":-77.96345,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vista Hermosa",
+    "gn:country_code":"CU",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10860594,
+    "gn:latitude":21.16488,
+    "gn:longitude":-77.96345,
+    "gn:modification_date":"2015-11-02",
+    "gn:name":"Vista Hermosa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091905417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10860594
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"84225c0ef74491f278a910cf79769729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905417,
+            "locality_id":1360308209,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1360308209,
+    "wof:lastmodified":1536621724,
+    "wof:name":"Vista Hermosa",
+    "wof:parent_id":1091905417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.96345,
+    21.16488,
+    -77.96345,
+    21.16488
+],
+  "geometry": {"coordinates":[-77.96344999999999,21.16488],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326812457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.68727,22.70704,-79.68727,22.70704",
+    "geom:latitude":22.70704,
+    "geom:longitude":-79.68727,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Santo",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3559721,
+    "gn:latitude":22.70704,
+    "gn:longitude":-79.68727,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"El Santo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santo",
+        "El Santo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559721
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5a69412aac0aaebd872f0137a9008bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904483,
+            "locality_id":1326812457,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1326812457,
+    "wof:lastmodified":1537619046,
+    "wof:name":"El Santo",
+    "wof:parent_id":1091904483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.68727,
+    22.70704,
+    -79.68727,
+    22.70704
+],
+  "geometry": {"coordinates":[-79.68727,22.70704],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193117269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.59944,20.75139,-75.59944,20.75139",
+    "geom:latitude":20.75139,
+    "geom:longitude":-75.59944,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Felton",
+    "gn:country_code":"CU",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3558943,
+    "gn:latitude":20.75139,
+    "gn:longitude":-75.59944,
+    "gn:modification_date":"1995-06-20",
+    "gn:name":"Felton",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091906305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3558943
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b5eb82b76433f8775aafff8818b64e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906305,
+            "locality_id":1193117269,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1193117269,
+    "wof:lastmodified":1536366876,
+    "wof:name":"Felton",
+    "wof:parent_id":1091906305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.59944,
+    20.75139,
+    -75.59944,
+    20.75139
+],
+  "geometry": {"coordinates":[-75.59944,20.75139],"type":"Point"}
+}

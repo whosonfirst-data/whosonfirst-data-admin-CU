@@ -1,0 +1,70 @@
+{
+  "id": 1226132345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.05321,20.32119,-77.05321,20.32119",
+    "geom:latitude":20.32119,
+    "geom:longitude":-77.05321,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Las Novillas",
+    "gn:country_code":"CU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3550804,
+    "gn:latitude":20.32119,
+    "gn:longitude":-77.05321,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Las Novillas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Novillas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550804
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e79167d41f32a9ba452a017bd30318e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906089,
+            "locality_id":1226132345,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1226132345,
+    "wof:lastmodified":1537618984,
+    "wof:name":"Las Novillas",
+    "wof:parent_id":1091906089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.05320999999998,
+    20.32119,
+    -77.05320999999998,
+    20.32119
+],
+  "geometry": {"coordinates":[-77.05320999999998,20.32119],"type":"Point"}
+}

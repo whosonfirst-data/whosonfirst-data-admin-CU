@@ -1,0 +1,71 @@
+{
+  "id": 1226176571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.30666,22.90509,-83.30666,22.90509",
+    "geom:latitude":22.90509,
+    "geom:longitude":-83.30666,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"San Joaquin",
+    "gn:country_code":"CU",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3539995,
+    "gn:latitude":22.90509,
+    "gn:longitude":-83.30666,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"San Joaqu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juaqu\u00edn",
+        "San Joaqu\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091902873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539995
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b9cd19766251314864ad8f8c3e8e0db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902873,
+            "locality_id":1226176571,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1226176571,
+    "wof:lastmodified":1537618913,
+    "wof:name":"San Joaquin",
+    "wof:parent_id":1091902873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.30666,
+    22.90509,
+    -83.30666,
+    22.90509
+],
+  "geometry": {"coordinates":[-83.30665999999999,22.90509],"type":"Point"}
+}

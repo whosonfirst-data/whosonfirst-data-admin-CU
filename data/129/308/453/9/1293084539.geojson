@@ -1,0 +1,73 @@
+{
+  "id": 1293084539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.23846,21.77643,-79.23846,21.77643",
+    "geom:latitude":21.77643,
+    "geom:longitude":-79.23846,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Guanal Alto",
+    "gn:country_code":"CU",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547476,
+    "gn:latitude":21.77643,
+    "gn:longitude":-79.23846,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Guanal Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mart\u00edn L\u00f3pez"
+    ],
+    "name:spa_x_variant":[
+        "Guanal Alto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547476
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"98b706c72ade669bd5231cb1802b5efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905615,
+            "locality_id":1293084539,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1293084539,
+    "wof:lastmodified":1537618960,
+    "wof:name":"Guanal Alto",
+    "wof:parent_id":1091905615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.23846,
+    21.77643,
+    -79.23846,
+    21.77643
+],
+  "geometry": {"coordinates":[-79.23846,21.77643],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259474903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.39686,22.08816,-78.39686,22.08816",
+    "geom:latitude":22.08816,
+    "geom:longitude":-78.39686,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Fabal",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008970,
+    "gn:latitude":22.08816,
+    "gn:longitude":-78.39686,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Fabal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Fabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091903181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008970
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"657c028993e5e7d43d92365f555d47bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903181,
+            "locality_id":1259474903,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1259474903,
+    "wof:lastmodified":1537619173,
+    "wof:name":"Fabal",
+    "wof:parent_id":1091903181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.39686,
+    22.08816,
+    -78.39686,
+    22.08816
+],
+  "geometry": {"coordinates":[-78.39686,22.08816],"type":"Point"}
+}

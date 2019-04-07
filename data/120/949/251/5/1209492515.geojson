@@ -1,0 +1,65 @@
+{
+  "id": 1209492515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2224,21.12995,-76.2224,21.12995",
+    "geom:latitude":21.12995,
+    "geom:longitude":-76.2224,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Jobal",
+    "gn:country_code":"CU",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3560731,
+    "gn:latitude":21.12995,
+    "gn:longitude":-76.2224,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"El Jobal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jobal",
+        "El Jobal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560731
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9832d108bce98d166ebc148ad5d4a31b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209492515
+        }
+    ],
+    "wof:id":1209492515,
+    "wof:lastmodified":1537619055,
+    "wof:name":"El Jobal",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2224,
+    21.12995,
+    -76.2224,
+    21.12995
+],
+  "geometry": {"coordinates":[-76.22239999999999,21.12995],"type":"Point"}
+}

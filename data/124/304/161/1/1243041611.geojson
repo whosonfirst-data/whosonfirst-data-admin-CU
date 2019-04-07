@@ -1,0 +1,71 @@
+{
+  "id": 1243041611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.65434,22.13796,-79.65434,22.13796",
+    "geom:latitude":22.13796,
+    "geom:longitude":-79.65434,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Casa de Zinc",
+    "gn:country_code":"CU",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565120,
+    "gn:latitude":22.13796,
+    "gn:longitude":-79.65434,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Casa de Zinc",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casa Zinc",
+        "Casa de Zinc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091904623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565120
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a6cf192e22e2428dd13abbaccf58e1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904623,
+            "locality_id":1243041611,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1243041611,
+    "wof:lastmodified":1537619089,
+    "wof:name":"Casa de Zinc",
+    "wof:parent_id":1091904623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.65434,
+    22.13796,
+    -79.65434,
+    22.13796
+],
+  "geometry": {"coordinates":[-79.65434,22.13796],"type":"Point"}
+}

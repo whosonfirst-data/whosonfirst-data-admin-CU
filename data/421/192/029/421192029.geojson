@@ -1,0 +1,79 @@
+{
+  "id": 421192029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.51111,22.98167,-81.51111,22.98167",
+    "geom:latitude":22.98167,
+    "geom:longitude":-81.51111,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Guan\u00e1bana"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3557838,
+    "qs:gn_pop":0,
+    "qs:name":"Guan\u00e1bana",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Matanzas",
+    "qs:photos":95,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":95,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165064,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":62784,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557838,
+        "gp:id":62784,
+        "qs:id":1165064
+    },
+    "wof:country":"CU",
+    "wof:created":1459009723,
+    "wof:geomhash":"322bd67a2cd0e26839b67d5591e74bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906273,
+            "locality_id":421192029,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":421192029,
+    "wof:lastmodified":1501267552,
+    "wof:name":"Guan\u00e1bana",
+    "wof:parent_id":1091906273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.51111,
+    22.98167,
+    -81.51111,
+    22.98167
+],
+  "geometry": {"coordinates":[-81.51111,22.98167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277076343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.83576,22.62476,-80.83576,22.62476",
+    "geom:latitude":22.62476,
+    "geom:longitude":-80.83576,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Girones",
+    "gn:country_code":"CU",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3558295,
+    "gn:latitude":22.62476,
+    "gn:longitude":-80.83576,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Girones",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jirones",
+        "Girones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091903495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3558295
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"65d2d596949f375a3ba68ce543621740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903495,
+            "locality_id":1277076343,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1277076343,
+    "wof:lastmodified":1537619036,
+    "wof:name":"Girones",
+    "wof:parent_id":1091903495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.83576,
+    22.62476,
+    -80.83576,
+    22.62476
+],
+  "geometry": {"coordinates":[-80.83575999999999,22.62476],"type":"Point"}
+}

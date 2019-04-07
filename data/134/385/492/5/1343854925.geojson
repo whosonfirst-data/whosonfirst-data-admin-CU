@@ -1,0 +1,67 @@
+{
+  "id": 1343854925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76667,22.38333,-80.76667,22.38333",
+    "geom:latitude":22.38333,
+    "geom:longitude":-80.76667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nuestra Senora de Belen",
+    "gn:country_code":"CU",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3545915,
+    "gn:latitude":22.38333,
+    "gn:longitude":-80.76667,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Nuestra Se\u00f1ora de Bel\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091902603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545915
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"943cf768f2e2980c96de54af50813dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902603,
+            "locality_id":1343854925,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1343854925,
+    "wof:lastmodified":1536674608,
+    "wof:name":"Nuestra Senora de Belen",
+    "wof:parent_id":1091902603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76666999999998,
+    22.38333,
+    -80.76666999999998,
+    22.38333
+],
+  "geometry": {"coordinates":[-80.76666999999998,22.38333],"type":"Point"}
+}

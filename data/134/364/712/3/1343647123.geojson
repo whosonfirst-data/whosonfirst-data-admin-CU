@@ -1,0 +1,67 @@
+{
+  "id": 1343647123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.2,22.13333,-80.2,22.13333",
+    "geom:latitude":22.13333,
+    "geom:longitude":-80.2,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"San Agustin",
+    "gn:country_code":"CU",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3541206,
+    "gn:latitude":22.13333,
+    "gn:longitude":-80.2,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"San Agust\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091904385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541206
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bd0acf8ed67d5cb2c8c78e0ffc4b9a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904385,
+            "locality_id":1343647123,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1343647123,
+    "wof:lastmodified":1536973863,
+    "wof:name":"San Agustin",
+    "wof:parent_id":1091904385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.2,
+    22.13333,
+    -80.2,
+    22.13333
+],
+  "geometry": {"coordinates":[-80.2,22.13333],"type":"Point"}
+}

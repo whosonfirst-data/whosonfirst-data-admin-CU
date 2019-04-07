@@ -1,0 +1,71 @@
+{
+  "id": 1326537431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.03305,22.88498,-81.03305,22.88498",
+    "geom:latitude":22.88498,
+    "geom:longitude":-81.03305,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Coloso",
+    "gn:country_code":"CU",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3563745,
+    "gn:latitude":22.88498,
+    "gn:longitude":-81.03305,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Coloso",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Coloso",
+        "Coloso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563745
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"43caeaf5ae91f85ff7f4caee8e9c5acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906933,
+            "locality_id":1326537431,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1326537431,
+    "wof:lastmodified":1537619079,
+    "wof:name":"Coloso",
+    "wof:parent_id":1091906933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.03305,
+    22.88498,
+    -81.03305,
+    22.88498
+],
+  "geometry": {"coordinates":[-81.03305,22.88498],"type":"Point"}
+}

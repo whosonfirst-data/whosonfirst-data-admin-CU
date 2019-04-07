@@ -1,0 +1,74 @@
+{
+  "id": 1226618627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.19835,22.83582,-80.19835,22.83582",
+    "geom:latitude":22.83582,
+    "geom:longitude":-80.19835,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Caguaguas de Sagua",
+    "gn:country_code":"CU",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3566384,
+    "gn:latitude":22.83582,
+    "gn:longitude":-80.19835,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Caguaguas de Sagua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caguaguas de Sagua"
+    ],
+    "name:und_x_variant":[
+        "Caguagua",
+        "Caguaguas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566384
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c9f4c2c864bd55b9bcc6a3e33863579f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907545,
+            "locality_id":1226618627,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1226618627,
+    "wof:lastmodified":1537619100,
+    "wof:name":"Caguaguas de Sagua",
+    "wof:parent_id":1091907545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.19835,
+    22.83582,
+    -80.19835,
+    22.83582
+],
+  "geometry": {"coordinates":[-80.19835,22.83582],"type":"Point"}
+}

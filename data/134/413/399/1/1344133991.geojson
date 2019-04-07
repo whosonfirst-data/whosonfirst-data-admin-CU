@@ -1,0 +1,75 @@
+{
+  "id": 1344133991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.13364,20.60009,-76.13364,20.60009",
+    "geom:latitude":20.60009,
+    "geom:longitude":-76.13364,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San German",
+    "gn:country_code":"CU",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3534749,
+    "gn:latitude":20.60009,
+    "gn:longitude":-76.13364,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"San Germ\u00e1n",
+    "gn:population":43892,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Germ\u00e1n",
+        "Urbano Noris"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091908561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534749,
+        "wk:page":"Urbano_Noris"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e3603c5cabc96aaef2431968745aa5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908561,
+            "locality_id":1344133991,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1344133991,
+    "wof:lastmodified":1537618886,
+    "wof:name":"San German",
+    "wof:parent_id":1091908561,
+    "wof:placetype":"locality",
+    "wof:population":43892,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.13364,
+    20.60009,
+    -76.13364,
+    20.60009
+],
+  "geometry": {"coordinates":[-76.13364,20.60009],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259365027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.77083,22.64797,-79.77083,22.64797",
+    "geom:latitude":22.64797,
+    "geom:longitude":-79.77083,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Navarro",
+    "gn:country_code":"CU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008447,
+    "gn:latitude":22.64797,
+    "gn:longitude":-79.77083,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Navarro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Navarro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008447
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"49e16e4175f358743a317c213f82fb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904483,
+            "locality_id":1259365027,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1259365027,
+    "wof:lastmodified":1537619170,
+    "wof:name":"Navarro",
+    "wof:parent_id":1091904483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.77083,
+    22.64797,
+    -79.77083,
+    22.64797
+],
+  "geometry": {"coordinates":[-79.77083,22.64797],"type":"Point"}
+}

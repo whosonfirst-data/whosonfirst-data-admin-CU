@@ -1,0 +1,67 @@
+{
+  "id": 1327455395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.51667,21.61667,-78.51667,21.61667",
+    "geom:latitude":21.61667,
+    "geom:longitude":-78.51667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Juan Diaz",
+    "gn:country_code":"CU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3555859,
+    "gn:latitude":21.61667,
+    "gn:longitude":-78.51667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Juan D\u00edaz",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091908603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555859
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3a26164f7e56bb6e89f20d3c750c9649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908603,
+            "locality_id":1327455395,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1327455395,
+    "wof:lastmodified":1536647251,
+    "wof:name":"Juan Diaz",
+    "wof:parent_id":1091908603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.51666999999998,
+    21.61667000000001,
+    -78.51666999999998,
+    21.61667000000001
+],
+  "geometry": {"coordinates":[-78.51666999999998,21.61667000000001],"type":"Point"}
+}

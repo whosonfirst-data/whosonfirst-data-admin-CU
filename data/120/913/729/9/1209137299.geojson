@@ -1,0 +1,64 @@
+{
+  "id": 1209137299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.73256,22.8962,-81.73256,22.8962",
+    "geom:latitude":22.8962,
+    "geom:longitude":-81.73256,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Venturilla",
+    "gn:country_code":"CU",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3534421,
+    "gn:latitude":22.8962,
+    "gn:longitude":-81.73256,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Venturilla",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Venturilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534421
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"95b66688391f227d48879a279c0e7e39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209137299
+        }
+    ],
+    "wof:id":1209137299,
+    "wof:lastmodified":1537618884,
+    "wof:name":"Venturilla",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.73255999999998,
+    22.8962,
+    -81.73255999999998,
+    22.8962
+],
+  "geometry": {"coordinates":[-81.73255999999998,22.8962],"type":"Point"}
+}

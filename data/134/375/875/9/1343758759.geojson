@@ -1,0 +1,70 @@
+{
+  "id": 1343758759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.28083,19.91598,-77.28083,19.91598",
+    "geom:latitude":19.91598,
+    "geom:longitude":-77.28083,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Corona",
+    "gn:country_code":"CU",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027109,
+    "gn:latitude":19.91598,
+    "gn:longitude":-77.28083,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Corona",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Corona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027109
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b743a3cbd284b352f233629827102b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906965,
+            "locality_id":1343758759,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1343758759,
+    "wof:lastmodified":1537619194,
+    "wof:name":"Corona",
+    "wof:parent_id":1091906965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.28083000000002,
+    19.91598,
+    -77.28083000000002,
+    19.91598
+],
+  "geometry": {"coordinates":[-77.28083000000002,19.91598],"type":"Point"}
+}

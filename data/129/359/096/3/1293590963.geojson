@@ -1,0 +1,70 @@
+{
+  "id": 1293590963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.42708,22.74616,-81.42708,22.74616",
+    "geom:latitude":22.74616,
+    "geom:longitude":-81.42708,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"CU",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3538411,
+    "gn:latitude":22.74616,
+    "gn:longitude":-81.42708,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Rafael"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538411
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d80f534660893a79d32c81f24014363d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906893,
+            "locality_id":1293590963,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1293590963,
+    "wof:lastmodified":1537618905,
+    "wof:name":"San Rafael",
+    "wof:parent_id":1091906893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.42708,
+    22.74616,
+    -81.42708,
+    22.74616
+],
+  "geometry": {"coordinates":[-81.42708,22.74616],"type":"Point"}
+}

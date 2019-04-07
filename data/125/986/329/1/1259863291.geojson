@@ -1,0 +1,70 @@
+{
+  "id": 1259863291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.84924,20.22165,-74.84924,20.22165",
+    "geom:latitude":20.22165,
+    "geom:longitude":-74.84924,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mameyal",
+    "gn:country_code":"CU",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3548256,
+    "gn:latitude":20.22165,
+    "gn:longitude":-74.84924,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Mameyal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mameya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091907633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548256
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b46d238491f402c00a56cdb089e0388f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907633,
+            "locality_id":1259863291,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1259863291,
+    "wof:lastmodified":1537618966,
+    "wof:name":"Mameyal",
+    "wof:parent_id":1091907633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.84924000000002,
+    20.22165,
+    -74.84924000000002,
+    20.22165
+],
+  "geometry": {"coordinates":[-74.84924000000002,20.22165],"type":"Point"}
+}

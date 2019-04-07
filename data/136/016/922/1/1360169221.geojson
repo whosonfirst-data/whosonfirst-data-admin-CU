@@ -1,0 +1,74 @@
+{
+  "id": 1360169221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.77216,20.45225,-76.77216,20.45225",
+    "geom:latitude":20.45225,
+    "geom:longitude":-76.77216,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Blaquizal",
+    "gn:country_code":"CU",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567210,
+    "gn:latitude":20.45225,
+    "gn:longitude":-76.77216,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Blaquizal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Blaquizal"
+    ],
+    "name:und_x_variant":[
+        "Blanquizar",
+        "Blanquizal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091907413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567210
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fc0769b6e367af7ef49b92cf1ce43d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907413,
+            "locality_id":1360169221,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1360169221,
+    "wof:lastmodified":1537619105,
+    "wof:name":"Blaquizal",
+    "wof:parent_id":1091907413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.77216,
+    20.45225,
+    -76.77216,
+    20.45225
+],
+  "geometry": {"coordinates":[-76.77216,20.45225],"type":"Point"}
+}

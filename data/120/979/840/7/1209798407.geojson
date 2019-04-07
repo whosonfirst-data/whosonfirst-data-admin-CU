@@ -1,0 +1,67 @@
+{
+  "id": 1209798407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.46335,20.41876,-75.46335,20.41876",
+    "geom:latitude":20.41876,
+    "geom:longitude":-75.46335,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Soledad",
+    "gn:country_code":"CU",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535844,
+    "gn:latitude":20.41876,
+    "gn:longitude":-75.46335,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Soledad",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535844
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fc58b5636f13c72af6698b2e889b43c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908213,
+            "locality_id":1209798407,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1209798407,
+    "wof:lastmodified":1536391835,
+    "wof:name":"Soledad",
+    "wof:parent_id":1091908213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.46335,
+    20.41876,
+    -75.46335,
+    20.41876
+],
+  "geometry": {"coordinates":[-75.46335000000001,20.41876],"type":"Point"}
+}

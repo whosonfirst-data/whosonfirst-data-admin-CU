@@ -1,0 +1,64 @@
+{
+  "id": 1209692377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.68524,20.95139,-76.68524,20.95139",
+    "geom:latitude":20.95139,
+    "geom:longitude":-76.68524,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Escondida",
+    "gn:country_code":"CU",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022837,
+    "gn:latitude":20.95139,
+    "gn:longitude":-76.68524,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Escondida",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Escondida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022837
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2d7748007bb53ede0d99f2c985009dfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209692377
+        }
+    ],
+    "wof:id":1209692377,
+    "wof:lastmodified":1537619187,
+    "wof:name":"La Escondida",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.68524000000002,
+    20.95139,
+    -76.68524000000002,
+    20.95139
+],
+  "geometry": {"coordinates":[-76.68524000000002,20.95139],"type":"Point"}
+}

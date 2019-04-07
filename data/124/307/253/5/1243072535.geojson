@@ -1,0 +1,74 @@
+{
+  "id": 1243072535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.82625,21.24224,-77.82625,21.24224",
+    "geom:latitude":21.24224,
+    "geom:longitude":-77.82625,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Jimaguayu",
+    "gn:country_code":"CU",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3754915,
+    "gn:latitude":21.24224,
+    "gn:longitude":-77.82625,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Jimaguay\u00fa",
+    "gn:population":21169,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jimaguay\u00fa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091905417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3754915,
+        "wk:page":"Jimaguay%C3%BA"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5c6f5ec5d6aa55cbd3b39e49b45625db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905417,
+            "locality_id":1243072535,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1243072535,
+    "wof:lastmodified":1537619137,
+    "wof:name":"Jimaguayu",
+    "wof:parent_id":1091905417,
+    "wof:placetype":"locality",
+    "wof:population":21169,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.82625,
+    21.24224,
+    -77.82625,
+    21.24224
+],
+  "geometry": {"coordinates":[-77.82625,21.24224],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310099887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.70069,20.14834,-76.70069,20.14834",
+    "geom:latitude":20.14834,
+    "geom:longitude":-76.70069,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"San Pablo de Yao Arriba",
+    "gn:country_code":"CU",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3538689,
+    "gn:latitude":20.14834,
+    "gn:longitude":-76.70069,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"San Pablo de Yao Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pablo de Yao",
+        "San Pablo de Yao Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538689
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"000b5e76f190170d3e57c2547d52fa52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903243,
+            "locality_id":1310099887,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1310099887,
+    "wof:lastmodified":1537618906,
+    "wof:name":"San Pablo de Yao Arriba",
+    "wof:parent_id":1091903243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.70069000000002,
+    20.14834,
+    -76.70069000000002,
+    20.14834
+],
+  "geometry": {"coordinates":[-76.70069000000002,20.14834],"type":"Point"}
+}

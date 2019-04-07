@@ -1,0 +1,67 @@
+{
+  "id": 1226828353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89778,20.84972,-76.89778,20.84972",
+    "geom:latitude":20.84972,
+    "geom:longitude":-76.89778,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Arenas",
+    "gn:country_code":"CU",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3551583,
+    "gn:latitude":20.84972,
+    "gn:longitude":-76.89778,
+    "gn:modification_date":"1996-03-20",
+    "gn:name":"Las Arenas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551583
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"eccbb0b950893a7f3f6b6f7d1bdb9932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905901,
+            "locality_id":1226828353,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1226828353,
+    "wof:lastmodified":1537090197,
+    "wof:name":"Las Arenas",
+    "wof:parent_id":1091905901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89778000000003,
+    20.84972,
+    -76.89778000000003,
+    20.84972
+],
+  "geometry": {"coordinates":[-76.89778000000003,20.84972],"type":"Point"}
+}

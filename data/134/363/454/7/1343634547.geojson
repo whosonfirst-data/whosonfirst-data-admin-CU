@@ -1,0 +1,71 @@
+{
+  "id": 1343634547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.50494,19.90061,-75.50494,19.90061",
+    "geom:latitude":19.90061,
+    "geom:longitude":-75.50494,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sigua",
+    "gn:country_code":"CU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3536207,
+    "gn:latitude":19.90061,
+    "gn:longitude":-75.50494,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Sigua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siguas",
+        "Sigua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536207
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fd6a60fbb9052dcc0146e46e879bb925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":1343634547,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1343634547,
+    "wof:lastmodified":1537618894,
+    "wof:name":"Sigua",
+    "wof:parent_id":1091908137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.50494,
+    19.90061,
+    -75.50494,
+    19.90061
+],
+  "geometry": {"coordinates":[-75.50494,19.90061],"type":"Point"}
+}

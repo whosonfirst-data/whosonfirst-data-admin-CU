@@ -1,0 +1,70 @@
+{
+  "id": 1210008405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.281,21.87509,-78.281,21.87509",
+    "geom:latitude":21.87509,
+    "geom:longitude":-78.281,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Sitios",
+    "gn:country_code":"CU",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3737910,
+    "gn:latitude":21.87509,
+    "gn:longitude":-78.281,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Los Sitios",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Sitios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091907167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3737910
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1fb3f6da4a628fc9a40b8a5d73258a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907167,
+            "locality_id":1210008405,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1210008405,
+    "wof:lastmodified":1537619124,
+    "wof:name":"Los Sitios",
+    "wof:parent_id":1091907167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.281,
+    21.87509,
+    -78.281,
+    21.87509
+],
+  "geometry": {"coordinates":[-78.28100000000001,21.87509],"type":"Point"}
+}

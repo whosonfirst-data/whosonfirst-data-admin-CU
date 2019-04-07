@@ -1,0 +1,73 @@
+{
+  "id": 1309900363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.02041,22.11542,-79.02041,22.11542",
+    "geom:latitude":22.11542,
+    "geom:longitude":-79.02041,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Caobal",
+    "gn:country_code":"CU",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3561410,
+    "gn:latitude":22.11542,
+    "gn:longitude":-79.02041,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Caobal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caobal"
+    ],
+    "name:und_x_variant":[
+        "El Coabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091904557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561410
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ac69a2ec7fea9a54a0342e06d0c4dfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904557,
+            "locality_id":1309900363,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1309900363,
+    "wof:lastmodified":1537619061,
+    "wof:name":"Caobal",
+    "wof:parent_id":1091904557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.02041,
+    22.11542,
+    -79.02041,
+    22.11542
+],
+  "geometry": {"coordinates":[-79.02041,22.11542],"type":"Point"}
+}

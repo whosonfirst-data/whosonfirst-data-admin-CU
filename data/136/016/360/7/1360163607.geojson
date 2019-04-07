@@ -1,0 +1,70 @@
+{
+  "id": 1360163607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.34545,21.85716,-79.34545,21.85716",
+    "geom:latitude":21.85716,
+    "geom:longitude":-79.34545,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yabunal",
+    "gn:country_code":"CU",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11009055,
+    "gn:latitude":21.85716,
+    "gn:longitude":-79.34545,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Yabunal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yabunal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091907919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11009055
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c287ce666cba88f02c1917f3345f50a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907919,
+            "locality_id":1360163607,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1360163607,
+    "wof:lastmodified":1537619174,
+    "wof:name":"Yabunal",
+    "wof:parent_id":1091907919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.34545,
+    21.85716,
+    -79.34545,
+    21.85716
+],
+  "geometry": {"coordinates":[-79.34545,21.85716],"type":"Point"}
+}

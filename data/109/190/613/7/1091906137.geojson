@@ -1,0 +1,89 @@
+{
+  "id": 1091906137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00208,
+    "geom:area_square_m":23667903.321098,
+    "geom:bbox":"-82.4480515839,23.0273828221,-82.3953099988,23.1032469932",
+    "geom:latitude":23.066511,
+    "geom:longitude":-82.423004,
+    "iso:country":"CU",
+    "lbl:latitude":23.072982,
+    "lbl:longitude":-82.420806,
+    "meso:admin_1":"Ciudad De La Habana",
+    "meso:diss_me":"MARIANAOMARIANAOCIUDAD DE LA HABANA",
+    "meso:gadm_admin":"Playa",
+    "meso:gadm_hasc2":"CU.CH.PL",
+    "meso:gaul_admin":"Marianao",
+    "meso:mps_x":-82.420806,
+    "meso:mps_y":23.072982,
+    "meso:name_loc":"Marianao",
+    "mps:latitude":23.072982,
+    "mps:longitude":-82.420806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Marianao"
+    ],
+    "name:eng_x_variant":[
+        "Marianao",
+        "Playa"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-09-15",
+    "statoids:area_km":"22",
+    "statoids:as_of_date":"2012-09-15",
+    "statoids:capital":"Marianao",
+    "statoids:country":"CU",
+    "statoids:hasc":"CU.CH",
+    "statoids:name":"Marianao",
+    "statoids:population":"134529",
+    "statoids:statoid":"CU.CH.MA",
+    "statoids:timezone":"-5~",
+    "statoids:type":"municipio",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"CU.CH.MA"
+    },
+    "wof:country":"CU",
+    "wof:created":1473892398,
+    "wof:geomhash":"5928bd37a39849e887be3f7ff298e516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906137,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1091906137,
+    "wof:lastmodified":1536614998,
+    "wof:name":"Marianao",
+    "wof:parent_id":85670445,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipio",
+    "wof:population":134529,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:shortcode":"MA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.44805158387773,
+    23.02738282213053,
+    -82.39530999878357,
+    23.10324699318118
+],
+  "geometry": {"coordinates":[[[-82.44219844117931,23.07228738094601],[-82.43995373041547,23.08290549246615],[-82.43870491986321,23.0835879966633],[-82.43472610648375,23.09310288895416],[-82.43147965220896,23.09539263230285],[-82.41729193676537,23.08865923012427],[-82.41119567664975,23.10125687001605],[-82.40543366975008,23.10324699318118],[-82.39893238897139,23.10087535962199],[-82.39530999878357,23.09340238780884],[-82.40560403792105,23.07995214098927],[-82.40468736570702,23.07853796717593],[-82.40532567317561,23.07003959441476],[-82.41147823683754,23.06168505759652],[-82.40145346495648,23.05128651945841],[-82.4027787773707,23.04979568793664],[-82.41357211178614,23.04104716655894],[-82.42104713194988,23.0462131611031],[-82.42687209059515,23.04439588259032],[-82.42937586816113,23.04113214450524],[-82.42910939563566,23.03306000239373],[-82.43501276468835,23.02738282213053],[-82.4417615716842,23.02927176351551],[-82.44430624868362,23.03432703889411],[-82.44805158387773,23.03728246996452],[-82.44768343074296,23.05321307888818],[-82.44477252358951,23.05324649023217],[-82.43716203886952,23.05536885072578],[-82.43401447335209,23.05879497266658],[-82.43418808521518,23.0682371697456],[-82.44219844117931,23.07228738094601]]],"type":"Polygon"}
+}

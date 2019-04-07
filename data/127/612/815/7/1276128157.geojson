@@ -1,0 +1,70 @@
+{
+  "id": 1276128157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.64535,22.65828,-83.64535,22.65828",
+    "geom:latitude":22.65828,
+    "geom:longitude":-83.64535,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Republica de Chile",
+    "gn:country_code":"CU",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10945302,
+    "gn:latitude":22.65828,
+    "gn:longitude":-83.64535,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Rep\u00fablica de Chile",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rep\u00fablica de Chile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091908691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945302
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cbb7d8f6d931ba11909ae076f17da2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908691,
+            "locality_id":1276128157,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1276128157,
+    "wof:lastmodified":1537619141,
+    "wof:name":"Republica de Chile",
+    "wof:parent_id":1091908691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.64535,
+    22.65828,
+    -83.64535,
+    22.65828
+],
+  "geometry": {"coordinates":[-83.64534999999999,22.65828],"type":"Point"}
+}

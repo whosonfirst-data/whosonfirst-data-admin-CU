@@ -1,0 +1,71 @@
+{
+  "id": 1276776197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.47351,23.04487,-82.47351,23.04487",
+    "geom:latitude":23.04487,
+    "geom:longitude":-82.47351,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Arroyo Arenas",
+    "gn:country_code":"CU",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3568432,
+    "gn:latitude":23.04487,
+    "gn:longitude":-82.47351,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Arroyo Arenas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampliaci\u00f3n de Arroyo",
+        "Arroyo Arenas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091905567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568432
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a4e46a3bfc2b5bece73ccc8bf2ddbb41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905567,
+            "locality_id":1276776197,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1276776197,
+    "wof:lastmodified":1537619115,
+    "wof:name":"Arroyo Arenas",
+    "wof:parent_id":1091905567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.47351,
+    23.04487,
+    -82.47351,
+    23.04487
+],
+  "geometry": {"coordinates":[-82.47351,23.04487],"type":"Point"}
+}

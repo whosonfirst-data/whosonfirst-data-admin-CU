@@ -1,0 +1,158 @@
+{
+  "id": 421180739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.92361,23.15389,-81.92361,23.15389",
+    "geom:latitude":23.15389,
+    "geom:longitude":-81.92361,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipio de Santa Cruz del Norte"
+    ],
+    "name:chi_x_preferred":[
+        "\u5317\u8056\u514b\u9b6f\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:epo_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d9\u10e0\u10e3\u10e1-\u10d3\u10d4\u10da-\u10dc\u10dd\u10e0\u10e2\u10d4"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:hat_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30af\u30eb\u30b9\u30fb\u30c7\u30eb\u30fb\u30ce\u30eb\u30c6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d9\u10e0\u10e3\u10e1-\u10d3\u10d4\u10da-\u10dc\u10dd\u10e0\u10e2\u10d4"
+    ],
+    "name:nds_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:por_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441-\u0434\u0435\u043b\u044c-\u041d\u043e\u0440\u0442\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0437-\u0434\u0435\u043b\u044c-\u041d\u043e\u0440\u0442\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u8056\u514b\u9b6f\u65af"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3537845,
+    "qs:gn_pop":18402,
+    "qs:name":"Santa Cruz del Norte",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"La Habana",
+    "qs:photos":182,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":182,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1214262,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":67751,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":23.155556,
+    "wd:longitude":-81.926667,
+    "wd:wordcount":283,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091908039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3537845,
+        "gp:id":67751,
+        "qs:id":1214262,
+        "wd:id":"Q270302"
+    },
+    "wof:country":"CU",
+    "wof:created":1459009269,
+    "wof:geomhash":"e1fe5975236245386a03ecfcaf586b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908039,
+            "locality_id":421180739,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":421180739,
+    "wof:lastmodified":1527716233,
+    "wof:name":"Santa Cruz del Norte",
+    "wof:parent_id":1091908039,
+    "wof:placetype":"locality",
+    "wof:population":18402,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.92361,
+    23.15389,
+    -81.92361,
+    23.15389
+],
+  "geometry": {"coordinates":[-81.92361,23.15389],"type":"Point"}
+}

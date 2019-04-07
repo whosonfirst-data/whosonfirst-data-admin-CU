@@ -1,0 +1,70 @@
+{
+  "id": 1293363555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.14513,20.05449,-76.14513,20.05449",
+    "geom:latitude":20.05449,
+    "geom:longitude":-76.14513,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Cubana",
+    "gn:country_code":"CU",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3554420,
+    "gn:latitude":20.05449,
+    "gn:longitude":-76.14513,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Cubana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cubana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091906823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554420
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cb71262822c7d59cad5617e1ceb61568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906823,
+            "locality_id":1293363555,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1293363555,
+    "wof:lastmodified":1537619010,
+    "wof:name":"La Cubana",
+    "wof:parent_id":1091906823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.14513000000002,
+    20.05449,
+    -76.14513000000002,
+    20.05449
+],
+  "geometry": {"coordinates":[-76.14513000000002,20.05449],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209707241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.27459,21.96109,-78.27459,21.96109",
+    "geom:latitude":21.96109,
+    "geom:longitude":-78.27459,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Miraflores Nuevo",
+    "gn:country_code":"CU",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11009850,
+    "gn:latitude":21.96109,
+    "gn:longitude":-78.27459,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Miraflores Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Miraflores Nuevo"
+    ],
+    "name:spa_x_variant":[
+        "Miraflores",
+        "Miraflores Nueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091903181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11009850
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7113e48cbf072f1ab549e693f1b8bcc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903181,
+            "locality_id":1209707241,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1209707241,
+    "wof:lastmodified":1537619180,
+    "wof:name":"Miraflores Nuevo",
+    "wof:parent_id":1091903181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.27459,
+    21.96109,
+    -78.27459,
+    21.96109
+],
+  "geometry": {"coordinates":[-78.27459,21.96109],"type":"Point"}
+}

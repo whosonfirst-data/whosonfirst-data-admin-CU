@@ -1,0 +1,70 @@
+{
+  "id": 1293271459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.38787,21.22811,-76.38787,21.22811",
+    "geom:latitude":21.22811,
+    "geom:longitude":-76.38787,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pena Cinco",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11059261,
+    "gn:latitude":21.22811,
+    "gn:longitude":-76.38787,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Pe\u00f1a Cinco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pe\u00f1a Cinco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11059261
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"16707cc53249a410c262314a2d16ba5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1293271459,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1293271459,
+    "wof:lastmodified":1537619207,
+    "wof:name":"Pena Cinco",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.38786999999998,
+    21.22811,
+    -76.38786999999998,
+    21.22811
+],
+  "geometry": {"coordinates":[-76.38786999999998,21.22811],"type":"Point"}
+}

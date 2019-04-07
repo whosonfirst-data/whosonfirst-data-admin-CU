@@ -1,0 +1,64 @@
+{
+  "id": 1209111001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.88053,20.98223,-77.88053,20.98223",
+    "geom:latitude":20.98223,
+    "geom:longitude":-77.88053,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Paz",
+    "gn:country_code":"CU",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3552179,
+    "gn:latitude":20.98223,
+    "gn:longitude":-77.88053,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"La Paz",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Paz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552179
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"59588e2292a2c56b45571e2bf2b813d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209111001
+        }
+    ],
+    "wof:id":1209111001,
+    "wof:lastmodified":1537618995,
+    "wof:name":"La Paz",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.88053000000002,
+    20.98223,
+    -77.88053000000002,
+    20.98223
+],
+  "geometry": {"coordinates":[-77.88053000000002,20.98223],"type":"Point"}
+}

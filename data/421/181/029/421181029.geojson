@@ -1,0 +1,101 @@
+{
+  "id": 421181029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.4,23.11667,-82.4,23.11667",
+    "geom:latitude":23.11667,
+    "geom:longitude":-82.4,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Plaza de la Revoluci\u00f3n"
+    ],
+    "name:epo_x_preferred":[
+        "Placo de la Revolucio"
+    ],
+    "name:fra_x_preferred":[
+        "Plaza de la Revoluci\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Plaza de la Revoluci\u00f3n"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10da\u10d0\u10e1\u10d0-\u10d3\u10d4-\u10da\u10d0-\u10e0\u10d4\u10d5\u10dd\u10da\u10e3\u10e1\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u0420\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Plaza de la Revoluci\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u9769\u547d\u5e7f\u573a"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3830496,
+    "qs:gn_pop":0,
+    "qs:name":"Nuevo Vedado",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:photos":182,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":182,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":474604,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":60147,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091907125,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830496,
+        "gp:id":60147,
+        "qs:id":474604
+    },
+    "wof:country":"CU",
+    "wof:created":1459009282,
+    "wof:geomhash":"0ffb5cbff0ec2cf0e56421d7a1f74bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907125,
+            "locality_id":-1,
+            "neighbourhood_id":421181029,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":421181029,
+    "wof:lastmodified":1531858458,
+    "wof:name":"Nuevo Vedado",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.4,
+    23.11667,
+    -82.4,
+    23.11667
+],
+  "geometry": {"coordinates":[-82.40000000000001,23.11667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343242463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.14962,20.70024,-76.14962,20.70024",
+    "geom:latitude":20.70024,
+    "geom:longitude":-76.14962,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Guasimita Dos",
+    "gn:country_code":"CU",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557573,
+    "gn:latitude":20.70024,
+    "gn:longitude":-76.14962,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Guasimita Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guasimita Dos"
+    ],
+    "name:und_x_variant":[
+        "Guasimita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557573
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bdfec2ad86d856c09221dd98170c35cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902841,
+            "locality_id":1343242463,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1343242463,
+    "wof:lastmodified":1537619031,
+    "wof:name":"Guasimita Dos",
+    "wof:parent_id":1091902841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.14962,
+    20.70024,
+    -76.14962,
+    20.70024
+],
+  "geometry": {"coordinates":[-76.14962,20.70024],"type":"Point"}
+}

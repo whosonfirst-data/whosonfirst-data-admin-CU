@@ -1,0 +1,98 @@
+{
+  "id": 421193775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.44139,23.05472,-82.44139,23.05472",
+    "geom:latitude":23.05472,
+    "geom:longitude":-82.44139,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Ant\u00f3nio Sampaio da N\u00f3voa"
+    ],
+    "name:pol_x_preferred":[
+        "Ant\u00f3nio Sampaio da N\u00f3voa"
+    ],
+    "name:por_x_preferred":[
+        "Ant\u00f3nio Sampaio da N\u00f3voa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u043f\u0430\u0439\u043e \u0434\u0430 \u041d\u043e\u0432\u043e\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Ant\u00f3nio Sampaio da N\u00f3voa"
+    ],
+    "name:swe_x_preferred":[
+        "Ant\u00f3nio Sampaio da N\u00f3voa"
+    ],
+    "name:unk_x_variant":[
+        "Reparto Santa Elena"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3545918,
+    "qs:gn_pop":0,
+    "qs:name":"Novoa",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1189326,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":65707,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091905567,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545918,
+        "gp:id":65707,
+        "qs:id":1189326
+    },
+    "wof:country":"CU",
+    "wof:created":1459009782,
+    "wof:geomhash":"27ccbdb4f1ba81de7585501da70cb5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905567,
+            "locality_id":-1,
+            "neighbourhood_id":421193775,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":421193775,
+    "wof:lastmodified":1531858719,
+    "wof:name":"Novoa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.44139,
+    23.05472,
+    -82.44139,
+    23.05472
+],
+  "geometry": {"coordinates":[-82.44139,23.05472],"type":"Point"}
+}

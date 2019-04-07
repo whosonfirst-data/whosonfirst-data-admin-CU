@@ -1,0 +1,67 @@
+{
+  "id": 1343994745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.25583,22.92444,-83.25583,22.92444",
+    "geom:latitude":22.92444,
+    "geom:longitude":-83.25583,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Los Nunez",
+    "gn:country_code":"CU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3549001,
+    "gn:latitude":22.92444,
+    "gn:longitude":-83.25583,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"Los N\u00fa\u00f1ez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091902873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549001
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d2277836bc3e8c123a21ddb92b30025a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902873,
+            "locality_id":1343994745,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1343994745,
+    "wof:lastmodified":1536970047,
+    "wof:name":"Los Nunez",
+    "wof:parent_id":1091902873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.25583,
+    22.92444,
+    -83.25583,
+    22.92444
+],
+  "geometry": {"coordinates":[-83.25583,22.92444],"type":"Point"}
+}

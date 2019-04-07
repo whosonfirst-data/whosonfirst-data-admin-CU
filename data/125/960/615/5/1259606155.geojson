@@ -1,0 +1,70 @@
+{
+  "id": 1259606155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.55158,21.01309,-77.55158,21.01309",
+    "geom:latitude":21.01309,
+    "geom:longitude":-77.55158,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Miel",
+    "gn:country_code":"CU",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11037820,
+    "gn:latitude":21.01309,
+    "gn:longitude":-77.55158,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Miel",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Miel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11037820
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"93ef5b363d530c173ef021346e7d9282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904725,
+            "locality_id":1259606155,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1259606155,
+    "wof:lastmodified":1537619201,
+    "wof:name":"Miel",
+    "wof:parent_id":1091904725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.55158,
+    21.01309,
+    -77.55158,
+    21.01309
+],
+  "geometry": {"coordinates":[-77.55158,21.01309],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209900595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.95962,20.29905,-76.95962,20.29905",
+    "geom:latitude":20.29905,
+    "geom:longitude":-76.95962,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Guativere",
+    "gn:country_code":"CU",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3557554,
+    "gn:latitude":20.29905,
+    "gn:longitude":-76.95962,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Guativere",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guativere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091908741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557554
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7b47b54cffd0057ea3abb8e501ef4f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908741,
+            "locality_id":1209900595,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1209900595,
+    "wof:lastmodified":1537619031,
+    "wof:name":"Guativere",
+    "wof:parent_id":1091908741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95962,
+    20.29905,
+    -76.95962,
+    20.29905
+],
+  "geometry": {"coordinates":[-76.95962,20.29905],"type":"Point"}
+}

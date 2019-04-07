@@ -1,0 +1,73 @@
+{
+  "id": 1226727013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.70785,20.99468,-75.70785,20.99468",
+    "geom:latitude":20.99468,
+    "geom:longitude":-75.70785,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Alto",
+    "gn:country_code":"CU",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3561926,
+    "gn:latitude":20.99468,
+    "gn:longitude":-75.70785,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"El Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Alto"
+    ],
+    "name:und_x_variant":[
+        "El Aito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561926
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"dc1884c1c586d497bde7e9a9179d53e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1226727013,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1226727013,
+    "wof:lastmodified":1537619066,
+    "wof:name":"El Alto",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.70785,
+    20.99468,
+    -75.70785,
+    20.99468
+],
+  "geometry": {"coordinates":[-75.70784999999999,20.99468],"type":"Point"}
+}

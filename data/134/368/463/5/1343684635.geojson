@@ -1,0 +1,70 @@
+{
+  "id": 1343684635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.69745,21.45655,-77.69745,21.45655",
+    "geom:latitude":21.45655,
+    "geom:longitude":-77.69745,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Antonio Suarez Dominguez",
+    "gn:country_code":"CU",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11033470,
+    "gn:latitude":21.45655,
+    "gn:longitude":-77.69745,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Antonio Su\u00e1rez Dominguez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Antonio Su\u00e1rez Dominguez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091906457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11033470
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b9b7f0eac3cc8b2670cf1ca187f869da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906457,
+            "locality_id":1343684635,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1343684635,
+    "wof:lastmodified":1537619198,
+    "wof:name":"Antonio Suarez Dominguez",
+    "wof:parent_id":1091906457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.69745,
+    21.45655,
+    -77.69745,
+    21.45655
+],
+  "geometry": {"coordinates":[-77.69745,21.45655],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 890429557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.0875,22.2025,-84.0875,22.2025",
+    "geom:latitude":22.2025,
+    "geom:longitude":-84.0875,
+    "gn:country":"CU",
+    "gn:fcode":"PPL",
+    "gn:pop":16548,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u74dc\u5167"
+    ],
+    "name:dut_x_preferred":[
+        "Guane"
+    ],
+    "name:eng_x_preferred":[
+        "Guane"
+    ],
+    "name:fre_x_preferred":[
+        "Guane"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10dc\u10d4"
+    ],
+    "name:ger_x_preferred":[
+        "Guane"
+    ],
+    "name:hat_x_preferred":[
+        "Guane"
+    ],
+    "name:ita_x_preferred":[
+        "Guane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30cd"
+    ],
+    "name:por_x_preferred":[
+        "Guane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Guane"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Guane"
+    ],
+    "name:vie_x_preferred":[
+        "Guane"
+    ],
+    "qs:name":"Guane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":260,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091904873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557758,
+        "gp:id":62803,
+        "qs:id":148937,
+        "wd:id":"Q535537",
+        "wk:page":"Guane"
+    },
+    "wof:country":"CU",
+    "wof:created":1469051820,
+    "wof:geomhash":"ce7e1fe409c89a9c6e845b29666ce282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904873,
+            "locality_id":890429557,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":890429557,
+    "wof:lastmodified":1527792787,
+    "wof:name":"Guane",
+    "wof:parent_id":1091904873,
+    "wof:placetype":"locality",
+    "wof:population":16548,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.0875,
+    22.2025,
+    -84.0875,
+    22.2025
+],
+  "geometry": {"coordinates":[-84.08750000000001,22.2025],"type":"Point"}
+}

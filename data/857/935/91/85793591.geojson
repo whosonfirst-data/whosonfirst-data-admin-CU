@@ -1,0 +1,169 @@
+{
+  "id": 85793591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17453290.214608,
+    "geom:bbox":"-82.316936,23.15952,-82.316936,23.15952",
+    "geom:latitude":23.15952,
+    "geom:longitude":-82.316936,
+    "gn:gn_country":"CU",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":178041,
+    "gn:latitude":23.15917,
+    "gn:longitude":-82.33056,
+    "gn:population":178041,
+    "iso:country":"CU",
+    "lbl:latitude":23.15952,
+    "lbl:longitude":-82.316936,
+    "mps:latitude":23.160641,
+    "mps:longitude":-82.316556,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Habana del Este"
+    ],
+    "name:deu_x_preferred":[
+        "Habana del Este"
+    ],
+    "name:epo_x_preferred":[
+        "Orienta Havano"
+    ],
+    "name:fra_x_preferred":[
+        "La Habana del Este"
+    ],
+    "name:ita_x_preferred":[
+        "Habana del Este"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10d1\u10d0\u10dc\u10d0-\u10d3\u10d4\u10da-\u10d4\u10e1\u10e2\u10d4"
+    ],
+    "name:spa_x_preferred":[
+        "Habana del Este"
+    ],
+    "name:spa_x_variant":[
+        "La Habana del Este"
+    ],
+    "name:swe_x_preferred":[
+        "Habana del Este"
+    ],
+    "name:unk_x_variant":[
+        "La Habana del Este",
+        "Habana del Este"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u0628\u0627\u0646\u0627 \u0688\u06cc\u0644 \u0627\u06cc\u0633\u062a\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u54c8\u74e6\u90a3"
+    ],
+    "qs:gn_adm0_cc":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3553478,
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Habana del Este",
+    "qs:local_max":6362,
+    "qs:local_sum":28186,
+    "qs:localhoods":23,
+    "qs:name":"Habana del Este",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:name_local":"La Habana",
+    "qs:photo_max":54,
+    "qs:photo_sum":218,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424793,
+    "qs:woe_adm1":2345107,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":63817,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"CU",
+    "qs_pg:gn_country":"CU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3746181,
+    "qs_pg:gn_pop":178041,
+    "qs_pg:name":"Habana del Este",
+    "qs_pg:name_adm0":"Cuba",
+    "qs_pg:name_adm1":"Ciudad de la Habana",
+    "qs_pg:photos":160,
+    "qs_pg:photos_1k":32,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":160,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":232923,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424793,
+    "qs_pg:woe_id":62910,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wd:wordcount":210,
+    "wof:belongsto":[
+        85670445,
+        102191575,
+        85632675,
+        1091905073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746181,
+        "gp:id":62910,
+        "qs:id":232923,
+        "qs_pg:id":232923,
+        "wd:id":"Q1566695",
+        "wk:page":"Habana del Este"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4385fa6b14e2359421d435e94f062a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905073,
+            "locality_id":-1,
+            "neighbourhood_id":85793591,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":85793591,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379264,
+    "wof:name":"Habana del Este",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":178041,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126098003
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.316936,
+    23.15952,
+    -82.316936,
+    23.15952
+],
+  "geometry": {"coordinates":[-82.316936,23.15952],"type":"Point"}
+}

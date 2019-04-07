@@ -1,0 +1,67 @@
+{
+  "id": 1209586553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.86667,21.84111,-79.86667,21.84111",
+    "geom:latitude":21.84111,
+    "geom:longitude":-79.86667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Manaca Iznaga",
+    "gn:country_code":"CU",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3556564,
+    "gn:latitude":21.84111,
+    "gn:longitude":-79.86667,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Manaca Iznaga",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Iznaga"
+    ],
+    "name:spa_x_variant":[
+        "Manaca Iznaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556564
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"407df3a9afa2c329457be7310f2ee057",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209586553
+        }
+    ],
+    "wof:id":1209586553,
+    "wof:lastmodified":1537619024,
+    "wof:name":"Manaca Iznaga",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.86667,
+    21.84111,
+    -79.86667,
+    21.84111
+],
+  "geometry": {"coordinates":[-79.86667,21.84111],"type":"Point"}
+}

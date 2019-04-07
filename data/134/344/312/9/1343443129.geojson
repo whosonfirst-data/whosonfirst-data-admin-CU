@@ -1,0 +1,70 @@
+{
+  "id": 1343443129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.4114,22.7612,-80.4114,22.7612",
+    "geom:latitude":22.7612,
+    "geom:longitude":-80.4114,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Casa de Tabla",
+    "gn:country_code":"CU",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565127,
+    "gn:latitude":22.7612,
+    "gn:longitude":-80.4114,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Casa de Tabla",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Casa de Tabla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565127
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"710a75066faaef9106347fc9a34d651b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904251,
+            "locality_id":1343443129,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1343443129,
+    "wof:lastmodified":1537619089,
+    "wof:name":"Casa de Tabla",
+    "wof:parent_id":1091904251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.4114,
+    22.7612,
+    -80.4114,
+    22.7612
+],
+  "geometry": {"coordinates":[-80.4114,22.7612],"type":"Point"}
+}

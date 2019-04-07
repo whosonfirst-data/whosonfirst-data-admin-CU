@@ -1,0 +1,70 @@
+{
+  "id": 1226249995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.03755,22.73227,-81.03755,22.73227",
+    "geom:latitude":22.73227,
+    "geom:longitude":-81.03755,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mostacilla",
+    "gn:country_code":"CU",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3546405,
+    "gn:latitude":22.73227,
+    "gn:longitude":-81.03755,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Mostacilla",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mostacilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546405
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0c88fe3bad54253315f256c663d6181f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906933,
+            "locality_id":1226249995,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1226249995,
+    "wof:lastmodified":1537618954,
+    "wof:name":"Mostacilla",
+    "wof:parent_id":1091906933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.03755,
+    22.73227,
+    -81.03755,
+    22.73227
+],
+  "geometry": {"coordinates":[-81.03755,22.73227],"type":"Point"}
+}

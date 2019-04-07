@@ -1,0 +1,70 @@
+{
+  "id": 1293753311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95247,22.13597,-79.95247,22.13597",
+    "geom:latitude":22.13597,
+    "geom:longitude":-79.95247,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Julio Pino Machado",
+    "gn:country_code":"CU",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007940,
+    "gn:latitude":22.13597,
+    "gn:longitude":-79.95247,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Julio Pino Machado",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Julio Pino Machado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007940
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a64dc28257b95c71f6ba578cd4c547f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1293753311,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1293753311,
+    "wof:lastmodified":1537619168,
+    "wof:name":"Julio Pino Machado",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95246999999998,
+    22.13597,
+    -79.95246999999998,
+    22.13597
+],
+  "geometry": {"coordinates":[-79.95246999999998,22.13597],"type":"Point"}
+}

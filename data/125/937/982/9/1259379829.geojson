@@ -1,0 +1,70 @@
+{
+  "id": 1259379829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.30083,21.83944,-78.30083,21.83944",
+    "geom:latitude":21.83944,
+    "geom:longitude":-78.30083,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Gloria",
+    "gn:country_code":"CU",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3553751,
+    "gn:latitude":21.83944,
+    "gn:longitude":-78.30083,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Gloria",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Gloria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091907167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553751
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bd4334a6e6491bacbfc6a5ab6155e781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907167,
+            "locality_id":1259379829,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1259379829,
+    "wof:lastmodified":1537619005,
+    "wof:name":"La Gloria",
+    "wof:parent_id":1091907167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.30083,
+    21.83944,
+    -78.30083,
+    21.83944
+],
+  "geometry": {"coordinates":[-78.30083,21.83944],"type":"Point"}
+}

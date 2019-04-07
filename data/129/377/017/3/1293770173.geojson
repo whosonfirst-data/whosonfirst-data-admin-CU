@@ -1,0 +1,70 @@
+{
+  "id": 1293770173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.19216,20.94751,-77.19216,20.94751",
+    "geom:latitude":20.94751,
+    "geom:longitude":-77.19216,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Reparacion Bracito",
+    "gn:country_code":"CU",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11021025,
+    "gn:latitude":20.94751,
+    "gn:longitude":-77.19216,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Reparaci\u00f3n Bracito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Reparaci\u00f3n Bracito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11021025
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d43e8dd204b7a7ff9cdd0e0237d1c191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905447,
+            "locality_id":1293770173,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1293770173,
+    "wof:lastmodified":1537619186,
+    "wof:name":"Reparacion Bracito",
+    "wof:parent_id":1091905447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.19216,
+    20.94751,
+    -77.19216,
+    20.94751
+],
+  "geometry": {"coordinates":[-77.19216,20.94751],"type":"Point"}
+}

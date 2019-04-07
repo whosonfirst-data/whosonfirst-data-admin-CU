@@ -1,0 +1,70 @@
+{
+  "id": 1226081423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.76051,22.84404,-82.76051,22.84404",
+    "geom:latitude":22.84404,
+    "geom:longitude":-82.76051,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Eduardo Garcia Lavandero",
+    "gn:country_code":"CU",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746799,
+    "gn:latitude":22.84404,
+    "gn:longitude":-82.76051,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Eduardo Garc\u00eda Lavandero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Eduardo Garc\u00eda Lavandero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091902795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746799
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3d81ff41495c1a7345a3a6f9053f91b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902795,
+            "locality_id":1226081423,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1226081423,
+    "wof:lastmodified":1537619134,
+    "wof:name":"Eduardo Garcia Lavandero",
+    "wof:parent_id":1091902795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.76051,
+    22.84404,
+    -82.76051,
+    22.84404
+],
+  "geometry": {"coordinates":[-82.76051,22.84404],"type":"Point"}
+}

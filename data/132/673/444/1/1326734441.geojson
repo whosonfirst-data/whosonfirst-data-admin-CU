@@ -1,0 +1,70 @@
+{
+  "id": 1326734441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.72518,21.92004,-84.72518,21.92004",
+    "geom:latitude":21.92004,
+    "geom:longitude":-84.72518,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Palma Sola",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3740434,
+    "gn:latitude":21.92004,
+    "gn:longitude":-84.72518,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Palma Sola",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palma Sola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740434
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"71850a14c9c5a1f8a9112ff41789a2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907969,
+            "locality_id":1326734441,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1326734441,
+    "wof:lastmodified":1537619128,
+    "wof:name":"Palma Sola",
+    "wof:parent_id":1091907969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.72518000000002,
+    21.92004,
+    -84.72518000000002,
+    21.92004
+],
+  "geometry": {"coordinates":[-84.72518000000002,21.92004],"type":"Point"}
+}

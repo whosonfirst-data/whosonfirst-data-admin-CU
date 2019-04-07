@@ -1,0 +1,73 @@
+{
+  "id": 1276331131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.30308,22.03239,-78.30308,22.03239",
+    "geom:latitude":22.03239,
+    "geom:longitude":-78.30308,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Betancourt Uno",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3567359,
+    "gn:latitude":22.03239,
+    "gn:longitude":-78.30308,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Betancourt Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Betancourt Uno"
+    ],
+    "name:und_x_variant":[
+        "Betancourt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091903181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567359
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"93bdefd8c044e8855f62fbaacb393818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903181,
+            "locality_id":1276331131,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1276331131,
+    "wof:lastmodified":1537619107,
+    "wof:name":"Betancourt Uno",
+    "wof:parent_id":1091903181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.30308000000002,
+    22.03239,
+    -78.30308000000002,
+    22.03239
+],
+  "geometry": {"coordinates":[-78.30308000000002,22.03239],"type":"Point"}
+}

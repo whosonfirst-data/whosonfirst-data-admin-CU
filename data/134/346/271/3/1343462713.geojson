@@ -1,0 +1,67 @@
+{
+  "id": 1343462713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.68111,22.68889,-83.68111,22.68889",
+    "geom:latitude":22.68889,
+    "geom:longitude":-83.68111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Encinal Alto",
+    "gn:country_code":"CU",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559420,
+    "gn:latitude":22.68889,
+    "gn:longitude":-83.68111,
+    "gn:modification_date":"1996-03-20",
+    "gn:name":"Encinal Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091908691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559420
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8c1b22ca47c380487e89a797e8e3b07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908691,
+            "locality_id":1343462713,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1343462713,
+    "wof:lastmodified":1536742611,
+    "wof:name":"Encinal Alto",
+    "wof:parent_id":1091908691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.68111,
+    22.68889,
+    -83.68111,
+    22.68889
+],
+  "geometry": {"coordinates":[-83.68111,22.68889],"type":"Point"}
+}

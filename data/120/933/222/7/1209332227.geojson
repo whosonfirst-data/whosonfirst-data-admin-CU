@@ -1,0 +1,65 @@
+{
+  "id": 1209332227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.6373,22.78335,-83.6373,22.78335",
+    "geom:latitude":22.78335,
+    "geom:longitude":-83.6373,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Verracos",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3534377,
+    "gn:latitude":22.78335,
+    "gn:longitude":-83.6373,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Verracos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berracos",
+        "Verracos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534377
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8749b23e999ef950873bca2b26cdb7ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209332227
+        }
+    ],
+    "wof:id":1209332227,
+    "wof:lastmodified":1537618883,
+    "wof:name":"Verracos",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.6373,
+    22.78335,
+    -83.6373,
+    22.78335
+],
+  "geometry": {"coordinates":[-83.6373,22.78335],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360268171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78811,20.14804,-75.78811,20.14804",
+    "geom:latitude":20.14804,
+    "geom:longitude":-75.78811,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Arroyo de Agua",
+    "gn:country_code":"CU",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3568438,
+    "gn:latitude":20.14804,
+    "gn:longitude":-75.78811,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Arroyo de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arroyo Agua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568438
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"572e8a01d16b545a094c62aa0a04f9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907795,
+            "locality_id":1360268171,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1360268171,
+    "wof:lastmodified":1537619115,
+    "wof:name":"Arroyo de Agua",
+    "wof:parent_id":1091907795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78811,
+    20.14804,
+    -75.78811,
+    20.14804
+],
+  "geometry": {"coordinates":[-75.78811,20.14804],"type":"Point"}
+}

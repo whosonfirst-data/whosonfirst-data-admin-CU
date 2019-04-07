@@ -1,0 +1,70 @@
+{
+  "id": 1344228009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.0288,21.767,-80.0288,21.767",
+    "geom:latitude":21.767,
+    "geom:longitude":-80.0288,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Curva de Alfredo",
+    "gn:country_code":"CU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10951568,
+    "gn:latitude":21.767,
+    "gn:longitude":-80.0288,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"La Curva de Alfredo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Curva de Alfredo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951568
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7ac80dd68ed98bfe5ddb52063369fda1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908473,
+            "locality_id":1344228009,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1344228009,
+    "wof:lastmodified":1537619151,
+    "wof:name":"La Curva de Alfredo",
+    "wof:parent_id":1091908473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0288,
+    21.767,
+    -80.0288,
+    21.767
+],
+  "geometry": {"coordinates":[-80.0288,21.767],"type":"Point"}
+}

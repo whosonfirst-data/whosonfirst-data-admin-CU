@@ -1,0 +1,66 @@
+{
+  "id": 1209626951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.67611,22.94528,-81.67611,22.94528",
+    "geom:latitude":22.94528,
+    "geom:longitude":-81.67611,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Paloma",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3552277,
+    "gn:latitude":22.94528,
+    "gn:longitude":-81.67611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Paloma",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sitio Paloma",
+        "La Paloma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552277
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8a5eb068ecd789fc9dd61a8216ef805a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209626951
+        }
+    ],
+    "wof:id":1209626951,
+    "wof:lastmodified":1537618996,
+    "wof:name":"La Paloma",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.67611,
+    22.94528,
+    -81.67611,
+    22.94528
+],
+  "geometry": {"coordinates":[-81.67610999999999,22.94528],"type":"Point"}
+}

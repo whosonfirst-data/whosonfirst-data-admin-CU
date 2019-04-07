@@ -1,0 +1,73 @@
+{
+  "id": 1344127775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.14998,21.97087,-79.14998,21.97087",
+    "geom:latitude":21.97087,
+    "geom:longitude":-79.14998,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Rolletico",
+    "gn:country_code":"CU",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3541945,
+    "gn:latitude":21.97087,
+    "gn:longitude":-79.14998,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Rolletico",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rollete"
+    ],
+    "name:spa_x_variant":[
+        "Rolletico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541945
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9eb546ed879430a8ea68da2bb0fdb3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905283,
+            "locality_id":1344127775,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1344127775,
+    "wof:lastmodified":1537618924,
+    "wof:name":"Rolletico",
+    "wof:parent_id":1091905283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.14998,
+    21.97087,
+    -79.14998,
+    21.97087
+],
+  "geometry": {"coordinates":[-79.14998,21.97087],"type":"Point"}
+}

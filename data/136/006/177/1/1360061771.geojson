@@ -1,0 +1,73 @@
+{
+  "id": 1360061771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.78159,20.84567,-76.78159,20.84567",
+    "geom:latitude":20.84567,
+    "geom:longitude":-76.78159,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Tablon",
+    "gn:country_code":"CU",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535612,
+    "gn:latitude":20.84567,
+    "gn:longitude":-76.78159,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"El Tablon",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Tablon"
+    ],
+    "name:und_x_variant":[
+        "Tabl\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535612
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"934a5c28041229baabe93b4ad99e6c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905901,
+            "locality_id":1360061771,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1360061771,
+    "wof:lastmodified":1537618891,
+    "wof:name":"El Tablon",
+    "wof:parent_id":1091905901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.78159000000002,
+    20.84567,
+    -76.78159000000002,
+    20.84567
+],
+  "geometry": {"coordinates":[-76.78159000000002,20.84567],"type":"Point"}
+}

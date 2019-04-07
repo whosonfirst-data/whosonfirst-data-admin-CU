@@ -1,0 +1,75 @@
+{
+  "id": 1292983115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.01185,22.93924,-80.01185,22.93924",
+    "geom:latitude":22.93924,
+    "geom:longitude":-80.01185,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Isabela de Sagua",
+    "gn:country_code":"CU",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3556629,
+    "gn:latitude":22.93924,
+    "gn:longitude":-80.01185,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"Isabela de Sagua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto General Peraza",
+        "General Peraza",
+        "Ysabela",
+        "Esabella",
+        "Isabela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556629,
+        "wk:page":"Isabela_de_Sagua"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b90b594e9e927fae9b7d008e09c7251f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907545,
+            "locality_id":1292983115,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1292983115,
+    "wof:lastmodified":1537619025,
+    "wof:name":"Isabela de Sagua",
+    "wof:parent_id":1091907545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.01185,
+    22.93924,
+    -80.01185,
+    22.93924
+],
+  "geometry": {"coordinates":[-80.01185,22.93924],"type":"Point"}
+}

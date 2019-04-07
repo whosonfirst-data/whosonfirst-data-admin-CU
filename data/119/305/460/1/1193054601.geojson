@@ -1,0 +1,70 @@
+{
+  "id": 1193054601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.54282,23.0312,-82.54282,23.0312",
+    "geom:latitude":23.0312,
+    "geom:longitude":-82.54282,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Ben Tre",
+    "gn:country_code":"CU",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210584,
+    "gn:latitude":23.0312,
+    "gn:longitude":-82.54282,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ben Tre",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ben Tre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091903075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210584
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"57367268e68dc37d8845a052899d65fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903075,
+            "locality_id":1193054601,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1193054601,
+    "wof:lastmodified":1537619233,
+    "wof:name":"Ben Tre",
+    "wof:parent_id":1091903075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.54281999999998,
+    23.0312,
+    -82.54281999999998,
+    23.0312
+],
+  "geometry": {"coordinates":[-82.54281999999998,23.0312],"type":"Point"}
+}

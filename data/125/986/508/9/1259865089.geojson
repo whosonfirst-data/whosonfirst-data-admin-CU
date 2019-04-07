@@ -1,0 +1,70 @@
+{
+  "id": 1259865089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.16528,22.28972,-80.16528,22.28972",
+    "geom:latitude":22.28972,
+    "geom:longitude":-80.16528,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El No",
+    "gn:country_code":"CU",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830509,
+    "gn:latitude":22.28972,
+    "gn:longitude":-80.16528,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"El No",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El No"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091904329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830509
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b913b76bb2b296e88265e0d6ac81e274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904329,
+            "locality_id":1259865089,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1259865089,
+    "wof:lastmodified":1537619141,
+    "wof:name":"El No",
+    "wof:parent_id":1091904329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.16528000000002,
+    22.28972000000001,
+    -80.16528000000002,
+    22.28972000000001
+],
+  "geometry": {"coordinates":[-80.16528000000002,22.28972000000001],"type":"Point"}
+}

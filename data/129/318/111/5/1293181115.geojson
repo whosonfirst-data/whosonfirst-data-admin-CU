@@ -1,0 +1,72 @@
+{
+  "id": 1293181115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54103,20.93273,-76.54103,20.93273",
+    "geom:latitude":20.93273,
+    "geom:longitude":-76.54103,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Jiquima",
+    "gn:country_code":"CU",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3553307,
+    "gn:latitude":20.93273,
+    "gn:longitude":-76.54103,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La J\u00edquima",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiquima",
+        "La Jiquina",
+        "La J\u00edquima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091903541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553307
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"dd0de41967853621cf99668cbc7c2921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903541,
+            "locality_id":1293181115,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1293181115,
+    "wof:lastmodified":1537619002,
+    "wof:name":"La Jiquima",
+    "wof:parent_id":1091903541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54103,
+    20.93273,
+    -76.54103,
+    20.93273
+],
+  "geometry": {"coordinates":[-76.54103000000001,20.93273],"type":"Point"}
+}

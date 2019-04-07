@@ -1,0 +1,64 @@
+{
+  "id": 1209626877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.91945,22.66087,-80.91945,22.66087",
+    "geom:latitude":22.66087,
+    "geom:longitude":-80.91945,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Rosa",
+    "gn:country_code":"CU",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3551718,
+    "gn:latitude":22.66087,
+    "gn:longitude":-80.91945,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Rosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551718
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"03964e0746b31891582e51130f1778f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209626877
+        }
+    ],
+    "wof:id":1209626877,
+    "wof:lastmodified":1537618992,
+    "wof:name":"La Rosa",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.91945,
+    22.66087000000001,
+    -80.91945,
+    22.66087000000001
+],
+  "geometry": {"coordinates":[-80.91945,22.66087000000001],"type":"Point"}
+}

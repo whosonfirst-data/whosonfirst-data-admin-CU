@@ -1,0 +1,72 @@
+{
+  "id": 1226639305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.28347,21.99387,-80.28347,21.99387",
+    "geom:latitude":21.99387,
+    "geom:longitude":-80.28347,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Sierrita",
+    "gn:country_code":"CU",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3551138,
+    "gn:latitude":21.99387,
+    "gn:longitude":-80.28347,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"La Sierrita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sierra",
+        "La Sierra",
+        "La Sierrita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091904385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551138
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"324881f243f14e1fd179ee567dd39400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904385,
+            "locality_id":1226639305,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1226639305,
+    "wof:lastmodified":1537618987,
+    "wof:name":"La Sierrita",
+    "wof:parent_id":1091904385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.28347,
+    21.99387,
+    -80.28347,
+    21.99387
+],
+  "geometry": {"coordinates":[-80.28346999999999,21.99387],"type":"Point"}
+}

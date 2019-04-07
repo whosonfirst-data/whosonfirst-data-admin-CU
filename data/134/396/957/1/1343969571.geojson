@@ -1,0 +1,72 @@
+{
+  "id": 1343969571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.51694,22.96389,-81.51694,22.96389",
+    "geom:latitude":22.96389,
+    "geom:longitude":-81.51694,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ibarra",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3556809,
+    "gn:latitude":22.96389,
+    "gn:longitude":-81.51694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ibarra",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca Ibarra",
+        "Ibarra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556809
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7a675d102ff98bf6fe7d52d0fc94fd6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905663,
+            "locality_id":1343969571,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1343969571,
+    "wof:lastmodified":1537619025,
+    "wof:name":"Ibarra",
+    "wof:parent_id":1091905663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.51694,
+    22.96389,
+    -81.51694,
+    22.96389
+],
+  "geometry": {"coordinates":[-81.51694000000001,22.96389],"type":"Point"}
+}

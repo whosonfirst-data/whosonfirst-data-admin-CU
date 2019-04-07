@@ -1,0 +1,70 @@
+{
+  "id": 1209899119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.24162,20.12787,-76.24162,20.12787",
+    "geom:latitude":20.12787,
+    "geom:longitude":-76.24162,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"San Fermin",
+    "gn:country_code":"CU",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3540494,
+    "gn:latitude":20.12787,
+    "gn:longitude":-76.24162,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"San Ferm\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Ferm\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540494
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c34c09187840eb9eb7af57d2d4f2d11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908439,
+            "locality_id":1209899119,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1209899119,
+    "wof:lastmodified":1537618915,
+    "wof:name":"San Fermin",
+    "wof:parent_id":1091908439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.24162,
+    20.12787,
+    -76.24162,
+    20.12787
+],
+  "geometry": {"coordinates":[-76.24162,20.12787],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260087643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.49772,22.83818,-81.49772,22.83818",
+    "geom:latitude":22.83818,
+    "geom:longitude":-81.49772,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Juan Avila",
+    "gn:country_code":"CU",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948912,
+    "gn:latitude":22.83818,
+    "gn:longitude":-81.49772,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Juan \u00c1vila",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Juan \u00c1vila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091908517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948912
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b268906e6ad0ed5621035066b955f8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908517,
+            "locality_id":1260087643,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1260087643,
+    "wof:lastmodified":1537619149,
+    "wof:name":"Juan Avila",
+    "wof:parent_id":1091908517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.49772,
+    22.83818,
+    -81.49772,
+    22.83818
+],
+  "geometry": {"coordinates":[-81.49772,22.83818],"type":"Point"}
+}

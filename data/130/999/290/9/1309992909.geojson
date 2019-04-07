@@ -1,0 +1,74 @@
+{
+  "id": 1309992909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.8833,20.52812,-75.8833,20.52812",
+    "geom:latitude":20.52812,
+    "geom:longitude":-75.8833,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Biran",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567295,
+    "gn:latitude":20.52812,
+    "gn:longitude":-75.8833,
+    "gn:modification_date":"2015-11-02",
+    "gn:name":"Bir\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biram",
+        "Batey Bir\u00e1n",
+        "Bir\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567295,
+        "wk:page":"Bir%C3%A1n"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5c4a7e324806db5f4c5ea9dbf6e2474f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904361,
+            "locality_id":1309992909,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1309992909,
+    "wof:lastmodified":1537619106,
+    "wof:name":"Biran",
+    "wof:parent_id":1091904361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.8833,
+    20.52812,
+    -75.8833,
+    20.52812
+],
+  "geometry": {"coordinates":[-75.88330000000001,20.52812],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309993017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.15,20.55,-75.15,20.55",
+    "geom:latitude":20.55,
+    "geom:longitude":-75.15,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Penda",
+    "gn:country_code":"CU",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3552142,
+    "gn:latitude":20.55,
+    "gn:longitude":-75.15,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"La Penda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091907503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552142
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0141dc78ed9b9855c8609bd90003cb78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907503,
+            "locality_id":1309993017,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1309993017,
+    "wof:lastmodified":1536661368,
+    "wof:name":"La Penda",
+    "wof:parent_id":1091907503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.15,
+    20.55,
+    -75.15,
+    20.55
+],
+  "geometry": {"coordinates":[-75.15000000000001,20.55],"type":"Point"}
+}

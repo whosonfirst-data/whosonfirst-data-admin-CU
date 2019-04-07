@@ -1,0 +1,70 @@
+{
+  "id": 1242667385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.41133,19.95497,-77.41133,19.95497",
+    "geom:latitude":19.95497,
+    "geom:longitude":-77.41133,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Pimienta",
+    "gn:country_code":"CU",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027612,
+    "gn:latitude":19.95497,
+    "gn:longitude":-77.41133,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Pimienta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Pimienta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027612
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1c99aa2410a6514c87a54aac6f71c1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906965,
+            "locality_id":1242667385,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1242667385,
+    "wof:lastmodified":1537619195,
+    "wof:name":"La Pimienta",
+    "wof:parent_id":1091906965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.41133,
+    19.95497,
+    -77.41133,
+    19.95497
+],
+  "geometry": {"coordinates":[-77.41133000000001,19.95497],"type":"Point"}
+}

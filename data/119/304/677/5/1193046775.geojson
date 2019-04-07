@@ -1,0 +1,67 @@
+{
+  "id": 1193046775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.86667,22.73333,-81.86667,22.73333",
+    "geom:latitude":22.73333,
+    "geom:longitude":-81.86667,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Grua Primavera",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3558023,
+    "gn:latitude":22.73333,
+    "gn:longitude":-81.86667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Gr\u00faa Primavera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091907877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3558023
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"65c0bb3a612e67fb31cf661dafc07707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907877,
+            "locality_id":1193046775,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1193046775,
+    "wof:lastmodified":1536370044,
+    "wof:name":"Grua Primavera",
+    "wof:parent_id":1091907877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.86667,
+    22.73333,
+    -81.86667,
+    22.73333
+],
+  "geometry": {"coordinates":[-81.86667,22.73333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259452711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.88378,22.63038,-79.88378,22.63038",
+    "geom:latitude":22.63038,
+    "geom:longitude":-79.88378,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Alegria",
+    "gn:country_code":"CU",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3569298,
+    "gn:latitude":22.63038,
+    "gn:longitude":-79.88378,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Alegr\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alegr\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3569298
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7ca6e8ba75cb01905fcdf2f2c6808c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904483,
+            "locality_id":1259452711,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1259452711,
+    "wof:lastmodified":1537619120,
+    "wof:name":"Alegria",
+    "wof:parent_id":1091904483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.88378,
+    22.63038,
+    -79.88378,
+    22.63038
+],
+  "geometry": {"coordinates":[-79.88378,22.63038],"type":"Point"}
+}

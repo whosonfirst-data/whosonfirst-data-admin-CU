@@ -1,0 +1,70 @@
+{
+  "id": 1360167585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.25504,20.18495,-76.25504,20.18495",
+    "geom:latitude":20.18495,
+    "geom:longitude":-76.25504,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Somanta",
+    "gn:country_code":"CU",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063903,
+    "gn:latitude":20.18495,
+    "gn:longitude":-76.25504,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"La Somanta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Somanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063903
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"19fccb672640a02cec2e361829604ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908439,
+            "locality_id":1360167585,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1360167585,
+    "wof:lastmodified":1537619215,
+    "wof:name":"La Somanta",
+    "wof:parent_id":1091908439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.25504000000002,
+    20.18495,
+    -76.25504000000002,
+    20.18495
+],
+  "geometry": {"coordinates":[-76.25504000000002,20.18495],"type":"Point"}
+}

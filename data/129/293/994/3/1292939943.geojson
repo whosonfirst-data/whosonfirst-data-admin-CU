@@ -1,0 +1,70 @@
+{
+  "id": 1292939943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.0839,22.92873,-83.0839,22.92873",
+    "geom:latitude":22.92873,
+    "geom:longitude":-83.0839,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"San Juan de Dios",
+    "gn:country_code":"CU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3539302,
+    "gn:latitude":22.92873,
+    "gn:longitude":-83.0839,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"San Juan de Dios",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Juan de Dios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091902873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539302
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4f68c4726333d0f9065d1ff4e99677a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902873,
+            "locality_id":1292939943,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1292939943,
+    "wof:lastmodified":1537618910,
+    "wof:name":"San Juan de Dios",
+    "wof:parent_id":1091902873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.0839,
+    22.92873,
+    -83.0839,
+    22.92873
+],
+  "geometry": {"coordinates":[-83.0839,22.92873],"type":"Point"}
+}

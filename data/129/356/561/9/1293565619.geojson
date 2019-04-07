@@ -1,0 +1,73 @@
+{
+  "id": 1293565619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.64167,20.96791,-76.64167,20.96791",
+    "geom:latitude":20.96791,
+    "geom:longitude":-76.64167,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Roble",
+    "gn:country_code":"CU",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542024,
+    "gn:latitude":20.96791,
+    "gn:longitude":-76.64167,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"El Roble",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Roble"
+    ],
+    "name:und_x_variant":[
+        "Roble"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091903541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542024
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cb35b987429ba3e4d6ba1306d84d7816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903541,
+            "locality_id":1293565619,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1293565619,
+    "wof:lastmodified":1537618925,
+    "wof:name":"El Roble",
+    "wof:parent_id":1091903541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.64166999999998,
+    20.96791,
+    -76.64166999999998,
+    20.96791
+],
+  "geometry": {"coordinates":[-76.64166999999998,20.96791],"type":"Point"}
+}

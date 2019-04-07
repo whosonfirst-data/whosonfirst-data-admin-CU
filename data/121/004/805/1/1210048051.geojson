@@ -1,0 +1,70 @@
+{
+  "id": 1210048051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.19447,22.91444,-83.19447,22.91444",
+    "geom:latitude":22.91444,
+    "geom:longitude":-83.19447,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Rincon Caliente",
+    "gn:country_code":"CU",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10947342,
+    "gn:latitude":22.91444,
+    "gn:longitude":-83.19447,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Rinc\u00f3n Caliente",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n Caliente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091902873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10947342
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ec7623650ce9993aa078bb3b62a4973f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902873,
+            "locality_id":1210048051,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1210048051,
+    "wof:lastmodified":1537619146,
+    "wof:name":"Rincon Caliente",
+    "wof:parent_id":1091902873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.19447,
+    22.91444,
+    -83.19447,
+    22.91444
+],
+  "geometry": {"coordinates":[-83.19447,22.91444],"type":"Point"}
+}

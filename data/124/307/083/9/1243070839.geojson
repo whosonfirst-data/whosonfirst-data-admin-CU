@@ -1,0 +1,71 @@
+{
+  "id": 1243070839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.3001,23.16368,-82.3001,23.16368",
+    "geom:latitude":23.16368,
+    "geom:longitude":-82.3001,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cojimar",
+    "gn:country_code":"CU",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3563908,
+    "gn:latitude":23.16368,
+    "gn:longitude":-82.3001,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Coj\u00edmar",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coj\u00edmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091905073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563908,
+        "wk:page":"Coj%C3%ADmar"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1e0761e80f4d3580a9909d19c12ec154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905073,
+            "locality_id":1243070839,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1243070839,
+    "wof:lastmodified":1537619080,
+    "wof:name":"Cojimar",
+    "wof:parent_id":1091905073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.3001,
+    23.16368,
+    -82.3001,
+    23.16368
+],
+  "geometry": {"coordinates":[-82.3001,23.16368],"type":"Point"}
+}

@@ -1,0 +1,165 @@
+{
+  "id": 85793583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":18753137.356019,
+    "geom:bbox":"-75.84354,20.036353,-75.84354,20.036353",
+    "geom:latitude":20.036353,
+    "geom:longitude":-75.84354,
+    "gn:gn_country":"CU",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":20.04583,
+    "gn:longitude":-75.85056,
+    "iso:country":"CU",
+    "lbl:latitude":20.036353,
+    "lbl:longitude":-75.84354,
+    "mps:latitude":20.040141,
+    "mps:longitude":-75.849353,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0633\u064a\u0647 \u0645\u0627\u0631\u062a\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Jos\u00e9 Mart\u00ed"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0441\u044d \u041c\u0430\u0440\u0446\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u0425\u0430\u0441\u044d \u041c\u0430\u0440\u0446\u0456"
+    ],
+    "name:bre_x_preferred":[
+        "Jos\u00e9 Mart\u00ed"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0441\u0435 \u041c\u0430\u0440\u0442\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Jos\u00e9 Mart\u00ed P\u00e9rez"
+    ],
+    "name:ceb_x_preferred":[
+        "Jos\u00e9 Mart\u00ed"
+    ],
+    "name:ces_x_preferred":[
+        "Jos\u00e9 Mart\u00ed"
+    ],
+    "name:dan_x_preferred":[
+        "Jos\u00e9 Mart\u00ed"
+    ],
+    "name:spa_x_colloquial":[
+        "Distrito Jose Marti"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito Jos\u00e9 Mart\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Distrito Khose-Marti",
+        "Distrito Jos\u00e9 Mart\u00ed"
+    ],
+    "qs:gn_adm0_cc":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Distrito Jos\u00e9 Mart\u00ed",
+    "qs:local_max":2139,
+    "qs:local_sum":5427,
+    "qs:localhoods":10,
+    "qs:name":"Distrito Jos\u00e9 Mart\u00ed",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Santiago de Cuba",
+    "qs:name_local":"Santiago de Cuba",
+    "qs:photo_max":109,
+    "qs:photo_sum":214,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424793,
+    "qs:woe_adm1":2345119,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":68043,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"CU",
+    "qs_pg:gn_country":"CU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3760598,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Distrito Jos\u00e9 Mart\u00ed",
+    "qs_pg:name_adm0":"Cuba",
+    "qs_pg:name_adm1":"Santiago de Cuba",
+    "qs_pg:photos":272,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":272,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":889974,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424793,
+    "qs_pg:woe_id":61635,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670441,
+        102191575,
+        85632675,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3760598,
+        "gp:id":61635,
+        "qs:id":889974,
+        "qs_pg:id":889974
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ffe802a3930815f10141d7d371274c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":-1,
+            "neighbourhood_id":85793583,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":85793583,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379265,
+    "wof:name":"Distrito Jos\u00e9 Mart\u00ed",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126088763
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.84354,
+    20.036353,
+    -75.84354,
+    20.036353
+],
+  "geometry": {"coordinates":[-75.84354,20.036353],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344133393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.71621,20.84525,-76.71621,20.84525",
+    "geom:latitude":20.84525,
+    "geom:longitude":-76.71621,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Coloradas",
+    "gn:country_code":"CU",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11022785,
+    "gn:latitude":20.84525,
+    "gn:longitude":-76.71621,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Las Coloradas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Coloradas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022785
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"534c416dc1d3bdae2520b7dad4ee5aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905901,
+            "locality_id":1344133393,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1344133393,
+    "wof:lastmodified":1537619187,
+    "wof:name":"Las Coloradas",
+    "wof:parent_id":1091905901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.71621,
+    20.84525,
+    -76.71621,
+    20.84525
+],
+  "geometry": {"coordinates":[-76.71621,20.84525],"type":"Point"}
+}

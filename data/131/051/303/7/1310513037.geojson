@@ -1,0 +1,70 @@
+{
+  "id": 1310513037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.95786,22.95004,-80.95786,22.95004",
+    "geom:latitude":22.95004,
+    "geom:longitude":-80.95786,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Juan",
+    "gn:country_code":"CU",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11007105,
+    "gn:latitude":22.95004,
+    "gn:longitude":-80.95786,
+    "gn:modification_date":"2017-11-10",
+    "gn:name":"San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Juan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007105
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2e0c69d57d99113dc47460d8aed5c11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906225,
+            "locality_id":1310513037,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1310513037,
+    "wof:lastmodified":1537619156,
+    "wof:name":"San Juan",
+    "wof:parent_id":1091906225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.95786,
+    22.95004,
+    -80.95786,
+    22.95004
+],
+  "geometry": {"coordinates":[-80.95786,22.95004],"type":"Point"}
+}

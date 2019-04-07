@@ -1,0 +1,73 @@
+{
+  "id": 1343244275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.37347,22.28586,-79.37347,22.28586",
+    "geom:latitude":22.28586,
+    "geom:longitude":-79.37347,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Fe",
+    "gn:country_code":"CU",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11008669,
+    "gn:latitude":22.28586,
+    "gn:longitude":-79.37347,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"La F\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La F\u00e9"
+    ],
+    "name:spa_x_variant":[
+        "La Fe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008669
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b3d7c891db4054545b732cc9ef2ea2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1343244275,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1343244275,
+    "wof:lastmodified":1537619170,
+    "wof:name":"La Fe",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.37347,
+    22.28586,
+    -79.37347,
+    22.28586
+],
+  "geometry": {"coordinates":[-79.37347,22.28586],"type":"Point"}
+}

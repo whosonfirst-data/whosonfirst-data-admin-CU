@@ -1,0 +1,70 @@
+{
+  "id": 1259965951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.90918,20.78773,-76.90918,20.78773",
+    "geom:latitude":20.78773,
+    "geom:longitude":-76.90918,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cruce San Juan",
+    "gn:country_code":"CU",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11022856,
+    "gn:latitude":20.78773,
+    "gn:longitude":-76.90918,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Cruce San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cruce San Juan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022856
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7634384fbbce5c8f6ade2bab1acb1b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905901,
+            "locality_id":1259965951,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1259965951,
+    "wof:lastmodified":1537619188,
+    "wof:name":"Cruce San Juan",
+    "wof:parent_id":1091905901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.90918,
+    20.78773,
+    -76.90918,
+    20.78773
+],
+  "geometry": {"coordinates":[-76.90918000000001,20.78773],"type":"Point"}
+}

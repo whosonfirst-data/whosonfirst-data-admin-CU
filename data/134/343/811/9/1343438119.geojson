@@ -1,0 +1,70 @@
+{
+  "id": 1343438119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.92135,20.46355,-75.92135,20.46355",
+    "geom:latitude":20.46355,
+    "geom:longitude":-75.92135,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mango de Corazon",
+    "gn:country_code":"CU",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063738,
+    "gn:latitude":20.46355,
+    "gn:longitude":-75.92135,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Mango de Coraz\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mango de Coraz\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063738
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"26d84bc757ba735e4086a8b719d9c26b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904361,
+            "locality_id":1343438119,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1343438119,
+    "wof:lastmodified":1537619213,
+    "wof:name":"Mango de Corazon",
+    "wof:parent_id":1091904361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.92135,
+    20.46355,
+    -75.92135,
+    20.46355
+],
+  "geometry": {"coordinates":[-75.92135,20.46355],"type":"Point"}
+}

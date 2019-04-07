@@ -1,0 +1,67 @@
+{
+  "id": 1260200941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.21667,22.18333,-84.21667,22.18333",
+    "geom:latitude":22.18333,
+    "geom:longitude":-84.21667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La Teneria",
+    "gn:country_code":"CU",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550510,
+    "gn:latitude":22.18333,
+    "gn:longitude":-84.21667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"La Tener\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550510
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d45aa1a7aeef6633d674604ebec322d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907969,
+            "locality_id":1260200941,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1260200941,
+    "wof:lastmodified":1536823134,
+    "wof:name":"La Teneria",
+    "wof:parent_id":1091907969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.21667,
+    22.18333,
+    -84.21667,
+    22.18333
+],
+  "geometry": {"coordinates":[-84.21666999999999,22.18333],"type":"Point"}
+}

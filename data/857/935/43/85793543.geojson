@@ -1,0 +1,117 @@
+{
+  "id": 85793543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":2347895.0377,
+    "geom:bbox":"-82.420895,23.090864,-82.420895,23.090864",
+    "geom:latitude":23.090864,
+    "geom:longitude":-82.420895,
+    "gn:latitude":23.09278,
+    "gn:longitude":-82.41306,
+    "iso:country":"CU",
+    "lbl:latitude":23.090864,
+    "lbl:longitude":-82.420895,
+    "mps:latitude":23.084851,
+    "mps:longitude":-82.422438,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:spa_x_colloquial":[
+        "Alturas de Belen",
+        "Belen"
+    ],
+    "name:spa_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:spa_x_variant":[
+        "Alturas de Bel\u00e9n"
+    ],
+    "name:unk_x_variant":[
+        "Alturas de Bel\u00e9n",
+        "Bel\u00e9n"
+    ],
+    "qs:gn_adm0_cc":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3553478,
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Bel\u00e9n",
+    "qs:local_max":6362,
+    "qs:local_sum":28186,
+    "qs:localhoods":23,
+    "qs:name":"Bel\u00e9n",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:name_local":"La Habana",
+    "qs:photo_max":14,
+    "qs:photo_sum":15,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424793,
+    "qs:woe_adm1":2345107,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":63817,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670445,
+        102191575,
+        85632675,
+        1091907083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567530,
+        "gp:id":60513,
+        "qs:id":228194
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"668d7e829fd143c80e009a7f48ad12fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907083,
+            "locality_id":-1,
+            "neighbourhood_id":85793543,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":85793543,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379264,
+    "wof:name":"Bel\u00e9n",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[
+        1126094789
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.420895,
+    23.090864,
+    -82.420895,
+    23.090864
+],
+  "geometry": {"coordinates":[-82.420895,23.090864],"type":"Point"}
+}

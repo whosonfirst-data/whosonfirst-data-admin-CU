@@ -1,0 +1,70 @@
+{
+  "id": 1259852083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.51197,22.37139,-79.51197,22.37139",
+    "geom:latitude":22.37139,
+    "geom:longitude":-79.51197,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Llano",
+    "gn:country_code":"CU",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007860,
+    "gn:latitude":22.37139,
+    "gn:longitude":-79.51197,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Llano",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Llano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007860
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e67d1835f398edb2f55598e81dfccc48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1259852083,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1259852083,
+    "wof:lastmodified":1537619167,
+    "wof:name":"El Llano",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.51196999999998,
+    22.37139,
+    -79.51196999999998,
+    22.37139
+],
+  "geometry": {"coordinates":[-79.51196999999998,22.37139],"type":"Point"}
+}

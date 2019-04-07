@@ -1,0 +1,70 @@
+{
+  "id": 1344039817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.0443,22.28776,-80.0443,22.28776",
+    "geom:latitude":22.28776,
+    "geom:longitude":-80.0443,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Orosimbo",
+    "gn:country_code":"CU",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3545465,
+    "gn:latitude":22.28776,
+    "gn:longitude":-80.0443,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Orosimbo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Orosimbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545465
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9280b33ca5a6855e31727c4dbc757b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907311,
+            "locality_id":1344039817,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1344039817,
+    "wof:lastmodified":1537618948,
+    "wof:name":"Orosimbo",
+    "wof:parent_id":1091907311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0443,
+    22.28776,
+    -80.0443,
+    22.28776
+],
+  "geometry": {"coordinates":[-80.04430000000001,22.28776],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259588123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.91667,21.81667,-77.91667,21.81667",
+    "geom:latitude":21.81667,
+    "geom:longitude":-77.91667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Brodermann",
+    "gn:country_code":"CU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3566866,
+    "gn:latitude":21.81667,
+    "gn:longitude":-77.91667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Br\u00f6dermann",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Br\u00f6dermann"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566866
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6b5333cef2452a420d528b5330d5fff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904517,
+            "locality_id":1259588123,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1259588123,
+    "wof:lastmodified":1537619103,
+    "wof:name":"Brodermann",
+    "wof:parent_id":1091904517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.91667,
+    21.81667,
+    -77.91667,
+    21.81667
+],
+  "geometry": {"coordinates":[-77.91667,21.81667],"type":"Point"}
+}

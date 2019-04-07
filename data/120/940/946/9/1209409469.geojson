@@ -1,0 +1,67 @@
+{
+  "id": 1209409469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.92861,21.66417,-78.92861,21.66417",
+    "geom:latitude":21.66417,
+    "geom:longitude":-78.92861,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Castillo",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3565004,
+    "gn:latitude":21.66417,
+    "gn:longitude":-78.92861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Castillo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kastil\u2019o",
+        "Dastillo",
+        "Castillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565004
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f6deb8b85403cc22444bf9529e36405a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209409469
+        }
+    ],
+    "wof:id":1209409469,
+    "wof:lastmodified":1537619087,
+    "wof:name":"Castillo",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.92860999999998,
+    21.66417,
+    -78.92860999999998,
+    21.66417
+],
+  "geometry": {"coordinates":[-78.92860999999998,21.66417],"type":"Point"}
+}

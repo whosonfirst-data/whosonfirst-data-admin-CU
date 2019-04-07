@@ -1,0 +1,67 @@
+{
+  "id": 1327332661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.56667,21.1,-77.56667,21.1",
+    "geom:latitude":21.1,
+    "geom:longitude":-77.56667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Cordoba",
+    "gn:country_code":"CU",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3563440,
+    "gn:latitude":21.1,
+    "gn:longitude":-77.56667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"C\u00f3rdoba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563440
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3db7322d705015873b40b2d8d51d8948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908257,
+            "locality_id":1327332661,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1327332661,
+    "wof:lastmodified":1536823937,
+    "wof:name":"Cordoba",
+    "wof:parent_id":1091908257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.56667,
+    21.1,
+    -77.56667,
+    21.1
+],
+  "geometry": {"coordinates":[-77.56667,21.1],"type":"Point"}
+}

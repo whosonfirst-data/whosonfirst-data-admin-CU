@@ -1,0 +1,70 @@
+{
+  "id": 1260150155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.92087,22.55833,-79.92087,22.55833",
+    "geom:latitude":22.55833,
+    "geom:longitude":-79.92087,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ayagan",
+    "gn:country_code":"CU",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3568138,
+    "gn:latitude":22.55833,
+    "gn:longitude":-79.92087,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ayag\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ayag\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568138
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"109aa65cb6d8d665a8c4c9947ca3c81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904069,
+            "locality_id":1260150155,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1260150155,
+    "wof:lastmodified":1537619112,
+    "wof:name":"Ayagan",
+    "wof:parent_id":1091904069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.92087,
+    22.55833,
+    -79.92087,
+    22.55833
+],
+  "geometry": {"coordinates":[-79.92086999999999,22.55833],"type":"Point"}
+}

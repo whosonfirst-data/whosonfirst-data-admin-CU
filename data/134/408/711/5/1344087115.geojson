@@ -1,0 +1,67 @@
+{
+  "id": 1344087115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.26667,22.9,-83.26667,22.9",
+    "geom:latitude":22.9,
+    "geom:longitude":-83.26667,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"La Esperanza",
+    "gn:country_code":"CU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3554070,
+    "gn:latitude":22.9,
+    "gn:longitude":-83.26667,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"La Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091902873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554070
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bbc6a5a415323d123bddb5ad332d3114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902873,
+            "locality_id":1344087115,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1344087115,
+    "wof:lastmodified":1536836224,
+    "wof:name":"La Esperanza",
+    "wof:parent_id":1091902873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.26666999999998,
+    22.9,
+    -83.26666999999998,
+    22.9
+],
+  "geometry": {"coordinates":[-83.26666999999998,22.9],"type":"Point"}
+}

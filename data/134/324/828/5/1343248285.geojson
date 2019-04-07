@@ -1,0 +1,70 @@
+{
+  "id": 1343248285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0868,21.09805,-77.0868,21.09805",
+    "geom:latitude":21.09805,
+    "geom:longitude":-77.0868,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Dichosa",
+    "gn:country_code":"CU",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746375,
+    "gn:latitude":21.09805,
+    "gn:longitude":-77.0868,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Dichosa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Dichosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746375
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"90ba42193444273199a6e88312d025c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905619,
+            "locality_id":1343248285,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1343248285,
+    "wof:lastmodified":1537619131,
+    "wof:name":"La Dichosa",
+    "wof:parent_id":1091905619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0868,
+    21.09805,
+    -77.0868,
+    21.09805
+],
+  "geometry": {"coordinates":[-77.0868,21.09805],"type":"Point"}
+}

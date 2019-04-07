@@ -1,0 +1,64 @@
+{
+  "id": 1310716965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.0886,22.64344,-79.0886,22.64344",
+    "geom:latitude":22.64344,
+    "geom:longitude":-79.0886,
+    "gn:asciiname":"Cayo Ensenachos",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11048792,
+    "gn:latitude":22.64344,
+    "gn:longitude":-79.0886,
+    "gn:modification_date":"2016-01-18",
+    "gn:name":"Cayo Ensenachos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11048792
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d939f5e0045c42a3c517796fb058ba32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "locality_id":1310716965,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310716965,
+    "wof:lastmodified":1536609107,
+    "wof:name":"Cayo Ensenachos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.0886,
+    22.64344,
+    -79.0886,
+    22.64344
+],
+  "geometry": {"coordinates":[-79.0886,22.64344],"type":"Point"}
+}

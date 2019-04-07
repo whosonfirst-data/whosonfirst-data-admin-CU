@@ -1,0 +1,70 @@
+{
+  "id": 1310309983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.26248,21.65442,-78.26248,21.65442",
+    "geom:latitude":21.65442,
+    "geom:longitude":-78.26248,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Carlos",
+    "gn:country_code":"CU",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3540781,
+    "gn:latitude":21.65442,
+    "gn:longitude":-78.26248,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"San Carlos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Carlos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540781
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bb17388813a68685c10fb9ce3c64327d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903793,
+            "locality_id":1310309983,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1310309983,
+    "wof:lastmodified":1537618917,
+    "wof:name":"San Carlos",
+    "wof:parent_id":1091903793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.26248000000002,
+    21.65442,
+    -78.26248000000002,
+    21.65442
+],
+  "geometry": {"coordinates":[-78.26248000000002,21.65442],"type":"Point"}
+}

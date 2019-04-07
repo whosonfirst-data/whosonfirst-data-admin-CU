@@ -1,0 +1,71 @@
+{
+  "id": 1277060891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.51433,19.89902,-77.51433,19.89902",
+    "geom:latitude":19.89902,
+    "geom:longitude":-77.51433,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Alegria del Pio",
+    "gn:country_code":"CU",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3569296,
+    "gn:latitude":19.89902,
+    "gn:longitude":-77.51433,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Alegr\u00eda del P\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alegr\u00eda de P\u00edo",
+        "Alegr\u00eda del P\u00edo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3569296
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f540529f93aec8b6cb5e7ccaee0daf1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906677,
+            "locality_id":1277060891,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1277060891,
+    "wof:lastmodified":1537619120,
+    "wof:name":"Alegria del Pio",
+    "wof:parent_id":1091906677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.51433,
+    19.89902,
+    -77.51433,
+    19.89902
+],
+  "geometry": {"coordinates":[-77.51433,19.89902],"type":"Point"}
+}

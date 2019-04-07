@@ -1,0 +1,82 @@
+{
+  "id": 421179081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.17028,22.97917,-82.17028,22.97917",
+    "geom:latitude":22.97917,
+    "geom:longitude":-82.17028,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Jamaica"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3556406,
+    "qs:gn_pop":15000,
+    "qs:name":"Jamaica",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"La Habana",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":148931,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":63105,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091907725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556406,
+        "gp:id":63105,
+        "qs:id":148931
+    },
+    "wof:country":"CU",
+    "wof:created":1459009203,
+    "wof:geomhash":"229c50429a1b8eb932efc932b3bcd934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907725,
+            "locality_id":421179081,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":421179081,
+    "wof:lastmodified":1505340640,
+    "wof:name":"Jamaica",
+    "wof:parent_id":1091907725,
+    "wof:placetype":"locality",
+    "wof:population":15000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.17028,
+    22.97917,
+    -82.17028,
+    22.97917
+],
+  "geometry": {"coordinates":[-82.17028000000001,22.97917],"type":"Point"}
+}

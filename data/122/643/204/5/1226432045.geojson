@@ -1,0 +1,70 @@
+{
+  "id": 1226432045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.33694,19.90261,-77.33694,19.90261",
+    "geom:latitude":19.90261,
+    "geom:longitude":-77.33694,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Duranona",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027102,
+    "gn:latitude":19.90261,
+    "gn:longitude":-77.33694,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Dura\u00f1ona",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Dura\u00f1ona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027102
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0dff0d2db53b9ff5dae2729ad30edc1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906965,
+            "locality_id":1226432045,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1226432045,
+    "wof:lastmodified":1537619194,
+    "wof:name":"La Duranona",
+    "wof:parent_id":1091906965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.33694,
+    19.90261,
+    -77.33694,
+    19.90261
+],
+  "geometry": {"coordinates":[-77.33694,19.90261],"type":"Point"}
+}

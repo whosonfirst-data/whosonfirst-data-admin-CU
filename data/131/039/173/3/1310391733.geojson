@@ -1,0 +1,70 @@
+{
+  "id": 1310391733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.47763,21.12872,-76.47763,21.12872",
+    "geom:latitude":21.12872,
+    "geom:longitude":-76.47763,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Tronconera",
+    "gn:country_code":"CU",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11059240,
+    "gn:latitude":21.12872,
+    "gn:longitude":-76.47763,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Tronconera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tronconera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11059240
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f3d9acbc9a8a124f38c87d817c473282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1310391733,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1310391733,
+    "wof:lastmodified":1537619207,
+    "wof:name":"Tronconera",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.47763,
+    21.12872,
+    -76.47763,
+    21.12872
+],
+  "geometry": {"coordinates":[-76.47763,21.12872],"type":"Point"}
+}

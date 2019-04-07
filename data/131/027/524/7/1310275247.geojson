@@ -1,0 +1,70 @@
+{
+  "id": 1310275247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.36572,20.09934,-76.36572,20.09934",
+    "geom:latitude":20.09934,
+    "geom:longitude":-76.36572,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Cambula",
+    "gn:country_code":"CU",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063934,
+    "gn:latitude":20.09934,
+    "gn:longitude":-76.36572,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"La Cambula",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cambula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063934
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"021b891bd86f3a4c334c3f78f01885dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908439,
+            "locality_id":1310275247,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1310275247,
+    "wof:lastmodified":1537619215,
+    "wof:name":"La Cambula",
+    "wof:parent_id":1091908439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.36572,
+    20.09934,
+    -76.36572,
+    20.09934
+],
+  "geometry": {"coordinates":[-76.36572,20.09934],"type":"Point"}
+}

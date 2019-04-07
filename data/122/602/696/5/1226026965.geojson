@@ -1,0 +1,71 @@
+{
+  "id": 1226026965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.16254,22.51846,-80.16254,22.51846",
+    "geom:latitude":22.51846,
+    "geom:longitude":-80.16254,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Jicotea",
+    "gn:country_code":"CU",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3556184,
+    "gn:latitude":22.51846,
+    "gn:longitude":-80.16254,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Jicotea",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poblado Jicotea",
+        "Jicotea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556184
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c7ab05bb677f398b6571472dfcbe3c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907311,
+            "locality_id":1226026965,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1226026965,
+    "wof:lastmodified":1537619022,
+    "wof:name":"Jicotea",
+    "wof:parent_id":1091907311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.16254,
+    22.51846,
+    -80.16254,
+    22.51846
+],
+  "geometry": {"coordinates":[-80.16254000000001,22.51846],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276857601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.39001,21.13751,-76.39001,21.13751",
+    "geom:latitude":21.13751,
+    "geom:longitude":-76.39001,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Vegas de Mano",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3534518,
+    "gn:latitude":21.13751,
+    "gn:longitude":-76.39001,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Vegas de Mano",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poblado Vega de Mano",
+        "Vega de Mano",
+        "Vegas de Mano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534518
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f24e36202f4f31ca6ba605c276f56bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1276857601,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1276857601,
+    "wof:lastmodified":1537618885,
+    "wof:name":"Vegas de Mano",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.39001,
+    21.13751,
+    -76.39001,
+    21.13751
+],
+  "geometry": {"coordinates":[-76.39001,21.13751],"type":"Point"}
+}

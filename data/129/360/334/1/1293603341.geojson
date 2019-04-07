@@ -1,0 +1,71 @@
+{
+  "id": 1293603341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.2642,22.12853,-84.2642,22.12853",
+    "geom:latitude":22.12853,
+    "geom:longitude":-84.2642,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bolivar",
+    "gn:country_code":"CU",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567089,
+    "gn:latitude":22.12853,
+    "gn:longitude":-84.2642,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Bol\u00edvar",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bol\u00edvar",
+        "Ciudad Bol\u00edvar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567089
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9cac5b6c0fc7fa6280ac228464923c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907969,
+            "locality_id":1293603341,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1293603341,
+    "wof:lastmodified":1537619104,
+    "wof:name":"Bolivar",
+    "wof:parent_id":1091907969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.2642,
+    22.12853,
+    -84.2642,
+    22.12853
+],
+  "geometry": {"coordinates":[-84.2642,22.12853],"type":"Point"}
+}

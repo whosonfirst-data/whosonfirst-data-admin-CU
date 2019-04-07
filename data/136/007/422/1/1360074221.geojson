@@ -1,0 +1,70 @@
+{
+  "id": 1360074221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.14855,20.23842,-75.14855,20.23842",
+    "geom:latitude":20.23842,
+    "geom:longitude":-75.14855,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Arroyo Hondo",
+    "gn:country_code":"CU",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3568365,
+    "gn:latitude":20.23842,
+    "gn:longitude":-75.14855,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Arroyo Hondo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arroyo Hondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091904919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568365
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"31d86a37234ffc67e287179a06436a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904919,
+            "locality_id":1360074221,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1360074221,
+    "wof:lastmodified":1537619114,
+    "wof:name":"Arroyo Hondo",
+    "wof:parent_id":1091904919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.14855,
+    20.23842,
+    -75.14855,
+    20.23842
+],
+  "geometry": {"coordinates":[-75.14855,20.23842],"type":"Point"}
+}

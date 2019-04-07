@@ -1,0 +1,70 @@
+{
+  "id": 1360092397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.71056,22.6293,-80.71056,22.6293",
+    "geom:latitude":22.6293,
+    "geom:longitude":-80.71056,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Negrin",
+    "gn:country_code":"CU",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3546089,
+    "gn:latitude":22.6293,
+    "gn:longitude":-80.71056,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Negr\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Negr\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546089
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4e543ef97b141b651a2878be816567b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905697,
+            "locality_id":1360092397,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1360092397,
+    "wof:lastmodified":1537618952,
+    "wof:name":"Negrin",
+    "wof:parent_id":1091905697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.71056,
+    22.6293,
+    -80.71056,
+    22.6293
+],
+  "geometry": {"coordinates":[-80.71056,22.6293],"type":"Point"}
+}

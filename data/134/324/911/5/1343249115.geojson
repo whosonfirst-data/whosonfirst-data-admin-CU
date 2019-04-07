@@ -1,0 +1,70 @@
+{
+  "id": 1343249115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.94999,20.64435,-74.94999,20.64435",
+    "geom:latitude":20.64435,
+    "geom:longitude":-74.94999,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cayo Chico",
+    "gn:country_code":"CU",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3564803,
+    "gn:latitude":20.64435,
+    "gn:longitude":-74.94999,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Cayo Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cayo Chico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091906483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564803
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a8c7a8d893d6142df369692146694217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906483,
+            "locality_id":1343249115,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1343249115,
+    "wof:lastmodified":1537619086,
+    "wof:name":"Cayo Chico",
+    "wof:parent_id":1091906483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.94999,
+    20.64435,
+    -74.94999,
+    20.64435
+],
+  "geometry": {"coordinates":[-74.94999,20.64435],"type":"Point"}
+}

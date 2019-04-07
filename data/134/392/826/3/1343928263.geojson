@@ -1,0 +1,67 @@
+{
+  "id": 1343928263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.68945,19.96661,-75.68945,19.96661",
+    "geom:latitude":19.96661,
+    "geom:longitude":-75.68945,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Caridad",
+    "gn:country_code":"CU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766962,
+    "gn:latitude":19.96661,
+    "gn:longitude":-75.68945,
+    "gn:modification_date":"2014-09-01",
+    "gn:name":"La Caridad",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766962
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1056bade2c6b134f77ccea5feb768828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":1343928263,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1343928263,
+    "wof:lastmodified":1537063742,
+    "wof:name":"La Caridad",
+    "wof:parent_id":1091908137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.68945,
+    19.96661,
+    -75.68945,
+    19.96661
+],
+  "geometry": {"coordinates":[-75.68944999999999,19.96661],"type":"Point"}
+}

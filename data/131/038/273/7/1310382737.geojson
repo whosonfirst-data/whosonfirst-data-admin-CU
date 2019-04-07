@@ -1,0 +1,70 @@
+{
+  "id": 1310382737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.62211,20.70214,-75.62211,20.70214",
+    "geom:latitude":20.70214,
+    "geom:longitude":-75.62211,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Vuelta Larga",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3533892,
+    "gn:latitude":20.70214,
+    "gn:longitude":-75.62211,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Vuelta Larga",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vuelta Larga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091906305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3533892
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"08ec6fe5fd50c48e23cb9119899e0548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906305,
+            "locality_id":1310382737,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1310382737,
+    "wof:lastmodified":1537618880,
+    "wof:name":"Vuelta Larga",
+    "wof:parent_id":1091906305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.62210999999998,
+    20.70214,
+    -75.62210999999998,
+    20.70214
+],
+  "geometry": {"coordinates":[-75.62210999999998,20.70214],"type":"Point"}
+}

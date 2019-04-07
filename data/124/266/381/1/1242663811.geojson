@@ -1,0 +1,72 @@
+{
+  "id": 1242663811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54722,21.16833,-76.54722,21.16833",
+    "geom:latitude":21.16833,
+    "geom:longitude":-76.54722,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Leiva",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3549963,
+    "gn:latitude":21.16833,
+    "gn:longitude":-76.54722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Leiva",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loma Blanca",
+        "Leiva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549963
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f99df572785ea1d3b98e7b1f643125d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1242663811,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1242663811,
+    "wof:lastmodified":1537618977,
+    "wof:name":"Leiva",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54722,
+    21.16833,
+    -76.54722,
+    21.16833
+],
+  "geometry": {"coordinates":[-76.54722,21.16833],"type":"Point"}
+}

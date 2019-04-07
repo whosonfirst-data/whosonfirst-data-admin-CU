@@ -1,0 +1,74 @@
+{
+  "id": 1309797619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.62277,22.05151,-78.62277,22.05151",
+    "geom:latitude":22.05151,
+    "geom:longitude":-78.62277,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chillante",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3561469,
+    "gn:latitude":22.05151,
+    "gn:longitude":-78.62277,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Chillante",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chillante"
+    ],
+    "name:und_x_variant":[
+        "El Chillante de San Antonio",
+        "El Chillante"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091906525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561469
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"34b3da167dd8c0f27281dbe17cf43399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906525,
+            "locality_id":1309797619,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1309797619,
+    "wof:lastmodified":1537619062,
+    "wof:name":"Chillante",
+    "wof:parent_id":1091906525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.62276999999997,
+    22.05151,
+    -78.62276999999997,
+    22.05151
+],
+  "geometry": {"coordinates":[-78.62276999999997,22.05151],"type":"Point"}
+}

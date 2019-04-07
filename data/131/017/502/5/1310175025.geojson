@@ -1,0 +1,73 @@
+{
+  "id": 1310175025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.56667,22.55,-79.56667,22.55",
+    "geom:latitude":22.55,
+    "geom:longitude":-79.56667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Caiguaje",
+    "gn:country_code":"CU",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3566349,
+    "gn:latitude":22.55,
+    "gn:longitude":-79.56667,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Caiguaje",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caiguaje"
+    ],
+    "name:und_x_variant":[
+        "Caiguage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091903367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566349
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"44b29079623f9b01cf09142f5a8e51b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903367,
+            "locality_id":1310175025,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1310175025,
+    "wof:lastmodified":1537619099,
+    "wof:name":"Caiguaje",
+    "wof:parent_id":1091903367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.56667,
+    22.55,
+    -79.56667,
+    22.55
+],
+  "geometry": {"coordinates":[-79.56667,22.55],"type":"Point"}
+}

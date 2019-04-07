@@ -1,0 +1,71 @@
+{
+  "id": 1310495395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.02285,20.36074,-75.02285,20.36074",
+    "geom:latitude":20.36074,
+    "geom:longitude":-75.02285,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Carolina",
+    "gn:country_code":"CU",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3554874,
+    "gn:latitude":20.36074,
+    "gn:longitude":-75.02285,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"La Carolina",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Carolinas",
+        "La Carolina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091908743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554874
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"56805a9fe9a9fb07eb28ad6844e480ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908743,
+            "locality_id":1310495395,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1310495395,
+    "wof:lastmodified":1537619013,
+    "wof:name":"La Carolina",
+    "wof:parent_id":1091908743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.02285,
+    20.36074,
+    -75.02285,
+    20.36074
+],
+  "geometry": {"coordinates":[-75.02285000000001,20.36074],"type":"Point"}
+}

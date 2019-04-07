@@ -1,0 +1,74 @@
+{
+  "id": 1310287145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.94986,22.08255,-79.94986,22.08255",
+    "geom:latitude":22.08255,
+    "geom:longitude":-79.94986,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Quirro",
+    "gn:country_code":"CU",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559995,
+    "gn:latitude":22.08255,
+    "gn:longitude":-79.94986,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"El Quirro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio el Quirro",
+        "La Macagua",
+        "El Quiero",
+        "Macagua",
+        "El Quirro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559995
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"366fbd40ff5b86f2b6749dc306c2d23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1310287145,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1310287145,
+    "wof:lastmodified":1537619048,
+    "wof:name":"El Quirro",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.94986,
+    22.08255,
+    -79.94986,
+    22.08255
+],
+  "geometry": {"coordinates":[-79.94986,22.08255],"type":"Point"}
+}

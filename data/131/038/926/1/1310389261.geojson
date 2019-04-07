@@ -1,0 +1,70 @@
+{
+  "id": 1310389261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.55459,20.22943,-74.55459,20.22943",
+    "geom:latitude":20.22943,
+    "geom:longitude":-74.55459,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Cerqueo",
+    "gn:country_code":"CU",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11080253,
+    "gn:latitude":20.22943,
+    "gn:longitude":-74.55459,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"El Cerqueo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cerqueo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091902961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080253
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3b4e95b9333e1c833db91422c4e5edb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902961,
+            "locality_id":1310389261,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1310389261,
+    "wof:lastmodified":1537619228,
+    "wof:name":"El Cerqueo",
+    "wof:parent_id":1091902961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.55459,
+    20.22943,
+    -74.55459,
+    20.22943
+],
+  "geometry": {"coordinates":[-74.55459,20.22943],"type":"Point"}
+}

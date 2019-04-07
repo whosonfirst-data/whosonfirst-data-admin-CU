@@ -1,0 +1,71 @@
+{
+  "id": 1226229233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.83968,21.11863,-75.83968,21.11863",
+    "geom:latitude":21.11863,
+    "geom:longitude":-75.83968,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Playa Bani",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567857,
+    "gn:latitude":21.11863,
+    "gn:longitude":-75.83968,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Playa Ban\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Playa Guarda la Vaca",
+        "Playa Ban\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567857
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5ebd02a6605da2a70a910a540451b938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1226229233,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1226229233,
+    "wof:lastmodified":1537619110,
+    "wof:name":"Playa Bani",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.83968,
+    21.11863,
+    -75.83968,
+    21.11863
+],
+  "geometry": {"coordinates":[-75.83968,21.11863],"type":"Point"}
+}

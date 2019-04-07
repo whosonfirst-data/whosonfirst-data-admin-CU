@@ -1,0 +1,70 @@
+{
+  "id": 1293869261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.4273,22.03944,-80.4273,22.03944",
+    "geom:latitude":22.03944,
+    "geom:longitude":-80.4273,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rancho Luna",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543882,
+    "gn:latitude":22.03944,
+    "gn:longitude":-80.4273,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Rancho Luna",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Playa Rancho Luna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091904035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543882
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"aea792066316935c24b86dff8b59e42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904035,
+            "locality_id":1293869261,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1293869261,
+    "wof:lastmodified":1537618936,
+    "wof:name":"Rancho Luna",
+    "wof:parent_id":1091904035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.4273,
+    22.03944,
+    -80.4273,
+    22.03944
+],
+  "geometry": {"coordinates":[-80.4273,22.03944],"type":"Point"}
+}

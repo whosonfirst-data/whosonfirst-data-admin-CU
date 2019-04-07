@@ -1,0 +1,70 @@
+{
+  "id": 1260010283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.70856,23.01897,-82.70856,23.01897",
+    "geom:latitude":23.01897,
+    "geom:longitude":-82.70856,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Nuevo Mariel",
+    "gn:country_code":"CU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210575,
+    "gn:latitude":23.01897,
+    "gn:longitude":-82.70856,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Nuevo Mariel",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Mariel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091906179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210575
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c84b5e2495f98f181b869ced3650471f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906179,
+            "locality_id":1260010283,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1260010283,
+    "wof:lastmodified":1537619232,
+    "wof:name":"Nuevo Mariel",
+    "wof:parent_id":1091906179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.70855999999998,
+    23.01897,
+    -82.70855999999998,
+    23.01897
+],
+  "geometry": {"coordinates":[-82.70855999999998,23.01897],"type":"Point"}
+}

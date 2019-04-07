@@ -1,0 +1,72 @@
+{
+  "id": 1327105417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.46419,21.74052,-79.46419,21.74052",
+    "geom:latitude":21.74052,
+    "geom:longitude":-79.46419,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Guasimal",
+    "gn:country_code":"CU",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557609,
+    "gn:latitude":21.74052,
+    "gn:longitude":-79.46419,
+    "gn:modification_date":"2013-09-07",
+    "gn:name":"Guasimal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Guasimas",
+        "Guasimal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091907919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557609,
+        "wk:page":"Guasimal%2C_Sancti_Sp%C3%ADritus"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f172591e1f0f703353192a3a389979f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907919,
+            "locality_id":1327105417,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1327105417,
+    "wof:lastmodified":1537619031,
+    "wof:name":"Guasimal",
+    "wof:parent_id":1091907919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.46419,
+    21.74052,
+    -79.46419,
+    21.74052
+],
+  "geometry": {"coordinates":[-79.46419,21.74052],"type":"Point"}
+}

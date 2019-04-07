@@ -1,0 +1,72 @@
+{
+  "id": 1242878703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.35,20.96667,-77.35,20.96667",
+    "geom:latitude":20.96667,
+    "geom:longitude":-77.35,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Antiguo Berrocal",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3568741,
+    "gn:latitude":20.96667,
+    "gn:longitude":-77.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Antiguo Berrocal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berrocal Viejo",
+        "Antiguo Berrocal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091904115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568741
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d4a90d75ca85eb929782411a401373f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904115,
+            "locality_id":1242878703,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1242878703,
+    "wof:lastmodified":1537619117,
+    "wof:name":"Antiguo Berrocal",
+    "wof:parent_id":1091904115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.35,
+    20.96667,
+    -77.35,
+    20.96667
+],
+  "geometry": {"coordinates":[-77.34999999999999,20.96667],"type":"Point"}
+}

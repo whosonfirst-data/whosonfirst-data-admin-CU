@@ -1,0 +1,65 @@
+{
+  "id": 1209113561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.59868,22.69443,-80.59868,22.69443",
+    "geom:latitude":22.69443,
+    "geom:longitude":-80.59868,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Pedro de Mayabon",
+    "gn:country_code":"CU",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3538540,
+    "gn:latitude":22.69443,
+    "gn:longitude":-80.59868,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"San Pedro de Mayab\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pedro",
+        "San Pedro de Mayab\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538540
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8de792deafe8368d75dbbbc0581b9a63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209113561
+        }
+    ],
+    "wof:id":1209113561,
+    "wof:lastmodified":1537618905,
+    "wof:name":"San Pedro de Mayabon",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.59868,
+    22.69443,
+    -80.59868,
+    22.69443
+],
+  "geometry": {"coordinates":[-80.59868,22.69443],"type":"Point"}
+}

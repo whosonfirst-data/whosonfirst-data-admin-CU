@@ -1,0 +1,70 @@
+{
+  "id": 1242767297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.71392,20.02657,-76.71392,20.02657",
+    "geom:latitude":20.02657,
+    "geom:longitude":-76.71392,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Pata La Mesa",
+    "gn:country_code":"CU",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11024215,
+    "gn:latitude":20.02657,
+    "gn:longitude":-76.71392,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Pata La Mesa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pata La Mesa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024215
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4567f9955f9f10d585e71e189f70b600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904765,
+            "locality_id":1242767297,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1242767297,
+    "wof:lastmodified":1537619192,
+    "wof:name":"Pata La Mesa",
+    "wof:parent_id":1091904765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.71392,
+    20.02657,
+    -76.71392,
+    20.02657
+],
+  "geometry": {"coordinates":[-76.71392,20.02657],"type":"Point"}
+}

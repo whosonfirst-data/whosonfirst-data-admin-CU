@@ -1,0 +1,73 @@
+{
+  "id": 1310584133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.18333,20.31667,-76.18333,20.31667",
+    "geom:latitude":20.31667,
+    "geom:longitude":-76.18333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Remanganaguas",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542466,
+    "gn:latitude":20.31667,
+    "gn:longitude":-76.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Remanganaguas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jos\u00e9 Mart\u00ed",
+        "Remanganagua",
+        "Remanganaguas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542466
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4a691d8b0c0769e11cc29a64ae84ed02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904221,
+            "locality_id":1310584133,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1310584133,
+    "wof:lastmodified":1537618928,
+    "wof:name":"Remanganaguas",
+    "wof:parent_id":1091904221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.18333,
+    20.31667,
+    -76.18333,
+    20.31667
+],
+  "geometry": {"coordinates":[-76.18333,20.31667],"type":"Point"}
+}

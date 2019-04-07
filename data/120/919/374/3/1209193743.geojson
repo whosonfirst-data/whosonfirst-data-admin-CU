@@ -1,0 +1,64 @@
+{
+  "id": 1209193743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.60098,20.82764,-77.60098,20.82764",
+    "geom:latitude":20.82764,
+    "geom:longitude":-77.60098,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Lomita",
+    "gn:country_code":"CU",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3552928,
+    "gn:latitude":20.82764,
+    "gn:longitude":-77.60098,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Lomita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Lomita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552928
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"85e962633eee81b1345356073a4e98a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209193743
+        }
+    ],
+    "wof:id":1209193743,
+    "wof:lastmodified":1537618999,
+    "wof:name":"La Lomita",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.60098,
+    20.82764,
+    -77.60098,
+    20.82764
+],
+  "geometry": {"coordinates":[-77.60098000000001,20.82764],"type":"Point"}
+}

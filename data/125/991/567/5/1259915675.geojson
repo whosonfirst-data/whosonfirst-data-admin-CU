@@ -1,0 +1,72 @@
+{
+  "id": 1259915675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.48528,22.72889,-82.48528,22.72889",
+    "geom:latitude":22.72889,
+    "geom:longitude":-82.48528,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Morenita",
+    "gn:country_code":"CU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3546452,
+    "gn:latitude":22.72889,
+    "gn:longitude":-82.48528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Morenita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Morenita",
+        "Caserio de Morenita",
+        "Morenita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091905003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546452
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ed32eca489ac13bfc4241e1fb3aea839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905003,
+            "locality_id":1259915675,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1259915675,
+    "wof:lastmodified":1537618954,
+    "wof:name":"Morenita",
+    "wof:parent_id":1091905003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.48528,
+    22.72889,
+    -82.48528,
+    22.72889
+],
+  "geometry": {"coordinates":[-82.48528,22.72889],"type":"Point"}
+}

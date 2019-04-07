@@ -1,0 +1,71 @@
+{
+  "id": 1226681061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.25616,22.82581,-83.25616,22.82581",
+    "geom:latitude":22.82581,
+    "geom:longitude":-83.25616,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Asiento de Cacarajicara",
+    "gn:country_code":"CU",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3568282,
+    "gn:latitude":22.82581,
+    "gn:longitude":-83.25616,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Asiento de Cacaraj\u00edcara",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cacarajicara",
+        "Asiento de Cacaraj\u00edcara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091902873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568282
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"85ead330da2b6d1da771ef60ef5342a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902873,
+            "locality_id":1226681061,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1226681061,
+    "wof:lastmodified":1537619113,
+    "wof:name":"Asiento de Cacarajicara",
+    "wof:parent_id":1091902873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.25616,
+    22.82581,
+    -83.25616,
+    22.82581
+],
+  "geometry": {"coordinates":[-83.25615999999999,22.82581],"type":"Point"}
+}

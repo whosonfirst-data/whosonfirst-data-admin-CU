@@ -1,0 +1,67 @@
+{
+  "id": 1209042669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.68885,23.08777,-81.68885,23.08777",
+    "geom:latitude":23.08777,
+    "geom:longitude":-81.68885,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"San Andrian",
+    "gn:country_code":"CU",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3541270,
+    "gn:latitude":23.08777,
+    "gn:longitude":-81.68885,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"San Andri\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Andri\u00e1n"
+    ],
+    "name:und_x_variant":[
+        "San Adri\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541270
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"afa651847ddd18bfd3b7a7d615baddf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209042669
+        }
+    ],
+    "wof:id":1209042669,
+    "wof:lastmodified":1537618920,
+    "wof:name":"San Andrian",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.68885,
+    23.08777000000001,
+    -81.68885,
+    23.08777000000001
+],
+  "geometry": {"coordinates":[-81.68885,23.08777000000001],"type":"Point"}
+}

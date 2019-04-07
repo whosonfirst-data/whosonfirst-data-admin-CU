@@ -1,0 +1,72 @@
+{
+  "id": 1260014505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.01255,23.17808,-82.01255,23.17808",
+    "geom:latitude":23.17808,
+    "geom:longitude":-82.01255,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Boca de Jaruco",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567148,
+    "gn:latitude":23.17808,
+    "gn:longitude":-82.01255,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Boca de Jaruco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio de Boca de Jaruco",
+        "Boca de Jaruco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091908039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567148,
+        "wk:page":"Boca_de_Jaruco"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9d7a47c2a23c80f641660f4b17818ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908039,
+            "locality_id":1260014505,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1260014505,
+    "wof:lastmodified":1537619105,
+    "wof:name":"Boca de Jaruco",
+    "wof:parent_id":1091908039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.01255,
+    23.17808,
+    -82.01255,
+    23.17808
+],
+  "geometry": {"coordinates":[-82.01255,23.17808],"type":"Point"}
+}

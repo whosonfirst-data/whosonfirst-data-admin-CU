@@ -1,0 +1,61 @@
+{
+  "id": 1209695149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.06667,20.83333,-77.06667,20.83333",
+    "geom:latitude":20.83333,
+    "geom:longitude":-77.06667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"CU",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3536970,
+    "gn:latitude":20.83333,
+    "gn:longitude":-77.06667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536970
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"eaf30cca31c9c257d13dea4403daea5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209695149
+        }
+    ],
+    "wof:id":1209695149,
+    "wof:lastmodified":1536279101,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.06667,
+    20.83333,
+    -77.06667,
+    20.83333
+],
+  "geometry": {"coordinates":[-77.06667,20.83333],"type":"Point"}
+}

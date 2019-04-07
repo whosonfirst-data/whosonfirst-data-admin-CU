@@ -1,0 +1,67 @@
+{
+  "id": 1226515511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.82583,20.22694,-75.82583,20.22694",
+    "geom:latitude":20.22694,
+    "geom:longitude":-75.82583,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Caridad de Maroto",
+    "gn:country_code":"CU",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3565334,
+    "gn:latitude":20.22694,
+    "gn:longitude":-75.82583,
+    "gn:modification_date":"1996-07-17",
+    "gn:name":"Caridad de Maroto",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565334
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f901b94602caaf8c2f8b2e1b31bf6a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907795,
+            "locality_id":1226515511,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1226515511,
+    "wof:lastmodified":1537040031,
+    "wof:name":"Caridad de Maroto",
+    "wof:parent_id":1091907795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.82583000000002,
+    20.22694,
+    -75.82583000000002,
+    20.22694
+],
+  "geometry": {"coordinates":[-75.82583000000002,20.22694],"type":"Point"}
+}

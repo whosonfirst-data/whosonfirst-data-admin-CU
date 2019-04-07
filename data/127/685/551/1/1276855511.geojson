@@ -1,0 +1,70 @@
+{
+  "id": 1276855511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.03507,20.6308,-77.03507,20.6308",
+    "geom:latitude":20.6308,
+    "geom:longitude":-77.03507,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Punta",
+    "gn:country_code":"CU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3551972,
+    "gn:latitude":20.6308,
+    "gn:longitude":-77.03507,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Punta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Punta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091907413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551972
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4f0fcc1138af42af98f965440d012126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907413,
+            "locality_id":1276855511,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1276855511,
+    "wof:lastmodified":1537618993,
+    "wof:name":"La Punta",
+    "wof:parent_id":1091907413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.03506999999998,
+    20.6308,
+    -77.03506999999998,
+    20.6308
+],
+  "geometry": {"coordinates":[-77.03506999999998,20.6308],"type":"Point"}
+}

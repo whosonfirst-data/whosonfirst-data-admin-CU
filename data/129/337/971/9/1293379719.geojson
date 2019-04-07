@@ -1,0 +1,70 @@
+{
+  "id": 1293379719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.57178,20.00466,-77.57178,20.00466",
+    "geom:latitude":20.00466,
+    "geom:longitude":-77.57178,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Juan Perez",
+    "gn:country_code":"CU",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3555791,
+    "gn:latitude":20.00466,
+    "gn:longitude":-77.57178,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Juan P\u00e9rez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Juan P\u00e9rez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555791
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"daaf9280eda74ffc190eeb0ebe4bc65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906677,
+            "locality_id":1293379719,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1293379719,
+    "wof:lastmodified":1537619019,
+    "wof:name":"Juan Perez",
+    "wof:parent_id":1091906677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.57178,
+    20.00466,
+    -77.57178,
+    20.00466
+],
+  "geometry": {"coordinates":[-77.57178,20.00466],"type":"Point"}
+}

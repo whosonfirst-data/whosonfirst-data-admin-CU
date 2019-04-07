@@ -1,0 +1,72 @@
+{
+  "id": 1209928407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.7626,22.69061,-83.7626,22.69061",
+    "geom:latitude":22.69061,
+    "geom:longitude":-83.7626,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Llano de Manacas",
+    "gn:country_code":"CU",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3549685,
+    "gn:latitude":22.69061,
+    "gn:longitude":-83.7626,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Llano de Manacas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Llano de Manacas",
+        "Manacas",
+        "Llano de Manacas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091908691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549685
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c8318c5e2f2085534bc714e7ffdeaa2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908691,
+            "locality_id":1209928407,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1209928407,
+    "wof:lastmodified":1537618975,
+    "wof:name":"Llano de Manacas",
+    "wof:parent_id":1091908691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.7626,
+    22.69061,
+    -83.7626,
+    22.69061
+],
+  "geometry": {"coordinates":[-83.76260000000001,22.69061],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360269231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.65722,20.3432,-74.65722,20.3432",
+    "geom:latitude":20.3432,
+    "geom:longitude":-74.65722,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Quibijan",
+    "gn:country_code":"CU",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543035,
+    "gn:latitude":20.3432,
+    "gn:longitude":-74.65722,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Quibij\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quibij\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091902961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543035
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fb6aa1a7e91df69a1cf4287f6703f047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902961,
+            "locality_id":1360269231,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1360269231,
+    "wof:lastmodified":1537618930,
+    "wof:name":"Quibijan",
+    "wof:parent_id":1091902961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.65722,
+    20.3432,
+    -74.65722,
+    20.3432
+],
+  "geometry": {"coordinates":[-74.65722,20.3432],"type":"Point"}
+}

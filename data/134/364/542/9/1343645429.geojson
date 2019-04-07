@@ -1,0 +1,65 @@
+{
+  "id": 1343645429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.56442,20.43333,-74.56442,20.43333",
+    "geom:latitude":20.43333,
+    "geom:longitude":-74.56442,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cayo Guin",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3564757,
+    "gn:latitude":20.43333,
+    "gn:longitude":-74.56442,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Cayo G\u00fc\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cayo Juin",
+        "Cayo G\u00fc\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564757
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f261d1d09b6c2fa71bc655d919d6c3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343645429,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343645429,
+    "wof:lastmodified":1537619086,
+    "wof:name":"Cayo Guin",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.56442,
+    20.43333,
+    -74.56442,
+    20.43333
+],
+  "geometry": {"coordinates":[-74.56442,20.43333],"type":"Point"}
+}

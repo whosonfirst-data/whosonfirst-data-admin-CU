@@ -1,0 +1,64 @@
+{
+  "id": 1209043703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.9047,22.73614,-82.9047,22.73614",
+    "geom:latitude":22.73614,
+    "geom:longitude":-82.9047,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Mango Dulce",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3548026,
+    "gn:latitude":22.73614,
+    "gn:longitude":-82.9047,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Mango Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mango Dulce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548026
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fc9cc893cfcfe644043cba33bc2ce2b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209043703
+        }
+    ],
+    "wof:id":1209043703,
+    "wof:lastmodified":1537618964,
+    "wof:name":"Mango Dulce",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.9047,
+    22.73614,
+    -82.9047,
+    22.73614
+],
+  "geometry": {"coordinates":[-82.90470000000001,22.73614],"type":"Point"}
+}

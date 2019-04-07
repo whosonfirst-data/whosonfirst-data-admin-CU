@@ -1,0 +1,80 @@
+{
+  "id": 421185137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.31194,23.07861,-82.31194,23.07861",
+    "geom:latitude":23.07861,
+    "geom:longitude":-82.31194,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3562426,
+    "qs:gn_pop":0,
+    "qs:name":"Diezmero",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1018626,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":61630,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":165,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091907843,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562426,
+        "gp:id":61630,
+        "qs:id":1018626,
+        "wd:id":"Q5275238",
+        "wk:page":"Diezmero"
+    },
+    "wof:country":"CU",
+    "wof:created":1459009433,
+    "wof:geomhash":"4015fb4b8e5d2a8d485cbed0b47c6714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907843,
+            "locality_id":-1,
+            "neighbourhood_id":421185137,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":421185137,
+    "wof:lastmodified":1531858568,
+    "wof:name":"Diezmero",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.31194,
+    23.07861,
+    -82.31194,
+    23.07861
+],
+  "geometry": {"coordinates":[-82.31194000000001,23.07861],"type":"Point"}
+}

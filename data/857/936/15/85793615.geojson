@@ -1,0 +1,134 @@
+{
+  "id": 85793615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9878369.053146,
+    "geom:bbox":"-75.82489,20.053585,-75.82489,20.053585",
+    "geom:latitude":20.053585,
+    "geom:longitude":-75.82489,
+    "gn:gn_country":"CU",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":20.05,
+    "gn:longitude":-75.825,
+    "iso:country":"CU",
+    "lbl:latitude":20.053585,
+    "lbl:longitude":-75.82489,
+    "mps:latitude":20.065143,
+    "mps:longitude":-75.809258,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:spa_x_colloquial":[
+        "La Risuena",
+        "La Risuenya"
+    ],
+    "name:spa_x_preferred":[
+        "La Risue\u00f1a"
+    ],
+    "name:unk_x_variant":[
+        "La Risue\u00f1a"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"La Risue\u00f1a",
+    "qs:local_max":2139,
+    "qs:local_sum":5427,
+    "qs:localhoods":10,
+    "qs:name":"La Risue\u00f1a",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Santiago de Cuba",
+    "qs:name_local":"Santiago de Cuba",
+    "qs:photo_max":11,
+    "qs:photo_sum":22,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424793,
+    "qs:woe_adm1":2345119,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":68043,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"CU",
+    "qs_pg:gn_country":"CU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3760597,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Risue\u00f1a",
+    "qs_pg:name_adm0":"Cuba",
+    "qs_pg:name_adm1":"Santiago de Cuba",
+    "qs_pg:photos":74,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":74,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":982546,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424793,
+    "qs_pg:woe_id":64256,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670441,
+        102191575,
+        85632675,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3760597,
+        "gp:id":64256,
+        "qs:id":982546,
+        "qs_pg:id":982546
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"66fd883f54a46bbb243ec25ef94e816c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":-1,
+            "neighbourhood_id":85793615,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":85793615,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379264,
+    "wof:name":"La Risue\u00f1a",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126067981
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.82489,
+    20.053585,
+    -75.82489,
+    20.053585
+],
+  "geometry": {"coordinates":[-75.82489,20.053585],"type":"Point"}
+}

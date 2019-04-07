@@ -1,0 +1,70 @@
+{
+  "id": 1242649993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.65344,22.46334,-79.65344,22.46334",
+    "geom:latitude":22.46334,
+    "geom:longitude":-79.65344,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Corea",
+    "gn:country_code":"CU",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11008450,
+    "gn:latitude":22.46334,
+    "gn:longitude":-79.65344,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Corea",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Corea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091903633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008450
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"833d664ed4cad618a5d756805ca29831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903633,
+            "locality_id":1242649993,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1242649993,
+    "wof:lastmodified":1537619170,
+    "wof:name":"Corea",
+    "wof:parent_id":1091903633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.65344,
+    22.46334,
+    -79.65344,
+    22.46334
+],
+  "geometry": {"coordinates":[-79.65344,22.46334],"type":"Point"}
+}

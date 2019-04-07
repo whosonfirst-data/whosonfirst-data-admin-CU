@@ -1,0 +1,70 @@
+{
+  "id": 1259777859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.47469,20.10628,-76.47469,20.10628",
+    "geom:latitude":20.10628,
+    "geom:longitude":-76.47469,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Franco Arriba",
+    "gn:country_code":"CU",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11063926,
+    "gn:latitude":20.10628,
+    "gn:longitude":-76.47469,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"El Franco Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Franco Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091905039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063926
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e980e8daf388eda270bca0bf3ef14733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905039,
+            "locality_id":1259777859,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1259777859,
+    "wof:lastmodified":1537619215,
+    "wof:name":"El Franco Arriba",
+    "wof:parent_id":1091905039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.47469,
+    20.10628,
+    -76.47469,
+    20.10628
+],
+  "geometry": {"coordinates":[-76.47469,20.10628],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259470119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.38791,21.03269,-76.38791,21.03269",
+    "geom:latitude":21.03269,
+    "geom:longitude":-76.38791,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Los Haytes",
+    "gn:country_code":"CU",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11059315,
+    "gn:latitude":21.03269,
+    "gn:longitude":-76.38791,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Los Haytes",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Haytes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11059315
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"de9ca1640f1f98ced8e2a37bc8f8c4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904693,
+            "locality_id":1259470119,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1259470119,
+    "wof:lastmodified":1537619207,
+    "wof:name":"Los Haytes",
+    "wof:parent_id":1091904693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.38790999999998,
+    21.03269,
+    -76.38790999999998,
+    21.03269
+],
+  "geometry": {"coordinates":[-76.38790999999998,21.03269],"type":"Point"}
+}

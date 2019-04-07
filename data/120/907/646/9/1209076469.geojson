@@ -1,0 +1,65 @@
+{
+  "id": 1209076469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.53202,20.41548,-75.53202,20.41548",
+    "geom:latitude":20.41548,
+    "geom:longitude":-75.53202,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mayari Arriba",
+    "gn:country_code":"CU",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547311,
+    "gn:latitude":20.41548,
+    "gn:longitude":-75.53202,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"Mayar\u00ed Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mayar\u00ed Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547311,
+        "wk:page":"Mayar%C3%AD_Arriba"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a004db1305b3d2f229d97e913f45722d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209076469
+        }
+    ],
+    "wof:id":1209076469,
+    "wof:lastmodified":1537618959,
+    "wof:name":"Mayari Arriba",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.53201999999997,
+    20.41548,
+    -75.53201999999997,
+    20.41548
+],
+  "geometry": {"coordinates":[-75.53201999999997,20.41548],"type":"Point"}
+}

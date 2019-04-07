@@ -1,0 +1,70 @@
+{
+  "id": 1293661749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.98302,22.27123,-79.98302,22.27123",
+    "geom:latitude":22.27123,
+    "geom:longitude":-79.98302,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Aguas Blancas",
+    "gn:country_code":"CU",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3569497,
+    "gn:latitude":22.27123,
+    "gn:longitude":-79.98302,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Aguas Blancas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3569497
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ad0576751ef1ab67ec82bc84bd874256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1293661749,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1293661749,
+    "wof:lastmodified":1537619122,
+    "wof:name":"Aguas Blancas",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.98302,
+    22.27123,
+    -79.98302,
+    22.27123
+],
+  "geometry": {"coordinates":[-79.98302,22.27123],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327220993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63356,20.77896,-76.63356,20.77896",
+    "geom:latitude":20.77896,
+    "geom:longitude":-76.63356,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mir",
+    "gn:country_code":"CU",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3546863,
+    "gn:latitude":20.77896,
+    "gn:longitude":-76.63356,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"Mir",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091903541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546863,
+        "wk:page":"Mir_(Calixto_Garc%C3%ADa)"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a92874bc3ed4c323d2e23104ef1e99f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903541,
+            "locality_id":1327220993,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1327220993,
+    "wof:lastmodified":1537618956,
+    "wof:name":"Mir",
+    "wof:parent_id":1091903541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63356,
+    20.77896,
+    -76.63356,
+    20.77896
+],
+  "geometry": {"coordinates":[-76.63356,20.77896],"type":"Point"}
+}

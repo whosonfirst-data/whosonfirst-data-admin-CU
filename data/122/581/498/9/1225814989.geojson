@@ -1,0 +1,70 @@
+{
+  "id": 1225814989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.46393,22.80856,-80.46393,22.80856",
+    "geom:latitude":22.80856,
+    "geom:longitude":-80.46393,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Cayama",
+    "gn:country_code":"CU",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3564855,
+    "gn:latitude":22.80856,
+    "gn:longitude":-80.46393,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Cayama",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cayama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564855
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"056be98ceadc78e557be9b31c218b56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904251,
+            "locality_id":1225814989,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1225814989,
+    "wof:lastmodified":1537619086,
+    "wof:name":"Cayama",
+    "wof:parent_id":1091904251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.46393,
+    22.80856,
+    -80.46393,
+    22.80856
+],
+  "geometry": {"coordinates":[-80.46393,22.80856],"type":"Point"}
+}

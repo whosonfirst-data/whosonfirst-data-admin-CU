@@ -1,0 +1,64 @@
+{
+  "id": 1209524965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.27921,22.61736,-83.27921,22.61736",
+    "geom:latitude":22.61736,
+    "geom:longitude":-83.27921,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Perico Garcia",
+    "gn:country_code":"CU",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3544389,
+    "gn:latitude":22.61736,
+    "gn:longitude":-83.27921,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Perico Garc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Perico Garc\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544389
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"88469d4d63dcf0b347468a060c31db22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209524965
+        }
+    ],
+    "wof:id":1209524965,
+    "wof:lastmodified":1537618941,
+    "wof:name":"Perico Garcia",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.27920999999998,
+    22.61736,
+    -83.27920999999998,
+    22.61736
+],
+  "geometry": {"coordinates":[-83.27920999999998,22.61736],"type":"Point"}
+}

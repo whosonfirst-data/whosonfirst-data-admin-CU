@@ -1,0 +1,70 @@
+{
+  "id": 1343344305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.97987,19.89117,-76.97987,19.89117",
+    "geom:latitude":19.89117,
+    "geom:longitude":-76.97987,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Zorrita",
+    "gn:country_code":"CU",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027112,
+    "gn:latitude":19.89117,
+    "gn:longitude":-76.97987,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Zorrita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Zorrita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027112
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9cf927fc220d1493184d59b2a9ea15b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904765,
+            "locality_id":1343344305,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1343344305,
+    "wof:lastmodified":1537619194,
+    "wof:name":"La Zorrita",
+    "wof:parent_id":1091904765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.97986999999998,
+    19.89117,
+    -76.97986999999998,
+    19.89117
+],
+  "geometry": {"coordinates":[-76.97986999999998,19.89117],"type":"Point"}
+}

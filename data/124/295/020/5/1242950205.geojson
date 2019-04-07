@@ -1,0 +1,67 @@
+{
+  "id": 1242950205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.14083,21.06083,-76.14083,21.06083",
+    "geom:latitude":21.06083,
+    "geom:longitude":-76.14083,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Calderon",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3566195,
+    "gn:latitude":21.06083,
+    "gn:longitude":-76.14083,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Calder\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091907267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566195
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b4ec013748fa6776a79c088e2dc71b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907267,
+            "locality_id":1242950205,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1242950205,
+    "wof:lastmodified":1537023044,
+    "wof:name":"Calderon",
+    "wof:parent_id":1091907267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.14083000000002,
+    21.06083,
+    -76.14083000000002,
+    21.06083
+],
+  "geometry": {"coordinates":[-76.14083000000002,21.06083],"type":"Point"}
+}

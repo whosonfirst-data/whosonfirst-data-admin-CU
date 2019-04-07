@@ -1,0 +1,70 @@
+{
+  "id": 1226755421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.65245,22.69936,-80.65245,22.69936",
+    "geom:latitude":22.69936,
+    "geom:longitude":-80.65245,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cinturon Dos",
+    "gn:country_code":"CU",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007151,
+    "gn:latitude":22.69936,
+    "gn:longitude":-80.65245,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Cintur\u00f3n Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cintur\u00f3n Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007151
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a44ad81226fec78cef88441a304c98d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905697,
+            "locality_id":1226755421,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1226755421,
+    "wof:lastmodified":1537619158,
+    "wof:name":"Cinturon Dos",
+    "wof:parent_id":1091905697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.65245,
+    22.69936,
+    -80.65245,
+    22.69936
+],
+  "geometry": {"coordinates":[-80.65245,22.69936],"type":"Point"}
+}

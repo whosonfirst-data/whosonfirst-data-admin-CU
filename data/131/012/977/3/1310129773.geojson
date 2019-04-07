@@ -1,0 +1,70 @@
+{
+  "id": 1310129773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.7162,21.80158,-82.7162,21.80158",
+    "geom:latitude":21.80158,
+    "geom:longitude":-82.7162,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Casa Cayo",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003461,
+    "gn:latitude":21.80158,
+    "gn:longitude":-82.7162,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Casa Cayo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Casa Cayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670405,
+        1091906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003461
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bd6a69252af40ce077cd9480fcc22271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906563,
+            "locality_id":1310129773,
+            "region_id":85670405
+        }
+    ],
+    "wof:id":1310129773,
+    "wof:lastmodified":1537619155,
+    "wof:name":"Casa Cayo",
+    "wof:parent_id":1091906563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.7162,
+    21.80158,
+    -82.7162,
+    21.80158
+],
+  "geometry": {"coordinates":[-82.7162,21.80158],"type":"Point"}
+}

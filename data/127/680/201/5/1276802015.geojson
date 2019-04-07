@@ -1,0 +1,70 @@
+{
+  "id": 1276802015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.96962,22.80857,-81.96962,22.80857",
+    "geom:latitude":22.80857,
+    "geom:longitude":-81.96962,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Rio Seco",
+    "gn:country_code":"CU",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542098,
+    "gn:latitude":22.80857,
+    "gn:longitude":-81.96962,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"R\u00edo Seco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Seco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091904955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542098
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3a6bf21c5f18c60283862f4394d4f4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904955,
+            "locality_id":1276802015,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1276802015,
+    "wof:lastmodified":1537618925,
+    "wof:name":"Rio Seco",
+    "wof:parent_id":1091904955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.96961999999998,
+    22.80857,
+    -81.96961999999998,
+    22.80857
+],
+  "geometry": {"coordinates":[-81.96961999999998,22.80857],"type":"Point"}
+}

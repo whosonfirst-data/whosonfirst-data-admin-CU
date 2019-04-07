@@ -1,0 +1,79 @@
+{
+  "id": 421178095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.85583,22.86444,-82.85583,22.86444",
+    "geom:latitude":22.86444,
+    "geom:longitude":-82.85583,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Poblado Cayajabos"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3564861,
+    "qs:gn_pop":0,
+    "qs:name":"Cayajabos",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"La Habana",
+    "qs:photos":191,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":191,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":40658,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":61069,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091902795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564861,
+        "gp:id":61069,
+        "qs:id":40658
+    },
+    "wof:country":"CU",
+    "wof:created":1459009170,
+    "wof:geomhash":"7802c0050427ae50e0d0db1466f22551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902795,
+            "locality_id":421178095,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":421178095,
+    "wof:lastmodified":1501267676,
+    "wof:name":"Cayajabos",
+    "wof:parent_id":1091902795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.85583,
+    22.86444,
+    -82.85583,
+    22.86444
+],
+  "geometry": {"coordinates":[-82.85583,22.86444],"type":"Point"}
+}

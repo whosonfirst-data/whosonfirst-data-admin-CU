@@ -1,0 +1,70 @@
+{
+  "id": 1242564627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.1849,20.94235,-76.1849,20.94235",
+    "geom:latitude":20.94235,
+    "geom:longitude":-76.1849,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Algaroba",
+    "gn:country_code":"CU",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11061820,
+    "gn:latitude":20.94235,
+    "gn:longitude":-76.1849,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Algaroba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Algaroba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091905117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11061820
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"21811ee78471f19332b6113f1c8386c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905117,
+            "locality_id":1242564627,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1242564627,
+    "wof:lastmodified":1537619210,
+    "wof:name":"Algaroba",
+    "wof:parent_id":1091905117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.1849,
+    20.94235,
+    -76.1849,
+    20.94235
+],
+  "geometry": {"coordinates":[-76.1849,20.94235],"type":"Point"}
+}

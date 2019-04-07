@@ -1,0 +1,64 @@
+{
+  "id": 1310478811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.61107,20.94162,-75.61107,20.94162",
+    "geom:latitude":20.94162,
+    "geom:longitude":-75.61107,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Puerto Rico",
+    "gn:country_code":"CU",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543293,
+    "gn:latitude":20.94162,
+    "gn:longitude":-75.61107,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Puerto Rico",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Rico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543293
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ab8f7e36cefb50a132eb41a0534553ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310478811,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310478811,
+    "wof:lastmodified":1537618933,
+    "wof:name":"Puerto Rico",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.61107,
+    20.94162,
+    -75.61107,
+    20.94162
+],
+  "geometry": {"coordinates":[-75.61107,20.94162],"type":"Point"}
+}

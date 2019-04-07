@@ -1,0 +1,73 @@
+{
+  "id": 1209697963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.21216,22.81963,-80.21216,22.81963",
+    "geom:latitude":22.81963,
+    "geom:longitude":-80.21216,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Martinez",
+    "gn:country_code":"CU",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11007386,
+    "gn:latitude":22.81963,
+    "gn:longitude":-80.21216,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Mart\u00ednez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Martinez"
+    ],
+    "name:spa_x_variant":[
+        "Mart\u00ednez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007386
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8a6b6a3691818da3aed07c330d5eec2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907545,
+            "locality_id":1209697963,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1209697963,
+    "wof:lastmodified":1537619162,
+    "wof:name":"Martinez",
+    "wof:parent_id":1091907545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.21216,
+    22.81963,
+    -80.21216,
+    22.81963
+],
+  "geometry": {"coordinates":[-80.21216,22.81963],"type":"Point"}
+}

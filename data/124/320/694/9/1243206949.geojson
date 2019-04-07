@@ -1,0 +1,70 @@
+{
+  "id": 1243206949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.81326,22.8912,-81.81326,22.8912",
+    "geom:latitude":22.8912,
+    "geom:longitude":-81.81326,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Cayajabos",
+    "gn:country_code":"CU",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3564862,
+    "gn:latitude":22.8912,
+    "gn:longitude":-81.81326,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Cayajabos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cayajabos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091905779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564862
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5743fa97aa4ff4a1816538b07a998259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905779,
+            "locality_id":1243206949,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1243206949,
+    "wof:lastmodified":1537619086,
+    "wof:name":"Cayajabos",
+    "wof:parent_id":1091905779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.81326,
+    22.8912,
+    -81.81326,
+    22.8912
+],
+  "geometry": {"coordinates":[-81.81326,22.8912],"type":"Point"}
+}

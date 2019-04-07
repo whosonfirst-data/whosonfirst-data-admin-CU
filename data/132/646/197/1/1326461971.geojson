@@ -1,0 +1,70 @@
+{
+  "id": 1326461971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.21532,21.12977,-77.21532,21.12977",
+    "geom:latitude":21.12977,
+    "geom:longitude":-77.21532,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Angelina",
+    "gn:country_code":"CU",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058845,
+    "gn:latitude":21.12977,
+    "gn:longitude":-77.21532,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"La Angelina",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Angelina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058845
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4dcd4667e6dbfe3c742f91d295c8c36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904725,
+            "locality_id":1326461971,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1326461971,
+    "wof:lastmodified":1537619206,
+    "wof:name":"La Angelina",
+    "wof:parent_id":1091904725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.21531999999998,
+    21.12977,
+    -77.21531999999998,
+    21.12977
+],
+  "geometry": {"coordinates":[-77.21531999999998,21.12977],"type":"Point"}
+}

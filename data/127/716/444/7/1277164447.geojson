@@ -1,0 +1,70 @@
+{
+  "id": 1277164447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.91668,20.49211,-75.91668,20.49211",
+    "geom:latitude":20.49211,
+    "geom:longitude":-75.91668,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Canapu",
+    "gn:country_code":"CU",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063735,
+    "gn:latitude":20.49211,
+    "gn:longitude":-75.91668,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Canap\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Canap\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063735
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7852ab456b4e332a2a3b603499ebc6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904361,
+            "locality_id":1277164447,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1277164447,
+    "wof:lastmodified":1537619213,
+    "wof:name":"Canapu",
+    "wof:parent_id":1091904361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.91668,
+    20.49211,
+    -75.91668,
+    20.49211
+],
+  "geometry": {"coordinates":[-75.91668,20.49211],"type":"Point"}
+}

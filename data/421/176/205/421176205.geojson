@@ -1,0 +1,138 @@
+{
+  "id": 421176205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.51361,22.50472,-83.51361,22.50472",
+    "geom:latitude":22.50472,
+    "geom:longitude":-83.51361,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Municipio de Consolaci\u00f3n del Sur"
+    ],
+    "name:chi_x_preferred":[
+        "\u5357\u5b54\u7d22\u62c9\u897f\u7fc1"
+    ],
+    "name:deu_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
+    "name:dut_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
+    "name:eng_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
+    "name:fra_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
+    "name:fre_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10dd\u10dc\u10e1\u10dd\u10da\u10d0\u10e1\u10d8\u10dd\u10dc-\u10d3\u10d4\u10da-\u10e1\u10e3\u10e0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
+    "name:hat_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
+    "name:ita_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10dc\u10e1\u10dd\u10da\u10d0\u10e1\u10d8\u10dd\u10dc-\u10d3\u10d4\u10da-\u10e1\u10e3\u10e0\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
+    "name:por_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
+    "name:spa_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u043e\u043b\u0430\u0441\u0438\u043e\u043d \u0434\u0435\u043b \u0421\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Consolaci\u00f3n del Sur"
+    ],
+    "name:unk_x_variant":[
+        "Consolaci\u00f3n"
+    ],
+    "name:vie_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3563559,
+    "qs:gn_pop":69857,
+    "qs:name":"Consolaci\u00f3n del Sur",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Pinar del Rio",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1045510,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":61351,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":240,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091904175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563559,
+        "gp:id":61351,
+        "qs:id":1045510,
+        "wd:id":"Q1127452"
+    },
+    "wof:country":"CU",
+    "wof:created":1459009101,
+    "wof:geomhash":"7b78eb794af9b6d91efd569db1bdca1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904175,
+            "locality_id":421176205,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":421176205,
+    "wof:lastmodified":1527726471,
+    "wof:name":"Consolaci\u00f3n del Sur",
+    "wof:parent_id":1091904175,
+    "wof:placetype":"locality",
+    "wof:population":69857,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.51361,
+    22.50472,
+    -83.51361,
+    22.50472
+],
+  "geometry": {"coordinates":[-83.51361,22.50472],"type":"Point"}
+}

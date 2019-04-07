@@ -1,0 +1,70 @@
+{
+  "id": 1225821799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.04528,21.13679,-77.04528,21.13679",
+    "geom:latitude":21.13679,
+    "geom:longitude":-77.04528,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Arevalo",
+    "gn:country_code":"CU",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058842,
+    "gn:latitude":21.13679,
+    "gn:longitude":-77.04528,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Ar\u00e9valo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ar\u00e9valo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058842
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6ec9a318766c604e2b019a91553d928c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905945,
+            "locality_id":1225821799,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1225821799,
+    "wof:lastmodified":1537619206,
+    "wof:name":"Arevalo",
+    "wof:parent_id":1091905945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.04528,
+    21.13679,
+    -77.04528,
+    21.13679
+],
+  "geometry": {"coordinates":[-77.04528000000001,21.13679],"type":"Point"}
+}

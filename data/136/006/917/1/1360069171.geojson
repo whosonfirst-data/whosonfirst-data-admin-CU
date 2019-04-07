@@ -1,0 +1,70 @@
+{
+  "id": 1360069171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.68008,20.09809,-74.68008,20.09809",
+    "geom:latitude":20.09809,
+    "geom:longitude":-74.68008,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Posango",
+    "gn:country_code":"CU",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081674,
+    "gn:latitude":20.09809,
+    "gn:longitude":-74.68008,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"El Posango",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Posango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081674
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a3b323b61cc7cef91cb7b2058e3f769a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1360069171,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1360069171,
+    "wof:lastmodified":1537619230,
+    "wof:name":"El Posango",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.68008,
+    20.09809,
+    -74.68008,
+    20.09809
+],
+  "geometry": {"coordinates":[-74.68008,20.09809],"type":"Point"}
+}

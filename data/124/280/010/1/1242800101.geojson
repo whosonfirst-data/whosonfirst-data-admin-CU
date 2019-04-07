@@ -1,0 +1,70 @@
+{
+  "id": 1242800101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.60298,22.19957,-80.60298,22.19957",
+    "geom:latitude":22.19957,
+    "geom:longitude":-80.60298,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Encarnacion",
+    "gn:country_code":"CU",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3559425,
+    "gn:latitude":22.19957,
+    "gn:longitude":-80.60298,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Encarnaci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Encarnaci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091902555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559425
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bc74b7d792d980bd66e06ca66e14f961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902555,
+            "locality_id":1242800101,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1242800101,
+    "wof:lastmodified":1537619043,
+    "wof:name":"Encarnacion",
+    "wof:parent_id":1091902555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.60298,
+    22.19957,
+    -80.60298,
+    22.19957
+],
+  "geometry": {"coordinates":[-80.60298,22.19957],"type":"Point"}
+}

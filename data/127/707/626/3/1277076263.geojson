@@ -1,0 +1,70 @@
+{
+  "id": 1277076263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.02168,22.85324,-81.02168,22.85324",
+    "geom:latitude":22.85324,
+    "geom:longitude":-81.02168,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Enriqueta",
+    "gn:country_code":"CU",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3559398,
+    "gn:latitude":22.85324,
+    "gn:longitude":-81.02168,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Enriqueta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Enriqueta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559398
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bb0fc11f601d7e133058fb29b2c66df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906933,
+            "locality_id":1277076263,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1277076263,
+    "wof:lastmodified":1537619043,
+    "wof:name":"Enriqueta",
+    "wof:parent_id":1091906933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.02168,
+    22.85324,
+    -81.02168,
+    22.85324
+],
+  "geometry": {"coordinates":[-81.02168,22.85324],"type":"Point"}
+}

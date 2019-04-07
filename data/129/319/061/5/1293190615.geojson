@@ -1,0 +1,70 @@
+{
+  "id": 1293190615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.38069,19.9804,-77.38069,19.9804",
+    "geom:latitude":19.9804,
+    "geom:longitude":-77.38069,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Almacigon",
+    "gn:country_code":"CU",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027617,
+    "gn:latitude":19.9804,
+    "gn:longitude":-77.38069,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Almacig\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Almacig\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027617
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"602528eda882a1d529f6d64deb3a73e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906341,
+            "locality_id":1293190615,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1293190615,
+    "wof:lastmodified":1537619196,
+    "wof:name":"Almacigon",
+    "wof:parent_id":1091906341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.38069,
+    19.9804,
+    -77.38069,
+    19.9804
+],
+  "geometry": {"coordinates":[-77.38069,19.9804],"type":"Point"}
+}

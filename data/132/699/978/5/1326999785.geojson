@@ -1,0 +1,71 @@
+{
+  "id": 1326999785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.64532,22.64636,-79.64532,22.64636",
+    "geom:latitude":22.64636,
+    "geom:longitude":-79.64532,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Camacho",
+    "gn:country_code":"CU",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3566084,
+    "gn:latitude":22.64636,
+    "gn:longitude":-79.64532,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Camacho",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Camacho",
+        "Camacho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091903633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566084
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"70db4c543e849d6790f63bfd02e0b353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903633,
+            "locality_id":1326999785,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1326999785,
+    "wof:lastmodified":1537619097,
+    "wof:name":"Camacho",
+    "wof:parent_id":1091903633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.64532,
+    22.64636,
+    -79.64532,
+    22.64636
+],
+  "geometry": {"coordinates":[-79.64532,22.64636],"type":"Point"}
+}

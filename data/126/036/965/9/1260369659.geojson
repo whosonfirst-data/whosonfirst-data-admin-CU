@@ -1,0 +1,74 @@
+{
+  "id": 1260369659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.47889,21.10833,-76.47889,21.10833",
+    "geom:latitude":21.10833,
+    "geom:longitude":-76.47889,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Juan Saez",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3555783,
+    "gn:latitude":21.10833,
+    "gn:longitude":-76.47889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Juan S\u00e1ez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juan Saiz",
+        "Juan Sanches",
+        "Juan Saez",
+        "Juan S\u00e1ez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555783
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b21750a434605d79ed6d4722e07d6a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1260369659,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1260369659,
+    "wof:lastmodified":1537619019,
+    "wof:name":"Juan Saez",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.47889,
+    21.10833,
+    -76.47889,
+    21.10833
+],
+  "geometry": {"coordinates":[-76.47889000000001,21.10833],"type":"Point"}
+}

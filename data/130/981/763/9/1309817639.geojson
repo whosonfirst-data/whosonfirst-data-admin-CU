@@ -1,0 +1,72 @@
+{
+  "id": 1309817639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.26476,22.18208,-84.26476,22.18208",
+    "geom:latitude":22.18208,
+    "geom:longitude":-84.26476,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hato Guane",
+    "gn:country_code":"CU",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3557186,
+    "gn:latitude":22.18208,
+    "gn:longitude":-84.26476,
+    "gn:modification_date":"2013-09-07",
+    "gn:name":"Hato Guane",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hato Viejo de Guane",
+        "Hato de Guane",
+        "Hato Guane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091906027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557186
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7cc986bfb986384c93d26a2fe0a25d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906027,
+            "locality_id":1309817639,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1309817639,
+    "wof:lastmodified":1537619028,
+    "wof:name":"Hato Guane",
+    "wof:parent_id":1091906027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.26476,
+    22.18208,
+    -84.26476,
+    22.18208
+],
+  "geometry": {"coordinates":[-84.26476,22.18208],"type":"Point"}
+}

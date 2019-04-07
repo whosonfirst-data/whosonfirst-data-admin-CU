@@ -1,0 +1,70 @@
+{
+  "id": 1225975571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.22062,22.75193,-82.22062,22.75193",
+    "geom:latitude":22.75193,
+    "geom:longitude":-82.22062,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Santa Barbara",
+    "gn:country_code":"CU",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3538029,
+    "gn:latitude":22.75193,
+    "gn:longitude":-82.22062,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Santa B\u00e1rbara",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        890445471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538029
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e48bd4ce3d5b25fc5f23f8cbf5759c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":890445471,
+            "locality_id":1225975571,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1225975571,
+    "wof:lastmodified":1537618904,
+    "wof:name":"Santa Barbara",
+    "wof:parent_id":890445471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.22062,
+    22.75193,
+    -82.22062,
+    22.75193
+],
+  "geometry": {"coordinates":[-82.22062,22.75193],"type":"Point"}
+}

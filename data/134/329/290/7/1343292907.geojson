@@ -1,0 +1,70 @@
+{
+  "id": 1343292907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.68358,23.1014,-81.68358,23.1014",
+    "geom:latitude":23.1014,
+    "geom:longitude":-81.68358,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"San Jose del Tejar",
+    "gn:country_code":"CU",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3539535,
+    "gn:latitude":23.1014,
+    "gn:longitude":-81.68358,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"San Jos\u00e9 del Tejar",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 del Tejar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539535
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"846b38ddaf3d30a66c2e5bb6b86f535d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906273,
+            "locality_id":1343292907,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1343292907,
+    "wof:lastmodified":1537618911,
+    "wof:name":"San Jose del Tejar",
+    "wof:parent_id":1091906273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.68358,
+    23.1014,
+    -81.68358,
+    23.1014
+],
+  "geometry": {"coordinates":[-81.68358000000001,23.1014],"type":"Point"}
+}

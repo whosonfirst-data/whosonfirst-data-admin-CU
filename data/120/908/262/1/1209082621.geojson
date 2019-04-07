@@ -1,0 +1,64 @@
+{
+  "id": 1209082621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.09582,21.39869,-77.09582,21.39869",
+    "geom:latitude":21.39869,
+    "geom:longitude":-77.09582,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Tropezon",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058105,
+    "gn:latitude":21.39869,
+    "gn:longitude":-77.09582,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"El Tropez\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Tropez\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058105
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2b5d85adfb92b9dc1383e8461e78bd4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209082621
+        }
+    ],
+    "wof:id":1209082621,
+    "wof:lastmodified":1537619205,
+    "wof:name":"El Tropezon",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.09581999999997,
+    21.39869,
+    -77.09581999999997,
+    21.39869
+],
+  "geometry": {"coordinates":[-77.09581999999997,21.39869],"type":"Point"}
+}

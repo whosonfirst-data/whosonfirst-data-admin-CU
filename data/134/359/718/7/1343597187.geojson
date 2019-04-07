@@ -1,0 +1,67 @@
+{
+  "id": 1343597187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.9,22.65,-82.9,22.65",
+    "geom:latitude":22.65,
+    "geom:longitude":-82.9,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Pluma",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3543848,
+    "gn:latitude":22.65,
+    "gn:longitude":-82.9,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"Pluma",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091903705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543848
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ceb40ae49bd30ec67dce4f124db391a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903705,
+            "locality_id":1343597187,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1343597187,
+    "wof:lastmodified":1537044443,
+    "wof:name":"Pluma",
+    "wof:parent_id":1091903705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.9,
+    22.65,
+    -82.9,
+    22.65
+],
+  "geometry": {"coordinates":[-82.90000000000001,22.65],"type":"Point"}
+}

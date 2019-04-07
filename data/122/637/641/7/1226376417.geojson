@@ -1,0 +1,72 @@
+{
+  "id": 1226376417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.9,23.1,-81.9,23.1",
+    "geom:latitude":23.1,
+    "geom:longitude":-81.9,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Oviedo",
+    "gn:country_code":"CU",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3545411,
+    "gn:latitude":23.1,
+    "gn:longitude":-81.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oviedo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 de Oviedo",
+        "Oveido",
+        "Oviedo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091908039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545411
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1d9b6cce7d6072370664391ea7da693b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908039,
+            "locality_id":1226376417,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1226376417,
+    "wof:lastmodified":1537618948,
+    "wof:name":"Oviedo",
+    "wof:parent_id":1091908039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.9,
+    23.1,
+    -81.9,
+    23.1
+],
+  "geometry": {"coordinates":[-81.90000000000001,23.1],"type":"Point"}
+}

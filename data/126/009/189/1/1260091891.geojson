@@ -1,0 +1,67 @@
+{
+  "id": 1260091891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.53639,23.03722,-81.53639,23.03722",
+    "geom:latitude":23.03722,
+    "geom:longitude":-81.53639,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Parque de Las Naciones",
+    "gn:country_code":"CU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3544800,
+    "gn:latitude":23.03722,
+    "gn:longitude":-81.53639,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Parque de Las Naciones",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544800
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"17ac068457e70463db36c093bc746356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906273,
+            "locality_id":1260091891,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1260091891,
+    "wof:lastmodified":1536975374,
+    "wof:name":"Parque de Las Naciones",
+    "wof:parent_id":1091906273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.53639,
+    23.03722,
+    -81.53639,
+    23.03722
+],
+  "geometry": {"coordinates":[-81.53639,23.03722],"type":"Point"}
+}

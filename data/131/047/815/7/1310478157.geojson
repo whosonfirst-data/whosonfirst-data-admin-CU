@@ -1,0 +1,70 @@
+{
+  "id": 1310478157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.09497,21.12664,-77.09497,21.12664",
+    "geom:latitude":21.12664,
+    "geom:longitude":-77.09497,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Villanueva",
+    "gn:country_code":"CU",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3534134,
+    "gn:latitude":21.12664,
+    "gn:longitude":-77.09497,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Villanueva",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villanueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534134
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f02cc605a307ab5a7a8efbdd68ecca37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905619,
+            "locality_id":1310478157,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1310478157,
+    "wof:lastmodified":1537618882,
+    "wof:name":"Villanueva",
+    "wof:parent_id":1091905619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.09496999999998,
+    21.12664,
+    -77.09496999999998,
+    21.12664
+],
+  "geometry": {"coordinates":[-77.09496999999998,21.12664],"type":"Point"}
+}

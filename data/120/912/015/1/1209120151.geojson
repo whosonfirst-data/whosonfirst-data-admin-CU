@@ -1,0 +1,64 @@
+{
+  "id": 1209120151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.83069,22.19018,-83.83069,22.19018",
+    "geom:latitude":22.19018,
+    "geom:longitude":-83.83069,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Campo Alegre",
+    "gn:country_code":"CU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10945456,
+    "gn:latitude":22.19018,
+    "gn:longitude":-83.83069,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Campo Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Campo Alegre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945456
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"daa0d4391d90e2434135014192609f6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209120151
+        }
+    ],
+    "wof:id":1209120151,
+    "wof:lastmodified":1537619143,
+    "wof:name":"Campo Alegre",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.83069,
+    22.19018,
+    -83.83069,
+    22.19018
+],
+  "geometry": {"coordinates":[-83.83069,22.19018],"type":"Point"}
+}

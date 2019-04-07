@@ -1,0 +1,70 @@
+{
+  "id": 1226126015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.11021,22.15379,-79.11021,22.15379",
+    "geom:latitude":22.15379,
+    "geom:longitude":-79.11021,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bellamota",
+    "gn:country_code":"CU",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567494,
+    "gn:latitude":22.15379,
+    "gn:longitude":-79.11021,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Bellamota",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bellamota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567494
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c018d309d18100c75a18329b06508cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908735,
+            "locality_id":1226126015,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1226126015,
+    "wof:lastmodified":1537619108,
+    "wof:name":"Bellamota",
+    "wof:parent_id":1091908735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.11021,
+    22.15379,
+    -79.11021,
+    22.15379
+],
+  "geometry": {"coordinates":[-79.11021,22.15379],"type":"Point"}
+}

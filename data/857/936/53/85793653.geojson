@@ -1,0 +1,132 @@
+{
+  "id": 85793653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13029654.900745,
+    "geom:bbox":"-75.819811,20.021155,-75.819811,20.021155",
+    "geom:latitude":20.021155,
+    "geom:longitude":-75.819811,
+    "gn:gn_country":"CU",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":20.01667,
+    "gn:longitude":-75.81667,
+    "iso:country":"CU",
+    "lbl:latitude":20.021155,
+    "lbl:longitude":-75.819811,
+    "mps:latitude":19.982307,
+    "mps:longitude":-75.7959,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Reparto Desi"
+    ],
+    "name:unk_x_variant":[
+        "Reparto Desi"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Reparto Desi",
+    "qs:local_max":2139,
+    "qs:local_sum":5427,
+    "qs:localhoods":10,
+    "qs:name":"Reparto Desi",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Santiago de Cuba",
+    "qs:name_local":"Santiago de Cuba",
+    "qs:photo_max":164,
+    "qs:photo_sum":661,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":30,
+    "qs:woe_adm0":23424793,
+    "qs:woe_adm1":2345119,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":68043,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"CU",
+    "qs_pg:gn_country":"CU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3542433,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Reparto Desi",
+    "qs_pg:name_adm0":"Cuba",
+    "qs_pg:name_adm1":"Santiago de Cuba",
+    "qs_pg:photos":783,
+    "qs_pg:photos_1k":159,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":783,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":892009,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424793,
+    "qs_pg:woe_id":66564,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670441,
+        102191575,
+        85632675,
+        1091908137
+    ],
+    "wof:breaches":[
+        85793671
+    ],
+    "wof:concordances":{
+        "gn:id":3542433,
+        "gp:id":66564,
+        "qs:id":892009,
+        "qs_pg:id":892009
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"62cbf759f250921cf4ab71fc77434436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":-1,
+            "neighbourhood_id":85793653,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":85793653,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379265,
+    "wof:name":"Reparto Desi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126060595
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.819811,
+    20.021155,
+    -75.819811,
+    20.021155
+],
+  "geometry": {"coordinates":[-75.819811,20.021155],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277012831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.28861,22.78727,-82.28861,22.78727",
+    "geom:latitude":22.78727,
+    "geom:longitude":-82.28861,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"La Jia",
+    "gn:country_code":"CU",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3553806,
+    "gn:latitude":22.78727,
+    "gn:longitude":-82.28861,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"La J\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La J\u00eda"
+    ],
+    "name:und_x_variant":[
+        "La G\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091903035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553806
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7bd9483f63cfe55dc3ab7eb2c4e1f8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903035,
+            "locality_id":1277012831,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1277012831,
+    "wof:lastmodified":1537619005,
+    "wof:name":"La Jia",
+    "wof:parent_id":1091903035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.28860999999998,
+    22.78727,
+    -82.28860999999998,
+    22.78727
+],
+  "geometry": {"coordinates":[-82.28860999999998,22.78727],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327305433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.11667,20.95,-77.11667,20.95",
+    "geom:latitude":20.95,
+    "geom:longitude":-77.11667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mejias",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547193,
+    "gn:latitude":20.95,
+    "gn:longitude":-77.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mej\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mej\u00eda",
+        "Mej\u00edas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547193
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"388113402718cf66d28ad9fc08b2dc66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905447,
+            "locality_id":1327305433,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1327305433,
+    "wof:lastmodified":1537618959,
+    "wof:name":"Mejias",
+    "wof:parent_id":1091905447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.11667,
+    20.95,
+    -77.11667,
+    20.95
+],
+  "geometry": {"coordinates":[-77.11667,20.95],"type":"Point"}
+}

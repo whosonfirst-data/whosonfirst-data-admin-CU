@@ -1,0 +1,67 @@
+{
+  "id": 1343972375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.80806,22.26833,-83.80806,22.26833",
+    "geom:latitude":22.26833,
+    "geom:longitude":-83.80806,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Maria Antonia",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3547719,
+    "gn:latitude":22.26833,
+    "gn:longitude":-83.80806,
+    "gn:modification_date":"1995-06-07",
+    "gn:name":"Mar\u00eda Antonia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547719
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"70ba00c38a3eda86937a64eef21f96e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907755,
+            "locality_id":1343972375,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1343972375,
+    "wof:lastmodified":1537001975,
+    "wof:name":"Maria Antonia",
+    "wof:parent_id":1091907755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.80806,
+    22.26833,
+    -83.80806,
+    22.26833
+],
+  "geometry": {"coordinates":[-83.80806,22.26833],"type":"Point"}
+}

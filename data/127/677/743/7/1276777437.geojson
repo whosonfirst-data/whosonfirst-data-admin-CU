@@ -1,0 +1,70 @@
+{
+  "id": 1276777437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.65878,22.32376,-83.65878,22.32376",
+    "geom:latitude":22.32376,
+    "geom:longitude":-83.65878,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La Apetecida",
+    "gn:country_code":"CU",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10946680,
+    "gn:latitude":22.32376,
+    "gn:longitude":-83.65878,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"La Apetecida",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Apetecida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946680
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1db0c75740cdc9eb618a5c453df6cc83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907007,
+            "locality_id":1276777437,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1276777437,
+    "wof:lastmodified":1537619145,
+    "wof:name":"La Apetecida",
+    "wof:parent_id":1091907007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.65878000000002,
+    22.32376,
+    -83.65878000000002,
+    22.32376
+],
+  "geometry": {"coordinates":[-83.65878000000002,22.32376],"type":"Point"}
+}

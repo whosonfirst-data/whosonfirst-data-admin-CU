@@ -1,0 +1,73 @@
+{
+  "id": 1293134695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.14002,22.67797,-83.14002,22.67797",
+    "geom:latitude":22.67797,
+    "geom:longitude":-83.14002,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Coronela",
+    "gn:country_code":"CU",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3554494,
+    "gn:latitude":22.67797,
+    "gn:longitude":-83.14002,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Coronela",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Coronela"
+    ],
+    "name:und_x_variant":[
+        "La Coronela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554494
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"69d05a433cf2ea3f8b9071a75135ade5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907679,
+            "locality_id":1293134695,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1293134695,
+    "wof:lastmodified":1537619011,
+    "wof:name":"Coronela",
+    "wof:parent_id":1091907679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.14001999999998,
+    22.67797,
+    -83.14001999999998,
+    22.67797
+],
+  "geometry": {"coordinates":[-83.14001999999998,22.67797],"type":"Point"}
+}

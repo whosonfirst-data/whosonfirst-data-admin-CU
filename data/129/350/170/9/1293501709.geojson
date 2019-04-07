@@ -1,0 +1,67 @@
+{
+  "id": 1293501709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.26528,22.16444,-84.26528,22.16444",
+    "geom:latitude":22.16444,
+    "geom:longitude":-84.26528,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tongonina",
+    "gn:country_code":"CU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3535146,
+    "gn:latitude":22.16444,
+    "gn:longitude":-84.26528,
+    "gn:modification_date":"1996-06-27",
+    "gn:name":"Tongonina",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091906027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535146
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"eca4e9e7b93a7159ad5e1a89f8152308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906027,
+            "locality_id":1293501709,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1293501709,
+    "wof:lastmodified":1536766891,
+    "wof:name":"Tongonina",
+    "wof:parent_id":1091906027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.26528,
+    22.16444,
+    -84.26528,
+    22.16444
+],
+  "geometry": {"coordinates":[-84.26528,22.16444],"type":"Point"}
+}

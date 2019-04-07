@@ -1,0 +1,67 @@
+{
+  "id": 1259414665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.63333,21.55,-77.63333,21.55",
+    "geom:latitude":21.55,
+    "geom:longitude":-77.63333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Nicolas",
+    "gn:country_code":"CU",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3538754,
+    "gn:latitude":21.55,
+    "gn:longitude":-77.63333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"San Nicol\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091906457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538754
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fd01526e4f60ab15e7b6106d60498109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906457,
+            "locality_id":1259414665,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1259414665,
+    "wof:lastmodified":1536957734,
+    "wof:name":"San Nicolas",
+    "wof:parent_id":1091906457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.63333,
+    21.55,
+    -77.63333,
+    21.55
+],
+  "geometry": {"coordinates":[-77.63333,21.55],"type":"Point"}
+}

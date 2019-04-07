@@ -1,0 +1,70 @@
+{
+  "id": 1259665921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.49614,22.3828,-79.49614,22.3828",
+    "geom:latitude":22.3828,
+    "geom:longitude":-79.49614,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Heriberto Duquesne",
+    "gn:country_code":"CU",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3748270,
+    "gn:latitude":22.3828,
+    "gn:longitude":-79.49614,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Heriberto Duquesne",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Heriberto Duquesne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3748270
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"df9bc9651b5790b1a6b95cf14b7cdccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1259665921,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1259665921,
+    "wof:lastmodified":1537619135,
+    "wof:name":"Heriberto Duquesne",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.49614,
+    22.3828,
+    -79.49614,
+    22.3828
+],
+  "geometry": {"coordinates":[-79.49614,22.3828],"type":"Point"}
+}

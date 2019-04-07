@@ -1,0 +1,71 @@
+{
+  "id": 1260176349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.9167,22.04303,-78.9167,22.04303",
+    "geom:latitude":22.04303,
+    "geom:longitude":-78.9167,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Marroqui",
+    "gn:country_code":"CU",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547539,
+    "gn:latitude":22.04303,
+    "gn:longitude":-78.9167,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Marroqu\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palmarito",
+        "Marroqu\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091904557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547539
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3dde99ece6ab7f4f51709b875fc36056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904557,
+            "locality_id":1260176349,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1260176349,
+    "wof:lastmodified":1537618961,
+    "wof:name":"Marroqui",
+    "wof:parent_id":1091904557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.9167,
+    22.04303,
+    -78.9167,
+    22.04303
+],
+  "geometry": {"coordinates":[-78.91670000000001,22.04303],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327452643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.86861,20.65111,-76.86861,20.65111",
+    "geom:latitude":20.65111,
+    "geom:longitude":-76.86861,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Salado",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3541410,
+    "gn:latitude":20.65111,
+    "gn:longitude":-76.86861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Salado",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Salado",
+        "Salado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091907413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541410
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ffc851f23b354f605afbe69f98acdbfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907413,
+            "locality_id":1327452643,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1327452643,
+    "wof:lastmodified":1537618921,
+    "wof:name":"Salado",
+    "wof:parent_id":1091907413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.86861,
+    20.65111,
+    -76.86861,
+    20.65111
+],
+  "geometry": {"coordinates":[-76.86861,20.65111],"type":"Point"}
+}

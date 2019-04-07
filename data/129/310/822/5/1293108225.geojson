@@ -1,0 +1,71 @@
+{
+  "id": 1293108225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.9128,22.18206,-83.9128,22.18206",
+    "geom:latitude":22.18206,
+    "geom:longitude":-83.9128,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Boca de Galafre",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567150,
+    "gn:latitude":22.18206,
+    "gn:longitude":-83.9128,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Boca de Galafre",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca Galafre",
+        "Boca de Galafre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567150
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6e2c9dcc697456943f4bce784d9dff49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907755,
+            "locality_id":1293108225,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1293108225,
+    "wof:lastmodified":1537619105,
+    "wof:name":"Boca de Galafre",
+    "wof:parent_id":1091907755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.9128,
+    22.18206,
+    -83.9128,
+    22.18206
+],
+  "geometry": {"coordinates":[-83.9128,22.18206],"type":"Point"}
+}

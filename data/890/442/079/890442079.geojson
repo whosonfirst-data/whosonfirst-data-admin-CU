@@ -1,0 +1,350 @@
+{
+  "id": 890442079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.69806,22.4175,-83.69806,22.4175",
+    "geom:latitude":22.4175,
+    "geom:longitude":-83.69806,
+    "gn:country":"CU",
+    "gn:fcode":"PPLA",
+    "gn:pop":186990,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646\u0627\u0631 \u062f\u064a\u0644 \u0631\u064a\u0648"
+    ],
+    "name:arm_x_preferred":[
+        "\u054a\u056b\u0576\u0561\u0580 \u0564\u0565\u056c \u054c\u056b\u0578"
+    ],
+    "name:baq_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09bf\u09a8\u09be\u09b0 \u09a1\u09c7\u09b2 \u09b0\u09bf\u0993"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u043d\u0430\u0440 \u0434\u0435\u043b \u0420\u0438\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:chi_x_preferred":[
+        "\u6bd4\u90a3\u723e\u5fb7\u91cc\u5967"
+    ],
+    "name:cze_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:dan_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:deu_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:dut_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:eng_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:epo_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:est_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:eus_x_preferred":[
+        "Pinar del Rioko probintzia"
+    ],
+    "name:fin_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:fra_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:fre_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10d8\u10dc\u10d0\u10e0-\u10d3\u10d4\u10da-\u10e0\u10d8\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b9\u03bd\u03ac\u03c1 \u03bd\u03c4\u03b5\u03bb \u03a1\u03af\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0abf\u0aa8\u0abe\u0ab0 \u0aa1\u0ac7\u0ab2 \u0ab0\u0abf\u0aaf\u0acb"
+    ],
+    "name:hat_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e0\u05d0\u05e8 \u05d3\u05dc \u05e8\u05d9\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0940\u090f\u0928\u0906\u0930 \u0926\u093f\u0932 \u0930\u093f\u092f\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:ind_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:ita_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30ca\u30fc\u30eb\u30fb\u30c7\u30eb\u30fb\u30ea\u30aa"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cbf\u0ca8\u0cbe\u0cb0\u0ccd \u0ca1\u0cc6\u0cb2\u0ccd \u0cb0\u0cbf\u0caf\u0ccb"
+    ],
+    "name:kor_x_preferred":[
+        "\ud53c\ub098\ub974\ub378\ub9ac\uc624"
+    ],
+    "name:lav_x_preferred":[
+        "Pinara del Rio"
+    ],
+    "name:lit_x_preferred":[
+        "Pinar del Rijas"
+    ],
+    "name:ltz_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u0438\u043d\u0430\u0440 \u0434\u0435\u043b \u0420\u0438\u043e"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u093f\u0928\u093e\u0930 \u0921\u0947\u0932 \u0930\u093f\u0913"
+    ],
+    "name:may_x_preferred":[
+        "Pinar del Rio"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u043d\u0430\u0440 \u0434\u0435\u043b \u0420\u0438\u043e"
+    ],
+    "name:nah_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:nan_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:nob_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:nor_x_preferred":[
+        "Pinar del Rio"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u06cc\u0646\u0627\u0631 \u062f\u0644 \u0631\u06cc\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:por_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:rum_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043d\u0430\u0440-\u0434\u0435\u043b\u044c-\u0420\u0438\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd2\u0db1\u0dbb\u0dca \u0daf\u0dd9\u0dbd\u0dca \u0dbb\u0dd2\u0dba\u0ddd"
+    ],
+    "name:spa_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u043d\u0430\u0440 \u0434\u0435\u043b \u0420\u0438\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0b9f\u0bc6\u0bb2\u0bcd \u0bb0\u0bbf\u0baf\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c3f\u0c28\u0c3e\u0c30\u0c4d \u0c21\u0c46\u0c32\u0c4d \u0c30\u0c3f\u0c2f\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e40\u0e14\u0e25\u0e23\u0e35\u0e42\u0e2d"
+    ],
+    "name:tur_x_preferred":[
+        "Pinar del Rio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u043d\u0430\u0440-\u0434\u0435\u043b\u044c-\u0420\u0456\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0646\u0627\u0631 \u062f\u06cc\u0644 \u0631\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:vol_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:war_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Cuba",
+    "ne:ADM0_A3":"CUB",
+    "ne:ADM1NAME":"Pinar del R\u00edo",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3544091,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Pinar del Rio",
+    "ne:GN_POP":186990,
+    "ne:GTOPO30":44.0,
+    "ne:ISO_A2":"CU",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":22.417506,
+    "ne:LONGITUDE":-83.69808,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Pinar del Rio",
+    "ne:MAX_AREAKM":44.0,
+    "ne:MAX_AREAMI":17.0,
+    "ne:MAX_BBXMAX":-83.641667,
+    "ne:MAX_BBXMIN":-83.733333,
+    "ne:MAX_BBYMAX":22.458333,
+    "ne:MAX_BBYMIN":22.35,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":55.0,
+    "ne:MAX_PERMI":34.0,
+    "ne:MAX_POP10":159618,
+    "ne:MAX_POP20":159618,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-83.687798,
+    "ne:MEAN_BBYC":22.416667,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":44.0,
+    "ne:MIN_AREAMI":17.0,
+    "ne:MIN_BBXMAX":-83.641667,
+    "ne:MIN_BBXMIN":-83.733333,
+    "ne:MIN_BBYMAX":22.458333,
+    "ne:MIN_BBYMIN":22.35,
+    "ne:MIN_PERKM":55.0,
+    "ne:MIN_PERMI":34.0,
+    "ne:NAME":"Pinar del Rio",
+    "ne:NAMEALT":"Pinar Del Rio",
+    "ne:NAMEASCII":"Pinar del Rio",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":186990,
+    "ne:POP_MIN":159618,
+    "ne:POP_OTHER":159266,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Cuba",
+    "ne:SOV_A3":"CUB",
+    "ne:TIMEZONE":"America/Havana",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Pinar del R\u00edo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"wk",
+    "wd:elevation":61.0,
+    "wd:latitude":"22.412222222",
+    "wd:longitude":"-83.671944444",
+    "wd:population":188614,
+    "wd:wordcount":640,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544091,
+        "gp:id":66142,
+        "qs:id":274409,
+        "qs_pg:id":444414,
+        "wd:id":"Q244139",
+        "wk:page":"Pinar del R\u00edo"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052349,
+    "wof:geomhash":"2a18bc3246f687be4ec906d854d1cb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907007,
+            "locality_id":890442079,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":890442079,
+    "wof:lastmodified":1527792852,
+    "wof:name":"Pinar del R\u00edo",
+    "wof:parent_id":1091907007,
+    "wof:placetype":"locality",
+    "wof:population":188614,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.69806,
+    22.4175,
+    -83.69806,
+    22.4175
+],
+  "geometry": {"coordinates":[-83.69806,22.4175],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293573691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.14023,20.26907,-77.14023,20.26907",
+    "geom:latitude":20.26907,
+    "geom:longitude":-77.14023,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Congo",
+    "gn:country_code":"CU",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3563578,
+    "gn:latitude":20.26907,
+    "gn:longitude":-77.14023,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"El Congo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Congo"
+    ],
+    "name:und_x_variant":[
+        "Congo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563578
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4973cb7f7b4bb9c59c05a8c770a27d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906089,
+            "locality_id":1293573691,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1293573691,
+    "wof:lastmodified":1537619078,
+    "wof:name":"El Congo",
+    "wof:parent_id":1091906089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.14023,
+    20.26907000000001,
+    -77.14023,
+    20.26907000000001
+],
+  "geometry": {"coordinates":[-77.14023,20.26907000000001],"type":"Point"}
+}

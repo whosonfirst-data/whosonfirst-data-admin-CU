@@ -1,0 +1,70 @@
+{
+  "id": 1360071619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.79982,21.23841,-76.79982,21.23841",
+    "geom:latitude":21.23841,
+    "geom:longitude":-76.79982,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Guanito",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557719,
+    "gn:latitude":21.23841,
+    "gn:longitude":-76.79982,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Guanito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guanito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557719
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d4baba322f674c6f708d2a0e7f68797a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1360071619,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1360071619,
+    "wof:lastmodified":1537619032,
+    "wof:name":"Guanito",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79982,
+    21.23841,
+    -76.79982,
+    21.23841
+],
+  "geometry": {"coordinates":[-76.79982,21.23841],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360055103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.59459,22.39847,-79.59459,22.39847",
+    "geom:latitude":22.39847,
+    "geom:longitude":-79.59459,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Chucho Potrero",
+    "gn:country_code":"CU",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11007933,
+    "gn:latitude":22.39847,
+    "gn:longitude":-79.59459,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Chucho Potrero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chucho Potrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007933
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ff439126ff9acdfc27bcafee7b6481a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1360055103,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1360055103,
+    "wof:lastmodified":1537619168,
+    "wof:name":"Chucho Potrero",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.59459,
+    22.39847,
+    -79.59459,
+    22.39847
+],
+  "geometry": {"coordinates":[-79.59459,22.39847],"type":"Point"}
+}

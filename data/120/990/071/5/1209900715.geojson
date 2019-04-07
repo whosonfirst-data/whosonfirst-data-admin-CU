@@ -1,0 +1,70 @@
+{
+  "id": 1209900715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58596,20.6854,-76.58596,20.6854",
+    "geom:latitude":20.6854,
+    "geom:longitude":-76.58596,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Manchuria",
+    "gn:country_code":"CU",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11023040,
+    "gn:latitude":20.6854,
+    "gn:longitude":-76.58596,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Manchuria",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Manchuria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023040
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"14bcecee05c9d90d0b5537ed8468d2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903821,
+            "locality_id":1209900715,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1209900715,
+    "wof:lastmodified":1537619188,
+    "wof:name":"La Manchuria",
+    "wof:parent_id":1091903821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58596,
+    20.6854,
+    -76.58596,
+    20.6854
+],
+  "geometry": {"coordinates":[-76.58596,20.6854],"type":"Point"}
+}

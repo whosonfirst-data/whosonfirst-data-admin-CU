@@ -1,0 +1,66 @@
+{
+  "id": 1209384635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.6,22.56667,-79.6,22.56667",
+    "geom:latitude":22.56667,
+    "geom:longitude":-79.6,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Jiquial",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3556103,
+    "gn:latitude":22.56667,
+    "gn:longitude":-79.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jiquial",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jigual",
+        "Jiquial"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556103
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ab160d4558497b019efe5aa243dda7d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209384635
+        }
+    ],
+    "wof:id":1209384635,
+    "wof:lastmodified":1537619021,
+    "wof:name":"Jiquial",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.6,
+    22.56667,
+    -79.6,
+    22.56667
+],
+  "geometry": {"coordinates":[-79.59999999999999,22.56667],"type":"Point"}
+}

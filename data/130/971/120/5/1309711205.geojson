@@ -1,0 +1,73 @@
+{
+  "id": 1309711205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.32639,21.24472,-78.32639,21.24472",
+    "geom:latitude":21.24472,
+    "geom:longitude":-78.32639,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Brianda",
+    "gn:country_code":"CU",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3537994,
+    "gn:latitude":21.24472,
+    "gn:longitude":-78.32639,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Brianda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Brianda"
+    ],
+    "name:spa_x_variant":[
+        "Santa Brianda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3537994
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"eec512d89bb9e806c74da2176b9c9ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908663,
+            "locality_id":1309711205,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1309711205,
+    "wof:lastmodified":1537618903,
+    "wof:name":"Brianda",
+    "wof:parent_id":1091908663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.32639,
+    21.24472,
+    -78.32639,
+    21.24472
+],
+  "geometry": {"coordinates":[-78.32639,21.24472],"type":"Point"}
+}

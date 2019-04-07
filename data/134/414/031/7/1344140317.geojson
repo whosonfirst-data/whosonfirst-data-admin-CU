@@ -1,0 +1,70 @@
+{
+  "id": 1344140317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.183,22.24523,-79.183,22.24523",
+    "geom:latitude":22.24523,
+    "geom:longitude":-79.183,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Eladia",
+    "gn:country_code":"CU",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008855,
+    "gn:latitude":22.24523,
+    "gn:longitude":-79.183,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"La Eladia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Eladia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008855
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"dfb404be29f310a7676d03993b486d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908735,
+            "locality_id":1344140317,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1344140317,
+    "wof:lastmodified":1537619173,
+    "wof:name":"La Eladia",
+    "wof:parent_id":1091908735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.183,
+    22.24523,
+    -79.183,
+    22.24523
+],
+  "geometry": {"coordinates":[-79.18300000000001,22.24523],"type":"Point"}
+}

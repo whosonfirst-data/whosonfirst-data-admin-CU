@@ -1,0 +1,70 @@
+{
+  "id": 1293363609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.05815,19.96766,-76.05815,19.96766",
+    "geom:latitude":19.96766,
+    "geom:longitude":-76.05815,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Caleton Blanco",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11078815,
+    "gn:latitude":19.96766,
+    "gn:longitude":-76.05815,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Calet\u00f3n Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Calet\u00f3n Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078815
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c49984e4b9cc54db5d16f07bb4e3118d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904765,
+            "locality_id":1293363609,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1293363609,
+    "wof:lastmodified":1537619223,
+    "wof:name":"Caleton Blanco",
+    "wof:parent_id":1091904765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.05815,
+    19.96766,
+    -76.05815,
+    19.96766
+],
+  "geometry": {"coordinates":[-76.05815,19.96766],"type":"Point"}
+}

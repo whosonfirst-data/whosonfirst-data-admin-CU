@@ -1,0 +1,70 @@
+{
+  "id": 1193000497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.52974,22.66824,-80.52974,22.66824",
+    "geom:latitude":22.66824,
+    "geom:longitude":-80.52974,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Cascajal",
+    "gn:country_code":"CU",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565082,
+    "gn:latitude":22.66824,
+    "gn:longitude":-80.52974,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Cascajal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cascajal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091908169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565082
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3d2104306e32dfa7606256f28be2db76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908169,
+            "locality_id":1193000497,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1193000497,
+    "wof:lastmodified":1537619089,
+    "wof:name":"Cascajal",
+    "wof:parent_id":1091908169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.52974,
+    22.66824,
+    -80.52974,
+    22.66824
+],
+  "geometry": {"coordinates":[-80.52974,22.66824],"type":"Point"}
+}

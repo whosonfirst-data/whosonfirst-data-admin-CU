@@ -1,0 +1,68 @@
+{
+  "id": 1242751013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.7134,19.96423,-75.7134,19.96423",
+    "geom:latitude":19.96423,
+    "geom:longitude":-75.7134,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"3406",
+    "gn:asciiname":"Puerto Siboney",
+    "gn:country_code":"CU",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9409817,
+    "gn:latitude":19.96423,
+    "gn:longitude":-75.7134,
+    "gn:modification_date":"2016-11-21",
+    "gn:name":"Puerto Siboney",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9409817
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"108505bdd9fc5f631ec3b99a7197d32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":1242751013,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1242751013,
+    "wof:lastmodified":1536813368,
+    "wof:name":"Puerto Siboney",
+    "wof:parent_id":1091908137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.7134,
+    19.96423,
+    -75.7134,
+    19.96423
+],
+  "geometry": {"coordinates":[-75.71339999999999,19.96423],"type":"Point"}
+}

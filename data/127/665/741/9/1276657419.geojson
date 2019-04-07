@@ -1,0 +1,70 @@
+{
+  "id": 1276657419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.90685,21.88431,-82.90685,21.88431",
+    "geom:latitude":21.88431,
+    "geom:longitude":-82.90685,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ciro Redondo",
+    "gn:country_code":"CU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11003466,
+    "gn:latitude":21.88431,
+    "gn:longitude":-82.90685,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Ciro Redondo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ciro Redondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670405,
+        1091906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003466
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fec4280fa8656bd566203343ca65dd95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906563,
+            "locality_id":1276657419,
+            "region_id":85670405
+        }
+    ],
+    "wof:id":1276657419,
+    "wof:lastmodified":1537619155,
+    "wof:name":"Ciro Redondo",
+    "wof:parent_id":1091906563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.90685,
+    21.88431,
+    -82.90685,
+    21.88431
+],
+  "geometry": {"coordinates":[-82.90685000000001,21.88431],"type":"Point"}
+}

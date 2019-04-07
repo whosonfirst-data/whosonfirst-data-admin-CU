@@ -1,0 +1,70 @@
+{
+  "id": 1259460025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.27044,21.07452,-76.27044,21.07452",
+    "geom:latitude":21.07452,
+    "geom:longitude":-76.27044,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Hoyeta",
+    "gn:country_code":"CU",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11059266,
+    "gn:latitude":21.07452,
+    "gn:longitude":-76.27044,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"La Hoyeta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Hoyeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11059266
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4208133d27d3ed6532883fefdb540d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904693,
+            "locality_id":1259460025,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1259460025,
+    "wof:lastmodified":1537619207,
+    "wof:name":"La Hoyeta",
+    "wof:parent_id":1091904693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.27044000000002,
+    21.07452,
+    -76.27044000000002,
+    21.07452
+],
+  "geometry": {"coordinates":[-76.27044000000002,21.07452],"type":"Point"}
+}

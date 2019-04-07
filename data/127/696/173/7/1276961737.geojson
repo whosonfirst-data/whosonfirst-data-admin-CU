@@ -1,0 +1,70 @@
+{
+  "id": 1276961737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.02944,20.11748,-76.02944,20.11748",
+    "geom:latitude":20.11748,
+    "geom:longitude":-76.02944,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Hicotea",
+    "gn:country_code":"CU",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557012,
+    "gn:latitude":20.11748,
+    "gn:longitude":-76.02944,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Hicotea",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hicotea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091906823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557012
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1069e8860eec02900ad1c72fbdb806a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906823,
+            "locality_id":1276961737,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1276961737,
+    "wof:lastmodified":1537619027,
+    "wof:name":"Hicotea",
+    "wof:parent_id":1091906823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.02944000000002,
+    20.11748,
+    -76.02944000000002,
+    20.11748
+],
+  "geometry": {"coordinates":[-76.02944000000002,20.11748],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310573643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.96353,22.80551,-79.96353,22.80551",
+    "geom:latitude":22.80551,
+    "geom:longitude":-79.96353,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Armonia",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3568491,
+    "gn:latitude":22.80551,
+    "gn:longitude":-79.96353,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Armon\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Armon\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568491
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1cccd0259029fe733631c9a8655b372d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907545,
+            "locality_id":1310573643,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1310573643,
+    "wof:lastmodified":1537619115,
+    "wof:name":"Armonia",
+    "wof:parent_id":1091907545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.96353,
+    22.80551,
+    -79.96353,
+    22.80551
+],
+  "geometry": {"coordinates":[-79.96353000000001,22.80551],"type":"Point"}
+}

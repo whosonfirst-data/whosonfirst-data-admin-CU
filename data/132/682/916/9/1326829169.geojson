@@ -1,0 +1,70 @@
+{
+  "id": 1326829169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.2314,21.46132,-78.2314,21.46132",
+    "geom:latitude":21.46132,
+    "geom:longitude":-78.2314,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vista Alegre",
+    "gn:country_code":"CU",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11009839,
+    "gn:latitude":21.46132,
+    "gn:longitude":-78.2314,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Vista Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vista Alegre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11009839
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f0bde8a28d71e0c0c61e15fd779659f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904585,
+            "locality_id":1326829169,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1326829169,
+    "wof:lastmodified":1537619179,
+    "wof:name":"Vista Alegre",
+    "wof:parent_id":1091904585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.2314,
+    21.46132,
+    -78.2314,
+    21.46132
+],
+  "geometry": {"coordinates":[-78.23139999999999,21.46132],"type":"Point"}
+}

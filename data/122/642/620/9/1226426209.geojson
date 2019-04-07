@@ -1,0 +1,73 @@
+{
+  "id": 1226426209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.2246,20.22121,-74.2246,20.22121",
+    "geom:latitude":20.22121,
+    "geom:longitude":-74.2246,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Puriales Arriba",
+    "gn:country_code":"CU",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543136,
+    "gn:latitude":20.22121,
+    "gn:longitude":-74.2246,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Puriales Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puriales Arriba"
+    ],
+    "name:spa_x_variant":[
+        "Puriales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543136
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"83e0a0136fabb376d860dbe9a1fee81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905819,
+            "locality_id":1226426209,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1226426209,
+    "wof:lastmodified":1537618931,
+    "wof:name":"Puriales Arriba",
+    "wof:parent_id":1091905819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.2246,
+    20.22121,
+    -74.2246,
+    20.22121
+],
+  "geometry": {"coordinates":[-74.2246,20.22121],"type":"Point"}
+}

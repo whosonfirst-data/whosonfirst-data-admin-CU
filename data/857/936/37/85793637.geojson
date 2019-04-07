@@ -1,0 +1,113 @@
+{
+  "id": 85793637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":9223695.283453,
+    "geom:bbox":"-75.814501,20.039228,-75.814501,20.039228",
+    "geom:latitude":20.039228,
+    "geom:longitude":-75.814501,
+    "gn:latitude":20.04167,
+    "gn:longitude":-75.81667,
+    "iso:country":"CU",
+    "lbl:latitude":20.039228,
+    "lbl:longitude":-75.814501,
+    "mps:latitude":20.045767,
+    "mps:longitude":-75.804842,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Quintero"
+    ],
+    "name:spa_x_variant":[
+        "Reparto Alturas de Quintero"
+    ],
+    "name:unk_x_variant":[
+        "Reparto Alturas de Quintero",
+        "Quintero"
+    ],
+    "qs:gn_adm0_cc":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Quintero",
+    "qs:local_max":2139,
+    "qs:local_sum":5427,
+    "qs:localhoods":10,
+    "qs:name":"Quintero",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Santiago de Cuba",
+    "qs:name_local":"Santiago de Cuba",
+    "qs:photo_max":51,
+    "qs:photo_sum":121,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424793,
+    "qs:woe_adm1":2345119,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":68043,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670441,
+        102191575,
+        85632675,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542442,
+        "gp:id":66457,
+        "qs:id":1340779
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3e8216d817aa2bfeb8fa3d2c13a6092f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":-1,
+            "neighbourhood_id":85793637,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":85793637,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379264,
+    "wof:name":"Quintero",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[
+        1126080463
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.814501,
+    20.039228,
+    -75.814501,
+    20.039228
+],
+  "geometry": {"coordinates":[-75.81450100000001,20.039228],"type":"Point"}
+}

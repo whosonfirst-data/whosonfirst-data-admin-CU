@@ -1,0 +1,73 @@
+{
+  "id": 1310485523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.89784,20.21434,-74.89784,20.21434",
+    "geom:latitude":20.21434,
+    "geom:longitude":-74.89784,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Boca del Dajao",
+    "gn:country_code":"CU",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567132,
+    "gn:latitude":20.21434,
+    "gn:longitude":-74.89784,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Boca del Dajao",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boca del Dajao"
+    ],
+    "name:und_x_variant":[
+        "Boca el Dejao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091906061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567132
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7a389a5d2d413c15ec4cc0021382e76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906061,
+            "locality_id":1310485523,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1310485523,
+    "wof:lastmodified":1537619104,
+    "wof:name":"Boca del Dajao",
+    "wof:parent_id":1091906061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.89784,
+    20.21434,
+    -74.89784,
+    20.21434
+],
+  "geometry": {"coordinates":[-74.89784,20.21434],"type":"Point"}
+}

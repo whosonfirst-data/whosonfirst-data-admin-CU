@@ -1,0 +1,70 @@
+{
+  "id": 1343497193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.9749,23.14134,-81.9749,23.14134",
+    "geom:latitude":23.14134,
+    "geom:longitude":-81.9749,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"San Matias",
+    "gn:country_code":"CU",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10949868,
+    "gn:latitude":23.14134,
+    "gn:longitude":-81.9749,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"San Mat\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Mat\u00edas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091908039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10949868
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"11c3c151a6f0ec4d0ade6366b4f29ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908039,
+            "locality_id":1343497193,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1343497193,
+    "wof:lastmodified":1537619150,
+    "wof:name":"San Matias",
+    "wof:parent_id":1091908039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.9749,
+    23.14134,
+    -81.9749,
+    23.14134
+],
+  "geometry": {"coordinates":[-81.97490000000001,23.14134],"type":"Point"}
+}

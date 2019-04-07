@@ -1,0 +1,72 @@
+{
+  "id": 1309743669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.01475,20.81375,-78.01475,20.81375",
+    "geom:latitude":20.81375,
+    "geom:longitude":-78.01475,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Candido Gonzalez",
+    "gn:country_code":"CU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565754,
+    "gn:latitude":20.81375,
+    "gn:longitude":-78.01475,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"C\u00e1ndido Gonz\u00e1lez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Marta",
+        "C\u00e1ndido Gonz\u00e1les",
+        "C\u00e1ndido Gonz\u00e1lez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565754
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"35583456914e9d8bcfaf583eaf9501c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908085,
+            "locality_id":1309743669,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1309743669,
+    "wof:lastmodified":1537619094,
+    "wof:name":"Candido Gonzalez",
+    "wof:parent_id":1091908085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.01475,
+    20.81375,
+    -78.01475,
+    20.81375
+],
+  "geometry": {"coordinates":[-78.01475000000001,20.81375],"type":"Point"}
+}

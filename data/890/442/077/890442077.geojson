@@ -1,0 +1,242 @@
+{
+  "id": 890442077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.07556,22.80667,-80.07556,22.80667",
+    "geom:latitude":22.80667,
+    "geom:longitude":-80.07556,
+    "gn:country":"CU",
+    "gn:fcode":"PPL",
+    "gn:pop":62073,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "name:cat_x_preferred":[
+        "Sagua La Grande"
+    ],
+    "name:chi_x_preferred":[
+        "\u5927\u85a9\u74dc"
+    ],
+    "name:cze_x_preferred":[
+        "Sagua La Grande"
+    ],
+    "name:dut_x_preferred":[
+        "Sagua La Grande"
+    ],
+    "name:eng_x_preferred":[
+        "Sagua La Grande"
+    ],
+    "name:fre_x_preferred":[
+        "Sagua La Grande"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10d2\u10e3\u10d0-\u10da\u10d0-\u10d2\u10e0\u10d0\u10dc\u10d3\u10d4"
+    ],
+    "name:ger_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:hat_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:hun_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:ita_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30b0\u30a2\u30fb\u30e9\u30fb\u30b0\u30e9\u30f3\u30c7"
+    ],
+    "name:nau_x_preferred":[
+        "Sagua La Grande"
+    ],
+    "name:nob_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:oci_x_preferred":[
+        "Sagua La Grande"
+    ],
+    "name:pol_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:por_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:rum_x_preferred":[
+        "Sagua La Grande"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0433\u0443\u0430-\u043b\u0430-\u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0433\u0432\u0430 \u043b\u0430 \u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Sagua la Grande"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0433\u0443\u0430-\u043b\u0430-\u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Sagua"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06af\u0627 \u0644\u0627 \u06af\u0631\u0627\u0646\u062f\u06d2"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Cuba",
+    "ne:ADM0_A3":"CUB",
+    "ne:ADM1NAME":"Villa Clara",
+    "ne:ADMIN1_COD":16,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3541440,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Sagua la Grande",
+    "ne:GN_POP":62073,
+    "ne:GTOPO30":11.0,
+    "ne:ISO_A2":"CU",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":22.809033,
+    "ne:LONGITUDE":-80.071092,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Sagua la Grande",
+    "ne:MAX_AREAKM":12.0,
+    "ne:MAX_AREAMI":5.0,
+    "ne:MAX_BBXMAX":-80.05,
+    "ne:MAX_BBXMIN":-80.108333,
+    "ne:MAX_BBYMAX":22.825,
+    "ne:MAX_BBYMIN":22.791667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":21.0,
+    "ne:MAX_PERMI":13.0,
+    "ne:MAX_POP10":19432,
+    "ne:MAX_POP20":19432,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-80.075833,
+    "ne:MEAN_BBYC":22.805833,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":12.0,
+    "ne:MIN_AREAMI":5.0,
+    "ne:MIN_BBXMAX":-80.05,
+    "ne:MIN_BBXMIN":-80.108333,
+    "ne:MIN_BBYMAX":22.825,
+    "ne:MIN_BBYMIN":22.791667,
+    "ne:MIN_PERKM":21.0,
+    "ne:MIN_PERMI":13.0,
+    "ne:NAME":"Sagua la Grande",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Sagua la Grande",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":62073,
+    "ne:POP_MIN":19432,
+    "ne:POP_OTHER":19432,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Cuba",
+    "ne:SOV_A3":"CUB",
+    "ne:TIMEZONE":"America/Havana",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Sagua la Grande",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:latitude":"22.808611111",
+    "wd:longitude":"-80.071111111",
+    "wd:wordcount":636,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541440,
+        "gp:id":66838,
+        "qs:id":274408,
+        "wd:id":"Q5030",
+        "wk:page":"Sagua La Grande"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052349,
+    "wof:geomhash":"50bf1bb0df879f99df19a6297d809391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907545,
+            "locality_id":890442077,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":890442077,
+    "wof:lastmodified":1527792853,
+    "wof:name":"Sagua la Grande",
+    "wof:parent_id":1091907545,
+    "wof:placetype":"locality",
+    "wof:population":62073,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.07556,
+    22.80667,
+    -80.07556,
+    22.80667
+],
+  "geometry": {"coordinates":[-80.07556,22.80667],"type":"Point"}
+}

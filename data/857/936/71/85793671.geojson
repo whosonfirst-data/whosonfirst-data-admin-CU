@@ -1,0 +1,110 @@
+{
+  "id": 85793671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14348372.969708,
+    "geom:bbox":"-75.818898,20.013931,-75.818898,20.013931",
+    "geom:latitude":20.013931,
+    "geom:longitude":-75.818898,
+    "gn:latitude":20.01667,
+    "gn:longitude":-75.8,
+    "iso:country":"CU",
+    "lbl:latitude":20.013931,
+    "lbl:longitude":-75.818898,
+    "mps:latitude":20.012065,
+    "mps:longitude":-75.771468,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Reparto Vista Alegre"
+    ],
+    "name:unk_x_variant":[
+        "Reparto Vista Alegre"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Reparto Vista Alegre",
+    "qs:local_max":2139,
+    "qs:local_sum":5427,
+    "qs:localhoods":10,
+    "qs:name":"Reparto Vista Alegre",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Santiago de Cuba",
+    "qs:name_local":"Santiago de Cuba",
+    "qs:photo_max":20,
+    "qs:photo_sum":62,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424793,
+    "qs:woe_adm1":2345119,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":68043,
+    "qs:woe_ver":"7.10.0",
+    "reversegeo:latitude":20.002759,
+    "reversegeo:longitude":-75.810817,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091908137,
+        85670441
+    ],
+    "wof:breaches":[
+        85793653
+    ],
+    "wof:concordances":{
+        "gn:id":3542397,
+        "gp:id":66594,
+        "qs:id":211060,
+        "qs_pg:id":211060
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e85e8ac328fad26533ae7299432b89b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":-1,
+            "neighbourhood_id":85793671,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":85793671,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531861403,
+    "wof:name":"Reparto Vista Alegre",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.818898,
+    20.013931,
+    -75.818898,
+    20.013931
+],
+  "geometry": {"coordinates":[-75.818898,20.013931],"type":"Point"}
+}

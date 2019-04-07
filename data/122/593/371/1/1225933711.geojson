@@ -1,0 +1,76 @@
+{
+  "id": 1225933711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.4727,20.55709,-76.4727,20.55709",
+    "geom:latitude":20.55709,
+    "geom:longitude":-76.4727,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Cauto Cristo",
+    "gn:country_code":"CU",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3564885,
+    "gn:latitude":20.55709,
+    "gn:longitude":-76.4727,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Cauto Cristo",
+    "gn:population":21159,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cauto del Cristo",
+        "Cauto el Cristo",
+        "Cauto Cristo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564885,
+        "wk:page":"Cauto_Cristo"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"afcdd812fd3bdc3ea82b552b617c87b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903821,
+            "locality_id":1225933711,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1225933711,
+    "wof:lastmodified":1537619087,
+    "wof:name":"Cauto Cristo",
+    "wof:parent_id":1091903821,
+    "wof:placetype":"locality",
+    "wof:population":21159,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.4727,
+    20.55709,
+    -76.4727,
+    20.55709
+],
+  "geometry": {"coordinates":[-76.4727,20.55709],"type":"Point"}
+}

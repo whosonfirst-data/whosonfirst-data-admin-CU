@@ -1,0 +1,67 @@
+{
+  "id": 1326663753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.76667,22.75,-82.76667,22.75",
+    "geom:latitude":22.75,
+    "geom:longitude":-82.76667,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Trevejo",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3534955,
+    "gn:latitude":22.75,
+    "gn:longitude":-82.76667,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"Trevejo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091902795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534955
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3ced199bf1219b2e13931e7b4276152b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902795,
+            "locality_id":1326663753,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1326663753,
+    "wof:lastmodified":1536794729,
+    "wof:name":"Trevejo",
+    "wof:parent_id":1091902795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.76666999999998,
+    22.75,
+    -82.76666999999998,
+    22.75
+],
+  "geometry": {"coordinates":[-82.76666999999998,22.75],"type":"Point"}
+}

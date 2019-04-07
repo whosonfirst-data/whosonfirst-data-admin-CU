@@ -1,0 +1,71 @@
+{
+  "id": 1276796409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.10591,22.68776,-83.10591,22.68776",
+    "geom:latitude":22.68776,
+    "geom:longitude":-83.10591,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Chirigotas",
+    "gn:country_code":"CU",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3564259,
+    "gn:latitude":22.68776,
+    "gn:longitude":-83.10591,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Chirigotas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chirigota",
+        "Chirigotas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564259
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e83048e81f352bd274e5fde69c17de5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907679,
+            "locality_id":1276796409,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1276796409,
+    "wof:lastmodified":1537619083,
+    "wof:name":"Chirigotas",
+    "wof:parent_id":1091907679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.10591,
+    22.68776,
+    -83.10591,
+    22.68776
+],
+  "geometry": {"coordinates":[-83.10590999999999,22.68776],"type":"Point"}
+}

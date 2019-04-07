@@ -1,0 +1,71 @@
+{
+  "id": 1243075235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.36492,22.63465,-81.36492,22.63465",
+    "geom:latitude":22.63465,
+    "geom:longitude":-81.36492,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Manjuaries",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3547960,
+    "gn:latitude":22.63465,
+    "gn:longitude":-81.36492,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Manjuar\u00edes",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manjuari",
+        "Manjuar\u00edes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091908517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547960
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"51190f27104eb69cd342ccbeb963feb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908517,
+            "locality_id":1243075235,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1243075235,
+    "wof:lastmodified":1537618963,
+    "wof:name":"Manjuaries",
+    "wof:parent_id":1091908517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.36492,
+    22.63465,
+    -81.36492,
+    22.63465
+],
+  "geometry": {"coordinates":[-81.36492,22.63465],"type":"Point"}
+}

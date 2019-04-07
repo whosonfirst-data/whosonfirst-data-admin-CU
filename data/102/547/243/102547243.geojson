@@ -1,0 +1,127 @@
+{
+  "id": 102547243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.545998,21.616501,-81.545998,21.616501",
+    "geom:latitude":21.616501,
+    "geom:longitude":-81.545998,
+    "gn:elevation":3,
+    "iso:country":"CU",
+    "lbl:latitude":21.61645,
+    "lbl:longitude":-81.54599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vilo Acu\u00f1a Airport"
+    ],
+    "name:chi_x_preferred":[
+        "Vilo Acu\u00f1a\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Vilo Acu\u00f1a Airport"
+    ],
+    "name:eng_x_variant":[
+        "CYO",
+        "KCYO",
+        "Juan Vitalio Acu\u00f1a Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0644\u0648 \u0622\u06a9\u0648\u0646\u06cc\u0627"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d8\u10da\u10dd \u10d0\u10d9\u10e3\u10dc\u10d8\u10d0\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Vilo Acu\u00f1a"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30ed\u30fb\u30a2\u30af\u30fc\u30cb\u30e3\u7a7a\u6e2f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10dd \u10d0\u10d9\u10e3\u10dc\u10d8\u10d0\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Vilo Acuna"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Antarabangsa Vilo Acuna"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0644\u0648 \u0622\u06a9\u0648\u0646\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Vilo Acu\u00f1a"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Vilo Acu\u00f1a"
+    ],
+    "name:swe_x_preferred":[
+        "Vilo Acu\u00f1a Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u043b\u0443 \u043e\u043a\u0443\u043d\u0438\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Vilo Acu\u00f1a"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"medium_airport",
+    "src:centroid_lbl":"geonames",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424793,
+        "planet_id":1,
+        "state_id":2345109
+    },
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670405,
+        1091906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6299919,
+        "gp:id":12512455,
+        "iata:code":"CYO",
+        "icao:code":"KCYO",
+        "oa:id":"4833",
+        "wd:id":"Q3505324",
+        "wk:page":"Vilo_Acu%C3%B1a_Airport"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9aea963c34ffab2e5bbc40b1f7ee090d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547243,
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906563,
+            "region_id":85670405
+        }
+    ],
+    "wof:id":102547243,
+    "wof:lastmodified":1513944506,
+    "wof:name":"Cayo Largo del sur Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -81.545998,
+    21.616501,
+    -81.545998,
+    21.616501
+],
+  "geometry": {"coordinates":[-81.545998,21.616501],"type":"Point"}
+}

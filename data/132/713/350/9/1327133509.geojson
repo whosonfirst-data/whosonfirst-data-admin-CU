@@ -1,0 +1,70 @@
+{
+  "id": 1327133509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.70651,21.703,-77.70651,21.703",
+    "geom:latitude":21.703,
+    "geom:longitude":-77.70651,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Maisi",
+    "gn:country_code":"CU",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3548440,
+    "gn:latitude":21.703,
+    "gn:longitude":-77.70651,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Mais\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mais\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548440
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b322616a8c977114518adb26aaeaccf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908301,
+            "locality_id":1327133509,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1327133509,
+    "wof:lastmodified":1537618967,
+    "wof:name":"Maisi",
+    "wof:parent_id":1091908301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.70651,
+    21.70300000000001,
+    -77.70651,
+    21.70300000000001
+],
+  "geometry": {"coordinates":[-77.70650999999999,21.70300000000001],"type":"Point"}
+}

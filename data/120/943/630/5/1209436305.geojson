@@ -1,0 +1,66 @@
+{
+  "id": 1209436305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.77361,21.7375,-78.77361,21.7375",
+    "geom:latitude":21.7375,
+    "geom:longitude":-78.77361,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Caballeros",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3566590,
+    "gn:latitude":21.7375,
+    "gn:longitude":-78.77361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Caballeros",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caballo",
+        "Caballeros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566590
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9853d906a57c47780a564bdc2d6f5643",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209436305
+        }
+    ],
+    "wof:id":1209436305,
+    "wof:lastmodified":1537619101,
+    "wof:name":"Caballeros",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.77360999999998,
+    21.7375,
+    -78.77360999999998,
+    21.7375
+],
+  "geometry": {"coordinates":[-78.77360999999998,21.7375],"type":"Point"}
+}

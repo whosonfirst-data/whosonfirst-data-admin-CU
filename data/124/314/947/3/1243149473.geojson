@@ -1,0 +1,73 @@
+{
+  "id": 1243149473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.34861,20.91727,-76.34861,20.91727",
+    "geom:latitude":20.91727,
+    "geom:longitude":-76.34861,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Matatoros",
+    "gn:country_code":"CU",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547409,
+    "gn:latitude":20.91727,
+    "gn:longitude":-76.34861,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Matatoros",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Matatoros"
+    ],
+    "name:und_x_variant":[
+        "Matamoros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091905117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547409
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"217a6855e65bb415ac3d6c8183107a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905117,
+            "locality_id":1243149473,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1243149473,
+    "wof:lastmodified":1537618960,
+    "wof:name":"Matatoros",
+    "wof:parent_id":1091905117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.34861,
+    20.91727,
+    -76.34861,
+    20.91727
+],
+  "geometry": {"coordinates":[-76.34860999999999,20.91727],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226273033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.54456,22.79367,-82.54456,22.79367",
+    "geom:latitude":22.79367,
+    "geom:longitude":-82.54456,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"El Mayorquin",
+    "gn:country_code":"CU",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3560480,
+    "gn:latitude":22.79367,
+    "gn:longitude":-82.54456,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"El Mayorqu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Mayorqu\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091902641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560480
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"75a5c3e3ed1d27132c2c0f42bdbccc0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902641,
+            "locality_id":1226273033,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1226273033,
+    "wof:lastmodified":1537619052,
+    "wof:name":"El Mayorquin",
+    "wof:parent_id":1091902641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.54456,
+    22.79367,
+    -82.54456,
+    22.79367
+],
+  "geometry": {"coordinates":[-82.54456,22.79367],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242896459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.92509,21.03782,-77.92509,21.03782",
+    "geom:latitude":21.03782,
+    "geom:longitude":-77.92509,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Hato Potrero",
+    "gn:country_code":"CU",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557179,
+    "gn:latitude":21.03782,
+    "gn:longitude":-77.92509,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Hato Potrero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hato Potrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091906599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557179
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b42b8098d45640caf3683cbec07d355c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906599,
+            "locality_id":1242896459,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1242896459,
+    "wof:lastmodified":1537619028,
+    "wof:name":"Hato Potrero",
+    "wof:parent_id":1091906599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.92509,
+    21.03782,
+    -77.92509,
+    21.03782
+],
+  "geometry": {"coordinates":[-77.92509,21.03782],"type":"Point"}
+}

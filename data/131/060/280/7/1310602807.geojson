@@ -1,0 +1,67 @@
+{
+  "id": 1310602807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.28333,22.9,-81.28333,22.9",
+    "geom:latitude":22.9,
+    "geom:longitude":-81.28333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Carolina",
+    "gn:country_code":"CU",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3565215,
+    "gn:latitude":22.9,
+    "gn:longitude":-81.28333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Carolina",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565215
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f028fad8611706e6db4594f8e786235e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905493,
+            "locality_id":1310602807,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1310602807,
+    "wof:lastmodified":1536777125,
+    "wof:name":"Carolina",
+    "wof:parent_id":1091905493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.28333,
+    22.9,
+    -81.28333,
+    22.9
+],
+  "geometry": {"coordinates":[-81.28333000000001,22.9],"type":"Point"}
+}

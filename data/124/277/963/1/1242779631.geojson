@@ -1,0 +1,67 @@
+{
+  "id": 1242779631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.1,22.48333,-81.1,22.48333",
+    "geom:latitude":22.48333,
+    "geom:longitude":-81.1,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pinillos",
+    "gn:country_code":"CU",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3544053,
+    "gn:latitude":22.48333,
+    "gn:longitude":-81.1,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Pinillos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544053
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cacb35c5ca2ca86a2b01713d5b2c19be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905195,
+            "locality_id":1242779631,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1242779631,
+    "wof:lastmodified":1536773305,
+    "wof:name":"Pinillos",
+    "wof:parent_id":1091905195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.1,
+    22.48333,
+    -81.1,
+    22.48333
+],
+  "geometry": {"coordinates":[-81.09999999999999,22.48333],"type":"Point"}
+}

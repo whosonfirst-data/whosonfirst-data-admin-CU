@@ -1,0 +1,67 @@
+{
+  "id": 1209197895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.18942,21.68934,-79.18942,21.68934",
+    "geom:latitude":21.68934,
+    "geom:longitude":-79.18942,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Jibaro",
+    "gn:country_code":"CU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3560753,
+    "gn:latitude":21.68934,
+    "gn:longitude":-79.18942,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"El J\u00edbaro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "J\u00edbaro"
+    ],
+    "name:und_x_variant":[
+        "El J\u00edbaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560753
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"25e0b7a2032ddd2f70323e3750c2ba9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209197895
+        }
+    ],
+    "wof:id":1209197895,
+    "wof:lastmodified":1537619055,
+    "wof:name":"El Jibaro",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.18942,
+    21.68934,
+    -79.18942,
+    21.68934
+],
+  "geometry": {"coordinates":[-79.18942,21.68934],"type":"Point"}
+}

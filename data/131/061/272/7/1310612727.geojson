@@ -1,0 +1,72 @@
+{
+  "id": 1310612727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.04639,22.87417,-81.04639,22.87417",
+    "geom:latitude":22.87417,
+    "geom:longitude":-81.04639,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Reyes",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542279,
+    "gn:latitude":22.87417,
+    "gn:longitude":-81.04639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Reyes",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Reyes",
+        "Reyes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542279
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"90311c7dfced0f8a5edcdf8305ae6c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906933,
+            "locality_id":1310612727,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1310612727,
+    "wof:lastmodified":1537618927,
+    "wof:name":"Reyes",
+    "wof:parent_id":1091906933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.04639,
+    22.87417,
+    -81.04639,
+    22.87417
+],
+  "geometry": {"coordinates":[-81.04639,22.87417],"type":"Point"}
+}

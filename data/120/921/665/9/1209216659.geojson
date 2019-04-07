@@ -1,0 +1,68 @@
+{
+  "id": 1209216659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.98711,22.58684,-80.98711,22.58684",
+    "geom:latitude":22.58684,
+    "geom:longitude":-80.98711,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Raiz del Jobo",
+    "gn:country_code":"CU",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3541713,
+    "gn:latitude":22.58684,
+    "gn:longitude":-80.98711,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ra\u00edz del Jobo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ra\u00edz del Jobo"
+    ],
+    "name:und_x_variant":[
+        "Roiz del Jobo",
+        "Ruiz del Jobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541713
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8ae08ac360c06b97d1fd8af226d333df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209216659
+        }
+    ],
+    "wof:id":1209216659,
+    "wof:lastmodified":1537618923,
+    "wof:name":"Raiz del Jobo",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.98711,
+    22.58684,
+    -80.98711,
+    22.58684
+],
+  "geometry": {"coordinates":[-80.98711,22.58684],"type":"Point"}
+}

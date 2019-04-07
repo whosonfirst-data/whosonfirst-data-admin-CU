@@ -1,0 +1,67 @@
+{
+  "id": 1293755131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.42111,21.1325,-76.42111,21.1325",
+    "geom:latitude":21.1325,
+    "geom:longitude":-76.42111,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Yaya",
+    "gn:country_code":"CU",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550064,
+    "gn:latitude":21.1325,
+    "gn:longitude":-76.42111,
+    "gn:modification_date":"2004-11-04",
+    "gn:name":"La Yaya",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550064
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3f13218e8b7a3de0b3e1b213b44804aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1293755131,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1293755131,
+    "wof:lastmodified":1536898372,
+    "wof:name":"La Yaya",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.42111,
+    21.1325,
+    -76.42111,
+    21.1325
+],
+  "geometry": {"coordinates":[-76.42111,21.1325],"type":"Point"}
+}

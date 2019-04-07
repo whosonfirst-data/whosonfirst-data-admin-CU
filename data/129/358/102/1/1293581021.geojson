@@ -1,0 +1,70 @@
+{
+  "id": 1293581021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.74502,21.93152,-78.74502,21.93152",
+    "geom:latitude":21.93152,
+    "geom:longitude":-78.74502,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Guillet",
+    "gn:country_code":"CU",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11009155,
+    "gn:latitude":21.93152,
+    "gn:longitude":-78.74502,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Guillet",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guillet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091903947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11009155
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9cf678f0cd1ecd9d6ca276002ccf1666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903947,
+            "locality_id":1293581021,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1293581021,
+    "wof:lastmodified":1537619176,
+    "wof:name":"Guillet",
+    "wof:parent_id":1091903947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.74502,
+    21.93152000000001,
+    -78.74502,
+    21.93152000000001
+],
+  "geometry": {"coordinates":[-78.74502,21.93152000000001],"type":"Point"}
+}

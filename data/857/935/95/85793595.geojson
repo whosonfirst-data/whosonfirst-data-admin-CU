@@ -1,0 +1,131 @@
+{
+  "id": 85793595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3853962.457109,
+    "geom:bbox":"-82.363925,23.098083,-82.363925,23.098083",
+    "geom:latitude":23.098083,
+    "geom:longitude":-82.363925,
+    "iso:country":"CU",
+    "lbl:latitude":23.098083,
+    "lbl:longitude":-82.363925,
+    "mps:latitude":23.095324,
+    "mps:longitude":-82.360128,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u062e\u064a\u0633\u0648\u0633 \u062f\u064a\u0644 \u0646\u064a\u0631\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Jes\u00fas del Nero"
+    ],
+    "name:dan_x_preferred":[
+        "Jes\u00fas del Nero"
+    ],
+    "name:deu_x_preferred":[
+        "Jes\u00fas del Nero"
+    ],
+    "name:fra_x_preferred":[
+        "Jes\u00fas del Nero"
+    ],
+    "name:ita_x_preferred":[
+        "Jes\u00fas del Nero"
+    ],
+    "name:nld_x_preferred":[
+        "Jes\u00fas del Nero"
+    ],
+    "name:nor_x_preferred":[
+        "Jes\u00fas del Nero"
+    ],
+    "name:spa_x_colloquial":[
+        "Jesus del Monte"
+    ],
+    "name:spa_x_preferred":[
+        "Jes\u00fas del Monte",
+        "Jes\u00fas del Nero"
+    ],
+    "name:swe_x_preferred":[
+        "Jesus del Nero"
+    ],
+    "name:unk_x_variant":[
+        "Jes\u00fas del Monte"
+    ],
+    "qs:gn_adm0_cc":"CU",
+    "qs:gn_id":0,
+    "qs:gn_local":3553478,
+    "qs:id":0,
+    "qs:local_max":6362,
+    "qs:local_sum":28186,
+    "qs:localhoods":23,
+    "qs:name":"Jes\u00fas del Monte",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:name_local":"La Habana",
+    "qs:photo_max":26,
+    "qs:photo_sum":66,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424793,
+    "qs:woe_adm1":2345107,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":63817,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091904421,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":63124
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4c5a09b4b66bd6a323cf29f97e66bfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904421,
+            "locality_id":-1,
+            "neighbourhood_id":85793595,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":85793595,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531861391,
+    "wof:name":"Jes\u00fas del Monte",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.363925,
+    23.098083,
+    -82.363925,
+    23.098083
+],
+  "geometry": {"coordinates":[-82.36392499999999,23.098083],"type":"Point"}
+}

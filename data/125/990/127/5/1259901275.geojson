@@ -1,0 +1,67 @@
+{
+  "id": 1259901275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.045,21.69528,-79.045,21.69528",
+    "geom:latitude":21.69528,
+    "geom:longitude":-79.045,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Cayo Entero",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3561526,
+    "gn:latitude":21.69528,
+    "gn:longitude":-79.045,
+    "gn:modification_date":"1996-07-18",
+    "gn:name":"El Cayo Entero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091905859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561526
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"127c6021fd7621251931cd4baa7f8388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905859,
+            "locality_id":1259901275,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1259901275,
+    "wof:lastmodified":1536753540,
+    "wof:name":"El Cayo Entero",
+    "wof:parent_id":1091905859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.045,
+    21.69528,
+    -79.045,
+    21.69528
+],
+  "geometry": {"coordinates":[-79.045,21.69528],"type":"Point"}
+}

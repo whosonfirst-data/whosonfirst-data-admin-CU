@@ -1,0 +1,67 @@
+{
+  "id": 1343343651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.56667,22.23333,-79.56667,22.23333",
+    "geom:latitude":22.23333,
+    "geom:longitude":-79.56667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Corojo",
+    "gn:country_code":"CU",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3563391,
+    "gn:latitude":22.23333,
+    "gn:longitude":-79.56667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Corojo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563391
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d5a6eee09e71a1511281eab9157a1fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907053,
+            "locality_id":1343343651,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1343343651,
+    "wof:lastmodified":1536915371,
+    "wof:name":"Corojo",
+    "wof:parent_id":1091907053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.56667,
+    22.23333,
+    -79.56667,
+    22.23333
+],
+  "geometry": {"coordinates":[-79.56667,22.23333],"type":"Point"}
+}

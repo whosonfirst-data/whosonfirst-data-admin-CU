@@ -1,0 +1,70 @@
+{
+  "id": 1293077445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.90015,21.12674,-76.90015,21.12674",
+    "geom:latitude":21.12674,
+    "geom:longitude":-76.90015,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mariategui",
+    "gn:country_code":"CU",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547625,
+    "gn:latitude":21.12674,
+    "gn:longitude":-76.90015,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Mari\u00e1tegui",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mari\u00e1tegui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547625
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7f0ccf6871076ff442ac057d0bbdeda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905945,
+            "locality_id":1293077445,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1293077445,
+    "wof:lastmodified":1537618961,
+    "wof:name":"Mariategui",
+    "wof:parent_id":1091905945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.90015,
+    21.12674,
+    -76.90015,
+    21.12674
+],
+  "geometry": {"coordinates":[-76.90015,21.12674],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260214253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.55084,23.0164,-82.55084,23.0164",
+    "geom:latitude":23.0164,
+    "geom:longitude":-82.55084,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"El Maranon",
+    "gn:country_code":"CU",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210587,
+    "gn:latitude":23.0164,
+    "gn:longitude":-82.55084,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"El Mara\u00f1\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Mara\u00f1\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091903075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210587
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e139b68a5460b7dc58ce6ebd45930301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903075,
+            "locality_id":1260214253,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1260214253,
+    "wof:lastmodified":1537619233,
+    "wof:name":"El Maranon",
+    "wof:parent_id":1091903075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.55084000000002,
+    23.0164,
+    -82.55084000000002,
+    23.0164
+],
+  "geometry": {"coordinates":[-82.55084000000002,23.0164],"type":"Point"}
+}

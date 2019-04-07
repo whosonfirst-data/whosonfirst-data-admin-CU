@@ -1,0 +1,67 @@
+{
+  "id": 1242654785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.57167,20.87167,-76.57167,20.87167",
+    "geom:latitude":20.87167,
+    "geom:longitude":-76.57167,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Guayacan",
+    "gn:country_code":"CU",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3557467,
+    "gn:latitude":20.87167,
+    "gn:longitude":-76.57167,
+    "gn:modification_date":"1996-03-20",
+    "gn:name":"Guayac\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091903541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557467
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d2dadc0e076a70986b87f0aedb04311c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903541,
+            "locality_id":1242654785,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1242654785,
+    "wof:lastmodified":1536952826,
+    "wof:name":"Guayacan",
+    "wof:parent_id":1091903541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.57167,
+    20.87167,
+    -76.57167,
+    20.87167
+],
+  "geometry": {"coordinates":[-76.57167,20.87167],"type":"Point"}
+}

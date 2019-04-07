@@ -1,0 +1,70 @@
+{
+  "id": 1360174399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.91962,20.05261,-76.91962,20.05261",
+    "geom:latitude":20.05261,
+    "geom:longitude":-76.91962,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Casa de Piedras",
+    "gn:country_code":"CU",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11024266,
+    "gn:latitude":20.05261,
+    "gn:longitude":-76.91962,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Casa de Piedras",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Casa de Piedras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091902987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024266
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"87e16baefc77f7393c53679a39bad5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902987,
+            "locality_id":1360174399,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1360174399,
+    "wof:lastmodified":1537619192,
+    "wof:name":"Casa de Piedras",
+    "wof:parent_id":1091902987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.91962,
+    20.05261,
+    -76.91962,
+    20.05261
+],
+  "geometry": {"coordinates":[-76.91961999999999,20.05261],"type":"Point"}
+}

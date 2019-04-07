@@ -1,0 +1,70 @@
+{
+  "id": 1343854151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.15426,19.95231,-77.15426,19.95231",
+    "geom:latitude":19.95231,
+    "geom:longitude":-77.15426,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aguacatico",
+    "gn:country_code":"CU",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027650,
+    "gn:latitude":19.95231,
+    "gn:longitude":-77.15426,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Aguacatico",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aguacatico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027650
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"88b046a4c2d32ec156156ffc73c01c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906965,
+            "locality_id":1343854151,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1343854151,
+    "wof:lastmodified":1537619196,
+    "wof:name":"Aguacatico",
+    "wof:parent_id":1091906965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.15426,
+    19.95231,
+    -77.15426,
+    19.95231
+],
+  "geometry": {"coordinates":[-77.15425999999999,19.95231],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226441775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.37425,21.17882,-77.37425,21.17882",
+    "geom:latitude":21.17882,
+    "geom:longitude":-77.37425,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Deseada de la Carbonera",
+    "gn:country_code":"CU",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11058825,
+    "gn:latitude":21.17882,
+    "gn:longitude":-77.37425,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"La Deseada de la Carbonera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Deseada de la Carbonera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058825
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"53854b175d14e82a7238ed52bcace007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904725,
+            "locality_id":1226441775,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1226441775,
+    "wof:lastmodified":1537619205,
+    "wof:name":"La Deseada de la Carbonera",
+    "wof:parent_id":1091904725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.37425,
+    21.17882,
+    -77.37425,
+    21.17882
+],
+  "geometry": {"coordinates":[-77.37425,21.17882],"type":"Point"}
+}

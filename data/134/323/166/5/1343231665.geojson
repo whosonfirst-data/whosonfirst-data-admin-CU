@@ -1,0 +1,70 @@
+{
+  "id": 1343231665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.79619,22.2462,-79.79619,22.2462",
+    "geom:latitude":22.2462,
+    "geom:longitude":-79.79619,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Las Nueces",
+    "gn:country_code":"CU",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550803,
+    "gn:latitude":22.2462,
+    "gn:longitude":-79.79619,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Las Nueces",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Nueces"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550803
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ca8fa7a41a97c90098c8fbb2c3d5f802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1343231665,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1343231665,
+    "wof:lastmodified":1537618984,
+    "wof:name":"Las Nueces",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.79619,
+    22.2462,
+    -79.79619,
+    22.2462
+],
+  "geometry": {"coordinates":[-79.79619,22.2462],"type":"Point"}
+}

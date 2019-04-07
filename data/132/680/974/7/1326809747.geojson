@@ -1,0 +1,70 @@
+{
+  "id": 1326809747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.98829,21.25619,-76.98829,21.25619",
+    "geom:latitude":21.25619,
+    "geom:longitude":-76.98829,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"San Ramon Uno",
+    "gn:country_code":"CU",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746242,
+    "gn:latitude":21.25619,
+    "gn:longitude":-76.98829,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"San Ram\u00f3n Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Ram\u00f3n Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746242
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7b2a4f166df15e95a3c87f1feb4ac6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905945,
+            "locality_id":1326809747,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1326809747,
+    "wof:lastmodified":1537619129,
+    "wof:name":"San Ramon Uno",
+    "wof:parent_id":1091905945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.98829,
+    21.25619,
+    -76.98829,
+    21.25619
+],
+  "geometry": {"coordinates":[-76.98829000000001,21.25619],"type":"Point"}
+}

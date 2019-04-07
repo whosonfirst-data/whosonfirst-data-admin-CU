@@ -1,0 +1,70 @@
+{
+  "id": 1327061351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.81586,22.79219,-82.81586,22.79219",
+    "geom:latitude":22.79219,
+    "geom:longitude":-82.81586,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Pijirigua",
+    "gn:country_code":"CU",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3544186,
+    "gn:latitude":22.79219,
+    "gn:longitude":-82.81586,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Pijirigua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pijirigua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091902795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544186
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cd12726a44a542516899aa3f6fc355e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902795,
+            "locality_id":1327061351,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1327061351,
+    "wof:lastmodified":1537618940,
+    "wof:name":"Pijirigua",
+    "wof:parent_id":1091902795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.81586,
+    22.79219,
+    -82.81586,
+    22.79219
+],
+  "geometry": {"coordinates":[-82.81586,22.79219],"type":"Point"}
+}

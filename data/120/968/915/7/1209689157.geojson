@@ -1,0 +1,61 @@
+{
+  "id": 1209689157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.91583,19.99667,-75.91583,19.99667",
+    "geom:latitude":19.99667,
+    "geom:longitude":-75.91583,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Reinosa",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766949,
+    "gn:latitude":19.99667,
+    "gn:longitude":-75.91583,
+    "gn:modification_date":"1999-06-07",
+    "gn:name":"La Reinosa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766949
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"aec40fd6fbb07c3d20e443002cb4b218",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209689157
+        }
+    ],
+    "wof:id":1209689157,
+    "wof:lastmodified":1536279305,
+    "wof:name":"La Reinosa",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.91583,
+    19.99667,
+    -75.91583,
+    19.99667
+],
+  "geometry": {"coordinates":[-75.91583,19.99667],"type":"Point"}
+}

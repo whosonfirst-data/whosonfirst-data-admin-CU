@@ -1,0 +1,71 @@
+{
+  "id": 1243441425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.81323,21.0857,-75.81323,21.0857",
+    "geom:latitude":21.0857,
+    "geom:longitude":-75.81323,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yaguajay Arriba",
+    "gn:country_code":"CU",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3533820,
+    "gn:latitude":21.0857,
+    "gn:longitude":-75.81323,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Yaguajay Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaguajay",
+        "Yaguajay Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3533820
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a86240524ac0b03c2d211dd0f4d1dc28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1243441425,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1243441425,
+    "wof:lastmodified":1537618879,
+    "wof:name":"Yaguajay Arriba",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.81323,
+    21.0857,
+    -75.81323,
+    21.0857
+],
+  "geometry": {"coordinates":[-75.81323,21.0857],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243202815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.63006,22.8464,-82.63006,22.8464",
+    "geom:latitude":22.8464,
+    "geom:longitude":-82.63006,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Reparto Antonio Maceo",
+    "gn:country_code":"CU",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10948086,
+    "gn:latitude":22.8464,
+    "gn:longitude":-82.63006,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Reparto Antonio Maceo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Reparto Antonio Maceo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091903451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948086
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d12990f226fe526bd18b8fdbadf071f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903451,
+            "locality_id":1243202815,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1243202815,
+    "wof:lastmodified":1537619146,
+    "wof:name":"Reparto Antonio Maceo",
+    "wof:parent_id":1091903451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.63006,
+    22.8464,
+    -82.63006,
+    22.8464
+],
+  "geometry": {"coordinates":[-82.63006,22.8464],"type":"Point"}
+}

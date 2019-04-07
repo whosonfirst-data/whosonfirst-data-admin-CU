@@ -1,0 +1,67 @@
+{
+  "id": 1327140525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.04583,21.76306,-83.04583,21.76306",
+    "geom:latitude":21.76306,
+    "geom:longitude":-83.04583,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Casa de Botes",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3565132,
+    "gn:latitude":21.76306,
+    "gn:longitude":-83.04583,
+    "gn:modification_date":"1996-06-11",
+    "gn:name":"Casa de Botes",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670405,
+        1091906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565132
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cd5e2fa9695cc3c586160a4a6f1e634c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906563,
+            "locality_id":1327140525,
+            "region_id":85670405
+        }
+    ],
+    "wof:id":1327140525,
+    "wof:lastmodified":1536601168,
+    "wof:name":"Casa de Botes",
+    "wof:parent_id":1091906563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.04583000000002,
+    21.76306,
+    -83.04583000000002,
+    21.76306
+],
+  "geometry": {"coordinates":[-83.04583000000002,21.76306],"type":"Point"}
+}

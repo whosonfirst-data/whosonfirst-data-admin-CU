@@ -1,0 +1,67 @@
+{
+  "id": 1310513077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.61361,22.93333,-81.61361,22.93333",
+    "geom:latitude":22.93333,
+    "geom:longitude":-81.61361,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jesus Maria",
+    "gn:country_code":"CU",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3556275,
+    "gn:latitude":22.93333,
+    "gn:longitude":-81.61361,
+    "gn:modification_date":"1996-09-19",
+    "gn:name":"Jes\u00fas Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556275
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"62d1dd62e0bd4c83e044b4ead52dbed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905663,
+            "locality_id":1310513077,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1310513077,
+    "wof:lastmodified":1536906162,
+    "wof:name":"Jesus Maria",
+    "wof:parent_id":1091905663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.61361,
+    22.93333,
+    -81.61361,
+    22.93333
+],
+  "geometry": {"coordinates":[-81.61360999999999,22.93333],"type":"Point"}
+}

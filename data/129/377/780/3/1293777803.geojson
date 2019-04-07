@@ -1,0 +1,70 @@
+{
+  "id": 1293777803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.9156,20.20645,-74.9156,20.20645",
+    "geom:latitude":20.20645,
+    "geom:longitude":-74.9156,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ojo de Agua",
+    "gn:country_code":"CU",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3545630,
+    "gn:latitude":20.20645,
+    "gn:longitude":-74.9156,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ojo de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ojo de Agua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091906061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545630
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b45fc757a77d1827caa0c6c7a91816f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906061,
+            "locality_id":1293777803,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1293777803,
+    "wof:lastmodified":1537618950,
+    "wof:name":"Ojo de Agua",
+    "wof:parent_id":1091906061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.9156,
+    20.20645,
+    -74.9156,
+    20.20645
+],
+  "geometry": {"coordinates":[-74.9156,20.20645],"type":"Point"}
+}

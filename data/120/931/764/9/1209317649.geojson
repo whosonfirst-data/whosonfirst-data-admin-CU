@@ -1,0 +1,66 @@
+{
+  "id": 1209317649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.11667,23.03333,-82.11667,23.03333",
+    "geom:latitude":23.03333,
+    "geom:longitude":-82.11667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tapastillo",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3535506,
+    "gn:latitude":23.03333,
+    "gn:longitude":-82.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tapastillo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Ana",
+        "Tapastillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535506
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"039b9b65b103a25b6ace65e9fca1dd2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209317649
+        }
+    ],
+    "wof:id":1209317649,
+    "wof:lastmodified":1537618890,
+    "wof:name":"Tapastillo",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.11667,
+    23.03333,
+    -82.11667,
+    23.03333
+],
+  "geometry": {"coordinates":[-82.11667,23.03333],"type":"Point"}
+}

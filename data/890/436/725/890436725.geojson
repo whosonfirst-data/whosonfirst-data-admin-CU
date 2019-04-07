@@ -1,0 +1,108 @@
+{
+  "id": 890436725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.04611,22.645,-80.04611,22.645",
+    "geom:latitude":22.645,
+    "geom:longitude":-80.04611,
+    "gn:country":"CU",
+    "gn:fcode":"PPL",
+    "gn:pop":40142,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u897f\u5bcc\u6069\u7279\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:eng_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:fre_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d8\u10e4\u10e3\u10d4\u10dc\u10e2\u10d4\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:ita_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:nob_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:por_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:sco_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:spa_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Cifuentes"
+    ],
+    "name:vie_x_preferred":[
+        "Cifuentes"
+    ],
+    "qs:name":"Cifuentes",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564114,
+        "gp:id":61218,
+        "qs:id":1045514,
+        "wd:id":"Q2245934",
+        "wk:page":"Cifuentes"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052122,
+    "wof:geomhash":"9204ed60c577c0929a623e8382b2c32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904069,
+            "locality_id":890436725,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":890436725,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Cifuentes",
+    "wof:parent_id":1091904069,
+    "wof:placetype":"locality",
+    "wof:population":40142,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.04611,
+    22.645,
+    -80.04611,
+    22.645
+],
+  "geometry": {"coordinates":[-80.04611,22.645],"type":"Point"}
+}

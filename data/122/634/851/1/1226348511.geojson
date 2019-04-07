@@ -1,0 +1,70 @@
+{
+  "id": 1226348511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.72449,21.81323,-82.72449,21.81323",
+    "geom:latitude":21.81323,
+    "geom:longitude":-82.72449,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jucaro",
+    "gn:country_code":"CU",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3555730,
+    "gn:latitude":21.81323,
+    "gn:longitude":-82.72449,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"J\u00facaro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "J\u00facaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670405,
+        1091906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555730
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a63a496e53313f17c0210a50dbcaf731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906563,
+            "locality_id":1226348511,
+            "region_id":85670405
+        }
+    ],
+    "wof:id":1226348511,
+    "wof:lastmodified":1537619018,
+    "wof:name":"Jucaro",
+    "wof:parent_id":1091906563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.72449,
+    21.81323,
+    -82.72449,
+    21.81323
+],
+  "geometry": {"coordinates":[-82.72449,21.81323],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209539829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.93974,21.4629,-82.93974,21.4629",
+    "geom:latitude":21.4629,
+    "geom:longitude":-82.93974,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Carapachibey",
+    "gn:country_code":"CU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565464,
+    "gn:latitude":21.4629,
+    "gn:longitude":-82.93974,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Carapachibey",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Carapachibey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565464
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f14fded56226efe2c61b9ec98db334a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209539829
+        }
+    ],
+    "wof:id":1209539829,
+    "wof:lastmodified":1537619092,
+    "wof:name":"Carapachibey",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.93974,
+    21.4629,
+    -82.93974,
+    21.4629
+],
+  "geometry": {"coordinates":[-82.93974,21.4629],"type":"Point"}
+}

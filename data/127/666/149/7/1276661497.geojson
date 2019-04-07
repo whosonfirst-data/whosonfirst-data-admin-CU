@@ -1,0 +1,70 @@
+{
+  "id": 1276661497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.81409,22.26141,-83.81409,22.26141",
+    "geom:latitude":22.26141,
+    "geom:longitude":-83.81409,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Salvador",
+    "gn:country_code":"CU",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3559734,
+    "gn:latitude":22.26141,
+    "gn:longitude":-83.81409,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"El Salvador",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Salvador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559734
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f2e97bbce4e11e80a04757b7f32aa7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907755,
+            "locality_id":1276661497,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1276661497,
+    "wof:lastmodified":1537619046,
+    "wof:name":"El Salvador",
+    "wof:parent_id":1091907755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.81409000000002,
+    22.26141,
+    -83.81409000000002,
+    22.26141
+],
+  "geometry": {"coordinates":[-83.81409000000002,22.26141],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259916211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.94388,22.81311,-82.94388,22.81311",
+    "geom:latitude":22.81311,
+    "geom:longitude":-82.94388,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Ascension",
+    "gn:country_code":"CU",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3555434,
+    "gn:latitude":22.81311,
+    "gn:longitude":-82.94388,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Ascensi\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ascensi\u00f3n"
+    ],
+    "name:und_x_variant":[
+        "La Asunci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091902795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555434
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2f83ffd3dfb5e964803eeb92b7d1873b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902795,
+            "locality_id":1259916211,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1259916211,
+    "wof:lastmodified":1537619016,
+    "wof:name":"Ascension",
+    "wof:parent_id":1091902795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.94388000000002,
+    22.81311,
+    -82.94388000000002,
+    22.81311
+],
+  "geometry": {"coordinates":[-82.94388000000002,22.81311],"type":"Point"}
+}

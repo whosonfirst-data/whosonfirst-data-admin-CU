@@ -1,0 +1,115 @@
+{
+  "id": 1125835441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.42833,21.94694,-78.42833,21.94694",
+    "geom:latitude":21.94694,
+    "geom:longitude":-78.42833,
+    "gn:gn_country":"CU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":17934,
+    "gn:population":17934,
+    "iso:country":"CU",
+    "lbl:latitude":21.94694,
+    "lbl:longitude":-78.42833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u4e00\u6708\u4e00\u65e5\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Primero de Enero"
+    ],
+    "name:eng_x_preferred":[
+        "Primero de Enero"
+    ],
+    "name:fre_x_preferred":[
+        "Primero de Enero"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10e0\u10d8\u10db\u10d4\u10e0\u10dd-\u10d3\u10d4-\u10d4\u10dc\u10d4\u10e0\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Primero de Enero"
+    ],
+    "name:hat_x_preferred":[
+        "Primero de Enero"
+    ],
+    "name:ita_x_preferred":[
+        "Primero de Enero"
+    ],
+    "name:pol_x_preferred":[
+        "Primero de Enero"
+    ],
+    "name:swe_x_preferred":[
+        "Primero de Enero"
+    ],
+    "name:unk_x_variant":[
+        "Violeta"
+    ],
+    "name:vie_x_preferred":[
+        "Primero de Enero"
+    ],
+    "qs_pg:aaroncc":"CU",
+    "qs_pg:gn_country":"CU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3543498,
+    "qs_pg:gn_pop":17934,
+    "qs_pg:name":"Primero de Enero",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":148917,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091907167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543498,
+        "qs_pg:id":148917,
+        "wd:id":"Q1020104"
+    },
+    "wof:country":"CU",
+    "wof:created":1497292696,
+    "wof:geomhash":"8c174bf835603eb659c86e89310bd8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907167,
+            "locality_id":1125835441,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1125835441,
+    "wof:lastmodified":1513944621,
+    "wof:name":"Primero de Enero",
+    "wof:parent_id":1091907167,
+    "wof:placetype":"locality",
+    "wof:population":17934,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.42833,
+    21.94694,
+    -78.42833,
+    21.94694
+],
+  "geometry": {"coordinates":[-78.42833,21.94694],"type":"Point"}
+}

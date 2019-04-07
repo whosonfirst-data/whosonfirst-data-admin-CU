@@ -1,0 +1,70 @@
+{
+  "id": 1226026957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.43224,22.27827,-79.43224,22.27827",
+    "geom:latitude":22.27827,
+    "geom:longitude":-79.43224,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"San Gregorio",
+    "gn:country_code":"CU",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3540159,
+    "gn:latitude":22.27827,
+    "gn:longitude":-79.43224,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"San Gregorio",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Gregorio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540159
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"feb01aa9f3e87d30c6e10cf3f4582fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1226026957,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1226026957,
+    "wof:lastmodified":1537618914,
+    "wof:name":"San Gregorio",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.43224000000002,
+    22.27827000000001,
+    -79.43224000000002,
+    22.27827000000001
+],
+  "geometry": {"coordinates":[-79.43224000000002,22.27827000000001],"type":"Point"}
+}

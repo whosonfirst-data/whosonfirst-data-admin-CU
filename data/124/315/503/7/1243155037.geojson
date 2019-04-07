@@ -1,0 +1,67 @@
+{
+  "id": 1243155037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.41667,20.4,-75.41667,20.4",
+    "geom:latitude":20.4,
+    "geom:longitude":-75.41667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Maniguero",
+    "gn:country_code":"CU",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3547969,
+    "gn:latitude":20.4,
+    "gn:longitude":-75.41667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Maniguero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547969
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6c779c6cd8fe704e17735d8dfbdea1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908213,
+            "locality_id":1243155037,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1243155037,
+    "wof:lastmodified":1536729125,
+    "wof:name":"Maniguero",
+    "wof:parent_id":1091908213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.41667,
+    20.4,
+    -75.41667,
+    20.4
+],
+  "geometry": {"coordinates":[-75.41667,20.4],"type":"Point"}
+}

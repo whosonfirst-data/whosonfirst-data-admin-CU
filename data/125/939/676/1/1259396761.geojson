@@ -1,0 +1,71 @@
+{
+  "id": 1259396761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.73971,22.4127,-83.73971,22.4127",
+    "geom:latitude":22.4127,
+    "geom:longitude":-83.73971,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cana Alta",
+    "gn:country_code":"CU",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565908,
+    "gn:latitude":22.4127,
+    "gn:longitude":-83.73971,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Cana Alta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cama Alta",
+        "Cana Alta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565908
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"dd682569ad9278629c486f68f7c1f3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907007,
+            "locality_id":1259396761,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1259396761,
+    "wof:lastmodified":1537619096,
+    "wof:name":"Cana Alta",
+    "wof:parent_id":1091907007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.73971,
+    22.4127,
+    -83.73971,
+    22.4127
+],
+  "geometry": {"coordinates":[-83.73971,22.4127],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226015205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.8325,19.97306,-75.8325,19.97306",
+    "geom:latitude":19.97306,
+    "geom:longitude":-75.8325,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Sitio",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559683,
+    "gn:latitude":19.97306,
+    "gn:longitude":-75.8325,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Sitio",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sitio del Doutor R. Arango",
+        "El Sitio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559683
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ab7441df0489ad524ca00696fbc1e9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":1226015205,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1226015205,
+    "wof:lastmodified":1537619045,
+    "wof:name":"El Sitio",
+    "wof:parent_id":1091908137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.8325,
+    19.97306,
+    -75.8325,
+    19.97306
+],
+  "geometry": {"coordinates":[-75.8325,19.97306],"type":"Point"}
+}

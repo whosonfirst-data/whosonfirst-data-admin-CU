@@ -1,0 +1,70 @@
+{
+  "id": 1226744399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.68426,21.84637,-78.68426,21.84637",
+    "geom:latitude":21.84637,
+    "geom:longitude":-78.68426,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Yumuri",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11009172,
+    "gn:latitude":21.84637,
+    "gn:longitude":-78.68426,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Yumuri",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yumuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091903947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11009172
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"81cbca8aa064c78415f137130f68fdcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903947,
+            "locality_id":1226744399,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1226744399,
+    "wof:lastmodified":1537619177,
+    "wof:name":"Yumuri",
+    "wof:parent_id":1091903947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.68426,
+    21.84637,
+    -78.68426,
+    21.84637
+],
+  "geometry": {"coordinates":[-78.68425999999999,21.84637],"type":"Point"}
+}

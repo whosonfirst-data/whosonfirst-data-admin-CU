@@ -1,0 +1,64 @@
+{
+  "id": 1209492397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.9261,20.64819,-74.9261,20.64819",
+    "geom:latitude":20.64819,
+    "geom:longitude":-74.9261,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Rolo Monterrey",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746599,
+    "gn:latitude":20.64819,
+    "gn:longitude":-74.9261,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Rolo Monterrey",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rolo Monterrey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746599
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b886e8ee13ef1c59c629f6d5c94a84db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209492397
+        }
+    ],
+    "wof:id":1209492397,
+    "wof:lastmodified":1537619133,
+    "wof:name":"Rolo Monterrey",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.9261,
+    20.64819,
+    -74.9261,
+    20.64819
+],
+  "geometry": {"coordinates":[-74.92610000000001,20.64819],"type":"Point"}
+}

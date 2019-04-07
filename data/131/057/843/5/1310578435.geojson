@@ -1,0 +1,70 @@
+{
+  "id": 1310578435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.27097,20.94844,-76.27097,20.94844",
+    "geom:latitude":20.94844,
+    "geom:longitude":-76.27097,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Aguas Claras",
+    "gn:country_code":"CU",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3569491,
+    "gn:latitude":20.94844,
+    "gn:longitude":-76.27097,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Aguas Claras",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aguas Claras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091905117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3569491
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"45d5ebfe6cac7715538111a81661b840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905117,
+            "locality_id":1310578435,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1310578435,
+    "wof:lastmodified":1537619122,
+    "wof:name":"Aguas Claras",
+    "wof:parent_id":1091905117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.27096999999998,
+    20.94844,
+    -76.27096999999998,
+    20.94844
+],
+  "geometry": {"coordinates":[-76.27096999999998,20.94844],"type":"Point"}
+}

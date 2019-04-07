@@ -1,0 +1,70 @@
+{
+  "id": 1327041463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.26493,22.94159,-81.26493,22.94159",
+    "geom:latitude":22.94159,
+    "geom:longitude":-81.26493,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Santa Agustina",
+    "gn:country_code":"CU",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3538211,
+    "gn:latitude":22.94159,
+    "gn:longitude":-81.26493,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Santa Agustina",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Agustina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538211
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3f473fc14239b661b95a9f55e9919a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905493,
+            "locality_id":1327041463,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1327041463,
+    "wof:lastmodified":1537618904,
+    "wof:name":"Santa Agustina",
+    "wof:parent_id":1091905493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.26493,
+    22.94159,
+    -81.26493,
+    22.94159
+],
+  "geometry": {"coordinates":[-81.26493000000001,22.94159],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293272371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.06836,20.65317,-75.06836,20.65317",
+    "geom:latitude":20.65317,
+    "geom:longitude":-75.06836,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yaguaneque",
+    "gn:country_code":"CU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3533814,
+    "gn:latitude":20.65317,
+    "gn:longitude":-75.06836,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Yaguaneque",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yaguaneque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3533814
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"60dfd2d61648213f06b1b8dece40787c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904661,
+            "locality_id":1293272371,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1293272371,
+    "wof:lastmodified":1537618879,
+    "wof:name":"Yaguaneque",
+    "wof:parent_id":1091904661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.06836,
+    20.65317000000001,
+    -75.06836,
+    20.65317000000001
+],
+  "geometry": {"coordinates":[-75.06836,20.65317000000001],"type":"Point"}
+}

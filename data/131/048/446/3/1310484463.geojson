@@ -1,0 +1,73 @@
+{
+  "id": 1310484463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.89472,20.22861,-75.89472,20.22861",
+    "geom:latitude":20.22861,
+    "geom:longitude":-75.89472,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Fosforera",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3553860,
+    "gn:latitude":20.22861,
+    "gn:longitude":-75.89472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Fosforera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fos Forera",
+        "La Forforera",
+        "La Fosforera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553860
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"06483a6b17d22d6c6bf5e766ddc2ea17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907795,
+            "locality_id":1310484463,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1310484463,
+    "wof:lastmodified":1537619006,
+    "wof:name":"La Fosforera",
+    "wof:parent_id":1091907795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.89471999999998,
+    20.22861,
+    -75.89471999999998,
+    20.22861
+],
+  "geometry": {"coordinates":[-75.89471999999998,20.22861],"type":"Point"}
+}

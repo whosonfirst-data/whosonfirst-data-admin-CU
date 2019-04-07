@@ -1,0 +1,61 @@
+{
+  "id": 1209018413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.45,22.55,-83.45,22.55",
+    "geom:latitude":22.55,
+    "geom:longitude":-83.45,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cayo Alto",
+    "gn:country_code":"CU",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3564821,
+    "gn:latitude":22.55,
+    "gn:longitude":-83.45,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Cayo Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564821
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"00830d2a425cc31bba35157567cea9f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209018413
+        }
+    ],
+    "wof:id":1209018413,
+    "wof:lastmodified":1536300221,
+    "wof:name":"Cayo Alto",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.45,
+    22.55,
+    -83.45,
+    22.55
+],
+  "geometry": {"coordinates":[-83.45,22.55],"type":"Point"}
+}

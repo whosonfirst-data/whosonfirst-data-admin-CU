@@ -1,0 +1,73 @@
+{
+  "id": 1326761683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.95228,22.7355,-82.95228,22.7355",
+    "geom:latitude":22.7355,
+    "geom:longitude":-82.95228,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"El Cayo",
+    "gn:country_code":"CU",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3561692,
+    "gn:latitude":22.7355,
+    "gn:longitude":-82.95228,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"El Cayo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cayo"
+    ],
+    "name:und_x_variant":[
+        "El Callo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091903705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561692
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ff5ce051c2281b211fe8c4014372edc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903705,
+            "locality_id":1326761683,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1326761683,
+    "wof:lastmodified":1537619064,
+    "wof:name":"El Cayo",
+    "wof:parent_id":1091903705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.95228,
+    22.7355,
+    -82.95228,
+    22.7355
+],
+  "geometry": {"coordinates":[-82.95228,22.7355],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310595473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.45722,20.13787,-74.45722,20.13787",
+    "geom:latitude":20.13787,
+    "geom:longitude":-74.45722,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Saos",
+    "gn:country_code":"CU",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080201,
+    "gn:latitude":20.13787,
+    "gn:longitude":-74.45722,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Los Saos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Saos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080201
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"27d47666e63d2ff0da83b964b30e89f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1310595473,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1310595473,
+    "wof:lastmodified":1537619227,
+    "wof:name":"Los Saos",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.45721999999998,
+    20.13787,
+    -74.45721999999998,
+    20.13787
+],
+  "geometry": {"coordinates":[-74.45721999999998,20.13787],"type":"Point"}
+}

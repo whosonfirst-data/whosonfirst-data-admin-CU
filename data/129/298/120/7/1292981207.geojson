@@ -1,0 +1,71 @@
+{
+  "id": 1292981207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.08188,20.9484,-76.08188,20.9484",
+    "geom:latitude":20.9484,
+    "geom:longitude":-76.08188,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Palma",
+    "gn:country_code":"CU",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542222,
+    "gn:latitude":20.9484,
+    "gn:longitude":-76.08188,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinc\u00f3n de la Plama",
+        "Rinc\u00f3n de la Palma Corojal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091907267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542222
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8a01c55da0ba3754c10adb4028b89c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907267,
+            "locality_id":1292981207,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1292981207,
+    "wof:lastmodified":1537618926,
+    "wof:name":"La Palma",
+    "wof:parent_id":1091907267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.08188,
+    20.9484,
+    -76.08188,
+    20.9484
+],
+  "geometry": {"coordinates":[-76.08188,20.9484],"type":"Point"}
+}

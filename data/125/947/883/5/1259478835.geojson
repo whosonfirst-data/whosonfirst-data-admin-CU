@@ -1,0 +1,70 @@
+{
+  "id": 1259478835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.25346,22.48009,-80.25346,22.48009",
+    "geom:latitude":22.48009,
+    "geom:longitude":-80.25346,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Pino",
+    "gn:country_code":"CU",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11007433,
+    "gn:latitude":22.48009,
+    "gn:longitude":-80.25346,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Pino",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Pino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091905617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007433
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"58dd92fa9def6dad59cb5e3b850c6749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905617,
+            "locality_id":1259478835,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1259478835,
+    "wof:lastmodified":1537619162,
+    "wof:name":"El Pino",
+    "wof:parent_id":1091905617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.25346,
+    22.48009,
+    -80.25346,
+    22.48009
+],
+  "geometry": {"coordinates":[-80.25346,22.48009],"type":"Point"}
+}

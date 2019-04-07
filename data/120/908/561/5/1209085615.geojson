@@ -1,0 +1,61 @@
+{
+  "id": 1209085615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.15,20.93333,-77.15,20.93333",
+    "geom:latitude":20.93333,
+    "geom:longitude":-77.15,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Guaramanao",
+    "gn:country_code":"CU",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3557664,
+    "gn:latitude":20.93333,
+    "gn:longitude":-77.15,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Guaramanao",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557664
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3f9313136e590dbcaa76d6d888e0ca67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209085615
+        }
+    ],
+    "wof:id":1209085615,
+    "wof:lastmodified":1536298196,
+    "wof:name":"Guaramanao",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.15,
+    20.93333,
+    -77.15,
+    20.93333
+],
+  "geometry": {"coordinates":[-77.15000000000001,20.93333],"type":"Point"}
+}

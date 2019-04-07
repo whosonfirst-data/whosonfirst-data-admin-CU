@@ -1,0 +1,118 @@
+{
+  "id": 85793623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3578732.752174,
+    "geom:bbox":"-82.374939,23.094891,-82.374939,23.094891",
+    "geom:latitude":23.094891,
+    "geom:longitude":-82.374939,
+    "gn:id":"",
+    "iso:country":"CU",
+    "lbl:latitude":23.094891,
+    "lbl:longitude":-82.374939,
+    "mps:latitude":23.088699,
+    "mps:longitude":-82.374187,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "La Vibora"
+    ],
+    "name:fra_x_preferred":[
+        "La Vibora"
+    ],
+    "name:nld_x_preferred":[
+        "La Vibora"
+    ],
+    "name:spa_x_colloquial":[
+        "La Vibora"
+    ],
+    "name:spa_x_preferred":[
+        "La V\u00edbora"
+    ],
+    "name:spa_x_variant":[
+        "El Vibora",
+        "Vibora"
+    ],
+    "name:unk_x_variant":[
+        "La V\u00edbora"
+    ],
+    "qs:gn_adm0_cc":"CU",
+    "qs:gn_id":0,
+    "qs:gn_local":3553478,
+    "qs:local_max":6362,
+    "qs:local_sum":28186,
+    "qs:localhoods":23,
+    "qs:name":"La V\u00edbora",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:name_local":"La Habana",
+    "qs:photo_max":7,
+    "qs:photo_sum":19,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424793,
+    "qs:woe_adm1":2345107,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":63817,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":169,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091904421,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":64404,
+        "qs:id":1043422
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"06ba88bf6f785f2f4d28c399079ae8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904421,
+            "locality_id":-1,
+            "neighbourhood_id":85793623,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":85793623,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531861396,
+    "wof:name":"La V\u00edbora",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.374939,
+    23.094891,
+    -82.374939,
+    23.094891
+],
+  "geometry": {"coordinates":[-82.374939,23.094891],"type":"Point"}
+}

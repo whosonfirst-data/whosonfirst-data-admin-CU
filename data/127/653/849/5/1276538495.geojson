@@ -1,0 +1,70 @@
+{
+  "id": 1276538495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.99809,20.70212,-76.99809,20.70212",
+    "geom:latitude":20.70212,
+    "geom:longitude":-76.99809,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Puente de Guillen",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023382,
+    "gn:latitude":20.70212,
+    "gn:longitude":-76.99809,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Puente de Guill\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puente de Guill\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091907413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023382
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"adb8622d3e47397f00c0f05e7dac456a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907413,
+            "locality_id":1276538495,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1276538495,
+    "wof:lastmodified":1537619190,
+    "wof:name":"Puente de Guillen",
+    "wof:parent_id":1091907413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.99809,
+    20.70212,
+    -76.99809,
+    20.70212
+],
+  "geometry": {"coordinates":[-76.99809,20.70212],"type":"Point"}
+}

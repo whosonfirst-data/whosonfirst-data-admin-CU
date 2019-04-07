@@ -1,0 +1,64 @@
+{
+  "id": 1209209561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.68149,20.62384,-76.68149,20.62384",
+    "geom:latitude":20.62384,
+    "geom:longitude":-76.68149,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tasajeras Dos",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023117,
+    "gn:latitude":20.62384,
+    "gn:longitude":-76.68149,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Tasajeras Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tasajeras Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023117
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"97f298cf8600a87627d7cb04c2ddb58f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209209561
+        }
+    ],
+    "wof:id":1209209561,
+    "wof:lastmodified":1537619189,
+    "wof:name":"Tasajeras Dos",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.68149,
+    20.62384,
+    -76.68149,
+    20.62384
+],
+  "geometry": {"coordinates":[-76.68149,20.62384],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209595569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.39638,20.92951,-76.39638,20.92951",
+    "geom:latitude":20.92951,
+    "geom:longitude":-76.39638,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Guabino",
+    "gn:country_code":"CU",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3560950,
+    "gn:latitude":20.92951,
+    "gn:longitude":-76.39638,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"El Guabino",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Guabino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560950
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c64a230004eb9ee8671c565b9f7cf867",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209595569
+        }
+    ],
+    "wof:id":1209595569,
+    "wof:lastmodified":1537619057,
+    "wof:name":"El Guabino",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.39638000000002,
+    20.92951,
+    -76.39638000000002,
+    20.92951
+],
+  "geometry": {"coordinates":[-76.39638000000002,20.92951],"type":"Point"}
+}

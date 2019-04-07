@@ -1,0 +1,73 @@
+{
+  "id": 1226155793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.30516,22.97393,-82.30516,22.97393",
+    "geom:latitude":22.97393,
+    "geom:longitude":-82.30516,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Frank Pais",
+    "gn:country_code":"CU",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3760852,
+    "gn:latitude":22.97393,
+    "gn:longitude":-82.30516,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Frank Pa\u00eds",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Frank Pa\u00eds"
+    ],
+    "name:und_x_variant":[
+        "Reparto Frank Pais"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091902737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3760852
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c38fa65bdbccd02a65118907fe7da205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902737,
+            "locality_id":1226155793,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1226155793,
+    "wof:lastmodified":1537619137,
+    "wof:name":"Frank Pais",
+    "wof:parent_id":1091902737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.30516,
+    22.97393,
+    -82.30516,
+    22.97393
+],
+  "geometry": {"coordinates":[-82.30516,22.97393],"type":"Point"}
+}

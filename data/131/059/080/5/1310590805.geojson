@@ -1,0 +1,67 @@
+{
+  "id": 1310590805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.26667,20.2,-77.26667,20.2",
+    "geom:latitude":20.2,
+    "geom:longitude":-77.26667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Hacienda Campechuela",
+    "gn:country_code":"CU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3557280,
+    "gn:latitude":20.2,
+    "gn:longitude":-77.26667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Hacienda Campechuela",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557280
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"dc9345f1a4b1624115f386e117d3617d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903673,
+            "locality_id":1310590805,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1310590805,
+    "wof:lastmodified":1536794192,
+    "wof:name":"Hacienda Campechuela",
+    "wof:parent_id":1091903673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.26666999999998,
+    20.2,
+    -77.26666999999998,
+    20.2
+],
+  "geometry": {"coordinates":[-77.26666999999998,20.2],"type":"Point"}
+}

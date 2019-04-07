@@ -1,0 +1,61 @@
+{
+  "id": 1209385977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81667,21.83333,-79.81667,21.83333",
+    "geom:latitude":21.83333,
+    "geom:longitude":-79.81667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Canamabo",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3565843,
+    "gn:latitude":21.83333,
+    "gn:longitude":-79.81667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Ca\u00f1amabo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565843
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1b2fe2f1626c494993ae48c701c75b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209385977
+        }
+    ],
+    "wof:id":1209385977,
+    "wof:lastmodified":1536288623,
+    "wof:name":"Canamabo",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81667,
+    21.83333,
+    -79.81667,
+    21.83333
+],
+  "geometry": {"coordinates":[-79.81667,21.83333],"type":"Point"}
+}

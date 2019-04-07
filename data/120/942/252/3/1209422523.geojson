@@ -1,0 +1,64 @@
+{
+  "id": 1209422523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.03043,22.5668,-81.03043,22.5668",
+    "geom:latitude":22.5668,
+    "geom:longitude":-81.03043,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Los Salones",
+    "gn:country_code":"CU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10948933,
+    "gn:latitude":22.5668,
+    "gn:longitude":-81.03043,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Los Salones",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Salones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948933
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ccf9f2fcfddac7298f8f491f8b5cfb46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209422523
+        }
+    ],
+    "wof:id":1209422523,
+    "wof:lastmodified":1537619149,
+    "wof:name":"Los Salones",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.03043000000002,
+    22.5668,
+    -81.03043000000002,
+    22.5668
+],
+  "geometry": {"coordinates":[-81.03043000000002,22.5668],"type":"Point"}
+}

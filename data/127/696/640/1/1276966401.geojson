@@ -1,0 +1,75 @@
+{
+  "id": 1276966401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.35072,20.8728,-76.35072,20.8728",
+    "geom:latitude":20.8728,
+    "geom:longitude":-76.35072,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yarayal",
+    "gn:country_code":"CU",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3533730,
+    "gn:latitude":20.8728,
+    "gn:longitude":-76.35072,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Yarayal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yarayal"
+    ],
+    "name:und_x_variant":[
+        "Poblado Yareyal",
+        "El Yareyal",
+        "Yareyal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091905117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3533730
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f3794b0d4f46f4290e25219209d2728b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905117,
+            "locality_id":1276966401,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1276966401,
+    "wof:lastmodified":1537618878,
+    "wof:name":"Yarayal",
+    "wof:parent_id":1091905117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.35072,
+    20.8728,
+    -76.35072,
+    20.8728
+],
+  "geometry": {"coordinates":[-76.35072,20.8728],"type":"Point"}
+}

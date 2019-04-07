@@ -1,0 +1,67 @@
+{
+  "id": 1276154999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.71417,20.93639,-77.71417,20.93639",
+    "geom:latitude":20.93639,
+    "geom:longitude":-77.71417,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mojacasabe",
+    "gn:country_code":"CU",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3546762,
+    "gn:latitude":20.93639,
+    "gn:longitude":-77.71417,
+    "gn:modification_date":"1996-02-20",
+    "gn:name":"Mojacasabe",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091906599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546762
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6fa9b095d85310bd4b266b31d1a67ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906599,
+            "locality_id":1276154999,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1276154999,
+    "wof:lastmodified":1537017010,
+    "wof:name":"Mojacasabe",
+    "wof:parent_id":1091906599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.71417,
+    20.93639,
+    -77.71417,
+    20.93639
+],
+  "geometry": {"coordinates":[-77.71417,20.93639],"type":"Point"}
+}

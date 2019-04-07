@@ -1,0 +1,68 @@
+{
+  "id": 1360167571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.49635,20.41384,-75.49635,20.41384",
+    "geom:latitude":20.41384,
+    "geom:longitude":-75.49635,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Segundo Frente",
+    "gn:country_code":"CU",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":9348769,
+    "gn:latitude":20.41384,
+    "gn:longitude":-75.49635,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Segundo Frente",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9348769,
+        "wk:page":"Segundo_Frente"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6a41940e59a6ab6d7f3ee7d022f79acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908213,
+            "locality_id":1360167571,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1360167571,
+    "wof:lastmodified":1537503966,
+    "wof:name":"Segundo Frente",
+    "wof:parent_id":1091908213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.49635,
+    20.41384,
+    -75.49635,
+    20.41384
+],
+  "geometry": {"coordinates":[-75.49635000000001,20.41384],"type":"Point"}
+}

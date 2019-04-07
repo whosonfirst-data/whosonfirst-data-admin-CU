@@ -1,0 +1,224 @@
+{
+  "id": 890442075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.49917,22.89111,-82.49917,22.89111",
+    "geom:latitude":22.89111,
+    "geom:longitude":-82.49917,
+    "gn:country":"CU",
+    "gn:fcode":"PPL",
+    "gn:pop":42724,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "name:cat_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u5fb7\u6d1b\u65af\u5df4\u5c3c\u5967\u65af"
+    ],
+    "name:cze_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:dut_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:fre_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10dd-\u10d3\u10d4-\u10da\u10dd\u10e1-\u10d1\u10d0\u10dc\u10d8\u10dd\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30c7\u30fb\u30ed\u30b9\u30fb\u30d0\u30cb\u30e7\u30b9"
+    ],
+    "name:oci_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:pol_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0410\u043d\u0442\u043e\u043d\u0438\u043e-\u0434\u0435-\u043b\u043e\u0441-\u0411\u0430\u043d\u044c\u043e\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:swe_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:tur_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0627\u0646\u062a\u0648\u0646\u06cc\u0648 \u062f \u0644\u0648 \u0628\u0627\u0646\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Cuba",
+    "ne:ADM0_A3":"CUB",
+    "ne:ADM1NAME":"La Habana",
+    "ne:ADMIN1_COD":11,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3540885,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"San Antonio de los Banos",
+    "ne:GN_POP":42724,
+    "ne:GTOPO30":55.0,
+    "ne:ISO_A2":"CU",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":22.891121,
+    "ne:LONGITUDE":-82.499083,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Antonio de los Banos",
+    "ne:MAX_AREAKM":6.0,
+    "ne:MAX_AREAMI":2.0,
+    "ne:MAX_BBXMAX":-82.483333,
+    "ne:MAX_BBXMIN":-82.516667,
+    "ne:MAX_BBYMAX":22.9,
+    "ne:MAX_BBYMIN":22.883333,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":11.0,
+    "ne:MAX_PERMI":7.0,
+    "ne:MAX_POP10":32628,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-82.501786,
+    "ne:MEAN_BBYC":22.892262,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":6.0,
+    "ne:MIN_AREAMI":2.0,
+    "ne:MIN_BBXMAX":-82.483333,
+    "ne:MIN_BBXMIN":-82.516667,
+    "ne:MIN_BBYMAX":22.9,
+    "ne:MIN_BBYMIN":22.883333,
+    "ne:MIN_PERKM":11.0,
+    "ne:MIN_PERMI":7.0,
+    "ne:NAME":"San Antonio de los Banos",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Antonio de los Banos",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":42724,
+    "ne:POP_MIN":32628,
+    "ne:POP_OTHER":103886,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Cuba",
+    "ne:SOV_A3":"CUB",
+    "ne:TIMEZONE":"America/Havana",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"San Antonio de los Ba\u00f1os",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:latitude":"22.888888888",
+    "wd:longitude":"-82.498888888",
+    "wd:wordcount":356,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091907587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540885,
+        "gp:id":66971,
+        "qs:id":274407,
+        "wd:id":"Q114984",
+        "wk:page":"San Antonio de los Ba\u00f1os"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052349,
+    "wof:geomhash":"e2f3e76ef9e131951832f665230b97ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907587,
+            "locality_id":890442075,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":890442075,
+    "wof:lastmodified":1527792857,
+    "wof:name":"San Antonio de los Ba\u00f1os",
+    "wof:parent_id":1091907587,
+    "wof:placetype":"locality",
+    "wof:population":42724,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.49917,
+    22.89111,
+    -82.49917,
+    22.89111
+],
+  "geometry": {"coordinates":[-82.49917000000001,22.89111],"type":"Point"}
+}

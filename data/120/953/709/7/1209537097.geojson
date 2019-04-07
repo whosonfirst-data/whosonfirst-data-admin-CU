@@ -1,0 +1,66 @@
+{
+  "id": 1209537097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.42184,21.8113,-78.42184,21.8113",
+    "geom:latitude":21.8113,
+    "geom:longitude":-78.42184,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pablo",
+    "gn:country_code":"CU",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3545401,
+    "gn:latitude":21.8113,
+    "gn:longitude":-78.42184,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"Pablo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pablo",
+        "Pablo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545401,
+        "wk:page":"Pablo_(Primero_de_Enero)"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3783d8fa1e481e37dda718511aacbe30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209537097
+        }
+    ],
+    "wof:id":1209537097,
+    "wof:lastmodified":1537618948,
+    "wof:name":"Pablo",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.42184,
+    21.8113,
+    -78.42184,
+    21.8113
+],
+  "geometry": {"coordinates":[-78.42184,21.8113],"type":"Point"}
+}

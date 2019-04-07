@@ -1,0 +1,72 @@
+{
+  "id": 1226618597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.65188,22.48028,-79.65188,22.48028",
+    "geom:latitude":22.48028,
+    "geom:longitude":-79.65188,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Taguayabon",
+    "gn:country_code":"CU",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535577,
+    "gn:latitude":22.48028,
+    "gn:longitude":-79.65188,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"Taguayab\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaguayabon",
+        "Taguayab\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091903633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535577,
+        "wk:page":"Taguayab%C3%B3n"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"77ce8dce15e7391414b6ab4fdcefcb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903633,
+            "locality_id":1226618597,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1226618597,
+    "wof:lastmodified":1537618890,
+    "wof:name":"Taguayabon",
+    "wof:parent_id":1091903633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.65188,
+    22.48028,
+    -79.65188,
+    22.48028
+],
+  "geometry": {"coordinates":[-79.65188000000001,22.48028],"type":"Point"}
+}

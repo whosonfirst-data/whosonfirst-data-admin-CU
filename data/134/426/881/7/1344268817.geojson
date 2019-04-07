@@ -1,0 +1,67 @@
+{
+  "id": 1344268817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.61167,22.73639,-80.61167,22.73639",
+    "geom:latitude":22.73639,
+    "geom:longitude":-80.61167,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Santiago Alvarez",
+    "gn:country_code":"CU",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3536731,
+    "gn:latitude":22.73639,
+    "gn:longitude":-80.61167,
+    "gn:modification_date":"1996-10-10",
+    "gn:name":"Santiago Alv\u00e1rez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536731
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"61b19864207f50e7165dc35a65ee9e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905697,
+            "locality_id":1344268817,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1344268817,
+    "wof:lastmodified":1537069030,
+    "wof:name":"Santiago Alvarez",
+    "wof:parent_id":1091905697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.61166999999998,
+    22.73639,
+    -80.61166999999998,
+    22.73639
+],
+  "geometry": {"coordinates":[-80.61166999999998,22.73639],"type":"Point"}
+}

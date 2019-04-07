@@ -1,0 +1,70 @@
+{
+  "id": 1310376317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.70752,22.05986,-79.70752,22.05986",
+    "geom:latitude":22.05986,
+    "geom:longitude":-79.70752,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Vereda del Bejuco",
+    "gn:country_code":"CU",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11007856,
+    "gn:latitude":22.05986,
+    "gn:longitude":-79.70752,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Vereda del Bejuco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vereda del Bejuco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091904623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007856
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"44770db12918e8bf0a59980d49b97929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904623,
+            "locality_id":1310376317,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1310376317,
+    "wof:lastmodified":1537619167,
+    "wof:name":"Vereda del Bejuco",
+    "wof:parent_id":1091904623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.70752,
+    22.05986,
+    -79.70752,
+    22.05986
+],
+  "geometry": {"coordinates":[-79.70752,22.05986],"type":"Point"}
+}

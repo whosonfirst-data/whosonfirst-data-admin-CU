@@ -1,0 +1,70 @@
+{
+  "id": 1242714525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.13602,22.76615,-82.13602,22.76615",
+    "geom:latitude":22.76615,
+    "geom:longitude":-82.13602,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Melena Dos",
+    "gn:country_code":"CU",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948290,
+    "gn:latitude":22.76615,
+    "gn:longitude":-82.13602,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Melena Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Melena Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        890445471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948290
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"34ef171112d73a7af5b3167423166b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":890445471,
+            "locality_id":1242714525,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1242714525,
+    "wof:lastmodified":1537619147,
+    "wof:name":"Melena Dos",
+    "wof:parent_id":890445471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.13602,
+    22.76615,
+    -82.13602,
+    22.76615
+],
+  "geometry": {"coordinates":[-82.13602,22.76615],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310584747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.08761,21.91679,-79.08761,21.91679",
+    "geom:latitude":21.91679,
+    "geom:longitude":-79.08761,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Melones Dos",
+    "gn:country_code":"CU",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547151,
+    "gn:latitude":21.91679,
+    "gn:longitude":-79.08761,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Melones Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Melones Dos"
+    ],
+    "name:und_x_variant":[
+        "Melones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547151
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"66afcceb4e67f59d2e5d892095da5434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905283,
+            "locality_id":1310584747,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1310584747,
+    "wof:lastmodified":1537618959,
+    "wof:name":"Melones Dos",
+    "wof:parent_id":1091905283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.08761,
+    21.91679,
+    -79.08761,
+    21.91679
+],
+  "geometry": {"coordinates":[-79.08761,21.91679],"type":"Point"}
+}

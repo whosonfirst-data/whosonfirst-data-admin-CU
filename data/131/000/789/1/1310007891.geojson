@@ -1,0 +1,77 @@
+{
+  "id": 1310007891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.28045,23.10054,-81.28045,23.10054",
+    "geom:latitude":23.10054,
+    "geom:longitude":-81.28045,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Guasimas",
+    "gn:country_code":"CU",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557588,
+    "gn:latitude":23.10054,
+    "gn:longitude":-81.28045,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Gu\u00e1simas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gu\u00e1simas"
+    ],
+    "name:spa_x_preferred":[
+        "Gu\u00e1simas"
+    ],
+    "name:und_x_variant":[
+        "Cuasimas",
+        "Gu\u00e1simas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091903749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557588
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"76b4d1f7863b74717e79ee6249a6b518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903749,
+            "locality_id":1310007891,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1310007891,
+    "wof:lastmodified":1537619031,
+    "wof:name":"Guasimas",
+    "wof:parent_id":1091903749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.28045,
+    23.10054,
+    -81.28045,
+    23.10054
+],
+  "geometry": {"coordinates":[-81.28045,23.10054],"type":"Point"}
+}

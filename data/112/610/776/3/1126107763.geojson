@@ -1,0 +1,178 @@
+{
+  "id": 1126107763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.35306,23.13028,-82.35306,23.13028",
+    "geom:latitude":23.13028,
+    "geom:longitude":-82.35306,
+    "gn:gn_country":"CU",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":95383,
+    "iso:country":"CU",
+    "lbl:latitude":23.13028,
+    "lbl:longitude":-82.35306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0641\u0627\u0646\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
+    ],
+    "name:aze_x_preferred":[
+        "Q\u0259dim Havana"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c1\u09b0\u09a8\u09cb \u09b9\u09be\u09ad\u09be\u09a8\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Ciutat vella de l'Havana"
+    ],
+    "name:chi_x_preferred":[
+        "\u54c8\u74e6\u90a3\u65e7\u57ce"
+    ],
+    "name:dut_x_preferred":[
+        "Oud Havana en haar vestingwerken"
+    ],
+    "name:eng_x_preferred":[
+        "Old Havana"
+    ],
+    "name:epo_x_preferred":[
+        "Malnova Havano"
+    ],
+    "name:fre_x_preferred":[
+        "La Habana Vieja"
+    ],
+    "name:geo_x_preferred":[
+        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10f0\u10d0\u10d5\u10d0\u10dc\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "La Habana Vieja"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b9\u03ac \u0391\u03b2\u03ac\u03bd\u03b1"
+    ],
+    "name:hrv_x_preferred":[
+        "Stara Havana"
+    ],
+    "name:hun_x_preferred":[
+        "Torrelavega"
+    ],
+    "name:ita_x_preferred":[
+        "La Habana Vieja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30eb\u30c9\u30fb\u30cf\u30d0\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc544\ubc14\ub098\ube44\uc5d0\ud558"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u0941\u0930\u093e\u0928\u094b \u0939\u092d\u093e\u0928\u093e"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a41\u0a30\u0a3e\u0a23\u0a3e \u0a39\u0a35\u0a3e\u0a28\u0a3e"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0627\u0648\u0627\u0646\u0627\u06cc \u0642\u062f\u06cc\u0645"
+    ],
+    "name:por_x_preferred":[
+        "Cidade antiga de Havana e suas fortifica\u00e7\u00f5es"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u0413\u0430\u0432\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La Habana Vieja"
+    ],
+    "name:swe_x_preferred":[
+        "Gamla Havanna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0432\u0430\u043d\u0430-\u0412'\u0454\u0445\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Havana C\u1ed5"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05dc\u05d8 \u05d4\u05d0\u05d5\u05d5\u05d0\u05e0\u05e2"
+    ],
+    "qs_pg:aaroncc":"CU",
+    "qs_pg:gn_country":"CU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3746184,
+    "qs_pg:gn_pop":95383,
+    "qs_pg:name":"La Habana Vieja",
+    "qs_pg:name_adm0":"Cuba",
+    "qs_pg:name_adm1":"Ciudad de la Habana",
+    "qs_pg:photos":4994,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":4994,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":489075,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424793,
+    "qs_pg:woe_id":63820,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424793,
+    "woe:name_adm0":"Cuba",
+    "woe:name_adm1":"Ciudad de la Habana",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670445,
+        102191575,
+        85632675,
+        1091905535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746184,
+        "gp:id":63820,
+        "qs_pg:id":489075,
+        "wd:id":"Q1165566"
+    },
+    "wof:country":"CU",
+    "wof:created":1497317498,
+    "wof:geomhash":"5a01f38482aba0b3f8442b176526a8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905535,
+            "locality_id":-1,
+            "neighbourhood_id":1126107763,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1126107763,
+    "wof:lastmodified":1534379264,
+    "wof:name":"La Habana Vieja",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":95383,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[
+        85793603
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.35306,
+    23.13028,
+    -82.35306,
+    23.13028
+],
+  "geometry": {"coordinates":[-82.35306,23.13028],"type":"Point"}
+}

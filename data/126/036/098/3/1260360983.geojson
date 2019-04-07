@@ -1,0 +1,72 @@
+{
+  "id": 1260360983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.16667,20.91667,-77.16667,20.91667",
+    "geom:latitude":20.91667,
+    "geom:longitude":-77.16667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sirven",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3536082,
+    "gn:latitude":20.91667,
+    "gn:longitude":-77.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sirv\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Escocia",
+        "Sirv\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536082
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a6e5fd04611de6b3a4535ac1a839f287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905447,
+            "locality_id":1260360983,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1260360983,
+    "wof:lastmodified":1537618893,
+    "wof:name":"Sirven",
+    "wof:parent_id":1091905447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.16667,
+    20.91667,
+    -77.16667,
+    20.91667
+],
+  "geometry": {"coordinates":[-77.16667,20.91667],"type":"Point"}
+}

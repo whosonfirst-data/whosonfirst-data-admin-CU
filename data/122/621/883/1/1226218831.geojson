@@ -1,0 +1,70 @@
+{
+  "id": 1226218831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.7856,21.24986,-76.7856,21.24986",
+    "geom:latitude":21.24986,
+    "geom:longitude":-76.7856,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Maranon Uno",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746244,
+    "gn:latitude":21.24986,
+    "gn:longitude":-76.7856,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Mara\u00f1\u00f3n Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mara\u00f1\u00f3n Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746244
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"47855b8906a8d34a04a22d1e8d6d6083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1226218831,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1226218831,
+    "wof:lastmodified":1537619129,
+    "wof:name":"Maranon Uno",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.7856,
+    21.24986,
+    -76.7856,
+    21.24986
+],
+  "geometry": {"coordinates":[-76.7856,21.24986],"type":"Point"}
+}

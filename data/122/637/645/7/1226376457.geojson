@@ -1,0 +1,70 @@
+{
+  "id": 1226376457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.38735,22.78623,-82.38735,22.78623",
+    "geom:latitude":22.78623,
+    "geom:longitude":-82.38735,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Pablo Noriega",
+    "gn:country_code":"CU",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746556,
+    "gn:latitude":22.78623,
+    "gn:longitude":-82.38735,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Pablo Noriega",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pablo Noriega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091907223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746556
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"96ff88b522713e86ce301172c79d72bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907223,
+            "locality_id":1226376457,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1226376457,
+    "wof:lastmodified":1537619133,
+    "wof:name":"Pablo Noriega",
+    "wof:parent_id":1091907223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.38735,
+    22.78623,
+    -82.38735,
+    22.78623
+],
+  "geometry": {"coordinates":[-82.38735,22.78623],"type":"Point"}
+}

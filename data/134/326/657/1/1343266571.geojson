@@ -1,0 +1,70 @@
+{
+  "id": 1343266571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.8507,20.85362,-77.8507,20.85362",
+    "geom:latitude":20.85362,
+    "geom:longitude":-77.8507,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Macuto Dos",
+    "gn:country_code":"CU",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11015683,
+    "gn:latitude":20.85362,
+    "gn:longitude":-77.8507,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Macuto Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Macuto Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11015683
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8a77ac573530105c48adc188b57ae99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908085,
+            "locality_id":1343266571,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1343266571,
+    "wof:lastmodified":1537619184,
+    "wof:name":"Macuto Dos",
+    "wof:parent_id":1091908085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.8507,
+    20.85362000000001,
+    -77.8507,
+    20.85362000000001
+],
+  "geometry": {"coordinates":[-77.8507,20.85362000000001],"type":"Point"}
+}

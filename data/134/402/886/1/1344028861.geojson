@@ -1,0 +1,67 @@
+{
+  "id": 1344028861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76667,21.85,-79.76667,21.85",
+    "geom:latitude":21.85,
+    "geom:longitude":-79.76667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"San Carlos del Quemado",
+    "gn:country_code":"CU",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3540752,
+    "gn:latitude":21.85,
+    "gn:longitude":-79.76667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"San Carlos del Quemado",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540752
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"43057b2ee4b4432f22cb6b4f7e6ba4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908473,
+            "locality_id":1344028861,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1344028861,
+    "wof:lastmodified":1536921988,
+    "wof:name":"San Carlos del Quemado",
+    "wof:parent_id":1091908473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76666999999998,
+    21.85,
+    -79.76666999999998,
+    21.85
+],
+  "geometry": {"coordinates":[-79.76666999999998,21.85],"type":"Point"}
+}

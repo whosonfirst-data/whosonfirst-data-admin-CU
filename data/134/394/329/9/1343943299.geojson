@@ -1,0 +1,74 @@
+{
+  "id": 1343943299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.21012,22.28121,-80.21012,22.28121",
+    "geom:latitude":22.28121,
+    "geom:longitude":-80.21012,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Teresa",
+    "gn:country_code":"CU",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535374,
+    "gn:latitude":22.28121,
+    "gn:longitude":-80.21012,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Teresa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Teresa"
+    ],
+    "name:und_x_variant":[
+        "Finca Teresa",
+        "Teresa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091904329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535374
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3a55d2519283e56132b4f0c2433caacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904329,
+            "locality_id":1343943299,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1343943299,
+    "wof:lastmodified":1537618889,
+    "wof:name":"La Teresa",
+    "wof:parent_id":1091904329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.21011999999997,
+    22.28121,
+    -80.21011999999997,
+    22.28121
+],
+  "geometry": {"coordinates":[-80.21011999999997,22.28121],"type":"Point"}
+}

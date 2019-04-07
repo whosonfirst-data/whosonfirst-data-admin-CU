@@ -1,0 +1,73 @@
+{
+  "id": 1360265325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.05279,20.74009,-76.05279,20.74009",
+    "geom:latitude":20.74009,
+    "geom:longitude":-76.05279,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Rejondon",
+    "gn:country_code":"CU",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542476,
+    "gn:latitude":20.74009,
+    "gn:longitude":-76.05279,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Rejondon",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rejondon"
+    ],
+    "name:und_x_variant":[
+        "Rigendeaux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542476
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"039668574dba2354dc9d8aa7a6d6b5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902841,
+            "locality_id":1360265325,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1360265325,
+    "wof:lastmodified":1537618928,
+    "wof:name":"Rejondon",
+    "wof:parent_id":1091902841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.05279,
+    20.74009,
+    -76.05279,
+    20.74009
+],
+  "geometry": {"coordinates":[-76.05279,20.74009],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326624587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.05583,21.88667,-79.05583,21.88667",
+    "geom:latitude":21.88667,
+    "geom:longitude":-79.05583,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Corojal",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3561284,
+    "gn:latitude":21.88667,
+    "gn:longitude":-79.05583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Corojal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Corajal",
+        "El Corojal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091905859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561284
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0eb9b47722dbc9a8d8447b26d4b54b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905859,
+            "locality_id":1326624587,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1326624587,
+    "wof:lastmodified":1537619060,
+    "wof:name":"El Corojal",
+    "wof:parent_id":1091905859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.05583,
+    21.88667,
+    -79.05583,
+    21.88667
+],
+  "geometry": {"coordinates":[-79.05583,21.88667],"type":"Point"}
+}

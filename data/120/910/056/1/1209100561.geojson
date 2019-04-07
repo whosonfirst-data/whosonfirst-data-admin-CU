@@ -1,0 +1,65 @@
+{
+  "id": 1209100561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.75214,21.92153,-78.75214,21.92153",
+    "geom:latitude":21.92153,
+    "geom:longitude":-78.75214,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ruspoli",
+    "gn:country_code":"CU",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3737697,
+    "gn:latitude":21.92153,
+    "gn:longitude":-78.75214,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ruspoli",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Manuel",
+        "Ruspoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3737697
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7adbe23aade89976cebba121f41a0545",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209100561
+        }
+    ],
+    "wof:id":1209100561,
+    "wof:lastmodified":1537619124,
+    "wof:name":"Ruspoli",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.75214,
+    21.92153,
+    -78.75214,
+    21.92153
+],
+  "geometry": {"coordinates":[-78.75214,21.92153],"type":"Point"}
+}

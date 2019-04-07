@@ -1,0 +1,119 @@
+{
+  "id": 421185197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.35111,23.08944,-82.35111,23.08944",
+    "geom:latitude":23.08944,
+    "geom:longitude":-82.35111,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Lawton"
+    ],
+    "name:fra_x_preferred":[
+        "Lawton"
+    ],
+    "name:hbs_x_preferred":[
+        "Loton"
+    ],
+    "name:ita_x_preferred":[
+        "Lawton"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ud134"
+    ],
+    "name:nld_x_preferred":[
+        "Lawton"
+    ],
+    "name:pol_x_preferred":[
+        "Lawton"
+    ],
+    "name:por_x_preferred":[
+        "Lawton"
+    ],
+    "name:spa_x_preferred":[
+        "Lawton"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0442\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Lawton"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0443\u0442\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Colinas de Lawton"
+    ],
+    "name:vol_x_preferred":[
+        "Lawton"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3550106,
+    "qs:gn_pop":0,
+    "qs:name":"Lawton",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1019315,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":64790,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091904421,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550106,
+        "gp:id":64790,
+        "qs:id":1019315
+    },
+    "wof:country":"CU",
+    "wof:created":1459009435,
+    "wof:geomhash":"24e27cfacdbed143cf05458c4b153774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904421,
+            "locality_id":-1,
+            "neighbourhood_id":421185197,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":421185197,
+    "wof:lastmodified":1531858575,
+    "wof:name":"Lawton",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.35111,
+    23.08944,
+    -82.35111,
+    23.08944
+],
+  "geometry": {"coordinates":[-82.35111000000001,23.08944],"type":"Point"}
+}

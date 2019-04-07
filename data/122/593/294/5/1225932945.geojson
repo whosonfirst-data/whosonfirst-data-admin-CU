@@ -1,0 +1,70 @@
+{
+  "id": 1225932945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.93409,19.97497,-74.93409,19.97497",
+    "geom:latitude":19.97497,
+    "geom:longitude":-74.93409,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tortuguilla",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535074,
+    "gn:latitude":19.97497,
+    "gn:longitude":-74.93409,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Tortuguilla",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tortuguilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091907633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535074
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d8644ba0b63226d9e845ab1b392ebfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907633,
+            "locality_id":1225932945,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1225932945,
+    "wof:lastmodified":1537618888,
+    "wof:name":"Tortuguilla",
+    "wof:parent_id":1091907633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.93409,
+    19.97497000000001,
+    -74.93409,
+    19.97497000000001
+],
+  "geometry": {"coordinates":[-74.93409,19.97497000000001],"type":"Point"}
+}

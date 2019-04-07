@@ -1,0 +1,66 @@
+{
+  "id": 1209284807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.65,20.41667,-75.65,20.41667",
+    "geom:latitude":20.41667,
+    "geom:longitude":-75.65,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Hormiga",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3553449,
+    "gn:latitude":20.41667,
+    "gn:longitude":-75.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Hormiga",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hormiga",
+        "La Hormiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553449
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5906ff89909277077abfb3c17ae658f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209284807
+        }
+    ],
+    "wof:id":1209284807,
+    "wof:lastmodified":1537619003,
+    "wof:name":"La Hormiga",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.65,
+    20.41667,
+    -75.65,
+    20.41667
+],
+  "geometry": {"coordinates":[-75.65000000000001,20.41667],"type":"Point"}
+}

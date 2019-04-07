@@ -1,0 +1,73 @@
+{
+  "id": 1242960331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.31383,20.53903,-76.31383,20.53903",
+    "geom:latitude":20.53903,
+    "geom:longitude":-76.31383,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Veinte Rosas",
+    "gn:country_code":"CU",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746571,
+    "gn:latitude":20.53903,
+    "gn:longitude":-76.31383,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Veinte Rosas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Veinte Rosas"
+    ],
+    "name:und_x_variant":[
+        "Viente Rosas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091905355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746571
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c7f8526a7c18ea92e8237461a0a21972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905355,
+            "locality_id":1242960331,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1242960331,
+    "wof:lastmodified":1537619133,
+    "wof:name":"Veinte Rosas",
+    "wof:parent_id":1091905355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.31383000000002,
+    20.53903,
+    -76.31383000000002,
+    20.53903
+],
+  "geometry": {"coordinates":[-76.31383000000002,20.53903],"type":"Point"}
+}

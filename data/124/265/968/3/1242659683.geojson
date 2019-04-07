@@ -1,0 +1,71 @@
+{
+  "id": 1242659683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.80117,22.06517,-79.80117,22.06517",
+    "geom:latitude":22.06517,
+    "geom:longitude":-79.80117,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Mabujina",
+    "gn:country_code":"CU",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3548687,
+    "gn:latitude":22.06517,
+    "gn:longitude":-79.80117,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Mabujina",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabujina Yantada",
+        "Mabujina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548687
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"69735c67fb6f76b3cf3e52162f46d78e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1242659683,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1242659683,
+    "wof:lastmodified":1537618969,
+    "wof:name":"Mabujina",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.80117,
+    22.06517,
+    -79.80117,
+    22.06517
+],
+  "geometry": {"coordinates":[-79.80117,22.06517],"type":"Point"}
+}

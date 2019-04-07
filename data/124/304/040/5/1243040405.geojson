@@ -1,0 +1,72 @@
+{
+  "id": 1243040405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.91667,22.2,-79.91667,22.2",
+    "geom:latitude":22.2,
+    "geom:longitude":-79.91667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Cantarrana",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3565654,
+    "gn:latitude":22.2,
+    "gn:longitude":-79.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cantarrana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canta Rana",
+        "Cantarrana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565654
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e57690cb35d497f59ba28f7c88b66e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1243040405,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1243040405,
+    "wof:lastmodified":1537619094,
+    "wof:name":"Cantarrana",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.91667,
+    22.2,
+    -79.91667,
+    22.2
+],
+  "geometry": {"coordinates":[-79.91667,22.2],"type":"Point"}
+}

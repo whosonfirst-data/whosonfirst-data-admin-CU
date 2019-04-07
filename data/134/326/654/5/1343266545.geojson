@@ -1,0 +1,73 @@
+{
+  "id": 1343266545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.83406,20.8925,-77.83406,20.8925",
+    "geom:latitude":20.8925,
+    "geom:longitude":-77.83406,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Baria",
+    "gn:country_code":"CU",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11019120,
+    "gn:latitude":20.8925,
+    "gn:longitude":-77.83406,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"La Bar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Var\u00eda"
+    ],
+    "name:spa_x_variant":[
+        "La Bar\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11019120
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"57f2d8619c7814d4b859124aa93077ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908085,
+            "locality_id":1343266545,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1343266545,
+    "wof:lastmodified":1537619185,
+    "wof:name":"La Baria",
+    "wof:parent_id":1091908085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.83406,
+    20.8925,
+    -77.83406,
+    20.8925
+],
+  "geometry": {"coordinates":[-77.83405999999999,20.8925],"type":"Point"}
+}

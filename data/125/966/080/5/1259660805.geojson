@@ -1,0 +1,73 @@
+{
+  "id": 1259660805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.44022,20.64179,-75.44022,20.64179",
+    "geom:latitude":20.64179,
+    "geom:longitude":-75.44022,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Jobo",
+    "gn:country_code":"CU",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3556056,
+    "gn:latitude":20.64179,
+    "gn:longitude":-75.44022,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"El Jobo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Jobo"
+    ],
+    "name:und_x_variant":[
+        "Jobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556056
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0371d94845f54118b0be78e5637096e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904661,
+            "locality_id":1259660805,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1259660805,
+    "wof:lastmodified":1537619020,
+    "wof:name":"El Jobo",
+    "wof:parent_id":1091904661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.44022,
+    20.64179,
+    -75.44022,
+    20.64179
+],
+  "geometry": {"coordinates":[-75.44022,20.64179],"type":"Point"}
+}

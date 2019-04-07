@@ -1,0 +1,67 @@
+{
+  "id": 1344264423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.1325,22.84361,-81.1325,22.84361",
+    "geom:latitude":22.84361,
+    "geom:longitude":-81.1325,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lombard",
+    "gn:country_code":"CU",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3549599,
+    "gn:latitude":22.84361,
+    "gn:longitude":-81.1325,
+    "gn:modification_date":"1996-06-06",
+    "gn:name":"Lombard",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549599
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b365e55b16b4f0a02b2cbe6537da1025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905493,
+            "locality_id":1344264423,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1344264423,
+    "wof:lastmodified":1537075278,
+    "wof:name":"Lombard",
+    "wof:parent_id":1091905493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.1325,
+    22.84361,
+    -81.1325,
+    22.84361
+],
+  "geometry": {"coordinates":[-81.13249999999999,22.84361],"type":"Point"}
+}

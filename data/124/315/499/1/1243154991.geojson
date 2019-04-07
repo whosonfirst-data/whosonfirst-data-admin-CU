@@ -1,0 +1,67 @@
+{
+  "id": 1243154991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.41583,20.08028,-75.41583,20.08028",
+    "geom:latitude":20.08028,
+    "geom:longitude":-75.41583,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ramon Conde",
+    "gn:country_code":"CU",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3542842,
+    "gn:latitude":20.08028,
+    "gn:longitude":-75.41583,
+    "gn:modification_date":"1996-03-19",
+    "gn:name":"Ram\u00f3n Conde",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091906637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542842
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8555748628f0de5fd3c705557f4883d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906637,
+            "locality_id":1243154991,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1243154991,
+    "wof:lastmodified":1536729188,
+    "wof:name":"Ramon Conde",
+    "wof:parent_id":1091906637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.41583,
+    20.08028,
+    -75.41583,
+    20.08028
+],
+  "geometry": {"coordinates":[-75.41583,20.08028],"type":"Point"}
+}

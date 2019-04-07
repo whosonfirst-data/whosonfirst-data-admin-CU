@@ -1,0 +1,67 @@
+{
+  "id": 1327306543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.0,22.33333,-80.0,22.33333",
+    "geom:latitude":22.33333,
+    "geom:longitude":-80.0,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Compas",
+    "gn:country_code":"CU",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3561343,
+    "gn:latitude":22.33333,
+    "gn:longitude":-80.0,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"El Comp\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561343
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"827a20d4d26476257cac1c422ab17992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1327306543,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1327306543,
+    "wof:lastmodified":1536861241,
+    "wof:name":"El Compas",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0,
+    22.33333,
+    -80.0,
+    22.33333
+],
+  "geometry": {"coordinates":[-80.0,22.33333],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421172871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.55778,21.17528,-76.55778,21.17528",
+    "geom:latitude":21.17528,
+    "geom:longitude":-76.55778,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Delicias"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3562612,
+    "qs:gn_pop":0,
+    "qs:name":"Delicias",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Las Tunas",
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":277452,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":61592,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562612,
+        "gp:id":61592,
+        "qs:id":277452
+    },
+    "wof:country":"CU",
+    "wof:created":1459008957,
+    "wof:geomhash":"6acaf4b927cc23f294e672733208b1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":421172871,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":421172871,
+    "wof:lastmodified":1501267553,
+    "wof:name":"Delicias",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.55778,
+    21.17528,
+    -76.55778,
+    21.17528
+],
+  "geometry": {"coordinates":[-76.55777999999999,21.17528],"type":"Point"}
+}

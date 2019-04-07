@@ -1,0 +1,72 @@
+{
+  "id": 1343348543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.16667,20.65,-76.16667,20.65",
+    "geom:latitude":20.65,
+    "geom:longitude":-76.16667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Sobral",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559678,
+    "gn:latitude":20.65,
+    "gn:longitude":-76.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Sobral",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Zorral",
+        "El Sobral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091908561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559678
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b88953779fb05354fc08df4c9e6cf1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908561,
+            "locality_id":1343348543,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1343348543,
+    "wof:lastmodified":1537619045,
+    "wof:name":"El Sobral",
+    "wof:parent_id":1091908561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.16667,
+    20.65,
+    -76.16667,
+    20.65
+],
+  "geometry": {"coordinates":[-76.16667,20.65],"type":"Point"}
+}

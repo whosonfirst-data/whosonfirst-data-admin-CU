@@ -1,0 +1,73 @@
+{
+  "id": 1225816465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.84053,21.82491,-79.84053,21.82491",
+    "geom:latitude":21.82491,
+    "geom:longitude":-79.84053,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Federacion Nacional de Trabajadores Azucareros",
+    "gn:country_code":"CU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10953322,
+    "gn:latitude":21.82491,
+    "gn:longitude":-79.84053,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Federaci\u00f3n Nacional de Trabajadores Azucareros",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "FNTA"
+    ],
+    "name:spa_x_variant":[
+        "Federaci\u00f3n Nacional de Trabajadores Azucareros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10953322
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6694891120525923e0f0a03867038789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908473,
+            "locality_id":1225816465,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1225816465,
+    "wof:lastmodified":1537619154,
+    "wof:name":"Federacion Nacional de Trabajadores Azucareros",
+    "wof:parent_id":1091908473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84053,
+    21.82491,
+    -79.84053,
+    21.82491
+],
+  "geometry": {"coordinates":[-79.84053,21.82491],"type":"Point"}
+}

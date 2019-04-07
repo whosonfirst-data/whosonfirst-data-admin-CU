@@ -1,0 +1,67 @@
+{
+  "id": 1310417363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.60306,22.97056,-81.60306,22.97056",
+    "geom:latitude":22.97056,
+    "geom:longitude":-81.60306,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Luz",
+    "gn:country_code":"CU",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3552800,
+    "gn:latitude":22.97056,
+    "gn:longitude":-81.60306,
+    "gn:modification_date":"1996-09-19",
+    "gn:name":"La Luz",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552800
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4a9a75905e7a513e9e5e823d47c19673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905663,
+            "locality_id":1310417363,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1310417363,
+    "wof:lastmodified":1537042373,
+    "wof:name":"La Luz",
+    "wof:parent_id":1091905663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.60306,
+    22.97056,
+    -81.60306,
+    22.97056
+],
+  "geometry": {"coordinates":[-81.60306,22.97056],"type":"Point"}
+}

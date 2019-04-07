@@ -1,0 +1,73 @@
+{
+  "id": 1259419373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.87376,23.11341,-81.87376,23.11341",
+    "geom:latitude":23.11341,
+    "geom:longitude":-81.87376,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Jibacoa del Norte",
+    "gn:country_code":"CU",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3556245,
+    "gn:latitude":23.11341,
+    "gn:longitude":-81.87376,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Jibacoa del Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poblado Jibacoa",
+        "Jibacoa",
+        "Jibacoa del Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091908039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556245,
+        "wk:page":"Jibacoa"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e6689a9f6cfd4e8aeaa2d28805c0fa53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908039,
+            "locality_id":1259419373,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1259419373,
+    "wof:lastmodified":1537619022,
+    "wof:name":"Jibacoa del Norte",
+    "wof:parent_id":1091908039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.87376,
+    23.11341,
+    -81.87376,
+    23.11341
+],
+  "geometry": {"coordinates":[-81.87376,23.11341],"type":"Point"}
+}

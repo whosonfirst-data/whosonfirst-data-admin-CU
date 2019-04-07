@@ -1,0 +1,70 @@
+{
+  "id": 1293718259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.8028,22.99316,-82.8028,22.99316",
+    "geom:latitude":22.99316,
+    "geom:longitude":-82.8028,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"La Tinaja",
+    "gn:country_code":"CU",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535243,
+    "gn:latitude":22.99316,
+    "gn:longitude":-82.8028,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"La Tinaja",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinaja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091906179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535243
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cee9598eaeb3037ed946fbb23d4914ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906179,
+            "locality_id":1293718259,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1293718259,
+    "wof:lastmodified":1537618889,
+    "wof:name":"La Tinaja",
+    "wof:parent_id":1091906179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.8028,
+    22.99316,
+    -82.8028,
+    22.99316
+],
+  "geometry": {"coordinates":[-82.8028,22.99316],"type":"Point"}
+}

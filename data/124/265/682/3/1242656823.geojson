@@ -1,0 +1,74 @@
+{
+  "id": 1242656823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.26667,20.86667,-77.26667,20.86667",
+    "geom:latitude":20.86667,
+    "geom:longitude":-77.26667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Lavado Sur",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550303,
+    "gn:latitude":20.86667,
+    "gn:longitude":-77.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lavado Sur",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Lavado",
+        "Colonia Sur",
+        "Colonia Lavado",
+        "Lavado Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550303
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"672460d209d067514beb005db116c806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905447,
+            "locality_id":1242656823,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1242656823,
+    "wof:lastmodified":1537618980,
+    "wof:name":"Lavado Sur",
+    "wof:parent_id":1091905447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.26666999999998,
+    20.86667000000001,
+    -77.26666999999998,
+    20.86667000000001
+],
+  "geometry": {"coordinates":[-77.26666999999998,20.86667000000001],"type":"Point"}
+}

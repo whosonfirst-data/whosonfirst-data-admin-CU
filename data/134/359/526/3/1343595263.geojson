@@ -1,0 +1,67 @@
+{
+  "id": 1343595263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.85919,23.01125,-82.85919,23.01125",
+    "geom:latitude":23.01125,
+    "geom:longitude":-82.85919,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Guerra",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557424,
+    "gn:latitude":23.01125,
+    "gn:longitude":-82.85919,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Guerra",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091906179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557424
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"30f275554cc5273bed5cee5af40902e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906179,
+            "locality_id":1343595263,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1343595263,
+    "wof:lastmodified":1537047197,
+    "wof:name":"Guerra",
+    "wof:parent_id":1091906179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.85919,
+    23.01125,
+    -82.85919,
+    23.01125
+],
+  "geometry": {"coordinates":[-82.85919,23.01125],"type":"Point"}
+}

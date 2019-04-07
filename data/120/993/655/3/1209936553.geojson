@@ -1,0 +1,72 @@
+{
+  "id": 1209936553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.51667,22.31667,-80.51667,22.31667",
+    "geom:latitude":22.31667,
+    "geom:longitude":-80.51667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jose Maria Rodriguez",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3555939,
+    "gn:latitude":22.31667,
+    "gn:longitude":-80.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jos\u00e9 Mar\u00eda Rodr\u00edguez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terrenos de Jose Mar\u00eda Rodriquez",
+        "Jos\u00e9 Mar\u00eda Rodr\u00edguez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091907455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555939
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"412920fda8f3e7ddf9367d7b16e33681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907455,
+            "locality_id":1209936553,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1209936553,
+    "wof:lastmodified":1537619020,
+    "wof:name":"Jose Maria Rodriguez",
+    "wof:parent_id":1091907455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.51666999999998,
+    22.31667,
+    -80.51666999999998,
+    22.31667
+],
+  "geometry": {"coordinates":[-80.51666999999998,22.31667],"type":"Point"}
+}

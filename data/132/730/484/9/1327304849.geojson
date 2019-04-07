@@ -1,0 +1,70 @@
+{
+  "id": 1327304849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.34209,22.0865,-79.34209,22.0865",
+    "geom:latitude":22.0865,
+    "geom:longitude":-79.34209,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gandarilla",
+    "gn:country_code":"CU",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008692,
+    "gn:latitude":22.0865,
+    "gn:longitude":-79.34209,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Gandarilla",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gandarilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008692
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"40d6fe6971261b7ef059399e9ab09f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908397,
+            "locality_id":1327304849,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1327304849,
+    "wof:lastmodified":1537619171,
+    "wof:name":"Gandarilla",
+    "wof:parent_id":1091908397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.34209,
+    22.0865,
+    -79.34209,
+    22.0865
+],
+  "geometry": {"coordinates":[-79.34209,22.0865],"type":"Point"}
+}

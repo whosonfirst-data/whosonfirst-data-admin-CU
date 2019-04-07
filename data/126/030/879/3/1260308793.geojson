@@ -1,0 +1,72 @@
+{
+  "id": 1260308793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.27583,21.69111,-78.27583,21.69111",
+    "geom:latitude":21.69111,
+    "geom:longitude":-78.27583,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Tumba",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3541338,
+    "gn:latitude":21.69111,
+    "gn:longitude":-78.27583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Tumba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salsipuedes",
+        "La Tumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541338
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"767879a37527d1457c99d7d2ccf1216c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903793,
+            "locality_id":1260308793,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1260308793,
+    "wof:lastmodified":1537618921,
+    "wof:name":"La Tumba",
+    "wof:parent_id":1091903793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.27583,
+    21.69111,
+    -78.27583,
+    21.69111
+],
+  "geometry": {"coordinates":[-78.27583,21.69111],"type":"Point"}
+}

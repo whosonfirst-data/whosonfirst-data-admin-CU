@@ -1,0 +1,70 @@
+{
+  "id": 1259506213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.16686,21.31491,-77.16686,21.31491",
+    "geom:latitude":21.31491,
+    "geom:longitude":-77.16686,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Cayo Confite",
+    "gn:country_code":"CU",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057007,
+    "gn:latitude":21.31491,
+    "gn:longitude":-77.16686,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Cayo Confite",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cayo Confite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057007
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"00578c48428ae320ccfb79d8046b3a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904725,
+            "locality_id":1259506213,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1259506213,
+    "wof:lastmodified":1537619202,
+    "wof:name":"Cayo Confite",
+    "wof:parent_id":1091904725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.16686,
+    21.31491,
+    -77.16686,
+    21.31491
+],
+  "geometry": {"coordinates":[-77.16686,21.31491],"type":"Point"}
+}

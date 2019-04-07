@@ -1,0 +1,71 @@
+{
+  "id": 1293525497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.95111,22.76556,-81.95111,22.76556",
+    "geom:latitude":22.76556,
+    "geom:longitude":-81.95111,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Tinaja",
+    "gn:country_code":"CU",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535244,
+    "gn:latitude":22.76556,
+    "gn:longitude":-81.95111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tinaja",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey Tinaja",
+        "Tinaja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091907877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535244
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b7664f5dd953491838c2216cbdbc79f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907877,
+            "locality_id":1293525497,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1293525497,
+    "wof:lastmodified":1537618889,
+    "wof:name":"Tinaja",
+    "wof:parent_id":1091907877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.95111,
+    22.76556,
+    -81.95111,
+    22.76556
+],
+  "geometry": {"coordinates":[-81.95111,22.76556],"type":"Point"}
+}

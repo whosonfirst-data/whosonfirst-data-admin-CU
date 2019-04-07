@@ -1,0 +1,71 @@
+{
+  "id": 1210015761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.3518,21.46667,-78.3518,21.46667",
+    "geom:latitude":21.46667,
+    "geom:longitude":-78.3518,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mala Fama",
+    "gn:country_code":"CU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3539066,
+    "gn:latitude":21.46667,
+    "gn:longitude":-78.3518,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Mala Fama",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Luis de Mala Fama",
+        "Mala Fama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539066
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0c645cfdd97e46fc2afb4caffbd0e842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904585,
+            "locality_id":1210015761,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1210015761,
+    "wof:lastmodified":1537618908,
+    "wof:name":"Mala Fama",
+    "wof:parent_id":1091904585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.3518,
+    21.46667,
+    -78.3518,
+    21.46667
+],
+  "geometry": {"coordinates":[-78.3518,21.46667],"type":"Point"}
+}

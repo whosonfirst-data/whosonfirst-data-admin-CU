@@ -1,0 +1,72 @@
+{
+  "id": 1293110421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.91667,22.88333,-80.91667,22.88333",
+    "geom:latitude":22.88333,
+    "geom:longitude":-80.91667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Penon",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3560207,
+    "gn:latitude":22.88333,
+    "gn:longitude":-80.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Pe\u00f1\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey El Pi\u00f1on",
+        "El Pe\u00f1\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560207
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"17f8a65637e5268b493552739a485388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906225,
+            "locality_id":1293110421,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1293110421,
+    "wof:lastmodified":1537619050,
+    "wof:name":"El Penon",
+    "wof:parent_id":1091906225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.91667,
+    22.88333,
+    -80.91667,
+    22.88333
+],
+  "geometry": {"coordinates":[-80.91667,22.88333],"type":"Point"}
+}

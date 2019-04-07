@@ -1,0 +1,72 @@
+{
+  "id": 1226073659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.05,22.81667,-83.05,22.81667",
+    "geom:latitude":22.81667,
+    "geom:longitude":-83.05,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"El Brujito",
+    "gn:country_code":"CU",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3561765,
+    "gn:latitude":22.81667,
+    "gn:longitude":-83.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Brujito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brujo",
+        "El Brujo",
+        "El Brujito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091903705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561765
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"47fb6cf5d08bff08129ed6f5b883f09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903705,
+            "locality_id":1226073659,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1226073659,
+    "wof:lastmodified":1537619064,
+    "wof:name":"El Brujito",
+    "wof:parent_id":1091903705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.05,
+    22.81667,
+    -83.05,
+    22.81667
+],
+  "geometry": {"coordinates":[-83.05,22.81667],"type":"Point"}
+}

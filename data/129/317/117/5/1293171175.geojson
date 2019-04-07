@@ -1,0 +1,67 @@
+{
+  "id": 1293171175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.95417,19.96028,-75.95417,19.96028",
+    "geom:latitude":19.96028,
+    "geom:longitude":-75.95417,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Playa Bueycabon",
+    "gn:country_code":"CU",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766944,
+    "gn:latitude":19.96028,
+    "gn:longitude":-75.95417,
+    "gn:modification_date":"1999-06-07",
+    "gn:name":"Playa Bueycab\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766944
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ace07e27dd3afc9e0ee43f8f2a3d6c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904765,
+            "locality_id":1293171175,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1293171175,
+    "wof:lastmodified":1536745961,
+    "wof:name":"Playa Bueycabon",
+    "wof:parent_id":1091904765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.95416999999998,
+    19.96028,
+    -75.95416999999998,
+    19.96028
+],
+  "geometry": {"coordinates":[-75.95416999999998,19.96028],"type":"Point"}
+}

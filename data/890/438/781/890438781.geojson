@@ -1,0 +1,141 @@
+{
+  "id": 890438781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.72139,22.72806,-80.72139,22.72806",
+    "geom:latitude":22.72806,
+    "geom:longitude":-80.72139,
+    "gn:country":"CU",
+    "gn:fcode":"PPL",
+    "gn:pop":12504,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:cat_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d1b\u65af\u963f\u62c9\u6c83\u65af"
+    ],
+    "name:csb_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:cze_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:dsb_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:dut_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:eng_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:fre_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10d0\u10e0\u10d0\u10d1\u10dd\u10e1\u10d8"
+    ],
+    "name:hrv_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:hsb_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:kon_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:lat_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:oci_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:por_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:rum_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:sco_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:slo_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:srd_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Los Arabos"
+    ],
+    "name:vie_x_preferred":[
+        "Los Arabos"
+    ],
+    "qs:name":"Los Arabos",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":144,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549463,
+        "gp:id":64905,
+        "qs:id":1045501,
+        "wd:id":"Q2245914",
+        "wk:page":"Los Arabos"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052209,
+    "wof:geomhash":"8ee337f4a29e972f2b9b0c092b5d2442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905697,
+            "locality_id":890438781,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":890438781,
+    "wof:lastmodified":1527735426,
+    "wof:name":"Los Arabos",
+    "wof:parent_id":1091905697,
+    "wof:placetype":"locality",
+    "wof:population":12504,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.72139,
+    22.72806,
+    -80.72139,
+    22.72806
+],
+  "geometry": {"coordinates":[-80.72139,22.72806],"type":"Point"}
+}

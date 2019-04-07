@@ -1,0 +1,70 @@
+{
+  "id": 1243234121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.93123,19.90182,-76.93123,19.90182",
+    "geom:latitude":19.90182,
+    "geom:longitude":-76.93123,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Palmita",
+    "gn:country_code":"CU",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027097,
+    "gn:latitude":19.90182,
+    "gn:longitude":-76.93123,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Palmita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Palmita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027097
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"616473ece98492e52ea7de250c202ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904765,
+            "locality_id":1243234121,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1243234121,
+    "wof:lastmodified":1537619193,
+    "wof:name":"La Palmita",
+    "wof:parent_id":1091904765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.93123,
+    19.90182,
+    -76.93123,
+    19.90182
+],
+  "geometry": {"coordinates":[-76.93123,19.90182],"type":"Point"}
+}

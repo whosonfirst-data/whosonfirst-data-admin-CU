@@ -1,0 +1,71 @@
+{
+  "id": 1310475107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.93703,19.96625,-75.93703,19.96625",
+    "geom:latitude":19.96625,
+    "geom:longitude":-75.93703,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Playa Mar Verde",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547466,
+    "gn:latitude":19.96625,
+    "gn:longitude":-75.93703,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Playa Mar Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar Verde",
+        "Playa Mar Verde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547466
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9c023023763a94f2df8e76a3cda125fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":1310475107,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1310475107,
+    "wof:lastmodified":1537618960,
+    "wof:name":"Playa Mar Verde",
+    "wof:parent_id":1091908137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.93703000000002,
+    19.96625,
+    -75.93703000000002,
+    19.96625
+],
+  "geometry": {"coordinates":[-75.93703000000002,19.96625],"type":"Point"}
+}

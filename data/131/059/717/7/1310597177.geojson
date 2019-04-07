@@ -1,0 +1,71 @@
+{
+  "id": 1310597177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.58159,22.24152,-80.58159,22.24152",
+    "geom:latitude":22.24152,
+    "geom:longitude":-80.58159,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Constancia",
+    "gn:country_code":"CU",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557393,
+    "gn:latitude":22.24152,
+    "gn:longitude":-80.58159,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Constancia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guillermo Moncada",
+        "Constancia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091902555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557393
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"049153c345efeee4aa1566f725a1b404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902555,
+            "locality_id":1310597177,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1310597177,
+    "wof:lastmodified":1537619029,
+    "wof:name":"Constancia",
+    "wof:parent_id":1091902555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.58159,
+    22.24152,
+    -80.58159,
+    22.24152
+],
+  "geometry": {"coordinates":[-80.58159000000001,22.24152],"type":"Point"}
+}

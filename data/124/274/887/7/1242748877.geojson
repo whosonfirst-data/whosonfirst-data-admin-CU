@@ -1,0 +1,70 @@
+{
+  "id": 1242748877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.00188,21.99827,-79.00188,21.99827",
+    "geom:latitude":21.99827,
+    "geom:longitude":-79.00188,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Reforma Tres",
+    "gn:country_code":"CU",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11009765,
+    "gn:latitude":21.99827,
+    "gn:longitude":-79.00188,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Reforma Tres",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Reforma Tres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11009765
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d841ea6e0c2872f8ff898a5183f2f635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905283,
+            "locality_id":1242748877,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1242748877,
+    "wof:lastmodified":1537619179,
+    "wof:name":"Reforma Tres",
+    "wof:parent_id":1091905283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.00188,
+    21.99827,
+    -79.00188,
+    21.99827
+],
+  "geometry": {"coordinates":[-79.00188,21.99827],"type":"Point"}
+}

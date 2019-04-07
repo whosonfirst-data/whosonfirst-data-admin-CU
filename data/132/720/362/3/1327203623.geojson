@@ -1,0 +1,73 @@
+{
+  "id": 1327203623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.91652,22.48999,-79.91652,22.48999",
+    "geom:latitude":22.48999,
+    "geom:longitude":-79.91652,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sabana Oropesa",
+    "gn:country_code":"CU",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007688,
+    "gn:latitude":22.48999,
+    "gn:longitude":-79.91652,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Sabana Oropesa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Oropesa"
+    ],
+    "name:spa_x_variant":[
+        "Sabana Oropesa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091908009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007688
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c8d461ede34c8af81ea936f2347926cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908009,
+            "locality_id":1327203623,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1327203623,
+    "wof:lastmodified":1537619165,
+    "wof:name":"Sabana Oropesa",
+    "wof:parent_id":1091908009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.91651999999998,
+    22.48999,
+    -79.91651999999998,
+    22.48999
+],
+  "geometry": {"coordinates":[-79.91651999999998,22.48999],"type":"Point"}
+}

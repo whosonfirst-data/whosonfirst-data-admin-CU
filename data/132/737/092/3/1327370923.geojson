@@ -1,0 +1,70 @@
+{
+  "id": 1327370923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.61021,23.01434,-82.61021,23.01434",
+    "geom:latitude":23.01434,
+    "geom:longitude":-82.61021,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Habana Libre",
+    "gn:country_code":"CU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830480,
+    "gn:latitude":23.01434,
+    "gn:longitude":-82.61021,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Habana Libre",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Habana Libre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091903451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830480
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"36e7193f410a6baa31b6383918914f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903451,
+            "locality_id":1327370923,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1327370923,
+    "wof:lastmodified":1537619141,
+    "wof:name":"Habana Libre",
+    "wof:parent_id":1091903451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.61021,
+    23.01434,
+    -82.61021,
+    23.01434
+],
+  "geometry": {"coordinates":[-82.61021,23.01434],"type":"Point"}
+}

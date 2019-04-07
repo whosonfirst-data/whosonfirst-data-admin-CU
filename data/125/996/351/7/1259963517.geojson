@@ -1,0 +1,67 @@
+{
+  "id": 1259963517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.95333,20.36528,-74.95333,20.36528",
+    "geom:latitude":20.36528,
+    "geom:longitude":-74.95333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Torre",
+    "gn:country_code":"CU",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3535104,
+    "gn:latitude":20.36528,
+    "gn:longitude":-74.95333,
+    "gn:modification_date":"1995-07-03",
+    "gn:name":"Torre",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091908743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535104
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4403d75d0f1e1bd24faed383422ee9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908743,
+            "locality_id":1259963517,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1259963517,
+    "wof:lastmodified":1536663944,
+    "wof:name":"Torre",
+    "wof:parent_id":1091908743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.95333000000002,
+    20.36528,
+    -74.95333000000002,
+    20.36528
+],
+  "geometry": {"coordinates":[-74.95333000000002,20.36528],"type":"Point"}
+}

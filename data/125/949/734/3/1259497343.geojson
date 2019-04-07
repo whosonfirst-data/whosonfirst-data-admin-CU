@@ -1,0 +1,70 @@
+{
+  "id": 1259497343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.40993,22.45111,-83.40993,22.45111",
+    "geom:latitude":22.45111,
+    "geom:longitude":-83.40993,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vivanco",
+    "gn:country_code":"CU",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3533922,
+    "gn:latitude":22.45111,
+    "gn:longitude":-83.40993,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Vivanco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vivanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091904175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3533922
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b80c0740193cdcb498a4c08fd9a32d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904175,
+            "locality_id":1259497343,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1259497343,
+    "wof:lastmodified":1537618880,
+    "wof:name":"Vivanco",
+    "wof:parent_id":1091904175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.40993,
+    22.45111,
+    -83.40993,
+    22.45111
+],
+  "geometry": {"coordinates":[-83.40993,22.45111],"type":"Point"}
+}

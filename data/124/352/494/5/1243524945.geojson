@@ -1,0 +1,70 @@
+{
+  "id": 1243524945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58963,20.41166,-75.58963,20.41166",
+    "geom:latitude":20.41166,
+    "geom:longitude":-75.58963,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sabanilla",
+    "gn:country_code":"CU",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3541531,
+    "gn:latitude":20.41166,
+    "gn:longitude":-75.58963,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Sabanilla",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sabanilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541531
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"267da2680e5205a637cae0ce22ac974e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908213,
+            "locality_id":1243524945,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1243524945,
+    "wof:lastmodified":1537618922,
+    "wof:name":"Sabanilla",
+    "wof:parent_id":1091908213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58963,
+    20.41166,
+    -75.58963,
+    20.41166
+],
+  "geometry": {"coordinates":[-75.58963,20.41166],"type":"Point"}
+}

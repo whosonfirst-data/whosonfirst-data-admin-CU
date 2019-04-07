@@ -1,0 +1,70 @@
+{
+  "id": 1327368253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.76792,22.82329,-81.76792,22.82329",
+    "geom:latitude":22.82329,
+    "geom:longitude":-81.76792,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Sangrones",
+    "gn:country_code":"CU",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10948303,
+    "gn:latitude":22.82329,
+    "gn:longitude":-81.76792,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Sangrones",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sangrones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091906719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948303
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b4d4524d58662377592e95bb2b02b7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906719,
+            "locality_id":1327368253,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1327368253,
+    "wof:lastmodified":1537619148,
+    "wof:name":"Sangrones",
+    "wof:parent_id":1091906719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.76791999999998,
+    22.82329,
+    -81.76791999999998,
+    22.82329
+],
+  "geometry": {"coordinates":[-81.76791999999998,22.82329],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292989897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.97167,20.17528,-74.97167,20.17528",
+    "geom:latitude":20.17528,
+    "geom:longitude":-74.97167,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Las Trincheras",
+    "gn:country_code":"CU",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550608,
+    "gn:latitude":20.17528,
+    "gn:longitude":-74.97167,
+    "gn:modification_date":"1996-04-26",
+    "gn:name":"Las Trincheras",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091906061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550608
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"54c55de0c0bd29765c47c48d9c83a68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906061,
+            "locality_id":1292989897,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1292989897,
+    "wof:lastmodified":1537006647,
+    "wof:name":"Las Trincheras",
+    "wof:parent_id":1091906061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.97166999999997,
+    20.17528,
+    -74.97166999999997,
+    20.17528
+],
+  "geometry": {"coordinates":[-74.97166999999997,20.17528],"type":"Point"}
+}

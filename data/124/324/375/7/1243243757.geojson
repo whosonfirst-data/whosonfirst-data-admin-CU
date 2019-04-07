@@ -1,0 +1,70 @@
+{
+  "id": 1243243757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.54348,20.64979,-75.54348,20.64979",
+    "geom:latitude":20.64979,
+    "geom:longitude":-75.54348,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Italiana",
+    "gn:country_code":"CU",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065349,
+    "gn:latitude":20.64979,
+    "gn:longitude":-75.54348,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"La Italiana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Italiana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091906305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065349
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fd90aa101cbc4d814c13b71c10a6e8b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906305,
+            "locality_id":1243243757,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1243243757,
+    "wof:lastmodified":1537619218,
+    "wof:name":"La Italiana",
+    "wof:parent_id":1091906305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.54348,
+    20.64979,
+    -75.54348,
+    20.64979
+],
+  "geometry": {"coordinates":[-75.54348,20.64979],"type":"Point"}
+}

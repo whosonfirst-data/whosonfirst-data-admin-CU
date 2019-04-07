@@ -1,0 +1,61 @@
+{
+  "id": 1209450049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.55,22.81667,-82.55,22.81667",
+    "geom:latitude":22.81667,
+    "geom:longitude":-82.55,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"El Brillante",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3561771,
+    "gn:latitude":22.81667,
+    "gn:longitude":-82.55,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"El Brillante",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561771
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"550d3e67641aeae6f9ea9fea5103e31f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209450049
+        }
+    ],
+    "wof:id":1209450049,
+    "wof:lastmodified":1536286700,
+    "wof:name":"El Brillante",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.55,
+    22.81667,
+    -82.55,
+    22.81667
+],
+  "geometry": {"coordinates":[-82.55,22.81667],"type":"Point"}
+}

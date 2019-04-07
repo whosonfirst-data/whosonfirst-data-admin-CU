@@ -1,0 +1,70 @@
+{
+  "id": 1226456773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.39663,22.3543,-83.39663,22.3543",
+    "geom:latitude":22.3543,
+    "geom:longitude":-83.39663,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Caribe",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567638,
+    "gn:latitude":22.3543,
+    "gn:longitude":-83.39663,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"El Caribe",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091904175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567638
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9511dbcaa48601d45215bd60a100552f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904175,
+            "locality_id":1226456773,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1226456773,
+    "wof:lastmodified":1537619108,
+    "wof:name":"El Caribe",
+    "wof:parent_id":1091904175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.39663,
+    22.3543,
+    -83.39663,
+    22.3543
+],
+  "geometry": {"coordinates":[-83.39663,22.3543],"type":"Point"}
+}

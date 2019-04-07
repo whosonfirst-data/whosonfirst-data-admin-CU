@@ -1,0 +1,70 @@
+{
+  "id": 1226547407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.22164,22.68686,-81.22164,22.68686",
+    "geom:latitude":22.68686,
+    "geom:longitude":-81.22164,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dos Hermanos",
+    "gn:country_code":"CU",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3562121,
+    "gn:latitude":22.68686,
+    "gn:longitude":-81.22164,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Dos Hermanos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dos Hermanos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562121
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d80846770f0e288e6820be429f1c73c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906893,
+            "locality_id":1226547407,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1226547407,
+    "wof:lastmodified":1537619067,
+    "wof:name":"Dos Hermanos",
+    "wof:parent_id":1091906893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.22164000000002,
+    22.68686,
+    -81.22164000000002,
+    22.68686
+],
+  "geometry": {"coordinates":[-81.22164000000002,22.68686],"type":"Point"}
+}

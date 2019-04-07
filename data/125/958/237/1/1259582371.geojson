@@ -1,0 +1,70 @@
+{
+  "id": 1259582371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.43,21.48278,-78.43,21.48278",
+    "geom:latitude":21.48278,
+    "geom:longitude":-78.43,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Manguito",
+    "gn:country_code":"CU",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3738049,
+    "gn:latitude":21.48278,
+    "gn:longitude":-78.43,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"El Manguito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Manguito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738049
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4102ec82e53e0ae3bbf6bab65877c5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904585,
+            "locality_id":1259582371,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1259582371,
+    "wof:lastmodified":1537619126,
+    "wof:name":"El Manguito",
+    "wof:parent_id":1091904585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.43,
+    21.48278,
+    -78.43,
+    21.48278
+],
+  "geometry": {"coordinates":[-78.43000000000001,21.48278],"type":"Point"}
+}

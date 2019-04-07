@@ -1,0 +1,70 @@
+{
+  "id": 1242858835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.38202,20.18565,-77.38202,20.18565",
+    "geom:latitude":20.18565,
+    "geom:longitude":-77.38202,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Norma",
+    "gn:country_code":"CU",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11012652,
+    "gn:latitude":20.18565,
+    "gn:longitude":-77.38202,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Norma",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Norma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11012652
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7429a5599adba7643216dec2ac850947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903673,
+            "locality_id":1242858835,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1242858835,
+    "wof:lastmodified":1537619182,
+    "wof:name":"La Norma",
+    "wof:parent_id":1091903673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.38202,
+    20.18565,
+    -77.38202,
+    20.18565
+],
+  "geometry": {"coordinates":[-77.38202,20.18565],"type":"Point"}
+}

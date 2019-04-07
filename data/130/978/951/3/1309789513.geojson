@@ -1,0 +1,70 @@
+{
+  "id": 1309789513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.36737,20.32336,-75.36737,20.32336",
+    "geom:latitude":20.32336,
+    "geom:longitude":-75.36737,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Marinon",
+    "gn:country_code":"CU",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065655,
+    "gn:latitude":20.32336,
+    "gn:longitude":-75.36737,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Mari\u00f1\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mari\u00f1\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091904459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065655
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0033f5a65415cb44cc03c0dad84aeb8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904459,
+            "locality_id":1309789513,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1309789513,
+    "wof:lastmodified":1537619221,
+    "wof:name":"Marinon",
+    "wof:parent_id":1091904459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.36737,
+    20.32336,
+    -75.36737,
+    20.32336
+],
+  "geometry": {"coordinates":[-75.36736999999999,20.32336],"type":"Point"}
+}

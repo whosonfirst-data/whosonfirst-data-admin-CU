@@ -1,0 +1,72 @@
+{
+  "id": 1242748429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.44885,19.91042,-75.44885,19.91042",
+    "geom:latitude":19.91042,
+    "geom:longitude":-75.44885,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Baconao",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746516,
+    "gn:latitude":19.91042,
+    "gn:longitude":-75.44885,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Baconao",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakonao",
+        "Baconao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746516,
+        "wk:page":"Baconao"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b8a3b7eb46f5e16cd79d67b7c720fec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":1242748429,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1242748429,
+    "wof:lastmodified":1537619132,
+    "wof:name":"Baconao",
+    "wof:parent_id":1091908137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.44885,
+    19.91042,
+    -75.44885,
+    19.91042
+],
+  "geometry": {"coordinates":[-75.44884999999999,19.91042],"type":"Point"}
+}

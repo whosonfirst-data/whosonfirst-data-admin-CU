@@ -1,0 +1,70 @@
+{
+  "id": 1259562241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.24389,21.87495,-79.24389,21.87495",
+    "geom:latitude":21.87495,
+    "geom:longitude":-79.24389,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ciego Caballo",
+    "gn:country_code":"CU",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3564184,
+    "gn:latitude":21.87495,
+    "gn:longitude":-79.24389,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ciego Caballo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ciego Caballo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564184
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2865dc653dbec4c537142d3b30d44160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905283,
+            "locality_id":1259562241,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1259562241,
+    "wof:lastmodified":1537619082,
+    "wof:name":"Ciego Caballo",
+    "wof:parent_id":1091905283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.24389000000002,
+    21.87495,
+    -79.24389000000002,
+    21.87495
+],
+  "geometry": {"coordinates":[-79.24389000000002,21.87495],"type":"Point"}
+}

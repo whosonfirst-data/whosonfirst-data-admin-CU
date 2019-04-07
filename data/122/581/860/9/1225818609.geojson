@@ -1,0 +1,70 @@
+{
+  "id": 1225818609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.8344,20.29102,-75.8344,20.29102",
+    "geom:latitude":20.29102,
+    "geom:longitude":-75.8344,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Silviana",
+    "gn:country_code":"CU",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3551127,
+    "gn:latitude":20.29102,
+    "gn:longitude":-75.8344,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Silviana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Silviana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551127
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1939b8c8e392428b6e0f84d0b116a98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907795,
+            "locality_id":1225818609,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1225818609,
+    "wof:lastmodified":1537618987,
+    "wof:name":"La Silviana",
+    "wof:parent_id":1091907795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.8344,
+    20.29102,
+    -75.8344,
+    20.29102
+],
+  "geometry": {"coordinates":[-75.8344,20.29102],"type":"Point"}
+}

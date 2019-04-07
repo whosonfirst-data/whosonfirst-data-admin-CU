@@ -1,0 +1,73 @@
+{
+  "id": 1192988137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.66164,22.82464,-80.66164,22.82464",
+    "geom:latitude":22.82464,
+    "geom:longitude":-80.66164,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Siguanea",
+    "gn:country_code":"CU",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3551133,
+    "gn:latitude":22.82464,
+    "gn:longitude":-80.66164,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Siguanea",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Siguanea"
+    ],
+    "name:und_x_variant":[
+        "La Siguanea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551133
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fd9118be5be41210fb433d725241a634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904251,
+            "locality_id":1192988137,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1192988137,
+    "wof:lastmodified":1537618987,
+    "wof:name":"Siguanea",
+    "wof:parent_id":1091904251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.66164,
+    22.82464,
+    -80.66164,
+    22.82464
+],
+  "geometry": {"coordinates":[-80.66164000000001,22.82464],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259874879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.78472,20.20639,-74.78472,20.20639",
+    "geom:latitude":20.20639,
+    "geom:longitude":-74.78472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Mije",
+    "gn:country_code":"CU",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3560470,
+    "gn:latitude":20.20639,
+    "gn:longitude":-74.78472,
+    "gn:modification_date":"1996-04-26",
+    "gn:name":"El Mije",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091907633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560470
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ab1354f70d6154a1a66086acad156e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907633,
+            "locality_id":1259874879,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1259874879,
+    "wof:lastmodified":1536791958,
+    "wof:name":"El Mije",
+    "wof:parent_id":1091907633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.78472,
+    20.20639,
+    -74.78472,
+    20.20639
+],
+  "geometry": {"coordinates":[-74.78471999999999,20.20639],"type":"Point"}
+}

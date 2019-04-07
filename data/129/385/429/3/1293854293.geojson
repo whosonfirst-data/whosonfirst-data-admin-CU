@@ -1,0 +1,73 @@
+{
+  "id": 1293854293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.90889,20.36639,-75.90889,20.36639",
+    "geom:latitude":20.36639,
+    "geom:longitude":-75.90889,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mella",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547163,
+    "gn:latitude":20.36639,
+    "gn:longitude":-75.90889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mella",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miranda",
+        "Mella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091906371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547163,
+        "wk:page":"Mella%2C_Cuba"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a34e6be59ee0d26a59c080698d5d6dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906371,
+            "locality_id":1293854293,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1293854293,
+    "wof:lastmodified":1537618959,
+    "wof:name":"Mella",
+    "wof:parent_id":1091906371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.90889,
+    20.36639,
+    -75.90889,
+    20.36639
+],
+  "geometry": {"coordinates":[-75.90889,20.36639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293571357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.35,22.3,-79.35,22.3",
+    "geom:latitude":22.3,
+    "geom:longitude":-79.35,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Bijo",
+    "gn:country_code":"CU",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3561803,
+    "gn:latitude":22.3,
+    "gn:longitude":-79.35,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"El Bijo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561803
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b536718b212970b5969ad4d82c8dee39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1293571357,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1293571357,
+    "wof:lastmodified":1536666232,
+    "wof:name":"El Bijo",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.35,
+    22.3,
+    -79.35,
+    22.3
+],
+  "geometry": {"coordinates":[-79.34999999999999,22.3],"type":"Point"}
+}

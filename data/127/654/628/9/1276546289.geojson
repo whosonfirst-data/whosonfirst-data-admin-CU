@@ -1,0 +1,67 @@
+{
+  "id": 1276546289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.90556,21.27583,-77.90556,21.27583",
+    "geom:latitude":21.27583,
+    "geom:longitude":-77.90556,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Castillo",
+    "gn:country_code":"CU",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3564994,
+    "gn:latitude":21.27583,
+    "gn:longitude":-77.90556,
+    "gn:modification_date":"1996-10-11",
+    "gn:name":"Castillo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091905417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564994
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6df05a92e31a021f5ae422f6699a836f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905417,
+            "locality_id":1276546289,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1276546289,
+    "wof:lastmodified":1536989834,
+    "wof:name":"Castillo",
+    "wof:parent_id":1091905417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.90556,
+    21.27583,
+    -77.90556,
+    21.27583
+],
+  "geometry": {"coordinates":[-77.90555999999999,21.27583],"type":"Point"}
+}

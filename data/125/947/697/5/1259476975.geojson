@@ -1,0 +1,70 @@
+{
+  "id": 1259476975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.33101,20.08094,-74.33101,20.08094",
+    "geom:latitude":20.08094,
+    "geom:longitude":-74.33101,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Macabi",
+    "gn:country_code":"CU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080112,
+    "gn:latitude":20.08094,
+    "gn:longitude":-74.33101,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Macabi",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Macabi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080112
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"03963fe79dac38a377ce7a304a90492f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905819,
+            "locality_id":1259476975,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1259476975,
+    "wof:lastmodified":1537619225,
+    "wof:name":"Macabi",
+    "wof:parent_id":1091905819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.33100999999998,
+    20.08094,
+    -74.33100999999998,
+    20.08094
+],
+  "geometry": {"coordinates":[-74.33100999999998,20.08094],"type":"Point"}
+}

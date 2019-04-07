@@ -1,0 +1,72 @@
+{
+  "id": 1243281569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.56667,21.98333,-84.56667,21.98333",
+    "geom:latitude":21.98333,
+    "geom:longitude":-84.56667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"San Julian",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3539233,
+    "gn:latitude":21.98333,
+    "gn:longitude":-84.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Juli\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jul\u00edan",
+        "San Juli\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539233
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7d83c52e6d9c2c171795d4e43e47e54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907969,
+            "locality_id":1243281569,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1243281569,
+    "wof:lastmodified":1537618910,
+    "wof:name":"San Julian",
+    "wof:parent_id":1091907969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.56667,
+    21.98333,
+    -84.56667,
+    21.98333
+],
+  "geometry": {"coordinates":[-84.56667,21.98333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292937555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.7613,21.71212,-77.7613,21.71212",
+    "geom:latitude":21.71212,
+    "geom:longitude":-77.7613,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Cubitas",
+    "gn:country_code":"CU",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11034229,
+    "gn:latitude":21.71212,
+    "gn:longitude":-77.7613,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"Cubitas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cubitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11034229,
+        "wk:page":"Sierra_de_Cubitas"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"15ae867e29b4b87417aea7d4e6c47aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908301,
+            "locality_id":1292937555,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1292937555,
+    "wof:lastmodified":1537619200,
+    "wof:name":"Cubitas",
+    "wof:parent_id":1091908301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.7613,
+    21.71212,
+    -77.7613,
+    21.71212
+],
+  "geometry": {"coordinates":[-77.76130000000001,21.71212],"type":"Point"}
+}

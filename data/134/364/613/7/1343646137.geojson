@@ -1,0 +1,70 @@
+{
+  "id": 1343646137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.90016,20.18021,-76.90016,20.18021",
+    "geom:latitude":20.18021,
+    "geom:longitude":-76.90016,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"San Juan Dos",
+    "gn:country_code":"CU",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023948,
+    "gn:latitude":20.18021,
+    "gn:longitude":-76.90016,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"San Juan Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Juan Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091902987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023948
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"46078b12a350fa462c8739b68dab85d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902987,
+            "locality_id":1343646137,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1343646137,
+    "wof:lastmodified":1537619191,
+    "wof:name":"San Juan Dos",
+    "wof:parent_id":1091902987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.90016,
+    20.18021,
+    -76.90016,
+    20.18021
+],
+  "geometry": {"coordinates":[-76.90016,20.18021],"type":"Point"}
+}

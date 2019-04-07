@@ -1,0 +1,75 @@
+{
+  "id": 1225923365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.94725,21.07189,-76.94725,21.07189",
+    "geom:latitude":21.07189,
+    "geom:longitude":-76.94725,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Laguna de Varona",
+    "gn:country_code":"CU",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3553511,
+    "gn:latitude":21.07189,
+    "gn:longitude":-76.94725,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Laguna de Varona",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Laguna de Varona"
+    ],
+    "name:und_x_variant":[
+        "Laguna",
+        "Lagunas de Varona",
+        "Lagunas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553511
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b776ff247854c5ecc537b4945cd5198b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905619,
+            "locality_id":1225923365,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1225923365,
+    "wof:lastmodified":1537619004,
+    "wof:name":"Laguna de Varona",
+    "wof:parent_id":1091905619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.94725,
+    21.07189,
+    -76.94725,
+    21.07189
+],
+  "geometry": {"coordinates":[-76.94725,21.07189],"type":"Point"}
+}

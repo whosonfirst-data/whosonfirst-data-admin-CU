@@ -1,0 +1,124 @@
+{
+  "id": 1125835445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.01889,22.76917,-81.01889,22.76917",
+    "geom:latitude":22.76917,
+    "geom:longitude":-81.01889,
+    "gn:gn_country":"CU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":24073,
+    "gn:population":24073,
+    "iso:country":"CU",
+    "lbl:latitude":22.76917,
+    "lbl:longitude":-81.01889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Perico"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f69\u91cc\u79d1"
+    ],
+    "name:dut_x_preferred":[
+        "Perico"
+    ],
+    "name:eng_x_preferred":[
+        "Perico"
+    ],
+    "name:fre_x_preferred":[
+        "Perico"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10d4\u10e0\u10d8\u10d9\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Perico"
+    ],
+    "name:ita_x_preferred":[
+        "Perico"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d46\u0d31\u0d3f\u0d15\u0d4b"
+    ],
+    "name:oci_x_preferred":[
+        "Perico"
+    ],
+    "name:por_x_preferred":[
+        "Perico"
+    ],
+    "name:sco_x_preferred":[
+        "Perico"
+    ],
+    "name:spa_x_preferred":[
+        "Perico"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Perico"
+    ],
+    "name:vie_x_preferred":[
+        "Perico"
+    ],
+    "qs_pg:aaroncc":"CU",
+    "qs_pg:gn_country":"CU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3544393,
+    "qs_pg:gn_pop":24073,
+    "qs_pg:name":"Perico",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":148918,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544393,
+        "qs_pg:id":148918,
+        "wd:id":"Q5001"
+    },
+    "wof:country":"CU",
+    "wof:created":1497292697,
+    "wof:geomhash":"854d95fabb9718206619101b3a42358e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906933,
+            "locality_id":1125835445,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1125835445,
+    "wof:lastmodified":1513944606,
+    "wof:name":"Perico",
+    "wof:parent_id":1091906933,
+    "wof:placetype":"locality",
+    "wof:population":24073,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.01889,
+    22.76917,
+    -81.01889,
+    22.76917
+],
+  "geometry": {"coordinates":[-81.01889,22.76917],"type":"Point"}
+}

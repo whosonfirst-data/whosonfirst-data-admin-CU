@@ -1,0 +1,73 @@
+{
+  "id": 1310592749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.8802,22.31224,-78.8802,22.31224",
+    "geom:latitude":22.31224,
+    "geom:longitude":-78.8802,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Oriental",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746340,
+    "gn:latitude":22.31224,
+    "gn:longitude":-78.8802,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"La Oriental",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Oriental"
+    ],
+    "name:spa_x_variant":[
+        "Oriental"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091903905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746340
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3f2ef8a019be826e9360e657cdae50e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903905,
+            "locality_id":1310592749,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1310592749,
+    "wof:lastmodified":1537619130,
+    "wof:name":"La Oriental",
+    "wof:parent_id":1091903905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.8802,
+    22.31224,
+    -78.8802,
+    22.31224
+],
+  "geometry": {"coordinates":[-78.8802,22.31224],"type":"Point"}
+}

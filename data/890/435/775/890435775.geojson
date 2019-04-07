@@ -1,0 +1,105 @@
+{
+  "id": 890435775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.24861,22.58722,-83.24861,22.58722",
+    "geom:latitude":22.58722,
+    "geom:longitude":-83.24861,
+    "gn:country":"CU",
+    "gn:fcode":"PPL",
+    "gn:pop":25703,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6d1b\u65af\u5e15\u62c9\u897f\u5965\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Los Palacios"
+    ],
+    "name:eng_x_preferred":[
+        "Los Palacios"
+    ],
+    "name:fre_x_preferred":[
+        "Los Palacios"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10de\u10d0\u10da\u10d0\u10e1\u10d8\u10dd\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Los Palacios"
+    ],
+    "name:ita_x_preferred":[
+        "Los Palacios"
+    ],
+    "name:por_x_preferred":[
+        "Los Palacios"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0441-\u041f\u0430\u043b\u0430\u0441\u044c\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Los Palacios"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Los Palacios"
+    ],
+    "name:vie_x_preferred":[
+        "Los Palacios"
+    ],
+    "qs:name":"Los Palacios",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":165,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091905737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548993,
+        "gp:id":65030,
+        "qs:id":1045500,
+        "wd:id":"Q1870561",
+        "wk:page":"Los Palacios"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052081,
+    "wof:geomhash":"04e1a8179bcedd8da6eae53df7f33761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905737,
+            "locality_id":890435775,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":890435775,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Los Palacios",
+    "wof:parent_id":1091905737,
+    "wof:placetype":"locality",
+    "wof:population":25703,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.24861,
+    22.58722,
+    -83.24861,
+    22.58722
+],
+  "geometry": {"coordinates":[-83.24861,22.58722],"type":"Point"}
+}

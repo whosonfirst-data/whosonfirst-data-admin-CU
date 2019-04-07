@@ -1,0 +1,70 @@
+{
+  "id": 1309837921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.02883,21.53981,-77.02883,21.53981",
+    "geom:latitude":21.53981,
+    "geom:longitude":-77.02883,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Amigos del Mar",
+    "gn:country_code":"CU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056989,
+    "gn:latitude":21.53981,
+    "gn:longitude":-77.02883,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Amigos del Mar",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Amigos del Mar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091906765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056989
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0e8bac6e09d103a5f479193b1f8162e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906765,
+            "locality_id":1309837921,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1309837921,
+    "wof:lastmodified":1537619202,
+    "wof:name":"Amigos del Mar",
+    "wof:parent_id":1091906765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.02883,
+    21.53981,
+    -77.02883,
+    21.53981
+],
+  "geometry": {"coordinates":[-77.02883,21.53981],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226142151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.8093,21.43405,-77.8093,21.43405",
+    "geom:latitude":21.43405,
+    "geom:longitude":-77.8093,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Cromo",
+    "gn:country_code":"CU",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3563178,
+    "gn:latitude":21.43405,
+    "gn:longitude":-77.8093,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Cromo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chromo",
+        "Cromo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563178
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2edfd32a0c6ca331f964e0f4b0e9d8e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903577,
+            "locality_id":1226142151,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1226142151,
+    "wof:lastmodified":1537619076,
+    "wof:name":"Cromo",
+    "wof:parent_id":1091903577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.8093,
+    21.43405,
+    -77.8093,
+    21.43405
+],
+  "geometry": {"coordinates":[-77.80929999999999,21.43405],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209594913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.20976,21.03174,-77.20976,21.03174",
+    "geom:latitude":21.03174,
+    "geom:longitude":-77.20976,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pueblo Nuevo",
+    "gn:country_code":"CU",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11058833,
+    "gn:latitude":21.03174,
+    "gn:longitude":-77.20976,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Pueblo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058833
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"db08719ee8f9098c654c0776e0403b19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209594913
+        }
+    ],
+    "wof:id":1209594913,
+    "wof:lastmodified":1537619206,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.20976,
+    21.03174,
+    -77.20976,
+    21.03174
+],
+  "geometry": {"coordinates":[-77.20976,21.03174],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343732483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.18512,20.08501,-76.18512,20.08501",
+    "geom:latitude":20.08501,
+    "geom:longitude":-76.18512,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Campo Rico",
+    "gn:country_code":"CU",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542030,
+    "gn:latitude":20.08501,
+    "gn:longitude":-76.18512,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Campo Rico",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Robert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091906823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542030
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cb92fd0752d3985b41eceb2944cb6c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906823,
+            "locality_id":1343732483,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1343732483,
+    "wof:lastmodified":1537618925,
+    "wof:name":"Campo Rico",
+    "wof:parent_id":1091906823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.18512,
+    20.08501,
+    -76.18512,
+    20.08501
+],
+  "geometry": {"coordinates":[-76.18512,20.08501],"type":"Point"}
+}

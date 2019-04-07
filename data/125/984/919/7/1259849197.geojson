@@ -1,0 +1,77 @@
+{
+  "id": 1259849197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.99502,22.15372,-79.99502,22.15372",
+    "geom:latitude":22.15372,
+    "geom:longitude":-79.99502,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Carranchola",
+    "gn:country_code":"CU",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3555081,
+    "gn:latitude":22.15372,
+    "gn:longitude":-79.99502,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"La Carranchola",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Carranchola"
+    ],
+    "name:spa_x_variant":[
+        "La Carranchola"
+    ],
+    "name:und_x_variant":[
+        "Caranchola",
+        "La Caranchola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555081
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"701c07add548f7f90579044462fdf509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1259849197,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1259849197,
+    "wof:lastmodified":1537619014,
+    "wof:name":"La Carranchola",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.99502,
+    22.15372,
+    -79.99502,
+    22.15372
+],
+  "geometry": {"coordinates":[-79.99502,22.15372],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344052699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.61292,22.28833,-80.61292,22.28833",
+    "geom:latitude":22.28833,
+    "geom:longitude":-80.61292,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sabanazo",
+    "gn:country_code":"CU",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3541566,
+    "gn:latitude":22.28833,
+    "gn:longitude":-80.61292,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Sabanazo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sabanazo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091902555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541566
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8abc846f7d1b32cfa095ca9c19233705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902555,
+            "locality_id":1344052699,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1344052699,
+    "wof:lastmodified":1537618922,
+    "wof:name":"Sabanazo",
+    "wof:parent_id":1091902555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.61291999999997,
+    22.28833,
+    -80.61291999999997,
+    22.28833
+],
+  "geometry": {"coordinates":[-80.61291999999997,22.28833],"type":"Point"}
+}

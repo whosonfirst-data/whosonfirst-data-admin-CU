@@ -1,0 +1,67 @@
+{
+  "id": 1276662197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.03333,20.8,-78.03333,20.8",
+    "geom:latitude":20.8,
+    "geom:longitude":-78.03333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pedro Lopez",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3544596,
+    "gn:latitude":20.8,
+    "gn:longitude":-78.03333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Pedro L\u00f3pez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544596
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6e8fc3ce58ece14e45dabb345a1a5f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908085,
+            "locality_id":1276662197,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1276662197,
+    "wof:lastmodified":1536834008,
+    "wof:name":"Pedro Lopez",
+    "wof:parent_id":1091908085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.03333,
+    20.8,
+    -78.03333,
+    20.8
+],
+  "geometry": {"coordinates":[-78.03333000000001,20.8],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327117395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.83267,19.96768,-75.83267,19.96768",
+    "geom:latitude":19.96768,
+    "geom:longitude":-75.83267,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Playa de Aguadores",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3766955,
+    "gn:latitude":19.96768,
+    "gn:longitude":-75.83267,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Playa de Aguadores",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Playa Aguadores",
+        "Playa de Aguadores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3766955
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"37b1ffe38faa01c9e38da8f929ed3620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":1327117395,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1327117395,
+    "wof:lastmodified":1537619140,
+    "wof:name":"Playa de Aguadores",
+    "wof:parent_id":1091908137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.83267,
+    19.96768,
+    -75.83267,
+    19.96768
+],
+  "geometry": {"coordinates":[-75.83266999999999,19.96768],"type":"Point"}
+}

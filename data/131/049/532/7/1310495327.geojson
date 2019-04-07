@@ -1,0 +1,70 @@
+{
+  "id": 1310495327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.63103,20.1169,-74.63103,20.1169",
+    "geom:latitude":20.1169,
+    "geom:longitude":-74.63103,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Rio del Medio",
+    "gn:country_code":"CU",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542160,
+    "gn:latitude":20.1169,
+    "gn:longitude":-74.63103,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"R\u00edo del Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo del Medio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542160
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6d366a5b4fd620d631fa3fb4872bce38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1310495327,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1310495327,
+    "wof:lastmodified":1537618926,
+    "wof:name":"Rio del Medio",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.63103000000002,
+    20.1169,
+    -74.63103000000002,
+    20.1169
+],
+  "geometry": {"coordinates":[-74.63103000000002,20.1169],"type":"Point"}
+}

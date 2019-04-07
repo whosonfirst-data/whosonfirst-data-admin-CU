@@ -1,0 +1,70 @@
+{
+  "id": 1277161143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.4214,20.28804,-74.4214,20.28804",
+    "geom:latitude":20.28804,
+    "geom:longitude":-74.4214,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cayo Boruco",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080187,
+    "gn:latitude":20.28804,
+    "gn:longitude":-74.4214,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Cayo Boruco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cayo Boruco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091902961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080187
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0eeecc61881ec913c2cc05986d0fbfbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902961,
+            "locality_id":1277161143,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1277161143,
+    "wof:lastmodified":1537619227,
+    "wof:name":"Cayo Boruco",
+    "wof:parent_id":1091902961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.4214,
+    20.28804,
+    -74.4214,
+    20.28804
+],
+  "geometry": {"coordinates":[-74.42140000000001,20.28804],"type":"Point"}
+}

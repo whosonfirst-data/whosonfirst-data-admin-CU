@@ -1,0 +1,67 @@
+{
+  "id": 1309688601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.98333,21.31667,-76.98333,21.31667",
+    "geom:latitude":21.31667,
+    "geom:longitude":-76.98333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Silvia",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3536141,
+    "gn:latitude":21.31667,
+    "gn:longitude":-76.98333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Silvia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536141
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"eb3569dc20f26c5a934316b527f9de7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905945,
+            "locality_id":1309688601,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1309688601,
+    "wof:lastmodified":1537096846,
+    "wof:name":"Silvia",
+    "wof:parent_id":1091905945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.98333000000002,
+    21.31667,
+    -76.98333000000002,
+    21.31667
+],
+  "geometry": {"coordinates":[-76.98333000000002,21.31667],"type":"Point"}
+}

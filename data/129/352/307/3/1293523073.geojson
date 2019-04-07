@@ -1,0 +1,71 @@
+{
+  "id": 1293523073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.37435,22.78266,-82.37435,22.78266",
+    "geom:latitude":22.78266,
+    "geom:longitude":-82.37435,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Guiro Marrero",
+    "gn:country_code":"CU",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557337,
+    "gn:latitude":22.78266,
+    "gn:longitude":-82.37435,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"G\u00fciro Marrero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fciro de Marrero",
+        "G\u00fciro Marrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091907223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557337
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ce42ea5363237eff77521ad90bce6046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907223,
+            "locality_id":1293523073,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1293523073,
+    "wof:lastmodified":1537619029,
+    "wof:name":"Guiro Marrero",
+    "wof:parent_id":1091907223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.37435,
+    22.78266,
+    -82.37435,
+    22.78266
+],
+  "geometry": {"coordinates":[-82.37435000000001,22.78266],"type":"Point"}
+}

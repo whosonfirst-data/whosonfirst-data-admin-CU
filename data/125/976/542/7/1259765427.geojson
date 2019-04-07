@@ -1,0 +1,70 @@
+{
+  "id": 1259765427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.88505,22.37241,-79.88505,22.37241",
+    "geom:latitude":22.37241,
+    "geom:longitude":-79.88505,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Maria",
+    "gn:country_code":"CU",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11007991,
+    "gn:latitude":22.37241,
+    "gn:longitude":-79.88505,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Mar\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091908009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007991
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"285e7d260e5274534d72ab0ab0ce5dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908009,
+            "locality_id":1259765427,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1259765427,
+    "wof:lastmodified":1537619169,
+    "wof:name":"La Maria",
+    "wof:parent_id":1091908009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.88505,
+    22.37241,
+    -79.88505,
+    22.37241
+],
+  "geometry": {"coordinates":[-79.88505000000001,22.37241],"type":"Point"}
+}

@@ -1,0 +1,352 @@
+{
+  "id": 890444797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.95111,20.96167,-76.95111,20.96167",
+    "geom:latitude":20.96167,
+    "geom:longitude":-76.95111,
+    "gn:country":"CU",
+    "gn:fcode":"PPLA",
+    "gn:pop":203684,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0633 \u062a\u0648\u0646\u0627\u0633"
+    ],
+    "name:arm_x_preferred":[
+        "\u054e\u056b\u056f\u057f\u0578\u0580\u056b\u0561 \u0564\u0565 \u056c\u0561\u057d \u054f\u0578\u0582\u0576\u0561\u057d"
+    ],
+    "name:baq_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u0441-\u0422\u0443\u043d\u0430\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09b8 \u099f\u09c1\u09a8\u09be\u09b8"
+    ],
+    "name:bre_x_preferred":[
+        "Victoria de Las Tunas"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0443\u043d\u0430\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:ceb_x_preferred":[
+        "Victoria de Las Tunas"
+    ],
+    "name:chi_x_preferred":[
+        "\u7ef4\u591a\u5229\u4e9a-\u5fb7\u62c9\u65af\u56fe\u7eb3\u65af"
+    ],
+    "name:dan_x_preferred":[
+        "Victoria de Las Tunas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:dut_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:eng_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0633 \u062a\u0648\u0646\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:fre_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0\u10e1-\u10e2\u10e3\u10dc\u10d0\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1\u03c2 \u03a4\u03bf\u03cd\u03bd\u03b1\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abe\u0ab8 \u0a9f\u0ac1\u0aa8\u0ab8"
+    ],
+    "name:hat_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e7\u05d8\u05d5\u05e8\u05d9\u05d4 \u05d3\u05d4 \u05dc\u05d0\u05e1 \u05d8\u05d5\u05e0\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u0938 \u091f\u0942\u0928\u093e\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056f\u057f\u0578\u0580\u056b\u0561 \u0564\u0565 \u056c\u0561\u057d \u054f\u0578\u0582\u0576\u0561\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:ita_x_preferred":[
+        "Victoria de Las Tunas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30c8\u30a5\u30fc\u30ca\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe\u0cb8\u0ccd \u0c9f\u0cc1\u0ca8\u0cbe\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10e1-\u10e2\u10e3\u10dc\u10d0\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc2a4\ud22c\ub098\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Lastunasa"
+    ],
+    "name:lit_x_preferred":[
+        "Las Tunasas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093e\u0938 \u091f\u0941\u0928\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:nan_x_preferred":[
+        "Victoria de Las Tunas"
+    ],
+    "name:nno_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:nob_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:oci_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627\u0633 \u062a\u0648\u0646\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:por_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:ron_x_preferred":[
+        "Victoria de Las Tunas"
+    ],
+    "name:rum_x_preferred":[
+        "Victoria de Las Tunas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u0422\u0443\u043d\u0430\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Victoria de Las Tunas"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dcf\u0dc3\u0dca \u0da7\u0dd4\u0db1\u0dcf\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u0458\u0430 \u0434\u0435 \u041b\u0430\u0441 \u0422\u0443\u043d\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe\u0bb8\u0bcd  \u0b9f\u0bc1\u0ba9\u0bbe\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e\u0c38\u0c4d \u0c1f\u0c4d\u0c2f\u0c42\u0c28\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32\u0e2a\u0e17\u0e39\u0e19\u0e32\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441-\u0422\u0443\u043d\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Victoria"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u062a\u0648\u0646\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Victoria de Las Tunas"
+    ],
+    "name:vol_x_preferred":[
+        "Victoria de las Tunas"
+    ],
+    "name:war_x_preferred":[
+        "Victoria de Las Tunas"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u591a\u5229\u4e9a-\u5fb7\u62c9\u65af\u56fe\u7eb3\u65af"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Cuba",
+    "ne:ADM0_A3":"CUB",
+    "ne:ADM1NAME":"Las Tunas",
+    "ne:ADMIN1_COD":13,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3550598,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Las Tunas",
+    "ne:GN_POP":203684,
+    "ne:GTOPO30":88.0,
+    "ne:ISO_A2":"CU",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":20.960128,
+    "ne:LONGITUDE":-76.954383,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Las Tunas",
+    "ne:MAX_AREAKM":30.0,
+    "ne:MAX_AREAMI":11.0,
+    "ne:MAX_BBXMAX":-76.9,
+    "ne:MAX_BBXMIN":-77.0,
+    "ne:MAX_BBYMAX":20.983333,
+    "ne:MAX_BBYMIN":20.941667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":34.0,
+    "ne:MAX_PERMI":21.0,
+    "ne:MAX_POP10":156112,
+    "ne:MAX_POP20":156112,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-76.953941,
+    "ne:MEAN_BBYC":20.964302,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":30.0,
+    "ne:MIN_AREAMI":11.0,
+    "ne:MIN_BBXMAX":-76.9,
+    "ne:MIN_BBXMIN":-77.0,
+    "ne:MIN_BBYMAX":20.983333,
+    "ne:MIN_BBYMIN":20.941667,
+    "ne:MIN_PERKM":34.0,
+    "ne:MIN_PERMI":21.0,
+    "ne:NAME":"Las Tunas",
+    "ne:NAMEALT":"Victoria De Las Tunas",
+    "ne:NAMEASCII":"Las Tunas",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":203684,
+    "ne:POP_MIN":156112,
+    "ne:POP_OTHER":156112,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Cuba",
+    "ne:SOV_A3":"CUB",
+    "ne:TIMEZONE":"America/Havana",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Las Tunas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550598,
+        "gp:id":64759,
+        "qs:id":1045492,
+        "qs_pg:id":453035,
+        "wd:id":"Q115527",
+        "wk:page":"Las Tunas"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052482,
+    "wof:geomhash":"1ca28ef199ad589a433c191b416f2bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905619,
+            "locality_id":890444797,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":890444797,
+    "wof:lastmodified":1553816401,
+    "wof:name":"Las Tunas",
+    "wof:parent_id":1091905619,
+    "wof:placetype":"locality",
+    "wof:population":203684,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95111,
+    20.96167,
+    -76.95111,
+    20.96167
+],
+  "geometry": {"coordinates":[-76.95111,20.96167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293214819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.09482,22.57468,-84.09482,22.57468",
+    "geom:latitude":22.57468,
+    "geom:longitude":-84.09482,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Baja",
+    "gn:country_code":"CU",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567963,
+    "gn:latitude":22.57468,
+    "gn:longitude":-84.09482,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Baja",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beja",
+        "Baja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091906417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567963
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b5532050316f22903f00a4bdf1aae7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906417,
+            "locality_id":1293214819,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1293214819,
+    "wof:lastmodified":1537619111,
+    "wof:name":"Baja",
+    "wof:parent_id":1091906417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.09482,
+    22.57468,
+    -84.09482,
+    22.57468
+],
+  "geometry": {"coordinates":[-84.09482,22.57468],"type":"Point"}
+}

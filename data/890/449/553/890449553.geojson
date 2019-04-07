@@ -1,0 +1,112 @@
+{
+  "id": 890449553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.57417,21.62695,-81.57417,21.62695",
+    "geom:latitude":21.62695,
+    "geom:longitude":-81.57417,
+    "gn:country":"CU",
+    "gn:fcode":"PPL",
+    "gn:pop":150,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u62c9\u6208\u5cf6"
+    ],
+    "name:dut_x_preferred":[
+        "Cayo Largo del Sur"
+    ],
+    "name:eng_x_preferred":[
+        "Cayo Largo del Sur"
+    ],
+    "name:fre_x_preferred":[
+        "Cayo Largo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10d8\u10dd-\u10da\u10d0\u10e0\u10d2\u10dd-\u10d3\u10d4\u10da-\u10e1\u10e3\u10e0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Cayo Largo del Sur"
+    ],
+    "name:ind_x_preferred":[
+        "Cayo Largo del Sur"
+    ],
+    "name:ita_x_preferred":[
+        "Cayo Largo del Sur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e8\u30fb\u30e9\u30eb\u30b4"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc694\ub77c\ub974\uace0\ub378\uc218\ub974 \uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Kajo Largo del Suras"
+    ],
+    "name:por_x_preferred":[
+        "Cayo Largo do Sul"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Cayo Largo del Sur"
+    ],
+    "name:srp_x_preferred":[
+        "Kajo largo de sur"
+    ],
+    "name:swe_x_preferred":[
+        "Cayo Largo"
+    ],
+    "name:unk_x_variant":[
+        "Cayo Largo"
+    ],
+    "qs:name":"Marina Cayo Largo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7280464,
+        "gp:id":12512455,
+        "qs:id":671082,
+        "wd:id":"Q1052027"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052697,
+    "wof:geomhash":"b8d44bbd465e167e82ac2107edf14f51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":890449553
+        }
+    ],
+    "wof:id":890449553,
+    "wof:lastmodified":1513944578,
+    "wof:name":"Marina Cayo Largo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.57417,
+    21.62695,
+    -81.57417,
+    21.62695
+],
+  "geometry": {"coordinates":[-81.57417,21.62695],"type":"Point"}
+}

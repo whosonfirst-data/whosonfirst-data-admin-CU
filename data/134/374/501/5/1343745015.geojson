@@ -1,0 +1,72 @@
+{
+  "id": 1343745015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.8,20.31667,-75.8,20.31667",
+    "geom:latitude":20.31667,
+    "geom:longitude":-75.8,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Peluda",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3552149,
+    "gn:latitude":20.31667,
+    "gn:longitude":-75.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Peluda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peluda",
+        "La Peluda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552149
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d397514d0db9a77f5b19690276192a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907795,
+            "locality_id":1343745015,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1343745015,
+    "wof:lastmodified":1537618995,
+    "wof:name":"La Peluda",
+    "wof:parent_id":1091907795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.8,
+    20.31667,
+    -75.8,
+    20.31667
+],
+  "geometry": {"coordinates":[-75.8,20.31667],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 1091903863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000889,
+    "geom:area_square_m":10111246.52066,
+    "geom:bbox":"-82.4056040379,23.0767023941,-82.3657834999,23.1280208806",
+    "geom:latitude":23.099859,
+    "geom:longitude":-82.384462,
+    "iso:country":"CU",
+    "lbl:latitude":23.100696,
+    "lbl:longitude":-82.384161,
+    "meso:admin_1":"Ciudad De La Habana",
+    "meso:diss_me":"CERROCERROCIUDAD DE LA HABANA",
+    "meso:gadm_admin":"Cerro",
+    "meso:gadm_hasc2":"CU.CH.CE",
+    "meso:gaul_admin":"Plaza De La Revolucion",
+    "meso:mps_x":-82.384161,
+    "meso:mps_y":23.100696,
+    "meso:name_loc":"Cerro",
+    "mps:latitude":23.100696,
+    "mps:longitude":-82.384161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "El Cerro"
+    ],
+    "name:chi_x_preferred":[
+        "\u585e\u7f85"
+    ],
+    "name:cze_x_preferred":[
+        "Cerro"
+    ],
+    "name:dut_x_preferred":[
+        "Cerro"
+    ],
+    "name:eng_x_preferred":[
+        "Cerro"
+    ],
+    "name:eng_x_variant":[
+        "Plaza De La Revolucion",
+        "Cerro"
+    ],
+    "name:fre_x_preferred":[
+        "Cerro"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d4\u10e0\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Cerro"
+    ],
+    "name:glg_x_preferred":[
+        "El Cerro"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03c1\u03c1\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "Cerro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30bb\u30ed"
+    ],
+    "name:por_x_preferred":[
+        "El Cerro"
+    ],
+    "name:spa_x_preferred":[
+        "El Cerro"
+    ],
+    "name:swe_x_preferred":[
+        "Cerro"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-09-15",
+    "statoids:area_km":"10",
+    "statoids:as_of_date":"2012-09-15",
+    "statoids:capital":"Cerro",
+    "statoids:country":"CU",
+    "statoids:hasc":"CU.CH",
+    "statoids:name":"Cerro",
+    "statoids:population":"122999",
+    "statoids:statoid":"CU.CH.CE",
+    "statoids:timezone":"-5~",
+    "statoids:type":"municipio",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"CU.CH.CE",
+        "wd:id":"Q1055715"
+    },
+    "wof:country":"CU",
+    "wof:created":1473892297,
+    "wof:geomhash":"640b0863f74e306eeb821a03cb84656f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903863,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1091903863,
+    "wof:lastmodified":1553816438,
+    "wof:name":"Cerro",
+    "wof:parent_id":85670445,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipio",
+    "wof:population":122999,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:shortcode":"CE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.40560403792105,
+    23.07670239412425,
+    -82.36578349990258,
+    23.12802088057026
+],
+  "geometry": {"coordinates":[[[-82.39893238897139,23.10087535962199],[-82.38514970013838,23.11096361010736],[-82.384161899131,23.11119786789093],[-82.38226576128579,23.12209833301274],[-82.37300183866282,23.12802088057026],[-82.36600801518554,23.11647261564543],[-82.36578349990258,23.11560958623734],[-82.37402072786477,23.10382433526722],[-82.37286378233721,23.10160891026986],[-82.37263233326451,23.09943291822132],[-82.38174634234227,23.09053133275123],[-82.3798825267708,23.07997951620687],[-82.38002004123304,23.07980026942083],[-82.39015248724735,23.07841923047799],[-82.39208565014361,23.07670239412425],[-82.40468736570702,23.07853796717593],[-82.40560403792105,23.07995214098927],[-82.39530999878357,23.09340238780884],[-82.39893238897139,23.10087535962199]]],"type":"Polygon"}
+}

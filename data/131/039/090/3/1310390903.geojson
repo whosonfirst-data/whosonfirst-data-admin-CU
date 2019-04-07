@@ -1,0 +1,67 @@
+{
+  "id": 1310390903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.62861,22.21472,-80.62861,22.21472",
+    "geom:latitude":22.21472,
+    "geom:longitude":-80.62861,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lagunas Los Hoyos",
+    "gn:country_code":"CU",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3553501,
+    "gn:latitude":22.21472,
+    "gn:longitude":-80.62861,
+    "gn:modification_date":"1996-02-08",
+    "gn:name":"Lagunas Los Hoyos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091902555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553501
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f3046f59792e8e91a53010f6c5e3bd0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902555,
+            "locality_id":1310390903,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1310390903,
+    "wof:lastmodified":1537079172,
+    "wof:name":"Lagunas Los Hoyos",
+    "wof:parent_id":1091902555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.62861,
+    22.21472,
+    -80.62861,
+    22.21472
+],
+  "geometry": {"coordinates":[-80.62860999999999,22.21472],"type":"Point"}
+}

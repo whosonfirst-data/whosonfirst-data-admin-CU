@@ -1,0 +1,72 @@
+{
+  "id": 1277073735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.46749,21.60191,-77.46749,21.60191",
+    "geom:latitude":21.60191,
+    "geom:longitude":-77.46749,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gurugu",
+    "gn:country_code":"CU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557322,
+    "gn:latitude":21.60191,
+    "gn:longitude":-77.46749,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Gurug\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guren",
+        "Gulugu",
+        "Gurug\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091906457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557322
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4ed47619b9c853e7e87e68b662949286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906457,
+            "locality_id":1277073735,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1277073735,
+    "wof:lastmodified":1537619029,
+    "wof:name":"Gurugu",
+    "wof:parent_id":1091906457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.46749,
+    21.60191,
+    -77.46749,
+    21.60191
+],
+  "geometry": {"coordinates":[-77.46749,21.60191],"type":"Point"}
+}

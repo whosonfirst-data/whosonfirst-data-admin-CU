@@ -1,0 +1,67 @@
+{
+  "id": 1243575467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.70951,22.01064,-78.70951,22.01064",
+    "geom:latitude":22.01064,
+    "geom:longitude":-78.70951,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pina",
+    "gn:country_code":"CU",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3544117,
+    "gn:latitude":22.01064,
+    "gn:longitude":-78.70951,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Pina",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091904085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544117
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fcfb6dfdaad88a2a928b91cedde24930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904085,
+            "locality_id":1243575467,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1243575467,
+    "wof:lastmodified":1536617493,
+    "wof:name":"Pina",
+    "wof:parent_id":1091904085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.70951,
+    22.01064,
+    -78.70951,
+    22.01064
+],
+  "geometry": {"coordinates":[-78.70950999999999,22.01064],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225827961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.34885,19.99425,-76.34885,19.99425",
+    "geom:latitude":19.99425,
+    "geom:longitude":-76.34885,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Madrigon",
+    "gn:country_code":"CU",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11079545,
+    "gn:latitude":19.99425,
+    "gn:longitude":-76.34885,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"El Madrig\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Madrig\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11079545
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"283d8fe9b48d853ff18c84fba4a9433f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904765,
+            "locality_id":1225827961,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1225827961,
+    "wof:lastmodified":1537619224,
+    "wof:name":"El Madrigon",
+    "wof:parent_id":1091904765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.34885,
+    19.99425,
+    -76.34885,
+    19.99425
+],
+  "geometry": {"coordinates":[-76.34885,19.99425],"type":"Point"}
+}

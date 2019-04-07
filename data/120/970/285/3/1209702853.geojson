@@ -1,0 +1,72 @@
+{
+  "id": 1209702853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.21838,20.49318,-76.21838,20.49318",
+    "geom:latitude":20.49318,
+    "geom:longitude":-76.21838,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pedregalon",
+    "gn:country_code":"CU",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3544623,
+    "gn:latitude":20.49318,
+    "gn:longitude":-76.21838,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Pedregal\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cauto Naranjo",
+        "Padre Galone",
+        "Pedregal\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091908561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544623
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a084d7b1c026bad875343f9d3eef44cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908561,
+            "locality_id":1209702853,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1209702853,
+    "wof:lastmodified":1537618942,
+    "wof:name":"Pedregalon",
+    "wof:parent_id":1091908561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.21838000000002,
+    20.49318,
+    -76.21838000000002,
+    20.49318
+],
+  "geometry": {"coordinates":[-76.21838000000002,20.49318],"type":"Point"}
+}

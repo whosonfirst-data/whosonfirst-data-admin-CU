@@ -1,0 +1,73 @@
+{
+  "id": 1310583479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.98788,22.26731,-79.98788,22.26731",
+    "geom:latitude":22.26731,
+    "geom:longitude":-79.98788,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Casanova-Los Patos",
+    "gn:country_code":"CU",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007970,
+    "gn:latitude":22.26731,
+    "gn:longitude":-79.98788,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Casanova-Los Patos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Casanova"
+    ],
+    "name:spa_x_variant":[
+        "Casanova-Los Patos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007970
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"90b246439697cd9be0f01a1af2dddd00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1310583479,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1310583479,
+    "wof:lastmodified":1537619169,
+    "wof:name":"Casanova-Los Patos",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.98788,
+    22.26731,
+    -79.98788,
+    22.26731
+],
+  "geometry": {"coordinates":[-79.98788,22.26731],"type":"Point"}
+}

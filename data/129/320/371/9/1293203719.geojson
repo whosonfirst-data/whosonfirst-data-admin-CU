@@ -1,0 +1,71 @@
+{
+  "id": 1293203719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.408,23.02389,-82.408,23.02389",
+    "geom:latitude":23.02389,
+    "geom:longitude":-82.408,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fontanar",
+    "gn:country_code":"CU",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3558729,
+    "gn:latitude":23.02389,
+    "gn:longitude":-82.408,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Fontanar",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reparto Fontanar",
+        "Fontanar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091903205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3558729
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"38ae4a1bf0d59dcf73f75fb07ea54357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903205,
+            "locality_id":1293203719,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1293203719,
+    "wof:lastmodified":1537619038,
+    "wof:name":"Fontanar",
+    "wof:parent_id":1091903205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.40799999999999,
+    23.02389,
+    -82.40799999999999,
+    23.02389
+],
+  "geometry": {"coordinates":[-82.40799999999999,23.02389],"type":"Point"}
+}

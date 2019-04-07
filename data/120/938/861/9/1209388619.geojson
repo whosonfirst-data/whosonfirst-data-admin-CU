@@ -1,0 +1,61 @@
+{
+  "id": 1209388619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.66667,22.13333,-79.66667,22.13333",
+    "geom:latitude":22.13333,
+    "geom:longitude":-79.66667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Laboriosidad",
+    "gn:country_code":"CU",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3555282,
+    "gn:latitude":22.13333,
+    "gn:longitude":-79.66667,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Laboriosidad",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555282
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"723ff40c3e383b243d71a635b8d96c02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209388619
+        }
+    ],
+    "wof:id":1209388619,
+    "wof:lastmodified":1536288538,
+    "wof:name":"Laboriosidad",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.66667,
+    22.13333,
+    -79.66667,
+    22.13333
+],
+  "geometry": {"coordinates":[-79.66667,22.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193052605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.95,22.83111,-81.95,22.83111",
+    "geom:latitude":22.83111,
+    "geom:longitude":-81.95,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Ocana",
+    "gn:country_code":"CU",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3545772,
+    "gn:latitude":22.83111,
+    "gn:longitude":-81.95,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Oca\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091904955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545772
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9cf92897a13d979c8937be845093ec7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904955,
+            "locality_id":1193052605,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1193052605,
+    "wof:lastmodified":1536364987,
+    "wof:name":"Ocana",
+    "wof:parent_id":1091904955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.95,
+    22.83111,
+    -81.95,
+    22.83111
+],
+  "geometry": {"coordinates":[-81.95,22.83111],"type":"Point"}
+}

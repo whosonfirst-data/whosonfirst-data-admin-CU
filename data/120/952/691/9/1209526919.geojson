@@ -1,0 +1,61 @@
+{
+  "id": 1209526919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.58889,23.05361,-81.58889,23.05361",
+    "geom:latitude":23.05361,
+    "geom:longitude":-81.58889,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Maica",
+    "gn:country_code":"CU",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3548445,
+    "gn:latitude":23.05361,
+    "gn:longitude":-81.58889,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Maica",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548445
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f2c54ce71d3e78bca68faaee4c6811ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209526919
+        }
+    ],
+    "wof:id":1209526919,
+    "wof:lastmodified":1536284406,
+    "wof:name":"Maica",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.58889,
+    23.05361,
+    -81.58889,
+    23.05361
+],
+  "geometry": {"coordinates":[-81.58889000000001,23.05361],"type":"Point"}
+}

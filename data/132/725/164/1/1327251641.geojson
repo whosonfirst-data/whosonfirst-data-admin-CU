@@ -1,0 +1,67 @@
+{
+  "id": 1327251641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.5375,20.38056,-74.5375,20.38056",
+    "geom:latitude":20.38056,
+    "geom:longitude":-74.5375,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Duaba",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3562063,
+    "gn:latitude":20.38056,
+    "gn:longitude":-74.5375,
+    "gn:modification_date":"1996-04-17",
+    "gn:name":"Duaba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091902961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562063
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6fce52a2b226635214f382e3dd20fc90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902961,
+            "locality_id":1327251641,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1327251641,
+    "wof:lastmodified":1536942370,
+    "wof:name":"Duaba",
+    "wof:parent_id":1091902961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.5375,
+    20.38056,
+    -74.5375,
+    20.38056
+],
+  "geometry": {"coordinates":[-74.53749999999999,20.38056],"type":"Point"}
+}

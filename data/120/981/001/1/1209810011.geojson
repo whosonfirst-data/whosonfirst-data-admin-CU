@@ -1,0 +1,67 @@
+{
+  "id": 1209810011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.23333,20.16667,-77.23333,20.16667",
+    "geom:latitude":20.16667,
+    "geom:longitude":-77.23333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Anton Sanchez",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3568667,
+    "gn:latitude":20.16667,
+    "gn:longitude":-77.23333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Ant\u00f3n S\u00e1nchez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568667
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5b332c046411c9423227ace181337d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903673,
+            "locality_id":1209810011,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1209810011,
+    "wof:lastmodified":1536386866,
+    "wof:name":"Anton Sanchez",
+    "wof:parent_id":1091903673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.23333000000002,
+    20.16667,
+    -77.23333000000002,
+    20.16667
+],
+  "geometry": {"coordinates":[-77.23333000000002,20.16667],"type":"Point"}
+}

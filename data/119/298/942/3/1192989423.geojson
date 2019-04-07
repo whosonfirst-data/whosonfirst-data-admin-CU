@@ -1,0 +1,72 @@
+{
+  "id": 1192989423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.10417,22.24972,-79.10417,22.24972",
+    "geom:latitude":22.24972,
+    "geom:longitude":-79.10417,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chorreron",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3564232,
+    "gn:latitude":22.24972,
+    "gn:longitude":-79.10417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chorrer\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chorreon",
+        "Chorrer\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564232
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"01f72e062ff54342b23d4aa1b47122a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908735,
+            "locality_id":1192989423,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1192989423,
+    "wof:lastmodified":1537619082,
+    "wof:name":"Chorreron",
+    "wof:parent_id":1091908735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.10417,
+    22.24972,
+    -79.10417,
+    22.24972
+],
+  "geometry": {"coordinates":[-79.10417,22.24972],"type":"Point"}
+}

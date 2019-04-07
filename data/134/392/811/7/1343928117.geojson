@@ -1,0 +1,67 @@
+{
+  "id": 1343928117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.8075,20.06333,-75.8075,20.06333",
+    "geom:latitude":20.06333,
+    "geom:longitude":-75.8075,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Cuabitas",
+    "gn:country_code":"CU",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3563089,
+    "gn:latitude":20.06333,
+    "gn:longitude":-75.8075,
+    "gn:modification_date":"2004-11-02",
+    "gn:name":"Cuabitas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563089
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"78d8ce640b8382fafd3f2509645ff79f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":1343928117,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1343928117,
+    "wof:lastmodified":1537063939,
+    "wof:name":"Cuabitas",
+    "wof:parent_id":1091908137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.8075,
+    20.06333,
+    -75.8075,
+    20.06333
+],
+  "geometry": {"coordinates":[-75.8075,20.06333],"type":"Point"}
+}

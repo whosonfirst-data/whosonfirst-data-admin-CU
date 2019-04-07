@@ -1,0 +1,70 @@
+{
+  "id": 1310506367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.04848,21.34702,-78.04848,21.34702",
+    "geom:latitude":21.34702,
+    "geom:longitude":-78.04848,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Pablo",
+    "gn:country_code":"CU",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3538729,
+    "gn:latitude":21.34702,
+    "gn:longitude":-78.04848,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"San Pablo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Pablo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538729
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d36f1233442c24675d433729c69b90ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903577,
+            "locality_id":1310506367,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1310506367,
+    "wof:lastmodified":1537618906,
+    "wof:name":"San Pablo",
+    "wof:parent_id":1091903577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.04848,
+    21.34702,
+    -78.04848,
+    21.34702
+],
+  "geometry": {"coordinates":[-78.04848,21.34702],"type":"Point"}
+}

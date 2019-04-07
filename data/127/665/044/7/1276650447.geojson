@@ -1,0 +1,74 @@
+{
+  "id": 1276650447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.72656,20.09076,-74.72656,20.09076",
+    "geom:latitude":20.09076,
+    "geom:longitude":-74.72656,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Paso La Yegua",
+    "gn:country_code":"CU",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3544735,
+    "gn:latitude":20.09076,
+    "gn:longitude":-74.72656,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Paso La Yegua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paso La Yegua"
+    ],
+    "name:und_x_variant":[
+        "Paso Las Yeguas",
+        "Paso la Yegua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091907633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544735
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4725ce23b1ab739e536a34c88607cd4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907633,
+            "locality_id":1276650447,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1276650447,
+    "wof:lastmodified":1537618943,
+    "wof:name":"Paso La Yegua",
+    "wof:parent_id":1091907633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.72655999999998,
+    20.09076,
+    -74.72655999999998,
+    20.09076
+],
+  "geometry": {"coordinates":[-74.72655999999998,20.09076],"type":"Point"}
+}

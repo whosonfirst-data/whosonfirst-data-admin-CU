@@ -1,0 +1,66 @@
+{
+  "id": 1209412333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76667,22.29444,-80.76667,22.29444",
+    "geom:latitude":22.29444,
+    "geom:longitude":-80.76667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jiqui",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3560734,
+    "gn:latitude":22.29444,
+    "gn:longitude":-80.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jiqu\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Jiqu\u00ed",
+        "Jiqu\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560734
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9d2feb4d2fc2aa4df3fac6d6274037b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209412333
+        }
+    ],
+    "wof:id":1209412333,
+    "wof:lastmodified":1537619055,
+    "wof:name":"Jiqui",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76666999999998,
+    22.29444,
+    -80.76666999999998,
+    22.29444
+],
+  "geometry": {"coordinates":[-80.76666999999998,22.29444],"type":"Point"}
+}

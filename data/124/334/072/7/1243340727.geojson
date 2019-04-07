@@ -1,0 +1,70 @@
+{
+  "id": 1243340727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63309,20.72832,-76.63309,20.72832",
+    "geom:latitude":20.72832,
+    "geom:longitude":-76.63309,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Monte Alto",
+    "gn:country_code":"CU",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3546636,
+    "gn:latitude":20.72832,
+    "gn:longitude":-76.63309,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Monte Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Monte Alto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091903541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546636
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"463276025edb0e7cc0e00f041f5127d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903541,
+            "locality_id":1243340727,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1243340727,
+    "wof:lastmodified":1537618955,
+    "wof:name":"Monte Alto",
+    "wof:parent_id":1091903541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63309,
+    20.72832,
+    -76.63309,
+    20.72832
+],
+  "geometry": {"coordinates":[-76.63309,20.72832],"type":"Point"}
+}

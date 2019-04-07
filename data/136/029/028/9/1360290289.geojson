@@ -1,0 +1,70 @@
+{
+  "id": 1360290289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.77935,21.39781,-77.77935,21.39781",
+    "geom:latitude":21.39781,
+    "geom:longitude":-77.77935,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Cuabas",
+    "gn:country_code":"CU",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3551391,
+    "gn:latitude":21.39781,
+    "gn:longitude":-77.77935,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Las Cuabas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Cuabas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551391
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cacb2463939a99c7a71b87c6d71fc288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903577,
+            "locality_id":1360290289,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1360290289,
+    "wof:lastmodified":1537618989,
+    "wof:name":"Las Cuabas",
+    "wof:parent_id":1091903577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.77935,
+    21.39781,
+    -77.77935,
+    21.39781
+],
+  "geometry": {"coordinates":[-77.77934999999999,21.39781],"type":"Point"}
+}

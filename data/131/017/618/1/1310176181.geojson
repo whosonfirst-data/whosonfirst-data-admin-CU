@@ -1,0 +1,67 @@
+{
+  "id": 1310176181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.12806,22.06333,-79.12806,22.06333",
+    "geom:latitude":22.06333,
+    "geom:longitude":-79.12806,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dagamal",
+    "gn:country_code":"CU",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3751589,
+    "gn:latitude":22.06333,
+    "gn:longitude":-79.12806,
+    "gn:modification_date":"1996-09-20",
+    "gn:name":"Dagamal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3751589
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"38d378ac3be9553d540e03aa4ddf2182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905283,
+            "locality_id":1310176181,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1310176181,
+    "wof:lastmodified":1536894462,
+    "wof:name":"Dagamal",
+    "wof:parent_id":1091905283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.12805999999998,
+    22.06333,
+    -79.12805999999998,
+    22.06333
+],
+  "geometry": {"coordinates":[-79.12805999999998,22.06333],"type":"Point"}
+}

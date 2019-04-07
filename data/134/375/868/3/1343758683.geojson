@@ -1,0 +1,71 @@
+{
+  "id": 1343758683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.93576,20.58087,-76.93576,20.58087",
+    "geom:latitude":20.58087,
+    "geom:longitude":-76.93576,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Guamo Viejo",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557857,
+    "gn:latitude":20.58087,
+    "gn:longitude":-76.93576,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Guamo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guamo",
+        "Guamo Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091907413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557857
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7d2d2fdea65d164f280f5170ea49d0c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907413,
+            "locality_id":1343758683,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1343758683,
+    "wof:lastmodified":1537619033,
+    "wof:name":"Guamo Viejo",
+    "wof:parent_id":1091907413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.93576,
+    20.58087,
+    -76.93576,
+    20.58087
+],
+  "geometry": {"coordinates":[-76.93576,20.58087],"type":"Point"}
+}

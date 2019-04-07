@@ -1,0 +1,72 @@
+{
+  "id": 1260369185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.4,22.06667,-79.4,22.06667",
+    "geom:latitude":22.06667,
+    "geom:longitude":-79.4,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hernandez",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3557076,
+    "gn:latitude":22.06667,
+    "gn:longitude":-79.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hern\u00e1ndez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J. M. Hernandez",
+        "Hern\u00e1ndez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091903285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557076
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"adcfb519bf03519ca9448541331cb894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903285,
+            "locality_id":1260369185,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1260369185,
+    "wof:lastmodified":1537619027,
+    "wof:name":"Hernandez",
+    "wof:parent_id":1091903285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.4,
+    22.06667,
+    -79.4,
+    22.06667
+],
+  "geometry": {"coordinates":[-79.40000000000001,22.06667],"type":"Point"}
+}

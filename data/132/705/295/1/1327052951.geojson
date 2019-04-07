@@ -1,0 +1,67 @@
+{
+  "id": 1327052951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.01667,21.03333,-78.01667,21.03333",
+    "geom:latitude":21.03333,
+    "geom:longitude":-78.01667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La America",
+    "gn:country_code":"CU",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3555516,
+    "gn:latitude":21.03333,
+    "gn:longitude":-78.01667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"La Am\u00e9rica",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555516
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e97b368e6dba74094649253008a15b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908663,
+            "locality_id":1327052951,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1327052951,
+    "wof:lastmodified":1536731091,
+    "wof:name":"La America",
+    "wof:parent_id":1091908663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.01666999999998,
+    21.03333,
+    -78.01666999999998,
+    21.03333
+],
+  "geometry": {"coordinates":[-78.01666999999998,21.03333],"type":"Point"}
+}

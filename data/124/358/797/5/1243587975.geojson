@@ -1,0 +1,70 @@
+{
+  "id": 1243587975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.84387,22.88416,-81.84387,22.88416",
+    "geom:latitude":22.88416,
+    "geom:longitude":-81.84387,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Chamboli",
+    "gn:country_code":"CU",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948327,
+    "gn:latitude":22.88416,
+    "gn:longitude":-81.84387,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Chamboli",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chamboli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091905779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948327
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e79a6c516a157a4665bd6c1455823e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905779,
+            "locality_id":1243587975,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1243587975,
+    "wof:lastmodified":1537619149,
+    "wof:name":"Chamboli",
+    "wof:parent_id":1091905779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.84387,
+    22.88416,
+    -81.84387,
+    22.88416
+],
+  "geometry": {"coordinates":[-81.84387,22.88416],"type":"Point"}
+}

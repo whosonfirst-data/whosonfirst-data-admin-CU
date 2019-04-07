@@ -1,0 +1,64 @@
+{
+  "id": 1209384625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.10539,22.68924,-80.10539,22.68924",
+    "geom:latitude":22.68924,
+    "geom:longitude":-80.10539,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Los Pinos",
+    "gn:country_code":"CU",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3548934,
+    "gn:latitude":22.68924,
+    "gn:longitude":-80.10539,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Los Pinos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Pinos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548934
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a3b7c22be5904b656225a8b39c3d5e95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209384625
+        }
+    ],
+    "wof:id":1209384625,
+    "wof:lastmodified":1537618970,
+    "wof:name":"Los Pinos",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.10539,
+    22.68924,
+    -80.10539,
+    22.68924
+],
+  "geometry": {"coordinates":[-80.10539,22.68924],"type":"Point"}
+}

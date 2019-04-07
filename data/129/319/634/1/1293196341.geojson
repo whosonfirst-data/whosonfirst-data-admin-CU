@@ -1,0 +1,73 @@
+{
+  "id": 1293196341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.67537,19.93416,-77.67537,19.93416",
+    "geom:latitude":19.93416,
+    "geom:longitude":-77.67537,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Jucaro",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3555732,
+    "gn:latitude":19.93416,
+    "gn:longitude":-77.67537,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"El J\u00facaro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El J\u00facaro"
+    ],
+    "name:und_x_variant":[
+        "J\u00facaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555732
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2c0474da154044f7d83165ad2bf95b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906677,
+            "locality_id":1293196341,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1293196341,
+    "wof:lastmodified":1537619018,
+    "wof:name":"El Jucaro",
+    "wof:parent_id":1091906677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.67537,
+    19.93416,
+    -77.67537,
+    19.93416
+],
+  "geometry": {"coordinates":[-77.67537,19.93416],"type":"Point"}
+}

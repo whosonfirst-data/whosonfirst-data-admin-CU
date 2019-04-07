@@ -1,0 +1,70 @@
+{
+  "id": 1243342319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.19612,22.24902,-79.19612,22.24902",
+    "geom:latitude":22.24902,
+    "geom:longitude":-79.19612,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Batey del Medio",
+    "gn:country_code":"CU",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567634,
+    "gn:latitude":22.24902,
+    "gn:longitude":-79.19612,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Batey del Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Batey del Medio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567634
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c649d44ff644dd5f420b9a1b8c5d5b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908735,
+            "locality_id":1243342319,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1243342319,
+    "wof:lastmodified":1537619108,
+    "wof:name":"Batey del Medio",
+    "wof:parent_id":1091908735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.19612,
+    22.24902,
+    -79.19612,
+    22.24902
+],
+  "geometry": {"coordinates":[-79.19611999999999,22.24902],"type":"Point"}
+}

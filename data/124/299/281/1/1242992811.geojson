@@ -1,0 +1,70 @@
+{
+  "id": 1242992811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.14441,22.26747,-80.14441,22.26747",
+    "geom:latitude":22.26747,
+    "geom:longitude":-80.14441,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Potrerillo",
+    "gn:country_code":"CU",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543674,
+    "gn:latitude":22.26747,
+    "gn:longitude":-80.14441,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Potrerillo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Potrerillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091904329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543674
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0303eb551c55c0e9f2361a113fd73381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904329,
+            "locality_id":1242992811,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1242992811,
+    "wof:lastmodified":1537618935,
+    "wof:name":"Potrerillo",
+    "wof:parent_id":1091904329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.14441,
+    22.26747,
+    -80.14441,
+    22.26747
+],
+  "geometry": {"coordinates":[-80.14440999999999,22.26747],"type":"Point"}
+}

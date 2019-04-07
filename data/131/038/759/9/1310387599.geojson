@@ -1,0 +1,70 @@
+{
+  "id": 1310387599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.62692,22.82127,-80.62692,22.82127",
+    "geom:latitude":22.82127,
+    "geom:longitude":-80.62692,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Retiro",
+    "gn:country_code":"CU",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559908,
+    "gn:latitude":22.82127,
+    "gn:longitude":-80.62692,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"El Retiro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Retiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559908
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8ead40f9d184b68ac3ca945aa1c8c280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905697,
+            "locality_id":1310387599,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1310387599,
+    "wof:lastmodified":1537619047,
+    "wof:name":"El Retiro",
+    "wof:parent_id":1091905697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.62692,
+    22.82127,
+    -80.62692,
+    22.82127
+],
+  "geometry": {"coordinates":[-80.62692,22.82127],"type":"Point"}
+}

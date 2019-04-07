@@ -1,0 +1,67 @@
+{
+  "id": 1226349969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.23333,22.3,-81.23333,22.3",
+    "geom:latitude":22.3,
+    "geom:longitude":-81.23333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Josue Pais",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3555919,
+    "gn:latitude":22.3,
+    "gn:longitude":-81.23333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Josu\u00e9 Pa\u00eds",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091903987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555919
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fa962a258c4bd1e8d73a32816fe794d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903987,
+            "locality_id":1226349969,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1226349969,
+    "wof:lastmodified":1536783790,
+    "wof:name":"Josue Pais",
+    "wof:parent_id":1091903987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.23333000000002,
+    22.3,
+    -81.23333000000002,
+    22.3
+],
+  "geometry": {"coordinates":[-81.23333000000002,22.3],"type":"Point"}
+}

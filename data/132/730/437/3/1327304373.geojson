@@ -1,0 +1,73 @@
+{
+  "id": 1327304373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.56321,20.35522,-75.56321,20.35522",
+    "geom:latitude":20.35522,
+    "geom:longitude":-75.56321,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Calabaza",
+    "gn:country_code":"CU",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763202,
+    "gn:latitude":20.35522,
+    "gn:longitude":-75.56321,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Calabaza",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Calabaza"
+    ],
+    "name:und_x_variant":[
+        "El Calabaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763202
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"978bc893e72f5b7acc6a149df6a7953b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908213,
+            "locality_id":1327304373,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1327304373,
+    "wof:lastmodified":1537619138,
+    "wof:name":"La Calabaza",
+    "wof:parent_id":1091908213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.56321,
+    20.35522000000001,
+    -75.56321,
+    20.35522000000001
+],
+  "geometry": {"coordinates":[-75.56321,20.35522000000001],"type":"Point"}
+}

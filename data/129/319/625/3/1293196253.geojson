@@ -1,0 +1,70 @@
+{
+  "id": 1293196253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.31072,19.96519,-77.31072,19.96519",
+    "geom:latitude":19.96519,
+    "geom:longitude":-77.31072,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Jaguita",
+    "gn:country_code":"CU",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027644,
+    "gn:latitude":19.96519,
+    "gn:longitude":-77.31072,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Jag\u00fcita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Jag\u00fcita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027644
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b533f064b71e1f18cfaff078e77ee7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906965,
+            "locality_id":1293196253,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1293196253,
+    "wof:lastmodified":1537619196,
+    "wof:name":"La Jaguita",
+    "wof:parent_id":1091906965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.31071999999998,
+    19.96519,
+    -77.31071999999998,
+    19.96519
+],
+  "geometry": {"coordinates":[-77.31071999999998,19.96519],"type":"Point"}
+}

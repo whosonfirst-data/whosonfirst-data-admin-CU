@@ -1,0 +1,70 @@
+{
+  "id": 1360092703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.61091,22.74064,-80.61091,22.74064",
+    "geom:latitude":22.74064,
+    "geom:longitude":-80.61091,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Muela Quieta",
+    "gn:country_code":"CU",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3546374,
+    "gn:latitude":22.74064,
+    "gn:longitude":-80.61091,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Muela Quieta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Muela Quieta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546374
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0408d426e843f419acb2a20bea44b75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905697,
+            "locality_id":1360092703,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1360092703,
+    "wof:lastmodified":1537618954,
+    "wof:name":"Muela Quieta",
+    "wof:parent_id":1091905697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.61091,
+    22.74064,
+    -80.61091,
+    22.74064
+],
+  "geometry": {"coordinates":[-80.61091,22.74064],"type":"Point"}
+}

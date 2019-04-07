@@ -1,0 +1,70 @@
+{
+  "id": 1276882733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.79498,22.23615,-83.79498,22.23615",
+    "geom:latitude":22.23615,
+    "geom:longitude":-83.79498,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Los Pelayos",
+    "gn:country_code":"CU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10945625,
+    "gn:latitude":22.23615,
+    "gn:longitude":-83.79498,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Los Pelayos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Pelayos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945625
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f1d3811d457e41ee42cde792eea901ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907795,
+            "locality_id":1276882733,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1276882733,
+    "wof:lastmodified":1537619143,
+    "wof:name":"Los Pelayos",
+    "wof:parent_id":1091907795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.79498000000002,
+    22.23615,
+    -83.79498000000002,
+    22.23615
+],
+  "geometry": {"coordinates":[-83.79498000000002,22.23615],"type":"Point"}
+}

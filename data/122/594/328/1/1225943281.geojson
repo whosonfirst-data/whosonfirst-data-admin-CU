@@ -1,0 +1,70 @@
+{
+  "id": 1225943281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.10117,21.36504,-78.10117,21.36504",
+    "geom:latitude":21.36504,
+    "geom:longitude":-78.10117,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Redonda",
+    "gn:country_code":"CU",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3551874,
+    "gn:latitude":21.36504,
+    "gn:longitude":-78.10117,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Redonda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Redonda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551874
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8ded11e6defde652a525988a41a346e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903577,
+            "locality_id":1225943281,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1225943281,
+    "wof:lastmodified":1537618993,
+    "wof:name":"La Redonda",
+    "wof:parent_id":1091903577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.10117,
+    21.36504,
+    -78.10117,
+    21.36504
+],
+  "geometry": {"coordinates":[-78.10117,21.36504],"type":"Point"}
+}

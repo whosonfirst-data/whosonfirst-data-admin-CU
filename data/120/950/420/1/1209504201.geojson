@@ -1,0 +1,64 @@
+{
+  "id": 1209504201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.4624,20.27098,-74.4624,20.27098",
+    "geom:latitude":20.27098,
+    "geom:longitude":-74.4624,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Guayabo",
+    "gn:country_code":"CU",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080210,
+    "gn:latitude":20.27098,
+    "gn:longitude":-74.4624,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"El Guayabo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Guayabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080210
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"77bf208e72de19ccff456de49e662ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209504201
+        }
+    ],
+    "wof:id":1209504201,
+    "wof:lastmodified":1537619227,
+    "wof:name":"El Guayabo",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.4624,
+    20.27098,
+    -74.4624,
+    20.27098
+],
+  "geometry": {"coordinates":[-74.4624,20.27098],"type":"Point"}
+}

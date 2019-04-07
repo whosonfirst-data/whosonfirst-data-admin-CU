@@ -1,0 +1,67 @@
+{
+  "id": 1293726387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.70778,23.08361,-81.70778,23.08361",
+    "geom:latitude":23.08361,
+    "geom:longitude":-81.70778,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"CU",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3537856,
+    "gn:latitude":23.08361,
+    "gn:longitude":-81.70778,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Santa Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091908039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3537856
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"efe04001351a8db0a18ece9b1984f1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908039,
+            "locality_id":1293726387,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1293726387,
+    "wof:lastmodified":1536940534,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":1091908039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.70778,
+    23.08361,
+    -81.70778,
+    23.08361
+],
+  "geometry": {"coordinates":[-81.70778,23.08361],"type":"Point"}
+}

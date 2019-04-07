@@ -1,0 +1,64 @@
+{
+  "id": 1292980303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.93756,21.45427,-76.93756,21.45427",
+    "geom:latitude":21.45427,
+    "geom:longitude":-76.93756,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Playa La Boca",
+    "gn:country_code":"CU",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057064,
+    "gn:latitude":21.45427,
+    "gn:longitude":-76.93756,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Playa La Boca",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Playa La Boca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057064
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"36318a4a5e4ca2cd7b0f9cdbc3590080",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1292980303,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292980303,
+    "wof:lastmodified":1537619203,
+    "wof:name":"Playa La Boca",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.93755999999998,
+    21.45427,
+    -76.93755999999998,
+    21.45427
+],
+  "geometry": {"coordinates":[-76.93755999999998,21.45427],"type":"Point"}
+}

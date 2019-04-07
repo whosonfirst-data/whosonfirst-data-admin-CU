@@ -1,0 +1,70 @@
+{
+  "id": 1260070907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.19755,22.3068,-80.19755,22.3068",
+    "geom:latitude":22.3068,
+    "geom:longitude":-80.19755,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chicharrones",
+    "gn:country_code":"CU",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3564300,
+    "gn:latitude":22.3068,
+    "gn:longitude":-80.19755,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Chicharrones",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chicharrones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091904329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564300
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2169d936bfc9d22656f7b2c133916070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904329,
+            "locality_id":1260070907,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1260070907,
+    "wof:lastmodified":1537619083,
+    "wof:name":"Chicharrones",
+    "wof:parent_id":1091904329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.19755,
+    22.3068,
+    -80.19755,
+    22.3068
+],
+  "geometry": {"coordinates":[-80.19755000000001,22.3068],"type":"Point"}
+}

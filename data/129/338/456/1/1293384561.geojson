@@ -1,0 +1,70 @@
+{
+  "id": 1293384561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.19017,20.02836,-77.19017,20.02836",
+    "geom:latitude":20.02836,
+    "geom:longitude":-77.19017,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Pardo",
+    "gn:country_code":"CU",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11012823,
+    "gn:latitude":20.02836,
+    "gn:longitude":-77.19017,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Pardo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pardo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11012823
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f4f084f5c0a9af776acbc1f0c5302c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903673,
+            "locality_id":1293384561,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1293384561,
+    "wof:lastmodified":1537619183,
+    "wof:name":"Pardo",
+    "wof:parent_id":1091903673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.19017,
+    20.02836,
+    -77.19017,
+    20.02836
+],
+  "geometry": {"coordinates":[-77.19016999999999,20.02836],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209885797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.39563,22.25656,-79.39563,22.25656",
+    "geom:latitude":22.25656,
+    "geom:longitude":-79.39563,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Cangrejo Viejo",
+    "gn:country_code":"CU",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008671,
+    "gn:latitude":22.25656,
+    "gn:longitude":-79.39563,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Cangrejo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cangrejo Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008671
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4ad1300dcaf4a26044ea8332a5d00a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1209885797,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1209885797,
+    "wof:lastmodified":1537619170,
+    "wof:name":"Cangrejo Viejo",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.39563000000003,
+    22.25656,
+    -79.39563000000003,
+    22.25656
+],
+  "geometry": {"coordinates":[-79.39563000000003,22.25656],"type":"Point"}
+}

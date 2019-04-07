@@ -1,0 +1,67 @@
+{
+  "id": 1210010273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.48806,20.06972,-74.48806,20.06972",
+    "geom:latitude":20.06972,
+    "geom:longitude":-74.48806,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Playitas",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3543867,
+    "gn:latitude":20.06972,
+    "gn:longitude":-74.48806,
+    "gn:modification_date":"2004-10-14",
+    "gn:name":"Playitas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543867
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9f7926d731941eaa18bfe59606301571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1210010273,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1210010273,
+    "wof:lastmodified":1536369135,
+    "wof:name":"Playitas",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.48806,
+    20.06972,
+    -74.48806,
+    20.06972
+],
+  "geometry": {"coordinates":[-74.48806,20.06972],"type":"Point"}
+}

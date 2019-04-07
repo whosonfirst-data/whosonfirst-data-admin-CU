@@ -1,0 +1,70 @@
+{
+  "id": 1310680567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58021,21.13013,-76.58021,21.13013",
+    "geom:latitude":21.13013,
+    "geom:longitude":-76.58021,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Demolida",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3554349,
+    "gn:latitude":21.13013,
+    "gn:longitude":-76.58021,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Demolida",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Demolida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554349
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2ae850a3ecbf62b8fb8508e7b5c11d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1310680567,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1310680567,
+    "wof:lastmodified":1537619009,
+    "wof:name":"La Demolida",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58021,
+    21.13013,
+    -76.58021,
+    21.13013
+],
+  "geometry": {"coordinates":[-76.58020999999999,21.13013],"type":"Point"}
+}

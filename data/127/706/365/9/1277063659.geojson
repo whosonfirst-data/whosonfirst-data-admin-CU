@@ -1,0 +1,71 @@
+{
+  "id": 1277063659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.34885,21.08575,-76.34885,21.08575",
+    "geom:latitude":21.08575,
+    "geom:longitude":-76.34885,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Velasco",
+    "gn:country_code":"CU",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3534476,
+    "gn:latitude":21.08575,
+    "gn:longitude":-76.34885,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Velasco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Velazco",
+        "Velasco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534476
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ade816e4f33ffb25d115a6d6672d172e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904693,
+            "locality_id":1277063659,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1277063659,
+    "wof:lastmodified":1537618884,
+    "wof:name":"Velasco",
+    "wof:parent_id":1091904693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.34885,
+    21.08575,
+    -76.34885,
+    21.08575
+],
+  "geometry": {"coordinates":[-76.34885,21.08575],"type":"Point"}
+}

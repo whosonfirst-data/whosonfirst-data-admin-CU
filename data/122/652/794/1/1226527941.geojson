@@ -1,0 +1,77 @@
+{
+  "id": 1226527941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.2183,22.3417,-79.2183,22.3417",
+    "geom:latitude":22.3417,
+    "geom:longitude":-79.2183,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Simon Bolivar",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3534279,
+    "gn:latitude":22.3417,
+    "gn:longitude":-79.2183,
+    "gn:modification_date":"2014-09-02",
+    "gn:name":"Simon Bolivar",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mar\u00eda Victoria"
+    ],
+    "name:eng_x_variant":[
+        "Victoria",
+        "Simon Bolivar"
+    ],
+    "name:spa_x_preferred":[
+        "Sim\u00f3n Bol\u00edvar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534279
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"afdba701f4fa69deb04fb26c042457ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908735,
+            "locality_id":1226527941,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1226527941,
+    "wof:lastmodified":1537618882,
+    "wof:name":"Simon Bolivar",
+    "wof:parent_id":1091908735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.2183,
+    22.3417,
+    -79.2183,
+    22.3417
+],
+  "geometry": {"coordinates":[-79.2183,22.3417],"type":"Point"}
+}

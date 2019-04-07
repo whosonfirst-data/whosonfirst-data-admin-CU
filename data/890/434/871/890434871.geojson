@@ -1,0 +1,74 @@
+{
+  "id": 890434871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.29944,20.96917,-76.29944,20.96917",
+    "geom:latitude":20.96917,
+    "geom:longitude":-76.29944,
+    "gn:country":"CU",
+    "gn:fcode":"PPLL",
+    "gn:pop":17804,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Jaboba"
+    ],
+    "qs:name":"Jobabo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:latitude":"20.907777777",
+    "wd:longitude":"-77.283055555",
+    "wd:wordcount":147,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091905117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556077,
+        "gp:id":62623,
+        "qs:id":148927,
+        "wd:id":"Q600105",
+        "wk:page":"Jobabo"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052043,
+    "wof:geomhash":"eb2430d6c691630251fb5eb8db041830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905117,
+            "locality_id":890434871,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":890434871,
+    "wof:lastmodified":1527792948,
+    "wof:name":"Jobabo",
+    "wof:parent_id":1091905117,
+    "wof:placetype":"locality",
+    "wof:population":17804,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.29944,
+    20.96917,
+    -76.29944,
+    20.96917
+],
+  "geometry": {"coordinates":[-76.29944,20.96917],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293187159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.15891,20.97985,-77.15891,20.97985",
+    "geom:latitude":20.97985,
+    "geom:longitude":-77.15891,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Datil",
+    "gn:country_code":"CU",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11021027,
+    "gn:latitude":20.97985,
+    "gn:longitude":-77.15891,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Datil",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Datil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11021027
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9c45d77afc87c6b5139f7d455c35c444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905447,
+            "locality_id":1293187159,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1293187159,
+    "wof:lastmodified":1537619186,
+    "wof:name":"El Datil",
+    "wof:parent_id":1091905447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.15890999999998,
+    20.97985,
+    -77.15890999999998,
+    20.97985
+],
+  "geometry": {"coordinates":[-77.15890999999998,20.97985],"type":"Point"}
+}

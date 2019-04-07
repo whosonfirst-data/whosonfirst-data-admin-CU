@@ -1,0 +1,64 @@
+{
+  "id": 1209328489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.87176,22.46462,-83.87176,22.46462",
+    "geom:latitude":22.46462,
+    "geom:longitude":-83.87176,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sabanas de Molina",
+    "gn:country_code":"CU",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10945718,
+    "gn:latitude":22.46462,
+    "gn:longitude":-83.87176,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Sabanas de Molina",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sabanas de Molina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945718
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"62c7350d3e5968df1bfad571c92fde5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209328489
+        }
+    ],
+    "wof:id":1209328489,
+    "wof:lastmodified":1537619144,
+    "wof:name":"Sabanas de Molina",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.87176,
+    22.46462,
+    -83.87176,
+    22.46462
+],
+  "geometry": {"coordinates":[-83.87175999999999,22.46462],"type":"Point"}
+}

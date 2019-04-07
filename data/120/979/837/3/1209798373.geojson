@@ -1,0 +1,70 @@
+{
+  "id": 1209798373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.02371,20.20711,-76.02371,20.20711",
+    "geom:latitude":20.20711,
+    "geom:longitude":-76.02371,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pueblo Nuevo",
+    "gn:country_code":"CU",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3537208,
+    "gn:latitude":20.20711,
+    "gn:longitude":-76.02371,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Pueblo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Rita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091906823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3537208
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"06fbafea23c2e4147585127d4c69aed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906823,
+            "locality_id":1209798373,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1209798373,
+    "wof:lastmodified":1537618898,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":1091906823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.02371,
+    20.20711,
+    -76.02371,
+    20.20711
+],
+  "geometry": {"coordinates":[-76.02370999999999,20.20711],"type":"Point"}
+}

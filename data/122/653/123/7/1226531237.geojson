@@ -1,0 +1,73 @@
+{
+  "id": 1226531237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.88833,20.29997,-74.88833,20.29997",
+    "geom:latitude":20.29997,
+    "geom:longitude":-74.88833,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Pinar de la Ceiba",
+    "gn:country_code":"CU",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3746611,
+    "gn:latitude":20.29997,
+    "gn:longitude":-74.88833,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"El Pinar de la Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Pinar de la Ceiba"
+    ],
+    "name:und_x_variant":[
+        "Pinar de la Ceiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091908743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746611
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f320e813cf9479709317fcf9a73fefce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908743,
+            "locality_id":1226531237,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1226531237,
+    "wof:lastmodified":1537619134,
+    "wof:name":"El Pinar de la Ceiba",
+    "wof:parent_id":1091908743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.88833000000002,
+    20.29997,
+    -74.88833000000002,
+    20.29997
+],
+  "geometry": {"coordinates":[-74.88833000000002,20.29997],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209419125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.95,22.38333,-83.95,22.38333",
+    "geom:latitude":22.38333,
+    "geom:longitude":-83.95,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sabanas Llanas",
+    "gn:country_code":"CU",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3541585,
+    "gn:latitude":22.38333,
+    "gn:longitude":-83.95,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Sabanas Llanas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541585
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"351af8e7613c5827e23d37025ea0a5c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209419125
+        }
+    ],
+    "wof:id":1209419125,
+    "wof:lastmodified":1536287589,
+    "wof:name":"Sabanas Llanas",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.95,
+    22.38333,
+    -83.95,
+    22.38333
+],
+  "geometry": {"coordinates":[-83.95,22.38333],"type":"Point"}
+}

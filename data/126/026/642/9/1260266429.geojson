@@ -1,0 +1,73 @@
+{
+  "id": 1260266429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.31103,22.03484,-79.31103,22.03484",
+    "geom:latitude":22.03484,
+    "geom:longitude":-79.31103,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Plantel",
+    "gn:country_code":"CU",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008695,
+    "gn:latitude":22.03484,
+    "gn:longitude":-79.31103,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"El Plantel",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Plantel"
+    ],
+    "name:spa_x_variant":[
+        "El Plantel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008695
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"43033aa0c8a9a72ddee7436119c1fc22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908397,
+            "locality_id":1260266429,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1260266429,
+    "wof:lastmodified":1537619171,
+    "wof:name":"El Plantel",
+    "wof:parent_id":1091908397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.31103,
+    22.03484,
+    -79.31103,
+    22.03484
+],
+  "geometry": {"coordinates":[-79.31103,22.03484],"type":"Point"}
+}

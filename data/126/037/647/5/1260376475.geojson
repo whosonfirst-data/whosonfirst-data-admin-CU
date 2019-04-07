@@ -1,0 +1,70 @@
+{
+  "id": 1260376475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.34665,22.39505,-80.34665,22.39505",
+    "geom:latitude":22.39505,
+    "geom:longitude":-80.34665,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Silencio",
+    "gn:country_code":"CU",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559692,
+    "gn:latitude":22.39505,
+    "gn:longitude":-80.34665,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"El Silencio",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Silencio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091905617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559692
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6ba5094fabd092442d1775f87c77acb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905617,
+            "locality_id":1260376475,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1260376475,
+    "wof:lastmodified":1537619045,
+    "wof:name":"El Silencio",
+    "wof:parent_id":1091905617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.34665,
+    22.39505,
+    -80.34665,
+    22.39505
+],
+  "geometry": {"coordinates":[-80.34665,22.39505],"type":"Point"}
+}

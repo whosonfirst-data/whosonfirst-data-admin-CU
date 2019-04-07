@@ -1,0 +1,64 @@
+{
+  "id": 1209585397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.40996,22.63171,-80.40996,22.63171",
+    "geom:latitude":22.63171,
+    "geom:longitude":-80.40996,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Copa",
+    "gn:country_code":"CU",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007252,
+    "gn:latitude":22.63171,
+    "gn:longitude":-80.40996,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Copa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Copa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007252
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"65f0df0600a1373378fc740bbfa17cbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209585397
+        }
+    ],
+    "wof:id":1209585397,
+    "wof:lastmodified":1537619160,
+    "wof:name":"Copa",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.40996,
+    22.63171,
+    -80.40996,
+    22.63171
+],
+  "geometry": {"coordinates":[-80.40996,22.63171],"type":"Point"}
+}

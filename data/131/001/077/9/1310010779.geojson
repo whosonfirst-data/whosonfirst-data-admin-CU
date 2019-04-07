@@ -1,0 +1,67 @@
+{
+  "id": 1310010779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.58167,20.98389,-77.58167,20.98389",
+    "geom:latitude":20.98389,
+    "geom:longitude":-77.58167,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vialla",
+    "gn:country_code":"CU",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3534349,
+    "gn:latitude":20.98389,
+    "gn:longitude":-77.58167,
+    "gn:modification_date":"1996-02-20",
+    "gn:name":"Vialla",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534349
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c3a7bc7b905b53d77ba3e6ec534e55f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904725,
+            "locality_id":1310010779,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1310010779,
+    "wof:lastmodified":1536634353,
+    "wof:name":"Vialla",
+    "wof:parent_id":1091904725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.58166999999997,
+    20.98389,
+    -77.58166999999997,
+    20.98389
+],
+  "geometry": {"coordinates":[-77.58166999999997,20.98389],"type":"Point"}
+}

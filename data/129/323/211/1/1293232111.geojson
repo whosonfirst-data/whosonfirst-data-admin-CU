@@ -1,0 +1,74 @@
+{
+  "id": 1293232111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.08935,22.71718,-82.08935,22.71718",
+    "geom:latitude":22.71718,
+    "geom:longitude":-82.08935,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Rivas",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3551760,
+    "gn:latitude":22.71718,
+    "gn:longitude":-82.08935,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Rivas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rivas"
+    ],
+    "name:und_x_variant":[
+        "Riva",
+        "La Riva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091904955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551760
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2101dc1a9cc3c6e8a647986197eec1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904955,
+            "locality_id":1293232111,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1293232111,
+    "wof:lastmodified":1537618992,
+    "wof:name":"Rivas",
+    "wof:parent_id":1091904955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.08935,
+    22.71718,
+    -82.08935,
+    22.71718
+],
+  "geometry": {"coordinates":[-82.08935,22.71718],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310222729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.94551,22.58691,-83.94551,22.58691",
+    "geom:latitude":22.58691,
+    "geom:longitude":-83.94551,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Minas de Matahambre",
+    "gn:country_code":"CU",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3546882,
+    "gn:latitude":22.58691,
+    "gn:longitude":-83.94551,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Minas de Matahambre",
+    "gn:population":34419,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matahambre",
+        "Minas de Matahambre"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091906417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546882,
+        "wk:page":"Minas_de_Matahambre"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a0dd51edbcf23d45a57f290ee93d6909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906417,
+            "locality_id":1310222729,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1310222729,
+    "wof:lastmodified":1537618956,
+    "wof:name":"Minas de Matahambre",
+    "wof:parent_id":1091906417,
+    "wof:placetype":"locality",
+    "wof:population":34419,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.94551,
+    22.58691,
+    -83.94551,
+    22.58691
+],
+  "geometry": {"coordinates":[-83.94551,22.58691],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277048051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.52906,22.36892,-79.52906,22.36892",
+    "geom:latitude":22.36892,
+    "geom:longitude":-79.52906,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Cafetal",
+    "gn:country_code":"CU",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3566391,
+    "gn:latitude":22.36892,
+    "gn:longitude":-79.52906,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"El Cafetal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cafetal"
+    ],
+    "name:und_x_variant":[
+        "Cafetal",
+        "Cafetal Dolores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566391
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d9eb90e5fe6c5fab1f0dc6c713494e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1277048051,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1277048051,
+    "wof:lastmodified":1537619100,
+    "wof:name":"El Cafetal",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.52906,
+    22.36892000000001,
+    -79.52906,
+    22.36892000000001
+],
+  "geometry": {"coordinates":[-79.52906,22.36892000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1292984337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.68033,21.72508,-79.68033,21.72508",
+    "geom:latitude":21.72508,
+    "geom:longitude":-79.68033,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"San Chidrian",
+    "gn:country_code":"CU",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10952093,
+    "gn:latitude":21.72508,
+    "gn:longitude":-79.68033,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"San Chidrian",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Chidrian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091907919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10952093
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b25bf7e7898fe5a06e8bbedb10d5ce83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907919,
+            "locality_id":1292984337,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1292984337,
+    "wof:lastmodified":1537619153,
+    "wof:name":"San Chidrian",
+    "wof:parent_id":1091907919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.68033,
+    21.72508,
+    -79.68033,
+    21.72508
+],
+  "geometry": {"coordinates":[-79.68033,21.72508],"type":"Point"}
+}

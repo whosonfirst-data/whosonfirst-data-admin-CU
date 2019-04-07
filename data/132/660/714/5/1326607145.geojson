@@ -1,0 +1,74 @@
+{
+  "id": 1326607145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.59884,21.01978,-75.59884,21.01978",
+    "geom:latitude":21.01978,
+    "geom:longitude":-75.59884,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Paincerias",
+    "gn:country_code":"CU",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3545350,
+    "gn:latitude":21.01978,
+    "gn:longitude":-75.59884,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Paincerias",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paincerias"
+    ],
+    "name:und_x_variant":[
+        "Painseira",
+        "Painsera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545350
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"006f2864908790a42dd9d00476acc763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1326607145,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1326607145,
+    "wof:lastmodified":1537618948,
+    "wof:name":"Paincerias",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.59884,
+    21.01978,
+    -75.59884,
+    21.01978
+],
+  "geometry": {"coordinates":[-75.59884,21.01978],"type":"Point"}
+}

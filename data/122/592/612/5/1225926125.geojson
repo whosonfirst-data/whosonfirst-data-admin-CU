@@ -1,0 +1,70 @@
+{
+  "id": 1225926125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.53499,22.3909,-79.53499,22.3909",
+    "geom:latitude":22.3909,
+    "geom:longitude":-79.53499,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Paraiso",
+    "gn:country_code":"CU",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11007927,
+    "gn:latitude":22.3909,
+    "gn:longitude":-79.53499,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Para\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Para\u00edso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007927
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"df04b6d5b74b1fdfd1b9efa295fc3dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1225926125,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1225926125,
+    "wof:lastmodified":1537619168,
+    "wof:name":"El Paraiso",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.53499000000002,
+    22.3909,
+    -79.53499000000002,
+    22.3909
+],
+  "geometry": {"coordinates":[-79.53499000000002,22.3909],"type":"Point"}
+}

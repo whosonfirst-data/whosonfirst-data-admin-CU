@@ -1,0 +1,70 @@
+{
+  "id": 1276855537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.4301,20.07492,-77.4301,20.07492",
+    "geom:latitude":20.07492,
+    "geom:longitude":-77.4301,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Caguayran",
+    "gn:country_code":"CU",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11012807,
+    "gn:latitude":20.07492,
+    "gn:longitude":-77.4301,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Caguayr\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caguayr\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11012807
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b6abb21d6774226627de857c0517fc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906341,
+            "locality_id":1276855537,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1276855537,
+    "wof:lastmodified":1537619182,
+    "wof:name":"Caguayran",
+    "wof:parent_id":1091906341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.4301,
+    20.07492,
+    -77.4301,
+    20.07492
+],
+  "geometry": {"coordinates":[-77.4301,20.07492],"type":"Point"}
+}

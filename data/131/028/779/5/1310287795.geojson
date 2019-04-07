@@ -1,0 +1,72 @@
+{
+  "id": 1310287795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.96667,20.46667,-75.96667,20.46667",
+    "geom:latitude":20.46667,
+    "geom:longitude":-75.96667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sabana",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3541684,
+    "gn:latitude":20.46667,
+    "gn:longitude":-75.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sabana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Mangos de Baraqua",
+        "Sabana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091906371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541684
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"999b0f42253c764a93cdb8c777b4f2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906371,
+            "locality_id":1310287795,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1310287795,
+    "wof:lastmodified":1537618923,
+    "wof:name":"Sabana",
+    "wof:parent_id":1091906371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.96667,
+    20.46667,
+    -75.96667,
+    20.46667
+],
+  "geometry": {"coordinates":[-75.96666999999999,20.46667],"type":"Point"}
+}

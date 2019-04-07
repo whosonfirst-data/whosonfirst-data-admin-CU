@@ -1,0 +1,127 @@
+{
+  "id": 1125873705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.28806,22.71639,-82.28806,22.71639",
+    "geom:latitude":22.71639,
+    "geom:longitude":-82.28806,
+    "gn:gn_country":"CU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":13832,
+    "gn:population":13832,
+    "iso:country":"CU",
+    "lbl:latitude":22.71639,
+    "lbl:longitude":-82.28806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u5854\u74e6\u8afe"
+    ],
+    "name:dut_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "name:fre_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10e2\u10d0\u10d1\u10d0\u10dc\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "name:hat_x_preferred":[
+        "Surgidero de Batabano"
+    ],
+    "name:ita_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30bf\u30d0\u30ce"
+    ],
+    "name:por_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0430\u0431\u0430\u043d\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "Surgidero de Bataban\u00f3"
+    ],
+    "name:vie_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "qs_pg:aaroncc":"CU",
+    "qs_pg:gn_country":"CU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3567655,
+    "qs_pg:gn_pop":13832,
+    "qs_pg:name":"Bataban\u00f3",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":148957,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091903035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567655,
+        "qs_pg:id":148957,
+        "wd:id":"Q270305"
+    },
+    "wof:country":"CU",
+    "wof:created":1497294430,
+    "wof:geomhash":"4696aa7af3f39c5dcb5dac7ce7126f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903035,
+            "locality_id":1125873705,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1125873705,
+    "wof:lastmodified":1553816589,
+    "wof:name":"Bataban\u00f3",
+    "wof:parent_id":1091903035,
+    "wof:placetype":"locality",
+    "wof:population":13832,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.28806,
+    22.71639,
+    -82.28806,
+    22.71639
+],
+  "geometry": {"coordinates":[-82.28806,22.71639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343572837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.19355,22.74481,-81.19355,22.74481",
+    "geom:latitude":22.74481,
+    "geom:longitude":-81.19355,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Carlota",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565310,
+    "gn:latitude":22.74481,
+    "gn:longitude":-81.19355,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"La Carlota",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Carlota"
+    ],
+    "name:und_x_variant":[
+        "Carlota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565310
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fb8f813fe086e7e743fe980a87e583d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905493,
+            "locality_id":1343572837,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1343572837,
+    "wof:lastmodified":1537619091,
+    "wof:name":"La Carlota",
+    "wof:parent_id":1091905493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.19355,
+    22.74481,
+    -81.19355,
+    22.74481
+],
+  "geometry": {"coordinates":[-81.19355,22.74481],"type":"Point"}
+}

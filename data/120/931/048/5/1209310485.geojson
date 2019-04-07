@@ -1,0 +1,64 @@
+{
+  "id": 1209310485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.61613,19.9545,-77.61613,19.9545",
+    "geom:latitude":19.9545,
+    "geom:longitude":-77.61613,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Este",
+    "gn:country_code":"CU",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027029,
+    "gn:latitude":19.9545,
+    "gn:longitude":-77.61613,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Este",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Este"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027029
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"77c209d7a9ee06f4054c0e5bc2b1fc6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209310485
+        }
+    ],
+    "wof:id":1209310485,
+    "wof:lastmodified":1537619193,
+    "wof:name":"El Este",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.61613,
+    19.9545,
+    -77.61613,
+    19.9545
+],
+  "geometry": {"coordinates":[-77.61613,19.9545],"type":"Point"}
+}

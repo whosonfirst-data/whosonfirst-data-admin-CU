@@ -1,0 +1,64 @@
+{
+  "id": 1209506623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.4214,21.91698,-78.4214,21.91698",
+    "geom:latitude":21.91698,
+    "geom:longitude":-78.4214,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Paulina",
+    "gn:country_code":"CU",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3552200,
+    "gn:latitude":21.91698,
+    "gn:longitude":-78.4214,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"La Paulina",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Paulina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552200
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6b14754ec62a7ffc8d67b5264db4bf1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209506623
+        }
+    ],
+    "wof:id":1209506623,
+    "wof:lastmodified":1537618995,
+    "wof:name":"La Paulina",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.4214,
+    21.91698,
+    -78.4214,
+    21.91698
+],
+  "geometry": {"coordinates":[-78.42140000000001,21.91698],"type":"Point"}
+}

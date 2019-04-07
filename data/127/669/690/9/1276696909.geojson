@@ -1,0 +1,67 @@
+{
+  "id": 1276696909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.74056,22.96028,-81.74056,22.96028",
+    "geom:latitude":22.96028,
+    "geom:longitude":-81.74056,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Galera",
+    "gn:country_code":"CU",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3558541,
+    "gn:latitude":22.96028,
+    "gn:longitude":-81.74056,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Galera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091905779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3558541
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6cf4d1bdb78b56a7e128a273323a68e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905779,
+            "locality_id":1276696909,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1276696909,
+    "wof:lastmodified":1536788873,
+    "wof:name":"Galera",
+    "wof:parent_id":1091905779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.74056,
+    22.96028,
+    -81.74056,
+    22.96028
+],
+  "geometry": {"coordinates":[-81.74056,22.96028],"type":"Point"}
+}

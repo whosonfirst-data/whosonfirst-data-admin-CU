@@ -1,0 +1,73 @@
+{
+  "id": 1276642993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.02571,20.75103,-76.02571,20.75103",
+    "geom:latitude":20.75103,
+    "geom:longitude":-76.02571,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Baguanos",
+    "gn:country_code":"CU",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3568003,
+    "gn:latitude":20.75103,
+    "gn:longitude":-76.02571,
+    "gn:modification_date":"2017-10-27",
+    "gn:name":"B\u00e1guanos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00f3pez Pe\u00f1a",
+        "B\u00e1guano",
+        "B\u00e1guanos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568003,
+        "wk:page":"B%C3%A1guanos"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ca870996c761d72e1b4652a12ace57c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902841,
+            "locality_id":1276642993,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1276642993,
+    "wof:lastmodified":1537619111,
+    "wof:name":"Baguanos",
+    "wof:parent_id":1091902841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.02571,
+    20.75103,
+    -76.02571,
+    20.75103
+],
+  "geometry": {"coordinates":[-76.02571,20.75103],"type":"Point"}
+}

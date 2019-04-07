@@ -1,0 +1,72 @@
+{
+  "id": 1310471497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.68879,22.90393,-80.68879,22.90393",
+    "geom:latitude":22.90393,
+    "geom:longitude":-80.68879,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Motembo",
+    "gn:country_code":"CU",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3546881,
+    "gn:latitude":22.90393,
+    "gn:longitude":-80.68879,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Motembo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio de Minas Motembo",
+        "Motembo",
+        "Minas de Motembo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546881
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c475d4fe700bbe269181e582e4d57947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904251,
+            "locality_id":1310471497,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1310471497,
+    "wof:lastmodified":1537618956,
+    "wof:name":"Motembo",
+    "wof:parent_id":1091904251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.68879,
+    22.90393,
+    -80.68879,
+    22.90393
+],
+  "geometry": {"coordinates":[-80.68879,22.90393],"type":"Point"}
+}

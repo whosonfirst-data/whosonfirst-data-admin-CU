@@ -1,0 +1,72 @@
+{
+  "id": 1343828927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.36667,21.8,-79.36667,21.8",
+    "geom:latitude":21.8,
+    "geom:longitude":-79.36667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Las Juntas de Vendavales",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3551115,
+    "gn:latitude":21.8,
+    "gn:longitude":-79.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Juntas de Vendavales",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Juntas",
+        "Las Juntas de Vendavales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091907919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551115
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3f45c9d7b23a0996a576bbcad6fbea69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907919,
+            "locality_id":1343828927,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1343828927,
+    "wof:lastmodified":1537618987,
+    "wof:name":"Las Juntas de Vendavales",
+    "wof:parent_id":1091907919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.36667,
+    21.8,
+    -79.36667,
+    21.8
+],
+  "geometry": {"coordinates":[-79.36667,21.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344258903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.50806,23.03056,-81.50806,23.03056",
+    "geom:latitude":23.03056,
+    "geom:longitude":-81.50806,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Perseverancia",
+    "gn:country_code":"CU",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3544359,
+    "gn:latitude":23.03056,
+    "gn:longitude":-81.50806,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Perseverancia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544359
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f88c0e755f127b0885a345305fb66397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906273,
+            "locality_id":1344258903,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1344258903,
+    "wof:lastmodified":1537083237,
+    "wof:name":"Perseverancia",
+    "wof:parent_id":1091906273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.50806,
+    23.03056,
+    -81.50806,
+    23.03056
+],
+  "geometry": {"coordinates":[-81.50806,23.03056],"type":"Point"}
+}

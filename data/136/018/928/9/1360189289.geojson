@@ -1,0 +1,70 @@
+{
+  "id": 1360189289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.26897,21.52537,-77.26897,21.52537",
+    "geom:latitude":21.52537,
+    "geom:longitude":-77.26897,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Santa Rita",
+    "gn:country_code":"CU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746359,
+    "gn:latitude":21.52537,
+    "gn:longitude":-77.26897,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Santa Rita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Rita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091906765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746359
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3fb0986a2d290c0d83295e789608b98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906765,
+            "locality_id":1360189289,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1360189289,
+    "wof:lastmodified":1537619131,
+    "wof:name":"Santa Rita",
+    "wof:parent_id":1091906765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.26897,
+    21.52537,
+    -77.26897,
+    21.52537
+],
+  "geometry": {"coordinates":[-77.26897,21.52537],"type":"Point"}
+}

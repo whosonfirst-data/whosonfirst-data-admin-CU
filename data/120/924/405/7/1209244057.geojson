@@ -1,0 +1,64 @@
+{
+  "id": 1209244057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.13322,22.72875,-82.13322,22.72875",
+    "geom:latitude":22.72875,
+    "geom:longitude":-82.13322,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"La Luisa",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3552882,
+    "gn:latitude":22.72875,
+    "gn:longitude":-82.13322,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"La Luisa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Luisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552882
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"15fbb9256f0b3e5275d3b504b3c0d443",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209244057
+        }
+    ],
+    "wof:id":1209244057,
+    "wof:lastmodified":1537618999,
+    "wof:name":"La Luisa",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.13322,
+    22.72875,
+    -82.13322,
+    22.72875
+],
+  "geometry": {"coordinates":[-82.13321999999999,22.72875],"type":"Point"}
+}

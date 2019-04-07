@@ -1,0 +1,141 @@
+{
+  "id": 421169359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.70778,22.61639,-83.70778,22.61639",
+    "geom:latitude":22.61639,
+    "geom:longitude":-83.70778,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Municipio de Vi\u00f1ales"
+    ],
+    "name:chi_x_preferred":[
+        "\u7dad\u5c3c\u4e9e\u840a\u65af"
+    ],
+    "name:dan_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:deu_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:dut_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:eng_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:fra_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:fre_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d8\u10dc\u10d8\u10d0\u10da\u10d4\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:hat_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:ita_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10dc\u10d8\u10d0\u10da\u10d4\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:pol_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:por_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u044c\u044f\u043b\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Vi\u00f1ales"
+    ],
+    "name:vie_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3534094,
+    "qs:gn_pop":27129,
+    "qs:name":"Vi\u00f1ales",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Pinar del Rio",
+    "qs:photos":4999,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4999,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":808926,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":68625,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":533,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091908691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534094,
+        "gp:id":68625,
+        "qs:id":808926,
+        "wd:id":"Q1180693"
+    },
+    "wof:country":"CU",
+    "wof:created":1459008806,
+    "wof:geomhash":"3360ed89ff11ad1254f847e7a6d7ad56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908691,
+            "locality_id":421169359,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":421169359,
+    "wof:lastmodified":1527716170,
+    "wof:name":"Vi\u00f1ales",
+    "wof:parent_id":1091908691,
+    "wof:placetype":"locality",
+    "wof:population":27129,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.70778,
+    22.61639,
+    -83.70778,
+    22.61639
+],
+  "geometry": {"coordinates":[-83.70778,22.61639],"type":"Point"}
+}

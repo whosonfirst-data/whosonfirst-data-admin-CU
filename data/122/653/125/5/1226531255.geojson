@@ -1,0 +1,72 @@
+{
+  "id": 1226531255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.224,20.01721,-75.224,20.01721",
+    "geom:latitude":20.01721,
+    "geom:longitude":-75.224,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cayamo",
+    "gn:country_code":"CU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830472,
+    "gn:latitude":20.01721,
+    "gn:longitude":-75.224,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"Cayamo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayamo",
+        "Cayamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091903413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830472,
+        "wk:page":"Cayamo"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1a3f82e2ad60fdd38fe1ea08b470f2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903413,
+            "locality_id":1226531255,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1226531255,
+    "wof:lastmodified":1537619140,
+    "wof:name":"Cayamo",
+    "wof:parent_id":1091903413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.22399999999998,
+    20.01721,
+    -75.22399999999998,
+    20.01721
+],
+  "geometry": {"coordinates":[-75.22399999999998,20.01721],"type":"Point"}
+}

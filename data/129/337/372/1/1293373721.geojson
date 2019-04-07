@@ -1,0 +1,67 @@
+{
+  "id": 1293373721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.82,20.26639,-74.82,20.26639",
+    "geom:latitude":20.26639,
+    "geom:longitude":-74.82,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Zona",
+    "gn:country_code":"CU",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550008,
+    "gn:latitude":20.26639,
+    "gn:longitude":-74.82,
+    "gn:modification_date":"1996-04-17",
+    "gn:name":"La Zona",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091907633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550008
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"34e42987ae589ac7715b17b3605b5b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907633,
+            "locality_id":1293373721,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1293373721,
+    "wof:lastmodified":1536951285,
+    "wof:name":"La Zona",
+    "wof:parent_id":1091907633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.82,
+    20.26639,
+    -74.82,
+    20.26639
+],
+  "geometry": {"coordinates":[-74.81999999999999,20.26639],"type":"Point"}
+}

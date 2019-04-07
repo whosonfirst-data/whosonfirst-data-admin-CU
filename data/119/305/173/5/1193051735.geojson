@@ -1,0 +1,67 @@
+{
+  "id": 1193051735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.4,22.8,-82.4,22.8",
+    "geom:latitude":22.8,
+    "geom:longitude":-82.4,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"La Conchita",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3554530,
+    "gn:latitude":22.8,
+    "gn:longitude":-82.4,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"La Conchita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091907223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554530
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e06f6682e789d50f4cffca4512e162a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907223,
+            "locality_id":1193051735,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1193051735,
+    "wof:lastmodified":1536365621,
+    "wof:name":"La Conchita",
+    "wof:parent_id":1091907223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.4,
+    22.8,
+    -82.4,
+    22.8
+],
+  "geometry": {"coordinates":[-82.40000000000001,22.8],"type":"Point"}
+}

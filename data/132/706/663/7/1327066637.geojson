@@ -1,0 +1,70 @@
+{
+  "id": 1327066637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.97012,23.0177,-81.97012,23.0177",
+    "geom:latitude":23.0177,
+    "geom:longitude":-81.97012,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Manrresa",
+    "gn:country_code":"CU",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10950005,
+    "gn:latitude":23.0177,
+    "gn:longitude":-81.97012,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Manrresa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Manrresa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091905233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950005
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7d04be35efd05c7c9832eccedefb4b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905233,
+            "locality_id":1327066637,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1327066637,
+    "wof:lastmodified":1537619150,
+    "wof:name":"Manrresa",
+    "wof:parent_id":1091905233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.97012,
+    23.0177,
+    -81.97012,
+    23.0177
+],
+  "geometry": {"coordinates":[-81.97011999999999,23.0177],"type":"Point"}
+}

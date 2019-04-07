@@ -1,0 +1,74 @@
+{
+  "id": 1209702909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.22483,20.70472,-75.22483,20.70472",
+    "geom:latitude":20.70472,
+    "geom:longitude":-75.22483,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Guajaca Uno",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557899,
+    "gn:latitude":20.70472,
+    "gn:longitude":-75.22483,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Guajaca Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guajaca Uno"
+    ],
+    "name:und_x_variant":[
+        "Guajaca N\u00famero 1",
+        "Guajaca N\u00famero Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557899
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c0ad842e5a70abb062ad90523580f14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904661,
+            "locality_id":1209702909,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1209702909,
+    "wof:lastmodified":1537619034,
+    "wof:name":"Guajaca Uno",
+    "wof:parent_id":1091904661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.22483000000003,
+    20.70472,
+    -75.22483000000003,
+    20.70472
+],
+  "geometry": {"coordinates":[-75.22483000000003,20.70472],"type":"Point"}
+}

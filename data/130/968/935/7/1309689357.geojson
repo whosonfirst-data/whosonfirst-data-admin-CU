@@ -1,0 +1,71 @@
+{
+  "id": 1309689357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.65382,20.85916,-75.65382,20.85916",
+    "geom:latitude":20.85916,
+    "geom:longitude":-75.65382,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Hermenegildo",
+    "gn:country_code":"CU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3557091,
+    "gn:latitude":20.85916,
+    "gn:longitude":-75.65382,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Hermenegildo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hermenejildo",
+        "Hermenegildo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557091
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7b6a4cca8cb71bdf84d87e29b7f32a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902713,
+            "locality_id":1309689357,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1309689357,
+    "wof:lastmodified":1537619027,
+    "wof:name":"Hermenegildo",
+    "wof:parent_id":1091902713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.65382,
+    20.85916,
+    -75.65382,
+    20.85916
+],
+  "geometry": {"coordinates":[-75.65382,20.85916],"type":"Point"}
+}

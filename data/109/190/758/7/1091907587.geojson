@@ -1,0 +1,148 @@
+{
+  "id": 1091907587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.01157,
+    "geom:area_square_m":131801049.315127,
+    "geom:bbox":"-82.5764941159,22.8139517003,-82.4261462455,22.9389194927",
+    "geom:latitude":22.883329,
+    "geom:longitude":-82.505232,
+    "iso:country":"CU",
+    "lbl:latitude":22.882419,
+    "lbl:longitude":-82.512737,
+    "meso:admin_1":"La Habana",
+    "meso:diss_me":"SAN ANTONIO DE LOS BANOSSAN ANTONIO DE LOS BANOSLA HABANA",
+    "meso:gadm_admin":"San Antonio de los Ba\u00f1os",
+    "meso:gadm_hasc2":"CU.LH.SA",
+    "meso:gaul_admin":"San Antonio De Los Baios",
+    "meso:mps_x":-82.512737,
+    "meso:mps_y":22.882419,
+    "meso:name_loc":"San Antonio De Los Banos",
+    "mps:latitude":22.882419,
+    "mps:longitude":-82.512737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u5fb7\u6d1b\u65af\u5df4\u5c3c\u5967\u65af"
+    ],
+    "name:cze_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:dut_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:eng_x_variant":[
+        "San Antonio De Los Baios",
+        "San Antonio de los Ba\u00f1os",
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:fre_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10dd-\u10d3\u10d4-\u10da\u10dd\u10e1-\u10d1\u10d0\u10dc\u10d8\u10dd\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30c7\u30fb\u30ed\u30b9\u30fb\u30d0\u30cb\u30e7\u30b9"
+    ],
+    "name:oci_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:pol_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0410\u043d\u0442\u043e\u043d\u0438\u043e-\u0434\u0435-\u043b\u043e\u0441-\u0411\u0430\u043d\u044c\u043e\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:swe_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:tur_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0627\u0646\u062a\u0648\u0646\u06cc\u0648 \u062f \u0644\u0648 \u0628\u0627\u0646\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "San Antonio de los Ba\u00f1os"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-09-15",
+    "statoids:area_km":"126",
+    "statoids:as_of_date":"2012-09-15",
+    "statoids:capital":"San Antonio de los Ba\u00f1os",
+    "statoids:country":"CU",
+    "statoids:hasc":"CU.AR",
+    "statoids:name":"San Antonio de los Ba\u00f1os",
+    "statoids:population":"48197",
+    "statoids:statoid":"CU.AR.SA",
+    "statoids:timezone":"-5~",
+    "statoids:type":"municipio",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"CU.AR.SA",
+        "wd:id":"Q114984"
+    },
+    "wof:country":"CU",
+    "wof:created":1473892456,
+    "wof:geomhash":"690e59f217efe87ea43f5b318a113dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907587,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1091907587,
+    "wof:lastmodified":1536615000,
+    "wof:name":"San Antonio De Los Banos",
+    "wof:parent_id":85670449,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipio",
+    "wof:population":48197,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:shortcode":"SA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.5764941158878,
+    22.81395170032306,
+    -82.42614624553059,
+    22.93891949270641
+],
+  "geometry": {"coordinates":[[[-82.56163209760643,22.92012372320558],[-82.54611993907359,22.92293370030097],[-82.54442658150636,22.92618846232883],[-82.53459799414081,22.92799201960225],[-82.53106094604829,22.92666917765402],[-82.52940238683117,22.92741998465203],[-82.52184623915875,22.9332169757143],[-82.51485039369469,22.93429884503813],[-82.51065100403861,22.93045629220673],[-82.50817651749821,22.92943438840712],[-82.50486646591422,22.93022355804226],[-82.49802418671899,22.92337813497646],[-82.49490362914214,22.92351429524449],[-82.48655459079075,22.92818922739814],[-82.48594540590415,22.92775979144677],[-82.47140283610385,22.92707268977694],[-82.47087013377211,22.92732513248687],[-82.47077019120719,22.92763685848987],[-82.46856012515661,22.93491748594934],[-82.46244190928796,22.93586001463049],[-82.45290962603104,22.93541383847625],[-82.44792251336293,22.92998355335708],[-82.44646574553384,22.9284437955963],[-82.43639661371512,22.93891949270641],[-82.42614624553059,22.93218762985609],[-82.42752551588188,22.92293123550715],[-82.43465828670158,22.91906676517304],[-82.43470451022047,22.91006109752912],[-82.44158847161154,22.90426570712603],[-82.4338422871762,22.88632706982069],[-82.43573896431003,22.88323074774535],[-82.44033344096509,22.87879856060824],[-82.44046205080863,22.87882145606375],[-82.44755457164567,22.87820919241954],[-82.4541324566254,22.87361227968786],[-82.45707770766107,22.8642930708725],[-82.45292954098619,22.85780970042514],[-82.4571496764337,22.85206103119834],[-82.46908158198703,22.85284300576583],[-82.47059439956398,22.85067935894717],[-82.48305736757047,22.84943907854687],[-82.4861973316674,22.8385653550977],[-82.48543630199964,22.83441549318219],[-82.48748920396909,22.83221529850521],[-82.49974115884885,22.83347182122209],[-82.50302230037458,22.83301929164168],[-82.5057723020967,22.83066376804316],[-82.50411027250578,22.81986173116878],[-82.51101584068562,22.81557469124273],[-82.52081509064631,22.81395170032306],[-82.52476088187987,22.81484134337414],[-82.52613267957146,22.82498870768948],[-82.54365528993571,22.82801812600139],[-82.54413635816952,22.834886632466],[-82.546216583446,22.83762184828072],[-82.55395561451417,22.84612735617644],[-82.55518400247247,22.84518467337327],[-82.56164358829039,22.84379836081817],[-82.57256269773559,22.84508860795714],[-82.57530251201601,22.84618282056234],[-82.5764941158878,22.84987384045301],[-82.57298893040182,22.85708386876294],[-82.56710518189782,22.86045229799741],[-82.56565852631969,22.86442398657785],[-82.56412724709674,22.87041861808708],[-82.56823776506114,22.87386189147931],[-82.56875663095755,22.88078145133936],[-82.5699308529354,22.88257524079651],[-82.56953272372699,22.8928955376737],[-82.56256674401295,22.90181385366239],[-82.56596384666366,22.90568084067081],[-82.56502879345274,22.91326082720028],[-82.56163209760643,22.92012372320558]]],"type":"Polygon"}
+}

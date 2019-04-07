@@ -1,0 +1,62 @@
+{
+  "id": 1209083297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.71667,20.66667,-75.71667,20.66667",
+    "geom:latitude":20.66667,
+    "geom:longitude":-75.71667,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3211",
+    "gn:asciiname":"Juan Vicente",
+    "gn:country_code":"CU",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3555772,
+    "gn:latitude":20.66667,
+    "gn:longitude":-75.71667,
+    "gn:modification_date":"2016-11-21",
+    "gn:name":"Juan Vicente",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555772
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d08538c5121ba2b65b6800c1ca608edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209083297
+        }
+    ],
+    "wof:id":1209083297,
+    "wof:lastmodified":1536298267,
+    "wof:name":"Juan Vicente",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.71667,
+    20.66667,
+    -75.71667,
+    20.66667
+],
+  "geometry": {"coordinates":[-75.71666999999999,20.66667],"type":"Point"}
+}

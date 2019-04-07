@@ -1,0 +1,71 @@
+{
+  "id": 1242800489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.95745,21.70532,-77.95745,21.70532",
+    "geom:latitude":21.70532,
+    "geom:longitude":-77.95745,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Veguitas",
+    "gn:country_code":"CU",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3550561,
+    "gn:latitude":21.70532,
+    "gn:longitude":-77.95745,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Las Veguitas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Veguita",
+        "Las Veguitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550561
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fcb524cccde288d66418a3d64d70132c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904517,
+            "locality_id":1242800489,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1242800489,
+    "wof:lastmodified":1537618982,
+    "wof:name":"Las Veguitas",
+    "wof:parent_id":1091904517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.95745,
+    21.70532,
+    -77.95745,
+    21.70532
+],
+  "geometry": {"coordinates":[-77.95744999999999,21.70532],"type":"Point"}
+}

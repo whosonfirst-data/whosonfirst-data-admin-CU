@@ -1,0 +1,70 @@
+{
+  "id": 1293399561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.2757,21.95018,-84.2757,21.95018",
+    "geom:latitude":21.95018,
+    "geom:longitude":-84.2757,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Las Cajas",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003083,
+    "gn:latitude":21.95018,
+    "gn:longitude":-84.2757,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Las Cajas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Cajas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003083
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1922a53dd791cd59a1395c38a14c9af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907969,
+            "locality_id":1293399561,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1293399561,
+    "wof:lastmodified":1537619154,
+    "wof:name":"Las Cajas",
+    "wof:parent_id":1091907969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.2757,
+    21.95018,
+    -84.2757,
+    21.95018
+],
+  "geometry": {"coordinates":[-84.2757,21.95018],"type":"Point"}
+}

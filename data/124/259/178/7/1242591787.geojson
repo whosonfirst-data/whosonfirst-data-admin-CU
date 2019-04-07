@@ -1,0 +1,70 @@
+{
+  "id": 1242591787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.49884,22.31016,-83.49884,22.31016",
+    "geom:latitude":22.31016,
+    "geom:longitude":-83.49884,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cayo del Pilar",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10945368,
+    "gn:latitude":22.31016,
+    "gn:longitude":-83.49884,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Cayo del Pilar",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cayo del Pilar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945368
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d57b00d6e3dd906342bcdd0aeb80bfb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907007,
+            "locality_id":1242591787,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1242591787,
+    "wof:lastmodified":1537619143,
+    "wof:name":"Cayo del Pilar",
+    "wof:parent_id":1091907007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.49884,
+    22.31016,
+    -83.49884,
+    22.31016
+],
+  "geometry": {"coordinates":[-83.49884,22.31016],"type":"Point"}
+}

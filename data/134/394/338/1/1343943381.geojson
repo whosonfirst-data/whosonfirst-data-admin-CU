@@ -1,0 +1,67 @@
+{
+  "id": 1343943381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7,22.19833,-80.7,22.19833",
+    "geom:latitude":22.19833,
+    "geom:longitude":-80.7,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Espinal",
+    "gn:country_code":"CU",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559194,
+    "gn:latitude":22.19833,
+    "gn:longitude":-80.7,
+    "gn:modification_date":"1996-02-08",
+    "gn:name":"Espinal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091902555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559194
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"82895fd2fd63a5955fafd9554520c8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902555,
+            "locality_id":1343943381,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1343943381,
+    "wof:lastmodified":1537042950,
+    "wof:name":"Espinal",
+    "wof:parent_id":1091902555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7,
+    22.19833,
+    -80.7,
+    22.19833
+],
+  "geometry": {"coordinates":[-80.7,22.19833],"type":"Point"}
+}

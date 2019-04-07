@@ -1,0 +1,73 @@
+{
+  "id": 1326652753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.79021,21.14742,-77.79021,21.14742",
+    "geom:latitude":21.14742,
+    "geom:longitude":-77.79021,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Vistosa",
+    "gn:country_code":"CU",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3533935,
+    "gn:latitude":21.14742,
+    "gn:longitude":-77.79021,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Vistosa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Vistosa"
+    ],
+    "name:und_x_variant":[
+        "Vistosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091905417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3533935
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1d30bd2f1d6dbc30bc1e8606eaea3ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905417,
+            "locality_id":1326652753,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1326652753,
+    "wof:lastmodified":1537618880,
+    "wof:name":"La Vistosa",
+    "wof:parent_id":1091905417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.79021,
+    21.14742,
+    -77.79021,
+    21.14742
+],
+  "geometry": {"coordinates":[-77.79021,21.14742],"type":"Point"}
+}

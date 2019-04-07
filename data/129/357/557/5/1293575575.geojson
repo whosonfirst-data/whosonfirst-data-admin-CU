@@ -1,0 +1,73 @@
+{
+  "id": 1293575575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.79127,21.2391,-76.79127,21.2391",
+    "geom:latitude":21.2391,
+    "geom:longitude":-76.79127,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Santa Teresa Dos",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3536796,
+    "gn:latitude":21.2391,
+    "gn:longitude":-76.79127,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Santa Teresa Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Teresa Dos"
+    ],
+    "name:und_x_variant":[
+        "Santa Teresa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536796
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"faecf1a0fd84fa33473ae3891a54d500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1293575575,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1293575575,
+    "wof:lastmodified":1537618896,
+    "wof:name":"Santa Teresa Dos",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79127,
+    21.2391,
+    -76.79127,
+    21.2391
+],
+  "geometry": {"coordinates":[-76.79127,21.2391],"type":"Point"}
+}

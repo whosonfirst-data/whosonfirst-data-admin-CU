@@ -1,0 +1,67 @@
+{
+  "id": 1226633203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.32667,20.97528,-76.32667,20.97528",
+    "geom:latitude":20.97528,
+    "geom:longitude":-76.32667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Deseo",
+    "gn:country_code":"CU",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3561130,
+    "gn:latitude":20.97528,
+    "gn:longitude":-76.32667,
+    "gn:modification_date":"2004-11-04",
+    "gn:name":"El Deseo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091905117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561130
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"67c925d04c8ef6a4f36b92f0b3fe3d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905117,
+            "locality_id":1226633203,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1226633203,
+    "wof:lastmodified":1536876696,
+    "wof:name":"El Deseo",
+    "wof:parent_id":1091905117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.32667,
+    20.97528,
+    -76.32667,
+    20.97528
+],
+  "geometry": {"coordinates":[-76.32666999999999,20.97528],"type":"Point"}
+}

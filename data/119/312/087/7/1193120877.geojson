@@ -1,0 +1,70 @@
+{
+  "id": 1193120877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.99472,20.26056,-74.99472,20.26056",
+    "geom:latitude":20.26056,
+    "geom:longitude":-74.99472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Caldera",
+    "gn:country_code":"CU",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3555242,
+    "gn:latitude":20.26056,
+    "gn:longitude":-74.99472,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"La Caldera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Caldera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091908743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555242
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b0005918ea4e15c4e1ed1ef458e193d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908743,
+            "locality_id":1193120877,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1193120877,
+    "wof:lastmodified":1537619015,
+    "wof:name":"La Caldera",
+    "wof:parent_id":1091908743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.99472,
+    20.26056,
+    -74.99472,
+    20.26056
+],
+  "geometry": {"coordinates":[-74.99472,20.26056],"type":"Point"}
+}

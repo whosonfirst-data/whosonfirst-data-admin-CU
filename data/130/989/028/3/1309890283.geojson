@@ -1,0 +1,70 @@
+{
+  "id": 1309890283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.44572,19.98382,-77.44572,19.98382",
+    "geom:latitude":19.98382,
+    "geom:longitude":-77.44572,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Piloncito",
+    "gn:country_code":"CU",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3544161,
+    "gn:latitude":19.98382,
+    "gn:longitude":-77.44572,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Piloncito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piloncito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544161
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2da17d5ea8e6cf6454f5169850f0d5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906677,
+            "locality_id":1309890283,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1309890283,
+    "wof:lastmodified":1537618940,
+    "wof:name":"Piloncito",
+    "wof:parent_id":1091906677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.44572,
+    19.98382,
+    -77.44572,
+    19.98382
+],
+  "geometry": {"coordinates":[-77.44571999999999,19.98382],"type":"Point"}
+}

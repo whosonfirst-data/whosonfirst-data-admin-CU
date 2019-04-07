@@ -1,0 +1,67 @@
+{
+  "id": 1259572813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.74639,20.60722,-76.74639,20.60722",
+    "geom:latitude":20.60722,
+    "geom:longitude":-76.74639,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Zamora",
+    "gn:country_code":"CU",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3533615,
+    "gn:latitude":20.60722,
+    "gn:longitude":-76.74639,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Zamora",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091907413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3533615
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9e88daccab5b352d37e643845a2c96a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907413,
+            "locality_id":1259572813,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1259572813,
+    "wof:lastmodified":1536730602,
+    "wof:name":"Zamora",
+    "wof:parent_id":1091907413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.74639,
+    20.60722,
+    -76.74639,
+    20.60722
+],
+  "geometry": {"coordinates":[-76.74639000000001,20.60722],"type":"Point"}
+}

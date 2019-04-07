@@ -1,0 +1,67 @@
+{
+  "id": 1310501921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.91917,21.88194,-82.91917,21.88194",
+    "geom:latitude":21.88194,
+    "geom:longitude":-82.91917,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"McKinley",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3547282,
+    "gn:latitude":21.88194,
+    "gn:longitude":-82.91917,
+    "gn:modification_date":"1995-06-07",
+    "gn:name":"McKinley",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670405,
+        1091906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547282
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"811ca560a026f6678c18443f90de8ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906563,
+            "locality_id":1310501921,
+            "region_id":85670405
+        }
+    ],
+    "wof:id":1310501921,
+    "wof:lastmodified":1536922766,
+    "wof:name":"McKinley",
+    "wof:parent_id":1091906563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.91917,
+    21.88194,
+    -82.91917,
+    21.88194
+],
+  "geometry": {"coordinates":[-82.91916999999999,21.88194],"type":"Point"}
+}

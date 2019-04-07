@@ -1,0 +1,67 @@
+{
+  "id": 1259863337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.6148,20.48335,-74.6148,20.48335",
+    "geom:latitude":20.48335,
+    "geom:longitude":-74.6148,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Navas",
+    "gn:country_code":"CU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3546130,
+    "gn:latitude":20.48335,
+    "gn:longitude":-74.6148,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Navas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nava",
+        "Navas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546130
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1826557b7453402fd56d94e28981e1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1259863337,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259863337,
+    "wof:lastmodified":1537618952,
+    "wof:name":"Navas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.6148,
+    20.48335,
+    -74.6148,
+    20.48335
+],
+  "geometry": {"coordinates":[-74.6148,20.48335],"type":"Point"}
+}

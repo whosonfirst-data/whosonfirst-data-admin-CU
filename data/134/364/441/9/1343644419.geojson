@@ -1,0 +1,70 @@
+{
+  "id": 1343644419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.42854,20.02668,-76.42854,20.02668",
+    "geom:latitude":20.02668,
+    "geom:longitude":-76.42854,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Codillo",
+    "gn:country_code":"CU",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11064058,
+    "gn:latitude":20.02668,
+    "gn:longitude":-76.42854,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"El Codillo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Codillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11064058
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"702055cd4a21799c2a1ddf0069821cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904765,
+            "locality_id":1343644419,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1343644419,
+    "wof:lastmodified":1537619216,
+    "wof:name":"El Codillo",
+    "wof:parent_id":1091904765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.42854,
+    20.02668,
+    -76.42854,
+    20.02668
+],
+  "geometry": {"coordinates":[-76.42854,20.02668],"type":"Point"}
+}

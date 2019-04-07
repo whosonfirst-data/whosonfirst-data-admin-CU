@@ -1,0 +1,67 @@
+{
+  "id": 1343563133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.33333,23.1,-81.33333,23.1",
+    "geom:latitude":23.1,
+    "geom:longitude":-81.33333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Rosario",
+    "gn:country_code":"CU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3541801,
+    "gn:latitude":23.1,
+    "gn:longitude":-81.33333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Rosario",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091903749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541801
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4e4f238b692e7a1cf0a38d30a5a6d77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903749,
+            "locality_id":1343563133,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1343563133,
+    "wof:lastmodified":1537092379,
+    "wof:name":"Rosario",
+    "wof:parent_id":1091903749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.33333,
+    23.1,
+    -81.33333,
+    23.1
+],
+  "geometry": {"coordinates":[-81.33333,23.1],"type":"Point"}
+}

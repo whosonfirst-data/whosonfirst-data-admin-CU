@@ -1,0 +1,70 @@
+{
+  "id": 1192989787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.95812,21.22308,-76.95812,21.22308",
+    "geom:latitude":21.22308,
+    "geom:longitude":-76.95812,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Peluas",
+    "gn:country_code":"CU",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746248,
+    "gn:latitude":21.22308,
+    "gn:longitude":-76.95812,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Las Pel\u00faas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Pel\u00faas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746248
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f30ba252358c1b8ae3f9983f5b678f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905945,
+            "locality_id":1192989787,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1192989787,
+    "wof:lastmodified":1537619129,
+    "wof:name":"Las Peluas",
+    "wof:parent_id":1091905945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95812,
+    21.22308,
+    -76.95812,
+    21.22308
+],
+  "geometry": {"coordinates":[-76.95811999999999,21.22308],"type":"Point"}
+}

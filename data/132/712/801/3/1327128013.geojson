@@ -1,0 +1,70 @@
+{
+  "id": 1327128013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.16156,20.36169,-75.16156,20.36169",
+    "geom:latitude":20.36169,
+    "geom:longitude":-75.16156,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Tagua",
+    "gn:country_code":"CU",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3550525,
+    "gn:latitude":20.36169,
+    "gn:longitude":-75.16156,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La T\u00e4gua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La T\u00e4gua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091904919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550525
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"33a71772218f8bbf226ac6af2dde155e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904919,
+            "locality_id":1327128013,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1327128013,
+    "wof:lastmodified":1537618982,
+    "wof:name":"La Tagua",
+    "wof:parent_id":1091904919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.16156,
+    20.36169,
+    -75.16156,
+    20.36169
+],
+  "geometry": {"coordinates":[-75.16155999999999,20.36169],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326462069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.16667,21.93333,-78.16667,21.93333",
+    "geom:latitude":21.93333,
+    "geom:longitude":-78.16667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Jucaral",
+    "gn:country_code":"CU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3555752,
+    "gn:latitude":21.93333,
+    "gn:longitude":-78.16667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Jucaral",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555752
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9e81876e6f6c4b61891b2b55843d3cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904517,
+            "locality_id":1326462069,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1326462069,
+    "wof:lastmodified":1537081974,
+    "wof:name":"Jucaral",
+    "wof:parent_id":1091904517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.16667,
+    21.93333,
+    -78.16667,
+    21.93333
+],
+  "geometry": {"coordinates":[-78.16667,21.93333],"type":"Point"}
+}

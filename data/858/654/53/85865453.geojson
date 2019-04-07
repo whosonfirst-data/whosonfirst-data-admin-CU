@@ -1,0 +1,104 @@
+{
+  "id": 85865453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11527785.543557,
+    "geom:bbox":"-82.435201,23.1064,-82.435201,23.1064",
+    "geom:latitude":23.1064,
+    "geom:longitude":-82.435201,
+    "gn:id":"",
+    "iso:country":"CU",
+    "lbl:latitude":23.1064,
+    "lbl:longitude":-82.435201,
+    "mps:latitude":23.104445,
+    "mps:longitude":-82.437498,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Monte Barreto"
+    ],
+    "name:spa_x_variant":[
+        "Mte Barreto"
+    ],
+    "name:unk_x_variant":[
+        "Monte Barreto"
+    ],
+    "qs:gn_adm0_cc":"CU",
+    "qs:gn_id":0,
+    "qs:gn_local":3553478,
+    "qs:local_max":6362,
+    "qs:local_sum":28186,
+    "qs:localhoods":23,
+    "qs:name":"Monte Barreto",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:name_local":"La Habana",
+    "qs:photo_max":197,
+    "qs:photo_sum":865,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":38,
+    "qs:woe_adm0":23424793,
+    "qs:woe_adm1":2345107,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":63817,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091907083,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23428032,
+        "qs:id":367834
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fc3e4e13ab26107215118e3b13e75165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907083,
+            "locality_id":-1,
+            "neighbourhood_id":85865453,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":85865453,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531871115,
+    "wof:name":"Monte Barreto",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.435201,
+    23.1064,
+    -82.435201,
+    23.1064
+],
+  "geometry": {"coordinates":[-82.43520100000001,23.1064],"type":"Point"}
+}

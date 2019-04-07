@@ -1,0 +1,73 @@
+{
+  "id": 1260203459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.40215,22.28858,-80.40215,22.28858",
+    "geom:latitude":22.28858,
+    "geom:longitude":-80.40215,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Altamira",
+    "gn:country_code":"CU",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3569107,
+    "gn:latitude":22.28858,
+    "gn:longitude":-80.40215,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Altamira",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Altamira"
+    ],
+    "name:und_x_variant":[
+        "Alta Mira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091906851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3569107
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c4eca5103a110b0e525d20bc58f458be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906851,
+            "locality_id":1260203459,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1260203459,
+    "wof:lastmodified":1537619119,
+    "wof:name":"Altamira",
+    "wof:parent_id":1091906851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.40215,
+    22.28858,
+    -80.40215,
+    22.28858
+],
+  "geometry": {"coordinates":[-80.40215000000001,22.28858],"type":"Point"}
+}

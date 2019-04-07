@@ -1,0 +1,108 @@
+{
+  "id": 890451713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.87111,22.61694,-79.87111,22.61694",
+    "geom:latitude":22.61694,
+    "geom:longitude":-79.87111,
+    "gn:country":"CU",
+    "gn:fcode":"PPL",
+    "gn:pop":26155,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6069\u514b\u9b6f\u897f\u54c8\u9054"
+    ],
+    "name:dut_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:eng_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:fre_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10dc\u10d9\u10e0\u10e3\u10e1\u10d8\u10ee\u10d0\u10d3\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:ita_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:pol_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:por_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:sco_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:spa_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Encrucijada"
+    ],
+    "name:vie_x_preferred":[
+        "Encrucijada"
+    ],
+    "qs:name":"Encrucijada",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":144,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559416,
+        "gp:id":62463,
+        "qs:id":148944,
+        "wd:id":"Q370266",
+        "wk:page":"Encrucijada"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052791,
+    "wof:geomhash":"2c874d96ab32f6e33569164c3a1f2ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904483,
+            "locality_id":890451713,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":890451713,
+    "wof:lastmodified":1527792938,
+    "wof:name":"Encrucijada",
+    "wof:parent_id":1091904483,
+    "wof:placetype":"locality",
+    "wof:population":26155,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.87111,
+    22.61694,
+    -79.87111,
+    22.61694
+],
+  "geometry": {"coordinates":[-79.87111,22.61694],"type":"Point"}
+}

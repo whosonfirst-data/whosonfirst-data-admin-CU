@@ -1,0 +1,132 @@
+{
+  "id": 1126107767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.39111,23.13639,-82.39111,23.13639",
+    "geom:latitude":23.13639,
+    "geom:longitude":-82.39111,
+    "gn:gn_country":"CU",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":23.13639,
+    "gn:longitude":-82.39111,
+    "iso:country":"CU",
+    "lbl:latitude":23.13639,
+    "lbl:longitude":-82.39111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vedado"
+    ],
+    "name:eng_x_preferred":[
+        "Vedado"
+    ],
+    "name:epo_x_preferred":[
+        "El Vedado"
+    ],
+    "name:fre_x_preferred":[
+        "Vedado"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d4\u10d3\u10d0\u10d3\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Vedado"
+    ],
+    "name:ita_x_preferred":[
+        "El Vedado"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30c0\u30c9"
+    ],
+    "name:por_x_preferred":[
+        "El Vedado"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0434\u0430\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "El Vedado"
+    ],
+    "name:swe_x_preferred":[
+        "Vedado"
+    ],
+    "qs_pg:aaroncc":"CU",
+    "qs_pg:gn_country":"CU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3534599,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vedado",
+    "qs_pg:name_adm0":"Cuba",
+    "qs_pg:name_adm1":"Ciudad de la Habana",
+    "qs_pg:photos":5000,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5000,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":489088,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424793,
+    "qs_pg:woe_id":68496,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424793,
+    "woe:name_adm0":"Cuba",
+    "woe:name_adm1":"Ciudad de la Habana",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670445,
+        102191575,
+        85632675,
+        1091907125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534599,
+        "gp:id":68496,
+        "qs:id":489088,
+        "qs_pg:id":489088,
+        "wd:id":"Q1748851",
+        "wk:page":"Vedado"
+    },
+    "wof:country":"CU",
+    "wof:created":1497317498,
+    "wof:geomhash":"d4bddc5fdb4043a970c72ccaf5a7633a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907125,
+            "locality_id":-1,
+            "neighbourhood_id":1126107767,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1126107767,
+    "wof:lastmodified":1534379264,
+    "wof:name":"Vedado",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85793695
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.39111,
+    23.13639,
+    -82.39111,
+    23.13639
+],
+  "geometry": {"coordinates":[-82.39111,23.13639],"type":"Point"}
+}

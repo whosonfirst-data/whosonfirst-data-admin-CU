@@ -1,0 +1,67 @@
+{
+  "id": 1343438093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.85,20.56667,-74.85,20.56667",
+    "geom:latitude":20.56667,
+    "geom:longitude":-74.85,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cayo Guam",
+    "gn:country_code":"CU",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3564761,
+    "gn:latitude":20.56667,
+    "gn:longitude":-74.85,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Cayo Guam",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091906483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564761
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9ef40d0472b74adcfeeccae8c9552f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906483,
+            "locality_id":1343438093,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1343438093,
+    "wof:lastmodified":1536779109,
+    "wof:name":"Cayo Guam",
+    "wof:parent_id":1091906483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.85,
+    20.56667,
+    -74.85,
+    20.56667
+],
+  "geometry": {"coordinates":[-74.84999999999999,20.56667],"type":"Point"}
+}

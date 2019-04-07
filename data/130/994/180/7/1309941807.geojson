@@ -1,0 +1,71 @@
+{
+  "id": 1309941807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.81833,22.97056,-82.81833,22.97056",
+    "geom:latitude":22.97056,
+    "geom:longitude":-82.81833,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Quiebra Hacha",
+    "gn:country_code":"CU",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543027,
+    "gn:latitude":22.97056,
+    "gn:longitude":-82.81833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quiebra Hacha",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poblado Quiebra Hacha",
+        "Quiebra Hacha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091906179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543027
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1f719a8fbcb269006792a12e4a76df13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906179,
+            "locality_id":1309941807,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1309941807,
+    "wof:lastmodified":1537618930,
+    "wof:name":"Quiebra Hacha",
+    "wof:parent_id":1091906179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.81833,
+    22.97056,
+    -82.81833,
+    22.97056
+],
+  "geometry": {"coordinates":[-82.81833,22.97056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226635801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.26667,20.08333,-77.26667,20.08333",
+    "geom:latitude":20.08333,
+    "geom:longitude":-77.26667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Naranjo",
+    "gn:country_code":"CU",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3546217,
+    "gn:latitude":20.08333,
+    "gn:longitude":-77.26667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Naranjo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546217
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fb52840096cf8fd930a7eb519d6694d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903673,
+            "locality_id":1226635801,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1226635801,
+    "wof:lastmodified":1536872789,
+    "wof:name":"Naranjo",
+    "wof:parent_id":1091903673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.26666999999998,
+    20.08333,
+    -77.26666999999998,
+    20.08333
+],
+  "geometry": {"coordinates":[-77.26666999999998,20.08333],"type":"Point"}
+}

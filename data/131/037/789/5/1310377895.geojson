@@ -1,0 +1,70 @@
+{
+  "id": 1310377895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.62051,22.37275,-79.62051,22.37275",
+    "geom:latitude":22.37275,
+    "geom:longitude":-79.62051,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Caturla",
+    "gn:country_code":"CU",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3564921,
+    "gn:latitude":22.37275,
+    "gn:longitude":-79.62051,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Caturla",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caturla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564921
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2d36de097b2eacaa71f5719871bbcb1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1310377895,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1310377895,
+    "wof:lastmodified":1537619087,
+    "wof:name":"Caturla",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.62051,
+    22.37275,
+    -79.62051,
+    22.37275
+],
+  "geometry": {"coordinates":[-79.62051,22.37275],"type":"Point"}
+}

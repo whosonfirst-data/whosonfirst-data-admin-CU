@@ -1,0 +1,71 @@
+{
+  "id": 1344047065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.59753,20.62032,-76.59753,20.62032",
+    "geom:latitude":20.62032,
+    "geom:longitude":-76.59753,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tranquera",
+    "gn:country_code":"CU",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3550435,
+    "gn:latitude":20.62032,
+    "gn:longitude":-76.59753,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Tranquera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tranqueras",
+        "La Tranquera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550435
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e731cdf7c02de11b245deebb657789de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903821,
+            "locality_id":1344047065,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1344047065,
+    "wof:lastmodified":1537618981,
+    "wof:name":"Tranquera",
+    "wof:parent_id":1091903821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.59753,
+    20.62032,
+    -76.59753,
+    20.62032
+],
+  "geometry": {"coordinates":[-76.59753000000001,20.62032],"type":"Point"}
+}

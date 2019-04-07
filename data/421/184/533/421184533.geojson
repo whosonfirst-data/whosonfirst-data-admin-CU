@@ -1,0 +1,80 @@
+{
+  "id": 421184533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.78028,21.85861,-78.78028,21.85861",
+    "geom:latitude":21.85861,
+    "geom:longitude":-78.78028,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "La Palma"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3552354,
+    "qs:gn_pop":0,
+    "qs:name":"Las Palmas",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciego de Avila",
+    "qs:photos":18,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":18,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1001521,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":64714,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091903947,
+        85670419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552354,
+        "gp:id":64714,
+        "qs:id":1001521
+    },
+    "wof:country":"CU",
+    "wof:created":1459009414,
+    "wof:geomhash":"eb7195c1cbee275232ae5a191e6a6c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903947,
+            "locality_id":-1,
+            "neighbourhood_id":421184533,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":421184533,
+    "wof:lastmodified":1531858535,
+    "wof:name":"Las Palmas",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.78028,
+    21.85861,
+    -78.78028,
+    21.85861
+],
+  "geometry": {"coordinates":[-78.78028,21.85861],"type":"Point"}
+}

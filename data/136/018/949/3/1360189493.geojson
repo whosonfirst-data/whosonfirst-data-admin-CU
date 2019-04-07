@@ -1,0 +1,70 @@
+{
+  "id": 1360189493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.05334,21.57453,-77.05334,21.57453",
+    "geom:latitude":21.57453,
+    "geom:longitude":-77.05334,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tararacos",
+    "gn:country_code":"CU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056988,
+    "gn:latitude":21.57453,
+    "gn:longitude":-77.05334,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Tararacos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tararacos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091906765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056988
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d6eaf79db87f6b6321e1002b1d9f30de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906765,
+            "locality_id":1360189493,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1360189493,
+    "wof:lastmodified":1537619202,
+    "wof:name":"Tararacos",
+    "wof:parent_id":1091906765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.05334,
+    21.57453,
+    -77.05334,
+    21.57453
+],
+  "geometry": {"coordinates":[-77.05334000000001,21.57453],"type":"Point"}
+}

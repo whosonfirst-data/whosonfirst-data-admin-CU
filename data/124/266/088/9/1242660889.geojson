@@ -1,0 +1,71 @@
+{
+  "id": 1242660889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.46106,22.04956,-79.46106,22.04956",
+    "geom:latitude":22.04956,
+    "geom:longitude":-79.46106,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Guayos",
+    "gn:country_code":"CU",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557432,
+    "gn:latitude":22.04956,
+    "gn:longitude":-79.46106,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Guayos",
+    "gn:population":15000,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091903285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557432,
+        "wk:page":"Guayos"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c3484f49f42d230c2e88507ea250c66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903285,
+            "locality_id":1242660889,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1242660889,
+    "wof:lastmodified":1537503940,
+    "wof:name":"Guayos",
+    "wof:parent_id":1091903285,
+    "wof:placetype":"locality",
+    "wof:population":15000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.46106,
+    22.04956,
+    -79.46106,
+    22.04956
+],
+  "geometry": {"coordinates":[-79.46106,22.04956],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209392117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1,20.58333,-75.1,20.58333",
+    "geom:latitude":20.58333,
+    "geom:longitude":-75.1,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Canoa",
+    "gn:country_code":"CU",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3565691,
+    "gn:latitude":20.58333,
+    "gn:longitude":-75.1,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Canoa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565691
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8202d65c5145821725d5f7b074197b76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209392117
+        }
+    ],
+    "wof:id":1209392117,
+    "wof:lastmodified":1536288425,
+    "wof:name":"Canoa",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1,
+    20.58333,
+    -75.1,
+    20.58333
+],
+  "geometry": {"coordinates":[-75.09999999999999,20.58333],"type":"Point"}
+}

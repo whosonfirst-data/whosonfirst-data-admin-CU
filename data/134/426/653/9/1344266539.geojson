@@ -1,0 +1,70 @@
+{
+  "id": 1344266539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.84173,22.48805,-83.84173,22.48805",
+    "geom:latitude":22.48805,
+    "geom:longitude":-83.84173,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Isabel Maria",
+    "gn:country_code":"CU",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3556618,
+    "gn:latitude":22.48805,
+    "gn:longitude":-83.84173,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Isabel Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Isabel Mar\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091906417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556618
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"25f6129e44c73fa771b498f45ac75813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906417,
+            "locality_id":1344266539,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1344266539,
+    "wof:lastmodified":1537619025,
+    "wof:name":"Isabel Maria",
+    "wof:parent_id":1091906417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.84173,
+    22.48805,
+    -83.84173,
+    22.48805
+],
+  "geometry": {"coordinates":[-83.84173,22.48805],"type":"Point"}
+}

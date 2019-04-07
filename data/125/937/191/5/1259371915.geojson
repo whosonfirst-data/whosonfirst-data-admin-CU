@@ -1,0 +1,73 @@
+{
+  "id": 1259371915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.6407,20.09037,-74.6407,20.09037",
+    "geom:latitude":20.09037,
+    "geom:longitude":-74.6407,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guajacal",
+    "gn:country_code":"CU",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3560946,
+    "gn:latitude":20.09037,
+    "gn:longitude":-74.6407,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Guajacal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guajacal"
+    ],
+    "name:und_x_variant":[
+        "El Guajaco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560946
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cc4c459c543daf713d1a7b5c71aded31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1259371915,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1259371915,
+    "wof:lastmodified":1537619057,
+    "wof:name":"Guajacal",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.6407,
+    20.09037,
+    -74.6407,
+    20.09037
+],
+  "geometry": {"coordinates":[-74.6407,20.09037],"type":"Point"}
+}

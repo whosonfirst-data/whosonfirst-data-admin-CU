@@ -1,0 +1,70 @@
+{
+  "id": 1276909351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.68129,23.02826,-82.68129,23.02826",
+    "geom:latitude":23.02826,
+    "geom:longitude":-82.68129,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Playa Guajaibon",
+    "gn:country_code":"CU",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210576,
+    "gn:latitude":23.02826,
+    "gn:longitude":-82.68129,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Playa Guajaib\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Playa Guajaib\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091906179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210576
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c4546e5975b1889284675504ab9a9239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906179,
+            "locality_id":1276909351,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1276909351,
+    "wof:lastmodified":1537619232,
+    "wof:name":"Playa Guajaibon",
+    "wof:parent_id":1091906179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.68129,
+    23.02826,
+    -82.68129,
+    23.02826
+],
+  "geometry": {"coordinates":[-82.68129,23.02826],"type":"Point"}
+}

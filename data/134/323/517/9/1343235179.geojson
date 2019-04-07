@@ -1,0 +1,70 @@
+{
+  "id": 1343235179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.99366,20.34653,-75.99366,20.34653",
+    "geom:latitude":20.34653,
+    "geom:longitude":-75.99366,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Los Anoncillos",
+    "gn:country_code":"CU",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763195,
+    "gn:latitude":20.34653,
+    "gn:longitude":-75.99366,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Los Anoncillos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Anoncillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091906823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763195
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"129c9fb953c4db825832e318fa61528b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906823,
+            "locality_id":1343235179,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1343235179,
+    "wof:lastmodified":1537619138,
+    "wof:name":"Los Anoncillos",
+    "wof:parent_id":1091906823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.99365999999998,
+    20.34653,
+    -75.99365999999998,
+    20.34653
+],
+  "geometry": {"coordinates":[-75.99365999999998,20.34653],"type":"Point"}
+}

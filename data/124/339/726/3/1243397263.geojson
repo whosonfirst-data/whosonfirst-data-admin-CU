@@ -1,0 +1,67 @@
+{
+  "id": 1243397263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.61667,22.85,-82.61667,22.85",
+    "geom:latitude":22.85,
+    "geom:longitude":-82.61667,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Santo Tomas",
+    "gn:country_code":"CU",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3536570,
+    "gn:latitude":22.85,
+    "gn:longitude":-82.61667,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"Santo Tom\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091903451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536570
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8e6c3d7e25a1731f7fe5fabc4a2c5665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903451,
+            "locality_id":1243397263,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1243397263,
+    "wof:lastmodified":1536875665,
+    "wof:name":"Santo Tomas",
+    "wof:parent_id":1091903451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.61667,
+    22.85,
+    -82.61667,
+    22.85
+],
+  "geometry": {"coordinates":[-82.61667,22.85],"type":"Point"}
+}

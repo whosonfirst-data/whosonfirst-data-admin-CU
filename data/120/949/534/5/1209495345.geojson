@@ -1,0 +1,64 @@
+{
+  "id": 1209495345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.17631,21.0367,-76.17631,21.0367",
+    "geom:latitude":21.0367,
+    "geom:longitude":-76.17631,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Arroyon",
+    "gn:country_code":"CU",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060785,
+    "gn:latitude":21.0367,
+    "gn:longitude":-76.17631,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Arroy\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arroy\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060785
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b714f29a13c57c4ee75b3ada1cd04fc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209495345
+        }
+    ],
+    "wof:id":1209495345,
+    "wof:lastmodified":1537619209,
+    "wof:name":"Arroyon",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.17631,
+    21.0367,
+    -76.17631,
+    21.0367
+],
+  "geometry": {"coordinates":[-76.17631,21.0367],"type":"Point"}
+}

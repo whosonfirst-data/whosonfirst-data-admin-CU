@@ -1,0 +1,71 @@
+{
+  "id": 1260288553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.99837,22.31427,-83.99837,22.31427",
+    "geom:latitude":22.31427,
+    "geom:longitude":-83.99837,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Punta de la Sierra",
+    "gn:country_code":"CU",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543225,
+    "gn:latitude":22.31427,
+    "gn:longitude":-83.99837,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Punta de la Sierra",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Punta la Sierra",
+        "Punta de la Sierra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091904873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543225
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9fbfb599e1ed06da40a268562b3770bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904873,
+            "locality_id":1260288553,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1260288553,
+    "wof:lastmodified":1537618932,
+    "wof:name":"Punta de la Sierra",
+    "wof:parent_id":1091904873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.99837,
+    22.31427,
+    -83.99837,
+    22.31427
+],
+  "geometry": {"coordinates":[-83.99836999999999,22.31427],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209251093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.51667,22.73333,-82.51667,22.73333",
+    "geom:latitude":22.73333,
+    "geom:longitude":-82.51667,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Conformidad",
+    "gn:country_code":"CU",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3563583,
+    "gn:latitude":22.73333,
+    "gn:longitude":-82.51667,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"Conformidad",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563583
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c250745dfdfe2b340dd02c6646bc8c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209251093
+        }
+    ],
+    "wof:id":1209251093,
+    "wof:lastmodified":1536293002,
+    "wof:name":"Conformidad",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.51666999999998,
+    22.73333,
+    -82.51666999999998,
+    22.73333
+],
+  "geometry": {"coordinates":[-82.51666999999998,22.73333],"type":"Point"}
+}

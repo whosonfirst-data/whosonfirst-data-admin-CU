@@ -1,0 +1,70 @@
+{
+  "id": 1276126091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76538,23.04941,-80.76538,23.04941",
+    "geom:latitude":23.04941,
+    "geom:longitude":-80.76538,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Las Marias",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10950808,
+    "gn:latitude":23.04941,
+    "gn:longitude":-80.76538,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Las Mar\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Mar\u00edas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950808
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ba3bfc2e6a7f8073bb08cd19c8f1a846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906225,
+            "locality_id":1276126091,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1276126091,
+    "wof:lastmodified":1537619151,
+    "wof:name":"Las Marias",
+    "wof:parent_id":1091906225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76538000000002,
+    23.04941,
+    -80.76538000000002,
+    23.04941
+],
+  "geometry": {"coordinates":[-80.76538000000002,23.04941],"type":"Point"}
+}

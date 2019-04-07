@@ -1,0 +1,70 @@
+{
+  "id": 1225921395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.43415,20.92101,-76.43415,20.92101",
+    "geom:latitude":20.92101,
+    "geom:longitude":-76.43415,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Punto Fijo",
+    "gn:country_code":"CU",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11061306,
+    "gn:latitude":20.92101,
+    "gn:longitude":-76.43415,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Punto Fijo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Punto Fijo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091905117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11061306
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e6e797303d85728da927c544ac016eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905117,
+            "locality_id":1225921395,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1225921395,
+    "wof:lastmodified":1537619209,
+    "wof:name":"Punto Fijo",
+    "wof:parent_id":1091905117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.43415,
+    20.92101,
+    -76.43415,
+    20.92101
+],
+  "geometry": {"coordinates":[-76.43415,20.92101],"type":"Point"}
+}

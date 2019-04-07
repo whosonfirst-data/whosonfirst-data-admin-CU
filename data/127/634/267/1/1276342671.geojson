@@ -1,0 +1,67 @@
+{
+  "id": 1276342671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.025,22.71722,-81.025,22.71722",
+    "geom:latitude":22.71722,
+    "geom:longitude":-81.025,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Los Ladrones",
+    "gn:country_code":"CU",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3549149,
+    "gn:latitude":22.71722,
+    "gn:longitude":-81.025,
+    "gn:modification_date":"1996-07-18",
+    "gn:name":"Los Ladrones",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549149
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3e3b280d2db03cf2b69c74d38a5cbd01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906933,
+            "locality_id":1276342671,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1276342671,
+    "wof:lastmodified":1536766281,
+    "wof:name":"Los Ladrones",
+    "wof:parent_id":1091906933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.025,
+    22.71722,
+    -81.025,
+    22.71722
+],
+  "geometry": {"coordinates":[-81.02500000000001,22.71722],"type":"Point"}
+}

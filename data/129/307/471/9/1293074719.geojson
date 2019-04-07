@@ -1,0 +1,74 @@
+{
+  "id": 1293074719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.23713,22.11039,-79.23713,22.11039",
+    "geom:latitude":22.11039,
+    "geom:longitude":-79.23713,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Manaca de Jobosi",
+    "gn:country_code":"CU",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3548154,
+    "gn:latitude":22.11039,
+    "gn:longitude":-79.23713,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Manaca de Jobos\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Manaca de Jobos\u00ed"
+    ],
+    "name:und_x_variant":[
+        "Manacas",
+        "Manacas de Jobos\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548154
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2f22b126f7a89faf68d0f27670036e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908397,
+            "locality_id":1293074719,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1293074719,
+    "wof:lastmodified":1537618965,
+    "wof:name":"Manaca de Jobosi",
+    "wof:parent_id":1091908397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.23713000000002,
+    22.11039,
+    -79.23713000000002,
+    22.11039
+],
+  "geometry": {"coordinates":[-79.23713000000002,22.11039],"type":"Point"}
+}

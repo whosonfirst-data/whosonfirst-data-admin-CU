@@ -1,0 +1,70 @@
+{
+  "id": 1243539043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.56806,20.03127,-77.56806,20.03127",
+    "geom:latitude":20.03127,
+    "geom:longitude":-77.56806,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Los Trozos",
+    "gn:country_code":"CU",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11016585,
+    "gn:latitude":20.03127,
+    "gn:longitude":-77.56806,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Los Trozos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Trozos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11016585
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"708b43bd24cf234fd2e7edd89447f0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906677,
+            "locality_id":1243539043,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1243539043,
+    "wof:lastmodified":1537619185,
+    "wof:name":"Los Trozos",
+    "wof:parent_id":1091906677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.56806,
+    20.03127000000001,
+    -77.56806,
+    20.03127000000001
+],
+  "geometry": {"coordinates":[-77.56806,20.03127000000001],"type":"Point"}
+}

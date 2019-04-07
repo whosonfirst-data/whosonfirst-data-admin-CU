@@ -1,0 +1,71 @@
+{
+  "id": 1293583099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.69084,20.061,-74.69084,20.061",
+    "geom:latitude":20.061,
+    "geom:longitude":-74.69084,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Yacabo Abajo",
+    "gn:country_code":"CU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3533852,
+    "gn:latitude":20.061,
+    "gn:longitude":-74.69084,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Yacabo Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yacabo",
+        "Yacabo Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3533852
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"353027b560519190b1a00e3163eeed88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1293583099,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1293583099,
+    "wof:lastmodified":1537618880,
+    "wof:name":"Yacabo Abajo",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.69084000000002,
+    20.061,
+    -74.69084000000002,
+    20.061
+],
+  "geometry": {"coordinates":[-74.69084000000002,20.061],"type":"Point"}
+}

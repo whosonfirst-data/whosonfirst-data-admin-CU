@@ -1,0 +1,77 @@
+{
+  "id": 421197019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.38333,23.1,-82.38333,23.1",
+    "geom:latitude":23.1,
+    "geom:longitude":-82.38333,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3547120,
+    "qs:gn_pop":0,
+    "qs:name":"Mendoza",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:photos":54,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":54,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1269689,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":65467,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091903863,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547120,
+        "gp:id":65467,
+        "qs:id":1269689
+    },
+    "wof:country":"CU",
+    "wof:created":1459009900,
+    "wof:geomhash":"e42f41e3afc59efdbca17a553aa9f6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903863,
+            "locality_id":-1,
+            "neighbourhood_id":421197019,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":421197019,
+    "wof:lastmodified":1531858744,
+    "wof:name":"Mendoza",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.38333,
+    23.1,
+    -82.38333,
+    23.1
+],
+  "geometry": {"coordinates":[-82.38333,23.1],"type":"Point"}
+}

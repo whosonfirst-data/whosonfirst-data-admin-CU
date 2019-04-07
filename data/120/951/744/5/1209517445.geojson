@@ -1,0 +1,61 @@
+{
+  "id": 1209517445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.26667,22.68333,-81.26667,22.68333",
+    "geom:latitude":22.68333,
+    "geom:longitude":-81.26667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Manga Larga",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3548053,
+    "gn:latitude":22.68333,
+    "gn:longitude":-81.26667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Manga Larga",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548053
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f2ebb07dd50b00f4b16e9c2141d3847d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209517445
+        }
+    ],
+    "wof:id":1209517445,
+    "wof:lastmodified":1536284687,
+    "wof:name":"Manga Larga",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.26666999999998,
+    22.68333,
+    -81.26666999999998,
+    22.68333
+],
+  "geometry": {"coordinates":[-81.26666999999998,22.68333],"type":"Point"}
+}

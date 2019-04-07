@@ -1,0 +1,70 @@
+{
+  "id": 1276678281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23492,21.88087,-80.23492,21.88087",
+    "geom:latitude":21.88087,
+    "geom:longitude":-80.23492,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Camilo Cienfuegos",
+    "gn:country_code":"CU",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951570,
+    "gn:latitude":21.88087,
+    "gn:longitude":-80.23492,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Camilo Cienfuegos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091904385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951570
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bc5bc8d3de823e3ef4690f8ac83eb341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904385,
+            "locality_id":1276678281,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1276678281,
+    "wof:lastmodified":1537619151,
+    "wof:name":"Camilo Cienfuegos",
+    "wof:parent_id":1091904385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23491999999997,
+    21.88087,
+    -80.23491999999997,
+    21.88087
+],
+  "geometry": {"coordinates":[-80.23491999999997,21.88087],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276411605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.67897,20.97357,-76.67897,20.97357",
+    "geom:latitude":20.97357,
+    "geom:longitude":-76.67897,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Naranjal",
+    "gn:country_code":"CU",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3546271,
+    "gn:latitude":20.97357,
+    "gn:longitude":-76.67897,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Naranjal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Naranjal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546271
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"db20609a2f7a7bc7580a5c57a928660c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1276411605,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1276411605,
+    "wof:lastmodified":1537618953,
+    "wof:name":"Naranjal",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.67896999999998,
+    20.97357,
+    -76.67896999999998,
+    20.97357
+],
+  "geometry": {"coordinates":[-76.67896999999998,20.97357],"type":"Point"}
+}

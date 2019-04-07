@@ -1,0 +1,102 @@
+{
+  "id": 421170371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.38707,22.968034,-82.38707,22.968034",
+    "geom:latitude":22.968034,
+    "geom:longitude":-82.38707,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041b\u044a\u0436\u043b\u0438\u0432\u043e \u0441\u044a\u0440\u0446\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Coraz\u00f3n que miente"
+    ],
+    "name:ind_x_preferred":[
+        "Coraz\u00f3n que miente"
+    ],
+    "name:ita_x_preferred":[
+        "Coraz\u00f3n que miente"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ub77c\uc190 \ucf00 \ubbf8\uc5d4\ud14c"
+    ],
+    "name:pol_x_preferred":[
+        "Coraz\u00f3n que miente"
+    ],
+    "name:por_x_preferred":[
+        "Coraz\u00f3n que miente"
+    ],
+    "name:sco_x_preferred":[
+        "Coraz\u00f3n que miente"
+    ],
+    "name:spa_x_preferred":[
+        "Coraz\u00f3n que miente"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Reparto la Caridad",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1323607,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":66574,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091903205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":66574,
+        "qs:id":1323607
+    },
+    "wof:country":"CU",
+    "wof:created":1459008850,
+    "wof:geomhash":"870392b47206e885c46727b2b48353ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903205,
+            "locality_id":421170371,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":421170371,
+    "wof:lastmodified":1499977421,
+    "wof:name":"Reparto la Caridad",
+    "wof:parent_id":1091903205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.38707,
+    22.968034,
+    -82.38707,
+    22.968034
+],
+  "geometry": {"coordinates":[-82.38706999999999,22.968034],"type":"Point"}
+}

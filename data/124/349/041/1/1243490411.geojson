@@ -1,0 +1,67 @@
+{
+  "id": 1243490411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.7,22.91667,-82.7,22.91667",
+    "geom:latitude":22.91667,
+    "geom:longitude":-82.7,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"La Ofelia",
+    "gn:country_code":"CU",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3552394,
+    "gn:latitude":22.91667,
+    "gn:longitude":-82.7,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"La Ofelia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091904827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552394
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"84724193dd1d65a0ad4e9c9995c6dee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904827,
+            "locality_id":1243490411,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1243490411,
+    "wof:lastmodified":1536741841,
+    "wof:name":"La Ofelia",
+    "wof:parent_id":1091904827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.7,
+    22.91667,
+    -82.7,
+    22.91667
+],
+  "geometry": {"coordinates":[-82.7,22.91667],"type":"Point"}
+}

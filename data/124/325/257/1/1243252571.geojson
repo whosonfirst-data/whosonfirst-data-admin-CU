@@ -1,0 +1,67 @@
+{
+  "id": 1243252571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.29833,20.30139,-74.29833,20.30139",
+    "geom:latitude":20.30139,
+    "geom:longitude":-74.29833,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Boruga",
+    "gn:country_code":"CU",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3566981,
+    "gn:latitude":20.30139,
+    "gn:longitude":-74.29833,
+    "gn:modification_date":"1996-04-17",
+    "gn:name":"Boruga",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091902961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566981
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"29d9e118ed47cbd3d238a189851000c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902961,
+            "locality_id":1243252571,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1243252571,
+    "wof:lastmodified":1537081838,
+    "wof:name":"Boruga",
+    "wof:parent_id":1091902961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.29833,
+    20.30139,
+    -74.29833,
+    20.30139
+],
+  "geometry": {"coordinates":[-74.29833000000001,20.30139],"type":"Point"}
+}

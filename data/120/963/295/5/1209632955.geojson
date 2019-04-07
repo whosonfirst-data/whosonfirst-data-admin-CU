@@ -1,0 +1,64 @@
+{
+  "id": 1209632955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.61358,22.69479,-83.61358,22.69479",
+    "geom:latitude":22.69479,
+    "geom:longitude":-83.61358,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Canalete",
+    "gn:country_code":"CU",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3565853,
+    "gn:latitude":22.69479,
+    "gn:longitude":-83.61358,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Canalete",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Canalete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565853
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"76a48c65dd89ee21b0b5b3fc06bf5a95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209632955
+        }
+    ],
+    "wof:id":1209632955,
+    "wof:lastmodified":1537619095,
+    "wof:name":"Canalete",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.61358,
+    22.69479,
+    -83.61358,
+    22.69479
+],
+  "geometry": {"coordinates":[-83.61358,22.69479],"type":"Point"}
+}

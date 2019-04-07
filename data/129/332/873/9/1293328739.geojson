@@ -1,0 +1,74 @@
+{
+  "id": 1293328739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.17787,23.0654,-82.17787,23.0654",
+    "geom:latitude":23.0654,
+    "geom:longitude":-82.17787,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"La Sepultura",
+    "gn:country_code":"CU",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3536321,
+    "gn:latitude":23.0654,
+    "gn:longitude":-82.17787,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"La Sepultura",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Sepultura"
+    ],
+    "name:und_x_variant":[
+        "Sepultuna",
+        "Sepultura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091904803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536321
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0952dfe8d34941231e7ed60851b8fe4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904803,
+            "locality_id":1293328739,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1293328739,
+    "wof:lastmodified":1537618894,
+    "wof:name":"La Sepultura",
+    "wof:parent_id":1091904803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.17787,
+    23.0654,
+    -82.17787,
+    23.0654
+],
+  "geometry": {"coordinates":[-82.17787,23.0654],"type":"Point"}
+}

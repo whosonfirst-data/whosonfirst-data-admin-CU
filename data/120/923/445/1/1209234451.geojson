@@ -1,0 +1,66 @@
+{
+  "id": 1209234451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.26667,22.21667,-80.26667,22.21667",
+    "geom:latitude":22.21667,
+    "geom:longitude":-80.26667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Segunda Palma",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3536363,
+    "gn:latitude":22.21667,
+    "gn:longitude":-80.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Segunda Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "2 da Palma",
+        "Segunda Palma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536363
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"82fee7bccf3b26ee50ab463c550d3ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209234451
+        }
+    ],
+    "wof:id":1209234451,
+    "wof:lastmodified":1537618894,
+    "wof:name":"Segunda Palma",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.26666999999998,
+    22.21667,
+    -80.26666999999998,
+    22.21667
+],
+  "geometry": {"coordinates":[-80.26666999999998,22.21667],"type":"Point"}
+}

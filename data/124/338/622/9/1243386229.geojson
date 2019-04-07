@@ -1,0 +1,70 @@
+{
+  "id": 1243386229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.73007,21.57242,-77.73007,21.57242",
+    "geom:latitude":21.57242,
+    "geom:longitude":-77.73007,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Cercado",
+    "gn:country_code":"CU",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3561495,
+    "gn:latitude":21.57242,
+    "gn:longitude":-77.73007,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"El Cercado",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cercado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561495
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"71fd6e7ad1e8da90bf06bdb7ef81b43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908301,
+            "locality_id":1243386229,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1243386229,
+    "wof:lastmodified":1537619062,
+    "wof:name":"El Cercado",
+    "wof:parent_id":1091908301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.73007,
+    21.57242,
+    -77.73007,
+    21.57242
+],
+  "geometry": {"coordinates":[-77.73007,21.57242],"type":"Point"}
+}

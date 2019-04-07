@@ -1,0 +1,67 @@
+{
+  "id": 1326813917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.43333,21.9,-79.43333,21.9",
+    "geom:latitude":21.9,
+    "geom:longitude":-79.43333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"San Isidro",
+    "gn:country_code":"CU",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3540077,
+    "gn:latitude":21.9,
+    "gn:longitude":-79.43333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"San Isidro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091907919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540077
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5b53d0691e22f2ea2d7f530da47479d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907919,
+            "locality_id":1326813917,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1326813917,
+    "wof:lastmodified":1537072086,
+    "wof:name":"San Isidro",
+    "wof:parent_id":1091907919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.43333,
+    21.9,
+    -79.43333,
+    21.9
+],
+  "geometry": {"coordinates":[-79.43333,21.9],"type":"Point"}
+}

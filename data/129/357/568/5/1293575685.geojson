@@ -1,0 +1,70 @@
+{
+  "id": 1293575685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.23167,21.01389,-77.23167,21.01389",
+    "geom:latitude":21.01389,
+    "geom:longitude":-77.23167,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Yolanda",
+    "gn:country_code":"CU",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746384,
+    "gn:latitude":21.01389,
+    "gn:longitude":-77.23167,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Yolanda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Yolanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746384
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7bc514b33dc9072ea58d6e07bf350da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905447,
+            "locality_id":1293575685,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1293575685,
+    "wof:lastmodified":1537619132,
+    "wof:name":"La Yolanda",
+    "wof:parent_id":1091905447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.23167,
+    21.01389,
+    -77.23167,
+    21.01389
+],
+  "geometry": {"coordinates":[-77.23166999999999,21.01389],"type":"Point"}
+}

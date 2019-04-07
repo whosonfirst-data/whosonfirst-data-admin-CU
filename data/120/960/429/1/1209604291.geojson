@@ -1,0 +1,64 @@
+{
+  "id": 1209604291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.49698,20.14268,-74.49698,20.14268",
+    "geom:latitude":20.14268,
+    "geom:longitude":-74.49698,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Descanso",
+    "gn:country_code":"CU",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080872,
+    "gn:latitude":20.14268,
+    "gn:longitude":-74.49698,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"El Descanso",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Descanso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080872
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ab047096dbeed2a0f75a7a30f643f79b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209604291
+        }
+    ],
+    "wof:id":1209604291,
+    "wof:lastmodified":1537619229,
+    "wof:name":"El Descanso",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.49698000000002,
+    20.14268,
+    -74.49698000000002,
+    20.14268
+],
+  "geometry": {"coordinates":[-74.49698000000002,20.14268],"type":"Point"}
+}

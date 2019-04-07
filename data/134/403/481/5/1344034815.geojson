@@ -1,0 +1,70 @@
+{
+  "id": 1344034815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.84246,20.42227,-74.84246,20.42227",
+    "geom:latitude":20.42227,
+    "geom:longitude":-74.84246,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Jaragua",
+    "gn:country_code":"CU",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11081716,
+    "gn:latitude":20.42227,
+    "gn:longitude":-74.84246,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Jaragu\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jaragu\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091906483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081716
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"78bd73d46f883f1933604340c54461d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906483,
+            "locality_id":1344034815,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1344034815,
+    "wof:lastmodified":1537619231,
+    "wof:name":"Jaragua",
+    "wof:parent_id":1091906483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.84246,
+    20.42227,
+    -74.84246,
+    20.42227
+],
+  "geometry": {"coordinates":[-74.84246,20.42227],"type":"Point"}
+}

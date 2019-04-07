@@ -1,0 +1,77 @@
+{
+  "id": 1293888265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.2737,21.51548,-78.2737,21.51548",
+    "geom:latitude":21.51548,
+    "geom:longitude":-78.2737,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Mercedes Numero Dos",
+    "gn:country_code":"CU",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550948,
+    "gn:latitude":21.51548,
+    "gn:longitude":-78.2737,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Las Mercedes Numero Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Mercedes Dos"
+    ],
+    "name:spa_x_variant":[
+        "Las Mercedes Numero Dos"
+    ],
+    "name:und_x_variant":[
+        "Mercedes",
+        "Las Mercedes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550948
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c60e8d22fb53f258e68d4b2e476f9e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904585,
+            "locality_id":1293888265,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1293888265,
+    "wof:lastmodified":1537618985,
+    "wof:name":"Las Mercedes Numero Dos",
+    "wof:parent_id":1091904585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.2737,
+    21.51548,
+    -78.2737,
+    21.51548
+],
+  "geometry": {"coordinates":[-78.27370000000001,21.51548],"type":"Point"}
+}

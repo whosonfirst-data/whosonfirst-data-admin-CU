@@ -1,0 +1,70 @@
+{
+  "id": 1360265249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.23713,20.50135,-76.23713,20.50135",
+    "geom:latitude":20.50135,
+    "geom:longitude":-76.23713,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cauto Cinco",
+    "gn:country_code":"CU",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063710,
+    "gn:latitude":20.50135,
+    "gn:longitude":-76.23713,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Cauto Cinco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cauto Cinco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091905355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063710
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a1b23641d9ad1af3c2745761058a0b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905355,
+            "locality_id":1360265249,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1360265249,
+    "wof:lastmodified":1537619213,
+    "wof:name":"Cauto Cinco",
+    "wof:parent_id":1091905355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.23713000000002,
+    20.50135,
+    -76.23713000000002,
+    20.50135
+],
+  "geometry": {"coordinates":[-76.23713000000002,20.50135],"type":"Point"}
+}

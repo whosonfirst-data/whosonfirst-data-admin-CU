@@ -1,0 +1,70 @@
+{
+  "id": 1242748871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76304,21.82654,-79.76304,21.82654",
+    "geom:latitude":21.82654,
+    "geom:longitude":-79.76304,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Pedrera",
+    "gn:country_code":"CU",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951572,
+    "gn:latitude":21.82654,
+    "gn:longitude":-79.76304,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"La Pedrera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Pedrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951572
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1f35f2306aec30cf6ca464e51c64b07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908473,
+            "locality_id":1242748871,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1242748871,
+    "wof:lastmodified":1537619151,
+    "wof:name":"La Pedrera",
+    "wof:parent_id":1091908473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76304,
+    21.82654,
+    -79.76304,
+    21.82654
+],
+  "geometry": {"coordinates":[-79.76304,21.82654],"type":"Point"}
+}

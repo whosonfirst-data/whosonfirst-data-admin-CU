@@ -1,0 +1,72 @@
+{
+  "id": 1276516875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.53333,22.66667,-80.53333,22.66667",
+    "geom:latitude":22.66667,
+    "geom:longitude":-80.53333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Martinez",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3547483,
+    "gn:latitude":22.66667,
+    "gn:longitude":-80.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mart\u00ednez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doutor P. Mart\u00ednez",
+        "Mart\u00ednez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091908169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547483
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a8477468192cf51dccf860dba9aa73c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908169,
+            "locality_id":1276516875,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1276516875,
+    "wof:lastmodified":1537618961,
+    "wof:name":"Martinez",
+    "wof:parent_id":1091908169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.53333,
+    22.66667,
+    -80.53333,
+    22.66667
+],
+  "geometry": {"coordinates":[-80.53333000000001,22.66667],"type":"Point"}
+}

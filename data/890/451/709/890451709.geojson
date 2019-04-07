@@ -1,0 +1,102 @@
+{
+  "id": 890451709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.29,22.72722,-81.29,22.72722",
+    "geom:latitude":22.72722,
+    "geom:longitude":-81.29,
+    "gn:country":"CU",
+    "gn:fcode":"PPL",
+    "gn:pop":26761,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4f69\u5fb7\u7f85\u8c9d\u5766\u5eab\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "name:eng_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "name:fre_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10d4\u10d3\u10e0\u10dd-\u10d1\u10d4\u10e2\u10d0\u10dc\u10d9\u10e3\u10e0\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "name:por_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "name:sco_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Pedro Betancourt"
+    ],
+    "name:unk_x_variant":[
+        "Corral Falso"
+    ],
+    "name:vie_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "qs:name":"Pedro Betancourt",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":246,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544607,
+        "gp:id":66028,
+        "qs:id":148919,
+        "wd:id":"Q2245897",
+        "wk:page":"Pedro Betancourt"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052791,
+    "wof:geomhash":"a2536ff25a1b4b22a20e599090bd7e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906893,
+            "locality_id":890451709,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":890451709,
+    "wof:lastmodified":1527792936,
+    "wof:name":"Pedro Betancourt",
+    "wof:parent_id":1091906893,
+    "wof:placetype":"locality",
+    "wof:population":26761,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.29,
+    22.72722,
+    -81.29,
+    22.72722
+],
+  "geometry": {"coordinates":[-81.29000000000001,22.72722],"type":"Point"}
+}

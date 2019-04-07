@@ -1,0 +1,72 @@
+{
+  "id": 1226755207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.75,22.63333,-80.75,22.63333",
+    "geom:latitude":22.63333,
+    "geom:longitude":-80.75,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Lorenzo del Mangal",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3539148,
+    "gn:latitude":22.63333,
+    "gn:longitude":-80.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Lorenzo del Mangal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mangal de San Lorenzo",
+        "San Lorenzo del Mangal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539148
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2a84041ae47d5eac53c200dbecbd7497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905697,
+            "locality_id":1226755207,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1226755207,
+    "wof:lastmodified":1537618909,
+    "wof:name":"San Lorenzo del Mangal",
+    "wof:parent_id":1091905697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.75,
+    22.63333,
+    -80.75,
+    22.63333
+],
+  "geometry": {"coordinates":[-80.75,22.63333],"type":"Point"}
+}

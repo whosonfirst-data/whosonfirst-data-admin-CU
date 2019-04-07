@@ -1,0 +1,67 @@
+{
+  "id": 1343795799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.05139,22.93056,-82.05139,22.93056",
+    "geom:latitude":22.93056,
+    "geom:longitude":-82.05139,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Rotolactor",
+    "gn:country_code":"CU",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763797,
+    "gn:latitude":22.93056,
+    "gn:longitude":-82.05139,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Rotolactor",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091907725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763797
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e6d0aef7a27ad88409b75e5047c9d637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907725,
+            "locality_id":1343795799,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1343795799,
+    "wof:lastmodified":1536760224,
+    "wof:name":"Rotolactor",
+    "wof:parent_id":1091907725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.05139,
+    22.93056,
+    -82.05139,
+    22.93056
+],
+  "geometry": {"coordinates":[-82.05139,22.93056],"type":"Point"}
+}

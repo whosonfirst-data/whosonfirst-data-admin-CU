@@ -1,0 +1,70 @@
+{
+  "id": 1310680519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58674,21.09769,-76.58674,21.09769",
+    "geom:latitude":21.09769,
+    "geom:longitude":-76.58674,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Santa Fe",
+    "gn:country_code":"CU",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058119,
+    "gn:latitude":21.09769,
+    "gn:longitude":-76.58674,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Santa Fe",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Fe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058119
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"68aca117a81f3a6713bab33ea8692c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1310680519,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1310680519,
+    "wof:lastmodified":1537619205,
+    "wof:name":"Santa Fe",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58674,
+    21.09769,
+    -76.58674,
+    21.09769
+],
+  "geometry": {"coordinates":[-76.58674000000001,21.09769],"type":"Point"}
+}

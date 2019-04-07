@@ -1,0 +1,67 @@
+{
+  "id": 1277164399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.43333,20.6,-75.43333,20.6",
+    "geom:latitude":20.6,
+    "geom:longitude":-75.43333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Limoncito",
+    "gn:country_code":"CU",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3549828,
+    "gn:latitude":20.6,
+    "gn:longitude":-75.43333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Limoncito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549828
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cb707dee1498b259673f41c15bb34777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904661,
+            "locality_id":1277164399,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1277164399,
+    "wof:lastmodified":1536649737,
+    "wof:name":"Limoncito",
+    "wof:parent_id":1091904661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.43333,
+    20.6,
+    -75.43333,
+    20.6
+],
+  "geometry": {"coordinates":[-75.43333,20.6],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260374099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.84895,21.84174,-79.84895,21.84174",
+    "geom:latitude":21.84174,
+    "geom:longitude":-79.84895,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Crucero de Bandomo",
+    "gn:country_code":"CU",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3563166,
+    "gn:latitude":21.84174,
+    "gn:longitude":-79.84895,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Crucero de Bandomo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciucero de Bandamo",
+        "Crucero de Bandomo",
+        "Crucero de Bandamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563166
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6b4adc28b72492dee696b36204d0bae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908473,
+            "locality_id":1260374099,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1260374099,
+    "wof:lastmodified":1537619075,
+    "wof:name":"Crucero de Bandomo",
+    "wof:parent_id":1091908473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84895,
+    21.84174,
+    -79.84895,
+    21.84174
+],
+  "geometry": {"coordinates":[-79.84895,21.84174],"type":"Point"}
+}

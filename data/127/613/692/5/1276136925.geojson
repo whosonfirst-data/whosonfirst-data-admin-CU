@@ -1,0 +1,71 @@
+{
+  "id": 1276136925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.8401,22.27967,-83.8401,22.27967",
+    "geom:latitude":22.27967,
+    "geom:longitude":-83.8401,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"San Juan y Martinez",
+    "gn:country_code":"CU",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3539258,
+    "gn:latitude":22.27967,
+    "gn:longitude":-83.8401,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"San Juan y Mart\u00ednez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan y Mart\u00ednez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539258,
+        "wk:page":"San_Juan_y_Mart%C3%ADnez"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"dbb1c6c2bcc69110694a4cf1d9db047d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907755,
+            "locality_id":1276136925,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1276136925,
+    "wof:lastmodified":1537618910,
+    "wof:name":"San Juan y Martinez",
+    "wof:parent_id":1091907755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.8401,
+    22.27967,
+    -83.8401,
+    22.27967
+],
+  "geometry": {"coordinates":[-83.84010000000001,22.27967],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343548293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.02655,21.03816,-76.02655,21.03816",
+    "geom:latitude":21.03816,
+    "geom:longitude":-76.02655,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Juan Cantares",
+    "gn:country_code":"CU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746267,
+    "gn:latitude":21.03816,
+    "gn:longitude":-76.02655,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Juan Cantares",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Juan Cantares"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091907267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746267
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"52474c9d184c891bfd911f850381285c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907267,
+            "locality_id":1343548293,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1343548293,
+    "wof:lastmodified":1537619130,
+    "wof:name":"Juan Cantares",
+    "wof:parent_id":1091907267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.02655,
+    21.03816,
+    -76.02655,
+    21.03816
+],
+  "geometry": {"coordinates":[-76.02655,21.03816],"type":"Point"}
+}

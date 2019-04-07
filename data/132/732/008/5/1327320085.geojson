@@ -1,0 +1,70 @@
+{
+  "id": 1327320085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.91646,21.15436,-76.91646,21.15436",
+    "geom:latitude":21.15436,
+    "geom:longitude":-76.91646,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dosal",
+    "gn:country_code":"CU",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057034,
+    "gn:latitude":21.15436,
+    "gn:longitude":-76.91646,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Dosal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dosal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057034
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cb9c25df4d941b09a6e22ac223fe6edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905945,
+            "locality_id":1327320085,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1327320085,
+    "wof:lastmodified":1537619203,
+    "wof:name":"Dosal",
+    "wof:parent_id":1091905945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.91646,
+    21.15436,
+    -76.91646,
+    21.15436
+],
+  "geometry": {"coordinates":[-76.91646,21.15436],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259714617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.67583,22.75639,-81.67583,22.75639",
+    "geom:latitude":22.75639,
+    "geom:longitude":-81.67583,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"La Leandra",
+    "gn:country_code":"CU",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3553079,
+    "gn:latitude":22.75639,
+    "gn:longitude":-81.67583,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"La Leandra",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091906719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553079
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"acf8949a5aa2274e4e7171f27dcdce8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906719,
+            "locality_id":1259714617,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1259714617,
+    "wof:lastmodified":1537021379,
+    "wof:name":"La Leandra",
+    "wof:parent_id":1091906719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.67583,
+    22.75639,
+    -81.67583,
+    22.75639
+],
+  "geometry": {"coordinates":[-81.67583,22.75639],"type":"Point"}
+}

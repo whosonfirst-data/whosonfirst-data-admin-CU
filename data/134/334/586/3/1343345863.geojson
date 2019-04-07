@@ -1,0 +1,70 @@
+{
+  "id": 1343345863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.78231,20.34495,-76.78231,20.34495",
+    "geom:latitude":20.34495,
+    "geom:longitude":-76.78231,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mabay",
+    "gn:country_code":"CU",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023386,
+    "gn:latitude":20.34495,
+    "gn:longitude":-76.78231,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Mabay",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mabay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023386
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"80e4e57eba8bb8f7842837bc0af1f950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903105,
+            "locality_id":1343345863,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1343345863,
+    "wof:lastmodified":1537619190,
+    "wof:name":"Mabay",
+    "wof:parent_id":1091903105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.78231,
+    20.34495,
+    -76.78231,
+    20.34495
+],
+  "geometry": {"coordinates":[-76.78231,20.34495],"type":"Point"}
+}

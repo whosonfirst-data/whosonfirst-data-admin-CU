@@ -1,0 +1,72 @@
+{
+  "id": 1259362437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.43333,20.83333,-77.43333,20.83333",
+    "geom:latitude":20.83333,
+    "geom:longitude":-77.43333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Federal Numero Dos",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3558984,
+    "gn:latitude":20.83333,
+    "gn:longitude":-77.43333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Federal N\u00famero Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Federal N\u00famero 2",
+        "Federal N\u00famero Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091904115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3558984
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d23905184e963328e9112e2cd012f7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904115,
+            "locality_id":1259362437,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1259362437,
+    "wof:lastmodified":1537619040,
+    "wof:name":"Federal Numero Dos",
+    "wof:parent_id":1091904115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.43333,
+    20.83333,
+    -77.43333,
+    20.83333
+],
+  "geometry": {"coordinates":[-77.43333,20.83333],"type":"Point"}
+}

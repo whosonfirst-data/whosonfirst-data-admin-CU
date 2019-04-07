@@ -1,0 +1,70 @@
+{
+  "id": 1327417355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.65751,22.06505,-79.65751,22.06505",
+    "geom:latitude":22.06505,
+    "geom:longitude":-79.65751,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Cariblanca",
+    "gn:country_code":"CU",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565395,
+    "gn:latitude":22.06505,
+    "gn:longitude":-79.65751,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Cariblanca",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cariblanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091904623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565395
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"03aa59a94b1d1bddb0ecb562db6d7519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904623,
+            "locality_id":1327417355,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1327417355,
+    "wof:lastmodified":1537619091,
+    "wof:name":"Cariblanca",
+    "wof:parent_id":1091904623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.65751,
+    22.06505,
+    -79.65751,
+    22.06505
+],
+  "geometry": {"coordinates":[-79.65751,22.06505],"type":"Point"}
+}

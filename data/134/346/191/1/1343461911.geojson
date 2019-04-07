@@ -1,0 +1,67 @@
+{
+  "id": 1343461911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.38333,22.96667,-82.38333,22.96667",
+    "geom:latitude":22.96667,
+    "geom:longitude":-82.38333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Union",
+    "gn:country_code":"CU",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550336,
+    "gn:latitude":22.96667,
+    "gn:longitude":-82.38333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"La Uni\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091903205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550336
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8f10d74e3b7ffc75ab7fa47f5ecadc93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903205,
+            "locality_id":1343461911,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1343461911,
+    "wof:lastmodified":1536743753,
+    "wof:name":"La Union",
+    "wof:parent_id":1091903205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.38333,
+    22.96667,
+    -82.38333,
+    22.96667
+],
+  "geometry": {"coordinates":[-82.38333,22.96667],"type":"Point"}
+}

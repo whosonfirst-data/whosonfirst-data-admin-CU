@@ -1,0 +1,67 @@
+{
+  "id": 1343471549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.45,23.03333,-82.45,23.03333",
+    "geom:latitude":23.03333,
+    "geom:longitude":-82.45,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Neptuno",
+    "gn:country_code":"CU",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3546038,
+    "gn:latitude":23.03333,
+    "gn:longitude":-82.45,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Neptuno",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091905567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546038
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5ae2e0ff51c32382abd2d24fab9b75ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905567,
+            "locality_id":1343471549,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1343471549,
+    "wof:lastmodified":1536730406,
+    "wof:name":"Neptuno",
+    "wof:parent_id":1091905567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.45,
+    23.03333,
+    -82.45,
+    23.03333
+],
+  "geometry": {"coordinates":[-82.45,23.03333],"type":"Point"}
+}

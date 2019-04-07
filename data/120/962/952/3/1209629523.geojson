@@ -1,0 +1,66 @@
+{
+  "id": 1209629523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.7,22.36667,-83.7,22.36667",
+    "geom:latitude":22.36667,
+    "geom:longitude":-83.7,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Coco",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3563961,
+    "gn:latitude":22.36667,
+    "gn:longitude":-83.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Coco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cugo",
+        "Coco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563961
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1b4f7f593126aaa53b0c453b8a715163",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209629523
+        }
+    ],
+    "wof:id":1209629523,
+    "wof:lastmodified":1537619080,
+    "wof:name":"Coco",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.7,
+    22.36667000000001,
+    -83.7,
+    22.36667000000001
+],
+  "geometry": {"coordinates":[-83.7,22.36667000000001],"type":"Point"}
+}

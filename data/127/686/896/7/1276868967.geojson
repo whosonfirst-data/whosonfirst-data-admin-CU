@@ -1,0 +1,70 @@
+{
+  "id": 1276868967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.89352,22.05571,-78.89352,22.05571",
+    "geom:latitude":22.05571,
+    "geom:longitude":-78.89352,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"San Atanasio",
+    "gn:country_code":"CU",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3540863,
+    "gn:latitude":22.05571,
+    "gn:longitude":-78.89352,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"San Atanasio",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Atanasio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091904557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540863
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"67beb054e9c1cbc008f8f906b2070c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904557,
+            "locality_id":1276868967,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1276868967,
+    "wof:lastmodified":1537618918,
+    "wof:name":"San Atanasio",
+    "wof:parent_id":1091904557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.89352,
+    22.05571,
+    -78.89352,
+    22.05571
+],
+  "geometry": {"coordinates":[-78.89352,22.05571],"type":"Point"}
+}

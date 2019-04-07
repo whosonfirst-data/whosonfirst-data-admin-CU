@@ -1,0 +1,67 @@
+{
+  "id": 1293221963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.02056,22.21,-79.02056,22.21",
+    "geom:latitude":22.21,
+    "geom:longitude":-79.02056,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Maria",
+    "gn:country_code":"CU",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547731,
+    "gn:latitude":22.21,
+    "gn:longitude":-79.02056,
+    "gn:modification_date":"1996-09-20",
+    "gn:name":"Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091903905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547731
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"da6c57a1085735a46c8ed795287a8169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903905,
+            "locality_id":1293221963,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1293221963,
+    "wof:lastmodified":1536672826,
+    "wof:name":"Maria",
+    "wof:parent_id":1091903905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.02056,
+    22.21,
+    -79.02056,
+    22.21
+],
+  "geometry": {"coordinates":[-79.02056,22.21],"type":"Point"}
+}

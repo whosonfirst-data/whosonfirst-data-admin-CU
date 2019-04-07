@@ -1,0 +1,70 @@
+{
+  "id": 1292895019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.92471,20.22694,-74.92471,20.22694",
+    "geom:latitude":20.22694,
+    "geom:longitude":-74.92471,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Levisa",
+    "gn:country_code":"CU",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3549908,
+    "gn:latitude":20.22694,
+    "gn:longitude":-74.92471,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Levisa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Levisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091906061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549908
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fbc174cb7569b03204cf9bb0fa21f1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906061,
+            "locality_id":1292895019,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1292895019,
+    "wof:lastmodified":1537618977,
+    "wof:name":"Levisa",
+    "wof:parent_id":1091906061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.92471,
+    20.22694,
+    -74.92471,
+    20.22694
+],
+  "geometry": {"coordinates":[-74.92471,20.22694],"type":"Point"}
+}

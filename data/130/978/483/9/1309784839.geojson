@@ -1,0 +1,70 @@
+{
+  "id": 1309784839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.99626,22.02344,-78.99626,22.02344",
+    "geom:latitude":22.02344,
+    "geom:longitude":-78.99626,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Jobo Cinco",
+    "gn:country_code":"CU",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008849,
+    "gn:latitude":22.02344,
+    "gn:longitude":-78.99626,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Jobo Cinco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jobo Cinco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008849
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"04e9a92aaa665b903329a09b09585b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905283,
+            "locality_id":1309784839,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1309784839,
+    "wof:lastmodified":1537619172,
+    "wof:name":"Jobo Cinco",
+    "wof:parent_id":1091905283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.99625999999998,
+    22.02344,
+    -78.99625999999998,
+    22.02344
+],
+  "geometry": {"coordinates":[-78.99625999999998,22.02344],"type":"Point"}
+}

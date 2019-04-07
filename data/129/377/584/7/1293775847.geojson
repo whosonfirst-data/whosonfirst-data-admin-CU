@@ -1,0 +1,74 @@
+{
+  "id": 1293775847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.71753,21.83622,-78.71753,21.83622",
+    "geom:latitude":21.83622,
+    "geom:longitude":-78.71753,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Suferry",
+    "gn:country_code":"CU",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11009173,
+    "gn:latitude":21.83622,
+    "gn:longitude":-78.71753,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Suferry",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sulferri"
+    ],
+    "name:spa_x_variant":[
+        "Suferry",
+        "Suferri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091903947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11009173
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"05915bafb3549e0ef66d90611d09cfa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903947,
+            "locality_id":1293775847,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1293775847,
+    "wof:lastmodified":1537619177,
+    "wof:name":"Suferry",
+    "wof:parent_id":1091903947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.71753000000002,
+    21.83622,
+    -78.71753000000002,
+    21.83622
+],
+  "geometry": {"coordinates":[-78.71753000000002,21.83622],"type":"Point"}
+}

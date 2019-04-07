@@ -1,0 +1,79 @@
+{
+  "id": 421191969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.61472,22.53222,-83.61472,22.53222",
+    "geom:latitude":22.53222,
+    "geom:longitude":-83.61472,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Pilotos"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3544134,
+    "qs:gn_pop":0,
+    "qs:name":"Pilotos",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Pinar del Rio",
+    "qs:photos":103,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":103,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1164742,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":66131,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091904175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544134,
+        "gp:id":66131,
+        "qs:id":1164742
+    },
+    "wof:country":"CU",
+    "wof:created":1459009716,
+    "wof:geomhash":"0780f39627d01741e9acfd8c5f177185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904175,
+            "locality_id":421191969,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":421191969,
+    "wof:lastmodified":1501267550,
+    "wof:name":"Pilotos",
+    "wof:parent_id":1091904175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.61472,
+    22.53222,
+    -83.61472,
+    22.53222
+],
+  "geometry": {"coordinates":[-83.61472000000001,22.53222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327452797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.41667,20.2,-76.41667,20.2",
+    "geom:latitude":20.2,
+    "geom:longitude":-76.41667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Los Lazos",
+    "gn:country_code":"CU",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3549146,
+    "gn:latitude":20.2,
+    "gn:longitude":-76.41667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Los Lazos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091905039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549146
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c85d3c6d0f0058017c7dfa3b72dd06ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905039,
+            "locality_id":1327452797,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1327452797,
+    "wof:lastmodified":1536651183,
+    "wof:name":"Los Lazos",
+    "wof:parent_id":1091905039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.41667,
+    20.2,
+    -76.41667,
+    20.2
+],
+  "geometry": {"coordinates":[-76.41667,20.2],"type":"Point"}
+}

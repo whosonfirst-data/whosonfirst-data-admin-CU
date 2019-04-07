@@ -1,0 +1,67 @@
+{
+  "id": 1259951383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.70639,21.10528,-76.70639,21.10528",
+    "geom:latitude":21.10528,
+    "geom:longitude":-76.70639,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cupeyal",
+    "gn:country_code":"CU",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3562787,
+    "gn:latitude":21.10528,
+    "gn:longitude":-76.70639,
+    "gn:modification_date":"1996-02-29",
+    "gn:name":"Cupeyal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562787
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2cb869252995065033c7758ba84a4bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1259951383,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1259951383,
+    "wof:lastmodified":1536681416,
+    "wof:name":"Cupeyal",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.70639,
+    21.10528,
+    -76.70639,
+    21.10528
+],
+  "geometry": {"coordinates":[-76.70639,21.10528],"type":"Point"}
+}

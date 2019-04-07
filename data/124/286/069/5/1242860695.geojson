@@ -1,0 +1,72 @@
+{
+  "id": 1242860695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.83333,21.25,-76.83333,21.25",
+    "geom:latitude":21.25,
+    "geom:longitude":-76.83333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Cubanita",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3554414,
+    "gn:latitude":21.25,
+    "gn:longitude":-76.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Cubanita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Cubana",
+        "La Cubanita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554414
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0e0d3c804fa4697fe5cffc0e896eabe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1242860695,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1242860695,
+    "wof:lastmodified":1537619010,
+    "wof:name":"La Cubanita",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.83333,
+    21.25,
+    -76.83333,
+    21.25
+],
+  "geometry": {"coordinates":[-76.83333,21.25],"type":"Point"}
+}

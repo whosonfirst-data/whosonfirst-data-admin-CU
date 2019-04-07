@@ -1,0 +1,67 @@
+{
+  "id": 1276196781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.65,21.76667,-79.65,21.76667",
+    "geom:latitude":21.76667,
+    "geom:longitude":-79.65,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Guira",
+    "gn:country_code":"CU",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3739881,
+    "gn:latitude":21.76667,
+    "gn:longitude":-79.65,
+    "gn:modification_date":"1995-01-25",
+    "gn:name":"G\u00fcira",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091907919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3739881
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fe2ea28883d73846a1a3aeaea7cd5782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907919,
+            "locality_id":1276196781,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1276196781,
+    "wof:lastmodified":1536961908,
+    "wof:name":"Guira",
+    "wof:parent_id":1091907919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.65,
+    21.76667,
+    -79.65,
+    21.76667
+],
+  "geometry": {"coordinates":[-79.65000000000001,21.76667],"type":"Point"}
+}

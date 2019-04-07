@@ -1,0 +1,67 @@
+{
+  "id": 1209895041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.18722,22.34528,-79.18722,22.34528",
+    "geom:latitude":22.34528,
+    "geom:longitude":-79.18722,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Joval",
+    "gn:country_code":"CU",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3555910,
+    "gn:latitude":22.34528,
+    "gn:longitude":-79.18722,
+    "gn:modification_date":"1996-07-19",
+    "gn:name":"Joval",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555910
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fb132940f9f2405cabf2f7ee9c4b3dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908735,
+            "locality_id":1209895041,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1209895041,
+    "wof:lastmodified":1536389004,
+    "wof:name":"Joval",
+    "wof:parent_id":1091908735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.18722,
+    22.34528,
+    -79.18722,
+    22.34528
+],
+  "geometry": {"coordinates":[-79.18722,22.34528],"type":"Point"}
+}

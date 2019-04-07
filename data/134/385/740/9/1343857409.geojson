@@ -1,0 +1,70 @@
+{
+  "id": 1343857409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.59264,21.10201,-77.59264,21.10201",
+    "geom:latitude":21.10201,
+    "geom:longitude":-77.59264,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Resistencia",
+    "gn:country_code":"CU",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3551826,
+    "gn:latitude":21.10201,
+    "gn:longitude":-77.59264,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Resistencia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Resistencia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551826
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0808be122b3b96e26942bcbe4da05532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908257,
+            "locality_id":1343857409,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1343857409,
+    "wof:lastmodified":1537618992,
+    "wof:name":"La Resistencia",
+    "wof:parent_id":1091908257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.59264,
+    21.10201,
+    -77.59264,
+    21.10201
+],
+  "geometry": {"coordinates":[-77.59264,21.10201],"type":"Point"}
+}

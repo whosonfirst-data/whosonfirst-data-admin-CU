@@ -1,0 +1,113 @@
+{
+  "id": 890429555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.12861,22.52694,-81.12861,22.52694",
+    "geom:latitude":22.52694,
+    "geom:longitude":-81.12861,
+    "gn:country":"CU",
+    "gn:fcode":"PPL",
+    "gn:pop":54363,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Jag\u00fcey Grande"
+    ],
+    "name:chi_x_preferred":[
+        "\u5927\u54c8\u572d"
+    ],
+    "name:dut_x_preferred":[
+        "Jag\u00fcey Grande"
+    ],
+    "name:eng_x_preferred":[
+        "Jag\u00fcey Grande"
+    ],
+    "name:fre_x_preferred":[
+        "Jag\u00fcey Grande"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ee\u10d0\u10d2\u10e3\u10d4\u10d8-\u10d2\u10e0\u10d0\u10dc\u10d3\u10d4"
+    ],
+    "name:ita_x_preferred":[
+        "Jag\u00fcey Grande"
+    ],
+    "name:por_x_preferred":[
+        "Jag\u00fcey Grande"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0433\u0443\u044d\u0439-\u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Jag\u00fcey Grande"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0433\u0432\u0435\u0458 \u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0491\u0443\u0435\u0439-\u0490\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06af\u0648\u06d2 \u06af\u0631\u0627\u0646\u062f\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Jag\u00fcey Grande"
+    ],
+    "qs:name":"Jag\u00fcey Grande",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:latitude":"22.529166666",
+    "wd:longitude":"-81.1325",
+    "wd:wordcount":216,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556437,
+        "gp:id":63089,
+        "qs:id":148932,
+        "wd:id":"Q2573456",
+        "wk:page":"Jag\u00fcey Grande"
+    },
+    "wof:country":"CU",
+    "wof:created":1469051819,
+    "wof:geomhash":"349d9d619961396e94527960c2543f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905195,
+            "locality_id":890429555,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":890429555,
+    "wof:lastmodified":1527792792,
+    "wof:name":"Jag\u00fcey Grande",
+    "wof:parent_id":1091905195,
+    "wof:placetype":"locality",
+    "wof:population":54363,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.12861,
+    22.52694,
+    -81.12861,
+    22.52694
+],
+  "geometry": {"coordinates":[-81.12860999999999,22.52694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293012403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.53333,22.63333,-81.53333,22.63333",
+    "geom:latitude":22.63333,
+    "geom:longitude":-81.53333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Guasimal",
+    "gn:country_code":"CU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3557603,
+    "gn:latitude":22.63333,
+    "gn:longitude":-81.53333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Guasimal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091908517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557603
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3486f199a0b66c616acc91cde1ef51c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908517,
+            "locality_id":1293012403,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1293012403,
+    "wof:lastmodified":1536974406,
+    "wof:name":"Guasimal",
+    "wof:parent_id":1091908517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.53333,
+    22.63333,
+    -81.53333,
+    22.63333
+],
+  "geometry": {"coordinates":[-81.53333000000001,22.63333],"type":"Point"}
+}

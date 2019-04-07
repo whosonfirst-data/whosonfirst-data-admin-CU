@@ -1,0 +1,72 @@
+{
+  "id": 1360215645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.79585,22.72444,-81.79585,22.72444",
+    "geom:latitude":22.72444,
+    "geom:longitude":-81.79585,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Guanamon de Herrera",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3557771,
+    "gn:latitude":22.72444,
+    "gn:longitude":-81.79585,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Guanam\u00f3n de Herrera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gr\u00faa Guanam\u00f3n de Herrera",
+        "Herrera",
+        "Guanam\u00f3n de Herrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091906719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557771
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8acd98a90922065191d19ba3511a906d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906719,
+            "locality_id":1360215645,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1360215645,
+    "wof:lastmodified":1537619032,
+    "wof:name":"Guanamon de Herrera",
+    "wof:parent_id":1091906719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.79585,
+    22.72444,
+    -81.79585,
+    22.72444
+],
+  "geometry": {"coordinates":[-81.79585,22.72444],"type":"Point"}
+}

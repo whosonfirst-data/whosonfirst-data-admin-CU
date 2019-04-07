@@ -1,0 +1,67 @@
+{
+  "id": 1343284621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.38528,21.56194,-78.38528,21.56194",
+    "geom:latitude":21.56194,
+    "geom:longitude":-78.38528,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Delia",
+    "gn:country_code":"CU",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3738024,
+    "gn:latitude":21.56194,
+    "gn:longitude":-78.38528,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Delia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738024
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"892b8e6caf6f847e0d15d9f201bc718f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904585,
+            "locality_id":1343284621,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1343284621,
+    "wof:lastmodified":1536999325,
+    "wof:name":"Delia",
+    "wof:parent_id":1091904585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.38528000000002,
+    21.56194,
+    -78.38528000000002,
+    21.56194
+],
+  "geometry": {"coordinates":[-78.38528000000002,21.56194],"type":"Point"}
+}

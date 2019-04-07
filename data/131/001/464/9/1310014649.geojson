@@ -1,0 +1,70 @@
+{
+  "id": 1310014649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.38638,22.99885,-82.38638,22.99885",
+    "geom:latitude":22.99885,
+    "geom:longitude":-82.38638,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rancho Boyeros",
+    "gn:country_code":"CU",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542792,
+    "gn:latitude":22.99885,
+    "gn:longitude":-82.38638,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Rancho Boyeros",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rancho Boyeros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091903205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542792
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cbd34e558eb69419a7801ec21c707b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903205,
+            "locality_id":1310014649,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1310014649,
+    "wof:lastmodified":1537618929,
+    "wof:name":"Rancho Boyeros",
+    "wof:parent_id":1091903205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.38638,
+    22.99885,
+    -82.38638,
+    22.99885
+],
+  "geometry": {"coordinates":[-82.38638,22.99885],"type":"Point"}
+}

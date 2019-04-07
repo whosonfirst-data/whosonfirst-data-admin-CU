@@ -1,0 +1,70 @@
+{
+  "id": 1310683279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.7966,22.36961,-79.7966,22.36961",
+    "geom:latitude":22.36961,
+    "geom:longitude":-79.7966,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Miller",
+    "gn:country_code":"CU",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3546922,
+    "gn:latitude":22.36961,
+    "gn:longitude":-79.7966,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Miller",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Miller"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546922
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fa26d4de220d524b64c4268febc58337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907053,
+            "locality_id":1310683279,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1310683279,
+    "wof:lastmodified":1537618957,
+    "wof:name":"Miller",
+    "wof:parent_id":1091907053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.7966,
+    22.36961,
+    -79.7966,
+    22.36961
+],
+  "geometry": {"coordinates":[-79.7966,22.36961],"type":"Point"}
+}

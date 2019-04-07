@@ -1,0 +1,70 @@
+{
+  "id": 1310580615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.27965,20.95443,-77.27965,20.95443",
+    "geom:latitude":20.95443,
+    "geom:longitude":-77.27965,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Sesenta",
+    "gn:country_code":"CU",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11020461,
+    "gn:latitude":20.95443,
+    "gn:longitude":-77.27965,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Sesenta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Sesenta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11020461
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1603b120cda1703862d7d45d98caf154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905447,
+            "locality_id":1310580615,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1310580615,
+    "wof:lastmodified":1537619186,
+    "wof:name":"El Sesenta",
+    "wof:parent_id":1091905447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.27965,
+    20.95443,
+    -77.27965,
+    20.95443
+],
+  "geometry": {"coordinates":[-77.27965,20.95443],"type":"Point"}
+}

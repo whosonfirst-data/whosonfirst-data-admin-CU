@@ -1,0 +1,70 @@
+{
+  "id": 1226447333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.31987,21.27438,-77.31987,21.27438",
+    "geom:latitude":21.27438,
+    "geom:longitude":-77.31987,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Joaquin de Aguero",
+    "gn:country_code":"CU",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057019,
+    "gn:latitude":21.27438,
+    "gn:longitude":-77.31987,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Joaqu\u00edn de Ag\u00fcero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Joaqu\u00edn de Ag\u00fcero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057019
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bd3a7d3f7da567ee7861885f7624645e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904725,
+            "locality_id":1226447333,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1226447333,
+    "wof:lastmodified":1537619202,
+    "wof:name":"Joaquin de Aguero",
+    "wof:parent_id":1091904725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.31987,
+    21.27438,
+    -77.31987,
+    21.27438
+],
+  "geometry": {"coordinates":[-77.31986999999999,21.27438],"type":"Point"}
+}

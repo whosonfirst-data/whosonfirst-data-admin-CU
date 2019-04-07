@@ -1,0 +1,61 @@
+{
+  "id": 1209316327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.95889,22.70333,-80.95889,22.70333",
+    "geom:latitude":22.70333,
+    "geom:longitude":-80.95889,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bacallao",
+    "gn:country_code":"CU",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3568064,
+    "gn:latitude":22.70333,
+    "gn:longitude":-80.95889,
+    "gn:modification_date":"1996-10-10",
+    "gn:name":"Bacallao",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568064
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a44349e1e452faf78c216339204fd329",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209316327
+        }
+    ],
+    "wof:id":1209316327,
+    "wof:lastmodified":1536290852,
+    "wof:name":"Bacallao",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.95889,
+    22.70333,
+    -80.95889,
+    22.70333
+],
+  "geometry": {"coordinates":[-80.95889,22.70333],"type":"Point"}
+}

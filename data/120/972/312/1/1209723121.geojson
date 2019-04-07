@@ -1,0 +1,70 @@
+{
+  "id": 1209723121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.89733,22.9434,-80.89733,22.9434",
+    "geom:latitude":22.9434,
+    "geom:longitude":-80.89733,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Solis Viejo",
+    "gn:country_code":"CU",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007106,
+    "gn:latitude":22.9434,
+    "gn:longitude":-80.89733,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Sol\u00eds Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sol\u00eds Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007106
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f74b4974c020f325ce94fd1a455bf7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906225,
+            "locality_id":1209723121,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1209723121,
+    "wof:lastmodified":1537619156,
+    "wof:name":"Solis Viejo",
+    "wof:parent_id":1091906225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.89733000000003,
+    22.9434,
+    -80.89733000000003,
+    22.9434
+],
+  "geometry": {"coordinates":[-80.89733000000003,22.9434],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276650341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.62012,20.07162,-74.62012,20.07162",
+    "geom:latitude":20.07162,
+    "geom:longitude":-74.62012,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Canal",
+    "gn:country_code":"CU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080289,
+    "gn:latitude":20.07162,
+    "gn:longitude":-74.62012,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"El Canal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Canal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080289
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"45e7ba05ded4ea335ac3769334739129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1276650341,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1276650341,
+    "wof:lastmodified":1537619229,
+    "wof:name":"El Canal",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.62012,
+    20.07162000000001,
+    -74.62012,
+    20.07162000000001
+],
+  "geometry": {"coordinates":[-74.62012,20.07162000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259678381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.51043,19.99927,-77.51043,19.99927",
+    "geom:latitude":19.99927,
+    "geom:longitude":-77.51043,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Juan M. Marquez",
+    "gn:country_code":"CU",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027035,
+    "gn:latitude":19.99927,
+    "gn:longitude":-77.51043,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Juan M. M\u00e1rquez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Juan M. M\u00e1rquez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027035
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a0e448b90aed67ebff981bf46bfda3e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906677,
+            "locality_id":1259678381,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1259678381,
+    "wof:lastmodified":1537619193,
+    "wof:name":"Juan M. Marquez",
+    "wof:parent_id":1091906677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.51043,
+    19.99927000000001,
+    -77.51043,
+    19.99927000000001
+],
+  "geometry": {"coordinates":[-77.51043,19.99927000000001],"type":"Point"}
+}

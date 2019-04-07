@@ -1,0 +1,70 @@
+{
+  "id": 1326909871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.09074,20.82848,-77.09074,20.82848",
+    "geom:latitude":20.82848,
+    "geom:longitude":-77.09074,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cascorro",
+    "gn:country_code":"CU",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11018154,
+    "gn:latitude":20.82848,
+    "gn:longitude":-77.09074,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Cascorro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cascorro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11018154
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ae288073f3a201bca380c004a9e85fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905447,
+            "locality_id":1326909871,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1326909871,
+    "wof:lastmodified":1537619185,
+    "wof:name":"Cascorro",
+    "wof:parent_id":1091905447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.09074,
+    20.82848,
+    -77.09074,
+    20.82848
+],
+  "geometry": {"coordinates":[-77.09074,20.82848],"type":"Point"}
+}

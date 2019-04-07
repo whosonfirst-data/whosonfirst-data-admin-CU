@@ -1,0 +1,124 @@
+{
+  "id": 421202821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.37167,23.03611,-82.37167,23.03611",
+    "geom:latitude":23.03611,
+    "geom:longitude":-82.37167,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Arroyo Naranjo"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u7f85\u7d04\u7d0d\u862d\u970d"
+    ],
+    "name:dut_x_preferred":[
+        "Arroyo Naranjo"
+    ],
+    "name:eng_x_preferred":[
+        "Arroyo Naranjo"
+    ],
+    "name:fra_x_preferred":[
+        "Arroyo Naranjo"
+    ],
+    "name:fre_x_preferred":[
+        "Arroyo Naranjo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10e0\u10dd\u10d8\u10dd-\u10dc\u10d0\u10e0\u10d0\u10dc\u10ee\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Arroyo Naranjo"
+    ],
+    "name:ita_x_preferred":[
+        "Arroyo Naranjo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ed\u30fc\u30e8\u30fb\u30ca\u30e9\u30f3\u30db"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10dd\u10d8\u10dd-\u10dc\u10d0\u10e0\u10d0\u10dc\u10ee\u10dd"
+    ],
+    "name:spa_x_preferred":[
+        "Arroyo Naranjo"
+    ],
+    "name:unk_x_variant":[
+        "Ponce"
+    ],
+    "name:vie_x_preferred":[
+        "Arroyo Naranjo"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7f85\u7d04\u7d0d\u862d\u970d"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3568342,
+    "qs:gn_pop":0,
+    "qs:name":"Arroyo Naranjo",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:photos":166,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":166,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228541,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":60329,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":290,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091903205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568342,
+        "gp:id":60329,
+        "qs:id":228541,
+        "wd:id":"Q1936053",
+        "wk:page":"Arroyo Naranjo"
+    },
+    "wof:country":"CU",
+    "wof:created":1459010131,
+    "wof:geomhash":"18332d47214132e5a0c7897a74eebeef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903205,
+            "locality_id":421202821,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":421202821,
+    "wof:lastmodified":1527716205,
+    "wof:name":"Arroyo Naranjo",
+    "wof:parent_id":1091903205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.37167,
+    23.03611,
+    -82.37167,
+    23.03611
+],
+  "geometry": {"coordinates":[-82.37166999999999,23.03611],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343857325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.24761,21.61741,-78.24761,21.61741",
+    "geom:latitude":21.61741,
+    "geom:longitude":-78.24761,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Isabela",
+    "gn:country_code":"CU",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3553405,
+    "gn:latitude":21.61741,
+    "gn:longitude":-78.24761,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Isabela",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Isabela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553405
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8609c5b41af3af65ba79867e4a28cea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903793,
+            "locality_id":1343857325,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1343857325,
+    "wof:lastmodified":1537619003,
+    "wof:name":"La Isabela",
+    "wof:parent_id":1091903793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.24761,
+    21.61741,
+    -78.24761,
+    21.61741
+],
+  "geometry": {"coordinates":[-78.24760999999999,21.61741],"type":"Point"}
+}

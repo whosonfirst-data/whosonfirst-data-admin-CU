@@ -1,0 +1,67 @@
+{
+  "id": 1326566113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.1,22.91667,-82.1,22.91667",
+    "geom:latitude":22.91667,
+    "geom:longitude":-82.1,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Sabelo",
+    "gn:country_code":"CU",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3541488,
+    "gn:latitude":22.91667,
+    "gn:longitude":-82.1,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"S\u00e1belo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091907725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541488
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b8b19201b6ed56d59026beb948674ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907725,
+            "locality_id":1326566113,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1326566113,
+    "wof:lastmodified":1536935856,
+    "wof:name":"Sabelo",
+    "wof:parent_id":1091907725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.1,
+    22.91667,
+    -82.1,
+    22.91667
+],
+  "geometry": {"coordinates":[-82.09999999999999,22.91667],"type":"Point"}
+}

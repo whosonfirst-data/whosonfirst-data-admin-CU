@@ -1,0 +1,70 @@
+{
+  "id": 1276645195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.70295,20.13989,-74.70295,20.13989",
+    "geom:latitude":20.13989,
+    "geom:longitude":-74.70295,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Abiertos",
+    "gn:country_code":"CU",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081996,
+    "gn:latitude":20.13989,
+    "gn:longitude":-74.70295,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Los Abiertos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Abiertos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081996
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a54c3ac9dae861cdb8d387f3a257e5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1276645195,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1276645195,
+    "wof:lastmodified":1537619231,
+    "wof:name":"Los Abiertos",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.70295,
+    20.13989,
+    -74.70295,
+    20.13989
+],
+  "geometry": {"coordinates":[-74.70295,20.13989],"type":"Point"}
+}

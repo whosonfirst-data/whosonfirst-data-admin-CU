@@ -1,0 +1,71 @@
+{
+  "id": 1310670497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.61037,22.39981,-79.61037,22.39981",
+    "geom:latitude":22.39981,
+    "geom:longitude":-79.61037,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Maria Luisa",
+    "gn:country_code":"CU",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547659,
+    "gn:latitude":22.39981,
+    "gn:longitude":-79.61037,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Mar\u00eda Luisa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Central Maria Luisa",
+        "Mar\u00eda Luisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547659
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c8c92601e645f8bd3adb35d3a9e87683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1310670497,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1310670497,
+    "wof:lastmodified":1537618961,
+    "wof:name":"Maria Luisa",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.61036999999997,
+    22.39981,
+    -79.61036999999997,
+    22.39981
+],
+  "geometry": {"coordinates":[-79.61036999999997,22.39981],"type":"Point"}
+}

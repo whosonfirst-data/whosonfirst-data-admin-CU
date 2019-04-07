@@ -1,0 +1,70 @@
+{
+  "id": 1243152179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.80314,20.95556,-75.80314,20.95556",
+    "geom:latitude":20.95556,
+    "geom:longitude":-75.80314,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San Blas Arriba",
+    "gn:country_code":"CU",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065403,
+    "gn:latitude":20.95556,
+    "gn:longitude":-75.80314,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"San Blas Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Blas Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065403
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"49a4ea9b8f27adb3f9619e3fa03572b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1243152179,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1243152179,
+    "wof:lastmodified":1537619218,
+    "wof:name":"San Blas Arriba",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.80314,
+    20.95556,
+    -75.80314,
+    20.95556
+],
+  "geometry": {"coordinates":[-75.80314,20.95556],"type":"Point"}
+}

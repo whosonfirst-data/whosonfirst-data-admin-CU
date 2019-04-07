@@ -1,0 +1,70 @@
+{
+  "id": 1259466961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.52982,20.06735,-74.52982,20.06735",
+    "geom:latitude":20.06735,
+    "geom:longitude":-74.52982,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tacre",
+    "gn:country_code":"CU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080220,
+    "gn:latitude":20.06735,
+    "gn:longitude":-74.52982,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Tacre",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tacre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080220
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"af2b8d047a618002999a62497671938a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1259466961,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1259466961,
+    "wof:lastmodified":1537619228,
+    "wof:name":"Tacre",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.52982,
+    20.06735,
+    -74.52982,
+    20.06735
+],
+  "geometry": {"coordinates":[-74.52982,20.06735],"type":"Point"}
+}

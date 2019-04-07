@@ -1,0 +1,70 @@
+{
+  "id": 1293036805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.95053,23.10805,-81.95053,23.10805",
+    "geom:latitude":23.10805,
+    "geom:longitude":-81.95053,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Loma Travieso",
+    "gn:country_code":"CU",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10949869,
+    "gn:latitude":23.10805,
+    "gn:longitude":-81.95053,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Loma Travieso",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Loma Travieso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091905233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10949869
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3e4cd5806038e8528f1b99363baf3e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905233,
+            "locality_id":1293036805,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1293036805,
+    "wof:lastmodified":1537619150,
+    "wof:name":"Loma Travieso",
+    "wof:parent_id":1091905233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.95053,
+    23.10805,
+    -81.95053,
+    23.10805
+],
+  "geometry": {"coordinates":[-81.95053,23.10805],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209599191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.84607,20.05531,-74.84607,20.05531",
+    "geom:latitude":20.05531,
+    "geom:longitude":-74.84607,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Siguatos",
+    "gn:country_code":"CU",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11082016,
+    "gn:latitude":20.05531,
+    "gn:longitude":-74.84607,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Los Siguatos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Siguatos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11082016
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a348e8b89fc009d5d4f1df96c07c8bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209599191
+        }
+    ],
+    "wof:id":1209599191,
+    "wof:lastmodified":1537619232,
+    "wof:name":"Los Siguatos",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.84607,
+    20.05531,
+    -74.84607,
+    20.05531
+],
+  "geometry": {"coordinates":[-74.84607,20.05531],"type":"Point"}
+}

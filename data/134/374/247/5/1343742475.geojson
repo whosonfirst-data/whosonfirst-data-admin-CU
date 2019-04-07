@@ -1,0 +1,70 @@
+{
+  "id": 1343742475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.59666,20.93849,-76.59666,20.93849",
+    "geom:latitude":20.93849,
+    "geom:longitude":-76.59666,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Anacaguita",
+    "gn:country_code":"CU",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022834,
+    "gn:latitude":20.93849,
+    "gn:longitude":-76.59666,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Anacaguita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Anacaguita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091903541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022834
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"03d4a268b4b2dc54417d28fb5b4039f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903541,
+            "locality_id":1343742475,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1343742475,
+    "wof:lastmodified":1537619187,
+    "wof:name":"Anacaguita",
+    "wof:parent_id":1091903541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.59666,
+    20.93849,
+    -76.59666,
+    20.93849
+],
+  "geometry": {"coordinates":[-76.59666,20.93849],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260050217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2585,20.28176,-76.2585,20.28176",
+    "geom:latitude":20.28176,
+    "geom:longitude":-76.2585,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Maffo",
+    "gn:country_code":"CU",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3548520,
+    "gn:latitude":20.28176,
+    "gn:longitude":-76.2585,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Maffo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mato",
+        "Mafu",
+        "Mata",
+        "Mafo",
+        "Maffo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548520
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cce707e77c79510b86b679d29aa5c4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904221,
+            "locality_id":1260050217,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1260050217,
+    "wof:lastmodified":1537618967,
+    "wof:name":"Maffo",
+    "wof:parent_id":1091904221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2585,
+    20.28176,
+    -76.2585,
+    20.28176
+],
+  "geometry": {"coordinates":[-76.2585,20.28176],"type":"Point"}
+}

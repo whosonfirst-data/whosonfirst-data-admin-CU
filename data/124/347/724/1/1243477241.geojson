@@ -1,0 +1,67 @@
+{
+  "id": 1243477241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.31861,21.28583,-77.31861,21.28583",
+    "geom:latitude":21.28583,
+    "geom:longitude":-77.31861,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Disputa",
+    "gn:country_code":"CU",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3554326,
+    "gn:latitude":21.28583,
+    "gn:longitude":-77.31861,
+    "gn:modification_date":"1996-02-29",
+    "gn:name":"La Disputa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554326
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"83b3c32c08458f68fbf0e271c747a902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904725,
+            "locality_id":1243477241,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1243477241,
+    "wof:lastmodified":1536761365,
+    "wof:name":"La Disputa",
+    "wof:parent_id":1091904725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.31860999999998,
+    21.28583,
+    -77.31860999999998,
+    21.28583
+],
+  "geometry": {"coordinates":[-77.31860999999998,21.28583],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310401565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63219,20.65692,-76.63219,20.65692",
+    "geom:latitude":20.65692,
+    "geom:longitude":-76.63219,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Cobrero",
+    "gn:country_code":"CU",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023047,
+    "gn:latitude":20.65692,
+    "gn:longitude":-76.63219,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Cobrero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cobrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023047
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d9a422174cafcbc8ff8bac34378e9176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903821,
+            "locality_id":1310401565,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1310401565,
+    "wof:lastmodified":1537619189,
+    "wof:name":"El Cobrero",
+    "wof:parent_id":1091903821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63219000000002,
+    20.65692,
+    -76.63219000000002,
+    20.65692
+],
+  "geometry": {"coordinates":[-76.63219000000002,20.65692],"type":"Point"}
+}

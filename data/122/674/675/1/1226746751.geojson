@@ -1,0 +1,70 @@
+{
+  "id": 1226746751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.09879,21.51918,-78.09879,21.51918",
+    "geom:latitude":21.51918,
+    "geom:longitude":-78.09879,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Parras",
+    "gn:country_code":"CU",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3550736,
+    "gn:latitude":21.51918,
+    "gn:longitude":-78.09879,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Las Parras",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Parras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550736
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"367ff46d0009eea875ac081ea932e6b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904585,
+            "locality_id":1226746751,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1226746751,
+    "wof:lastmodified":1537618983,
+    "wof:name":"Las Parras",
+    "wof:parent_id":1091904585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.09879000000002,
+    21.51918,
+    -78.09879000000002,
+    21.51918
+],
+  "geometry": {"coordinates":[-78.09879000000002,21.51918],"type":"Point"}
+}

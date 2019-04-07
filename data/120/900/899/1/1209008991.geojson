@@ -1,0 +1,64 @@
+{
+  "id": 1209008991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.31632,21.5867,-78.31632,21.5867",
+    "geom:latitude":21.5867,
+    "geom:longitude":-78.31632,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estrella",
+    "gn:country_code":"CU",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559082,
+    "gn:latitude":21.5867,
+    "gn:longitude":-78.31632,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Estrella",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estrella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559082
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bb9018f5d6134c78375834627efa1c83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209008991
+        }
+    ],
+    "wof:id":1209008991,
+    "wof:lastmodified":1537619041,
+    "wof:name":"Estrella",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.31631999999998,
+    21.5867,
+    -78.31631999999998,
+    21.5867
+],
+  "geometry": {"coordinates":[-78.31631999999998,21.5867],"type":"Point"}
+}

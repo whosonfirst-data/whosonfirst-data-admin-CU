@@ -1,0 +1,67 @@
+{
+  "id": 1293381859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.5392,21.62193,-78.5392,21.62193",
+    "geom:latitude":21.62193,
+    "geom:longitude":-78.5392,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Jose Garcia",
+    "gn:country_code":"CU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3555948,
+    "gn:latitude":21.62193,
+    "gn:longitude":-78.5392,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Jos\u00e9 Garc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091908603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555948
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ec4a227fb342842b22ca88f452db86b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908603,
+            "locality_id":1293381859,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1293381859,
+    "wof:lastmodified":1536940024,
+    "wof:name":"Jose Garcia",
+    "wof:parent_id":1091908603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.5392,
+    21.62193,
+    -78.5392,
+    21.62193
+],
+  "geometry": {"coordinates":[-78.53919999999999,21.62193],"type":"Point"}
+}

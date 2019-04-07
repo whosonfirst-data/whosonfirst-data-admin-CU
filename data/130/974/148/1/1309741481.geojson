@@ -1,0 +1,67 @@
+{
+  "id": 1309741481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.71694,22.97722,-81.71694,22.97722",
+    "geom:latitude":22.97722,
+    "geom:longitude":-81.71694,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Caleras",
+    "gn:country_code":"CU",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3566176,
+    "gn:latitude":22.97722,
+    "gn:longitude":-81.71694,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Caleras",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566176
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3576d1027d7210dde7f76a981da06486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906273,
+            "locality_id":1309741481,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1309741481,
+    "wof:lastmodified":1537022881,
+    "wof:name":"Caleras",
+    "wof:parent_id":1091906273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.71694000000002,
+    22.97722000000001,
+    -81.71694000000002,
+    22.97722000000001
+],
+  "geometry": {"coordinates":[-81.71694000000002,22.97722000000001],"type":"Point"}
+}

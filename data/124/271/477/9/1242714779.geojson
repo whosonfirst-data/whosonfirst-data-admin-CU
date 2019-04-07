@@ -1,0 +1,72 @@
+{
+  "id": 1242714779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.46396,22.68313,-82.46396,22.68313",
+    "geom:latitude":22.68313,
+    "geom:longitude":-82.46396,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Playa del Cajio",
+    "gn:country_code":"CU",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543905,
+    "gn:latitude":22.68313,
+    "gn:longitude":-82.46396,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Playa del Caj\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Cajio",
+        "Playa del Caj\u00edo",
+        "Playa Caj\u00edo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091905003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543905
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c7eb5366e6eb68985e6292ab534e7e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905003,
+            "locality_id":1242714779,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1242714779,
+    "wof:lastmodified":1537618937,
+    "wof:name":"Playa del Cajio",
+    "wof:parent_id":1091905003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.46396,
+    22.68313,
+    -82.46396,
+    22.68313
+],
+  "geometry": {"coordinates":[-82.46396,22.68313],"type":"Point"}
+}

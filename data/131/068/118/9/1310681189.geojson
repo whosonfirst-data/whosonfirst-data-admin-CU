@@ -1,0 +1,70 @@
+{
+  "id": 1310681189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2116,20.62011,-75.2116,20.62011",
+    "geom:latitude":20.62011,
+    "geom:longitude":-75.2116,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Cedrito",
+    "gn:country_code":"CU",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065612,
+    "gn:latitude":20.62011,
+    "gn:longitude":-75.2116,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"El Cedrito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cedrito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091907503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065612
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3e27cc6b98f0474cb63ed5e30d45d4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907503,
+            "locality_id":1310681189,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1310681189,
+    "wof:lastmodified":1537619220,
+    "wof:name":"El Cedrito",
+    "wof:parent_id":1091907503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.2116,
+    20.62011,
+    -75.2116,
+    20.62011
+],
+  "geometry": {"coordinates":[-75.2116,20.62011],"type":"Point"}
+}

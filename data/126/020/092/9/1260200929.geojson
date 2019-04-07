@@ -1,0 +1,70 @@
+{
+  "id": 1260200929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.64593,22.29388,-83.64593,22.29388",
+    "geom:latitude":22.29388,
+    "geom:longitude":-83.64593,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Quince de la Coloma",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945361,
+    "gn:latitude":22.29388,
+    "gn:longitude":-83.64593,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Quince de la Coloma",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quince de la Coloma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945361
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5b9e67dd2d05ec4c5b85a0a587f939d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907007,
+            "locality_id":1260200929,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1260200929,
+    "wof:lastmodified":1537619142,
+    "wof:name":"Quince de la Coloma",
+    "wof:parent_id":1091907007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.64593,
+    22.29388,
+    -83.64593,
+    22.29388
+],
+  "geometry": {"coordinates":[-83.64593000000001,22.29388],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242956971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.3687,20.06992,-75.3687,20.06992",
+    "geom:latitude":20.06992,
+    "geom:longitude":-75.3687,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Naranjo Dulce",
+    "gn:country_code":"CU",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3546186,
+    "gn:latitude":20.06992,
+    "gn:longitude":-75.3687,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Naranjo Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Narankho-Dul\u2019se"
+    ],
+    "name:und_x_variant":[
+        "Naranjo",
+        "Naranjo Dulce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091906637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546186
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"91a3f31d760403c1772b7390b401ce29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906637,
+            "locality_id":1242956971,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1242956971,
+    "wof:lastmodified":1537618953,
+    "wof:name":"Naranjo Dulce",
+    "wof:parent_id":1091906637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.3687,
+    20.06992,
+    -75.3687,
+    20.06992
+],
+  "geometry": {"coordinates":[-75.3687,20.06992],"type":"Point"}
+}

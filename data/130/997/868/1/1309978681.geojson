@@ -1,0 +1,73 @@
+{
+  "id": 1309978681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.69171,22.67345,-79.69171,22.67345",
+    "geom:latitude":22.67345,
+    "geom:longitude":-79.69171,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Crescencio Valdes",
+    "gn:country_code":"CU",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007653,
+    "gn:latitude":22.67345,
+    "gn:longitude":-79.69171,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Crescencio Vald\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Crecencio Vald\u00e9s"
+    ],
+    "name:spa_x_variant":[
+        "Crescencio Vald\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091903633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007653
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"526f58839a143f80f957c053ed44eb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903633,
+            "locality_id":1309978681,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1309978681,
+    "wof:lastmodified":1537619164,
+    "wof:name":"Crescencio Valdes",
+    "wof:parent_id":1091903633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.69171,
+    22.67345,
+    -79.69171,
+    22.67345
+],
+  "geometry": {"coordinates":[-79.69171,22.67345],"type":"Point"}
+}

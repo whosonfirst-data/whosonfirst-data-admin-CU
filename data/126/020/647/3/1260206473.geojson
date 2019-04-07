@@ -1,0 +1,71 @@
+{
+  "id": 1260206473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.03889,21.55083,-77.03889,21.55083",
+    "geom:latitude":21.55083,
+    "geom:longitude":-77.03889,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Playa Santa Lucia",
+    "gn:country_code":"CU",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746386,
+    "gn:latitude":21.55083,
+    "gn:longitude":-77.03889,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Playa Santa Luc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Playa Santa Luc\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091906765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746386,
+        "wk:page":"Playa_Santa_Luc%C3%ADa"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b3f9cfb59c42f177ce5afcf5ebc2159d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906765,
+            "locality_id":1260206473,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1260206473,
+    "wof:lastmodified":1537619132,
+    "wof:name":"Playa Santa Lucia",
+    "wof:parent_id":1091906765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.03889000000002,
+    21.55083,
+    -77.03889000000002,
+    21.55083
+],
+  "geometry": {"coordinates":[-77.03889000000002,21.55083],"type":"Point"}
+}

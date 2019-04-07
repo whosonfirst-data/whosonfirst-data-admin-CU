@@ -1,0 +1,70 @@
+{
+  "id": 1243050907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58253,19.96475,-76.58253,19.96475",
+    "geom:latitude":19.96475,
+    "geom:longitude":-76.58253,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Avispero",
+    "gn:country_code":"CU",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11027564,
+    "gn:latitude":19.96475,
+    "gn:longitude":-76.58253,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Avispero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Avispero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027564
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"45bb98ea1b12ba98bb3ba5bcfc3ef7a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904765,
+            "locality_id":1243050907,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1243050907,
+    "wof:lastmodified":1537619195,
+    "wof:name":"Avispero",
+    "wof:parent_id":1091904765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58253,
+    19.96475,
+    -76.58253,
+    19.96475
+],
+  "geometry": {"coordinates":[-76.58253000000001,19.96475],"type":"Point"}
+}

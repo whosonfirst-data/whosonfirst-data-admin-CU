@@ -1,0 +1,67 @@
+{
+  "id": 1243281469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.86667,22.28333,-83.86667,22.28333",
+    "geom:latitude":22.28333,
+    "geom:longitude":-83.86667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nuestra Senora del Carmen",
+    "gn:country_code":"CU",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3545903,
+    "gn:latitude":22.28333,
+    "gn:longitude":-83.86667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Nuestra Se\u00f1ora del Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545903
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f50f3a063273f9fbeeb5454520434914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907755,
+            "locality_id":1243281469,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1243281469,
+    "wof:lastmodified":1537041603,
+    "wof:name":"Nuestra Senora del Carmen",
+    "wof:parent_id":1091907755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.86667,
+    22.28333,
+    -83.86667,
+    22.28333
+],
+  "geometry": {"coordinates":[-83.86667,22.28333],"type":"Point"}
+}

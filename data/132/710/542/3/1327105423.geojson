@@ -1,0 +1,73 @@
+{
+  "id": 1327105423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.68131,21.8686,-79.68131,21.8686",
+    "geom:latitude":21.8686,
+    "geom:longitude":-79.68131,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Veintitres",
+    "gn:country_code":"CU",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10952235,
+    "gn:latitude":21.8686,
+    "gn:longitude":-79.68131,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"La Veintitr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Veinte y Tres"
+    ],
+    "name:spa_x_variant":[
+        "La Veintitr\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10952235
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"10b34bd2865bfed1b164ae1eb41c17b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908473,
+            "locality_id":1327105423,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1327105423,
+    "wof:lastmodified":1537619153,
+    "wof:name":"La Veintitres",
+    "wof:parent_id":1091908473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.68131,
+    21.8686,
+    -79.68131,
+    21.8686
+],
+  "geometry": {"coordinates":[-79.68131,21.8686],"type":"Point"}
+}

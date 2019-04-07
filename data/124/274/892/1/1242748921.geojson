@@ -1,0 +1,70 @@
+{
+  "id": 1242748921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.17543,21.77716,-79.17543,21.77716",
+    "geom:latitude":21.77716,
+    "geom:longitude":-79.17543,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Patio",
+    "gn:country_code":"CU",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11009039,
+    "gn:latitude":21.77716,
+    "gn:longitude":-79.17543,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Patio",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Patio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11009039
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d4c7049238250ccbc949be3f7d46cd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905283,
+            "locality_id":1242748921,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1242748921,
+    "wof:lastmodified":1537619174,
+    "wof:name":"El Patio",
+    "wof:parent_id":1091905283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.17543,
+    21.77716,
+    -79.17543,
+    21.77716
+],
+  "geometry": {"coordinates":[-79.17543000000001,21.77716],"type":"Point"}
+}

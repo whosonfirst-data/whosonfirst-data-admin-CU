@@ -1,0 +1,74 @@
+{
+  "id": 1226239591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.93124,21.68315,-78.93124,21.68315",
+    "geom:latitude":21.68315,
+    "geom:longitude":-78.93124,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Susana",
+    "gn:country_code":"CU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3550582,
+    "gn:latitude":21.68315,
+    "gn:longitude":-78.93124,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Susana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Susana"
+    ],
+    "name:und_x_variant":[
+        "La-Susana",
+        "La Susanna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091908603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550582
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"99f47faeccd3b7b139e4382ab255354b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908603,
+            "locality_id":1226239591,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1226239591,
+    "wof:lastmodified":1537618982,
+    "wof:name":"La Susana",
+    "wof:parent_id":1091908603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.93124,
+    21.68315,
+    -78.93124,
+    21.68315
+],
+  "geometry": {"coordinates":[-78.93124,21.68315],"type":"Point"}
+}

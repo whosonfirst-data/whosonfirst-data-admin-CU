@@ -1,0 +1,73 @@
+{
+  "id": 1276412749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.74016,22.76815,-79.74016,22.76815",
+    "geom:latitude":22.76815,
+    "geom:longitude":-79.74016,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Playa Emilio Cordova",
+    "gn:country_code":"CU",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007615,
+    "gn:latitude":22.76815,
+    "gn:longitude":-79.74016,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Playa Emilio C\u00f3rdova",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Playa Nazabal"
+    ],
+    "name:spa_x_variant":[
+        "Playa Emilio C\u00f3rdova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007615
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b439bc918c662c9284a290b0c87a954d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904483,
+            "locality_id":1276412749,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1276412749,
+    "wof:lastmodified":1537619164,
+    "wof:name":"Playa Emilio Cordova",
+    "wof:parent_id":1091904483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.74016,
+    22.76815,
+    -79.74016,
+    22.76815
+],
+  "geometry": {"coordinates":[-79.74016,22.76815],"type":"Point"}
+}

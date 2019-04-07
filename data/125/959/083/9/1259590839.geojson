@@ -1,0 +1,72 @@
+{
+  "id": 1259590839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.66667,22.5,-80.66667,22.5",
+    "geom:latitude":22.5,
+    "geom:longitude":-80.66667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Majagua",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3552740,
+    "gn:latitude":22.5,
+    "gn:longitude":-80.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Majagua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minesota",
+        "La Majagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552740
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c4ef90c1478819107cb0684715f8a5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905697,
+            "locality_id":1259590839,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1259590839,
+    "wof:lastmodified":1537618998,
+    "wof:name":"La Majagua",
+    "wof:parent_id":1091905697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.66667,
+    22.5,
+    -80.66667,
+    22.5
+],
+  "geometry": {"coordinates":[-80.66667,22.5],"type":"Point"}
+}

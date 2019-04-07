@@ -1,0 +1,67 @@
+{
+  "id": 1259949595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.58333,22.35,-79.58333,22.35",
+    "geom:latitude":22.35,
+    "geom:longitude":-79.58333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"San Francisco",
+    "gn:country_code":"CU",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3540283,
+    "gn:latitude":22.35,
+    "gn:longitude":-79.58333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540283
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"aa69ef5c14c98da0e922aceb4b6153f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1259949595,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1259949595,
+    "wof:lastmodified":1536683988,
+    "wof:name":"San Francisco",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.58333,
+    22.35,
+    -79.58333,
+    22.35
+],
+  "geometry": {"coordinates":[-79.58333,22.35],"type":"Point"}
+}

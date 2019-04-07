@@ -1,0 +1,68 @@
+{
+  "id": 1209903325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.83389,21.12,-75.83389,21.12",
+    "geom:latitude":21.12,
+    "geom:longitude":-75.83389,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Guardalavaca",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3740266,
+    "gn:latitude":21.12,
+    "gn:longitude":-75.83389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guardalavaca",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740266,
+        "wk:page":"Guardalavaca"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d14ad72bbc771dc4ed5c9f54356d03a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1209903325,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1209903325,
+    "wof:lastmodified":1537503961,
+    "wof:name":"Guardalavaca",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.83389,
+    21.12,
+    -75.83389,
+    21.12
+],
+  "geometry": {"coordinates":[-75.83389,21.12],"type":"Point"}
+}

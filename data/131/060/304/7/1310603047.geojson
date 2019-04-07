@@ -1,0 +1,72 @@
+{
+  "id": 1310603047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.56722,22.68306,-80.56722,22.68306",
+    "geom:latitude":22.68306,
+    "geom:longitude":-80.56722,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Victoria",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3534272,
+    "gn:latitude":22.68306,
+    "gn:longitude":-80.56722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Victoria Parte de Orbeta",
+        "Victoria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534272
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5098e09661f28db74ef3c8a736b85bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905697,
+            "locality_id":1310603047,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1310603047,
+    "wof:lastmodified":1537618882,
+    "wof:name":"Victoria",
+    "wof:parent_id":1091905697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.56721999999998,
+    22.68306,
+    -80.56721999999998,
+    22.68306
+],
+  "geometry": {"coordinates":[-80.56721999999998,22.68306],"type":"Point"}
+}

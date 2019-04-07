@@ -1,0 +1,70 @@
+{
+  "id": 1260163777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.02469,20.2961,-76.02469,20.2961",
+    "geom:latitude":20.2961,
+    "geom:longitude":-76.02469,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Niguabo Tres",
+    "gn:country_code":"CU",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063821,
+    "gn:latitude":20.2961,
+    "gn:longitude":-76.02469,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Niguabo Tres",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Niguabo Tres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091906823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063821
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e84c486219cf4b0edc1e93cf1b02356c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906823,
+            "locality_id":1260163777,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1260163777,
+    "wof:lastmodified":1537619214,
+    "wof:name":"Niguabo Tres",
+    "wof:parent_id":1091906823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.02469,
+    20.2961,
+    -76.02469,
+    20.2961
+],
+  "geometry": {"coordinates":[-76.02469000000001,20.2961],"type":"Point"}
+}

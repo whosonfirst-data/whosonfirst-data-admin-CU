@@ -1,0 +1,71 @@
+{
+  "id": 1343395461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.0972,22.90402,-83.0972,22.90402",
+    "geom:latitude":22.90402,
+    "geom:longitude":-83.0972,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"San Diego de Nunez",
+    "gn:country_code":"CU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3540615,
+    "gn:latitude":22.90402,
+    "gn:longitude":-83.0972,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"San Diego de N\u00fa\u00f1ez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Diego Nu\u00f1es",
+        "San Diego de N\u00fa\u00f1ez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091902873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540615
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3921aa9be1f2190819a04855897329e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902873,
+            "locality_id":1343395461,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1343395461,
+    "wof:lastmodified":1537618916,
+    "wof:name":"San Diego de Nunez",
+    "wof:parent_id":1091902873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.0972,
+    22.90402000000001,
+    -83.0972,
+    22.90402000000001
+],
+  "geometry": {"coordinates":[-83.0972,22.90402000000001],"type":"Point"}
+}

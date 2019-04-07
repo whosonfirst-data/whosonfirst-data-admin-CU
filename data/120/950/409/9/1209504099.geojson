@@ -1,0 +1,64 @@
+{
+  "id": 1209504099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.93011,20.37945,-74.93011,20.37945",
+    "geom:latitude":20.37945,
+    "geom:longitude":-74.93011,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Raisu",
+    "gn:country_code":"CU",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542921,
+    "gn:latitude":20.37945,
+    "gn:longitude":-74.93011,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Rais\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rais\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542921
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0035f5a0ae0927f7fba0c6a2c21fe8ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209504099
+        }
+    ],
+    "wof:id":1209504099,
+    "wof:lastmodified":1537618930,
+    "wof:name":"Raisu",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.93011,
+    20.37945,
+    -74.93011,
+    20.37945
+],
+  "geometry": {"coordinates":[-74.93011,20.37945],"type":"Point"}
+}

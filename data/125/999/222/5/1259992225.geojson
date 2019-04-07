@@ -1,0 +1,73 @@
+{
+  "id": 1259992225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.31667,23.03333,-82.31667,23.03333",
+    "geom:latitude":23.03333,
+    "geom:longitude":-82.31667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chorrera de Managua",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3564234,
+    "gn:latitude":23.03333,
+    "gn:longitude":-82.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chorrera de Managua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chorrera",
+        "Chorrera de Calvario",
+        "Chorrera de Managua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091902737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564234
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"90a8dd9f91613022058ea110351ee9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902737,
+            "locality_id":1259992225,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1259992225,
+    "wof:lastmodified":1537619082,
+    "wof:name":"Chorrera de Managua",
+    "wof:parent_id":1091902737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.31667,
+    23.03333,
+    -82.31667,
+    23.03333
+],
+  "geometry": {"coordinates":[-82.31667,23.03333],"type":"Point"}
+}

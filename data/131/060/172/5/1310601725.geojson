@@ -1,0 +1,70 @@
+{
+  "id": 1310601725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.50812,21.59908,-81.50812,21.59908",
+    "geom:latitude":21.59908,
+    "geom:longitude":-81.50812,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cocodrilo",
+    "gn:country_code":"CU",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948256,
+    "gn:latitude":21.59908,
+    "gn:longitude":-81.50812,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Cocodrilo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cocodrilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670405,
+        1091906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948256
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"88e669f8efbb285d06accdc77fa97337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906563,
+            "locality_id":1310601725,
+            "region_id":85670405
+        }
+    ],
+    "wof:id":1310601725,
+    "wof:lastmodified":1537619147,
+    "wof:name":"Cocodrilo",
+    "wof:parent_id":1091906563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.50811999999998,
+    21.59908,
+    -81.50811999999998,
+    21.59908
+],
+  "geometry": {"coordinates":[-81.50811999999998,21.59908],"type":"Point"}
+}

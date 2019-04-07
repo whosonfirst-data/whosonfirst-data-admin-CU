@@ -1,0 +1,67 @@
+{
+  "id": 1327036223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.02222,21.75833,-83.02222,21.75833",
+    "geom:latitude":21.75833,
+    "geom:longitude":-83.02222,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Delita",
+    "gn:country_code":"CU",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3562585,
+    "gn:latitude":21.75833,
+    "gn:longitude":-83.02222,
+    "gn:modification_date":"1996-06-11",
+    "gn:name":"Delita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670405,
+        1091906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562585
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b3ca1d4987080a2cfac18f928105a428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906563,
+            "locality_id":1327036223,
+            "region_id":85670405
+        }
+    ],
+    "wof:id":1327036223,
+    "wof:lastmodified":1536754909,
+    "wof:name":"Delita",
+    "wof:parent_id":1091906563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.02221999999998,
+    21.75833,
+    -83.02221999999998,
+    21.75833
+],
+  "geometry": {"coordinates":[-83.02221999999998,21.75833],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293459281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.52634,22.4288,-79.52634,22.4288",
+    "geom:latitude":22.4288,
+    "geom:longitude":-79.52634,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Vinas",
+    "gn:country_code":"CU",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3534091,
+    "gn:latitude":22.4288,
+    "gn:longitude":-79.52634,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Vi\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vi\u00f1as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534091
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"987a44c0c91aff9af671e7cfdd886492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1293459281,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1293459281,
+    "wof:lastmodified":1537618881,
+    "wof:name":"Vinas",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.52634,
+    22.4288,
+    -79.52634,
+    22.4288
+],
+  "geometry": {"coordinates":[-79.52634,22.4288],"type":"Point"}
+}

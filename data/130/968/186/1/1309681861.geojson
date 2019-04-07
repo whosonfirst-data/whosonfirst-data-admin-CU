@@ -1,0 +1,70 @@
+{
+  "id": 1309681861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.06297,22.49369,-80.06297,22.49369",
+    "geom:latitude":22.49369,
+    "geom:longitude":-80.06297,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Arango",
+    "gn:country_code":"CU",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11007541,
+    "gn:latitude":22.49369,
+    "gn:longitude":-80.06297,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Arango",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007541
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bbb9763eeb58639b6d9b6934ba0dc9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907311,
+            "locality_id":1309681861,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1309681861,
+    "wof:lastmodified":1537619164,
+    "wof:name":"Arango",
+    "wof:parent_id":1091907311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.06296999999998,
+    22.49369,
+    -80.06296999999998,
+    22.49369
+],
+  "geometry": {"coordinates":[-80.06296999999998,22.49369],"type":"Point"}
+}

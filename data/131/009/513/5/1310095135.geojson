@@ -1,0 +1,70 @@
+{
+  "id": 1310095135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.36057,20.20881,-77.36057,20.20881",
+    "geom:latitude":20.20881,
+    "geom:longitude":-77.36057,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"San Ramon",
+    "gn:country_code":"CU",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3538332,
+    "gn:latitude":20.20881,
+    "gn:longitude":-77.36057,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"San Ram\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538332
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ae96d9a86cb02840688eaf193323ed61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903673,
+            "locality_id":1310095135,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1310095135,
+    "wof:lastmodified":1537618905,
+    "wof:name":"San Ramon",
+    "wof:parent_id":1091903673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.36057,
+    20.20881,
+    -77.36057,
+    20.20881
+],
+  "geometry": {"coordinates":[-77.36057,20.20881],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276637761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.93259,22.45573,-79.93259,22.45573",
+    "geom:latitude":22.45573,
+    "geom:longitude":-79.93259,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Jardin",
+    "gn:country_code":"CU",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763124,
+    "gn:latitude":22.45573,
+    "gn:longitude":-79.93259,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"El Jard\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Jard\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091908009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763124
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ecbb8dfb8121570a6b211f76e275cdeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908009,
+            "locality_id":1276637761,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1276637761,
+    "wof:lastmodified":1537619138,
+    "wof:name":"El Jardin",
+    "wof:parent_id":1091908009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.93259,
+    22.45573,
+    -79.93259,
+    22.45573
+],
+  "geometry": {"coordinates":[-79.93259,22.45573],"type":"Point"}
+}

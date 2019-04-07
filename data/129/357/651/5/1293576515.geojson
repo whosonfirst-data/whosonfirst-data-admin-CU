@@ -1,0 +1,71 @@
+{
+  "id": 1293576515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.16607,20.5701,-76.16607,20.5701",
+    "geom:latitude":20.5701,
+    "geom:longitude":-76.16607,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Virginia",
+    "gn:country_code":"CU",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3534055,
+    "gn:latitude":20.5701,
+    "gn:longitude":-76.16607,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Virginia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Virginia",
+        "Virginia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091908561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534055
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5906414c94947dd20ac248b29c6d39df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908561,
+            "locality_id":1293576515,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1293576515,
+    "wof:lastmodified":1537618881,
+    "wof:name":"Virginia",
+    "wof:parent_id":1091908561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.16606999999998,
+    20.5701,
+    -76.16606999999998,
+    20.5701
+],
+  "geometry": {"coordinates":[-76.16606999999998,20.5701],"type":"Point"}
+}

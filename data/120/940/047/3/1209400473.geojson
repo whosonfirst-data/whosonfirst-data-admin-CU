@@ -1,0 +1,64 @@
+{
+  "id": 1209400473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.18837,22.13997,-80.18837,22.13997",
+    "geom:latitude":22.13997,
+    "geom:longitude":-80.18837,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rafaelito",
+    "gn:country_code":"CU",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007528,
+    "gn:latitude":22.13997,
+    "gn:longitude":-80.18837,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Rafaelito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rafaelito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007528
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"34a00fb4b1bc70aaa5c6038f9cb7943d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209400473
+        }
+    ],
+    "wof:id":1209400473,
+    "wof:lastmodified":1537619163,
+    "wof:name":"Rafaelito",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.18836999999998,
+    22.13997,
+    -80.18836999999998,
+    22.13997
+],
+  "geometry": {"coordinates":[-80.18836999999998,22.13997],"type":"Point"}
+}

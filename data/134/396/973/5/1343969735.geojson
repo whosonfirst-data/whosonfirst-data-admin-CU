@@ -1,0 +1,67 @@
+{
+  "id": 1343969735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.55694,22.68417,-80.55694,22.68417",
+    "geom:latitude":22.68417,
+    "geom:longitude":-80.55694,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Iliana",
+    "gn:country_code":"CU",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3556776,
+    "gn:latitude":22.68417,
+    "gn:longitude":-80.55694,
+    "gn:modification_date":"1996-10-10",
+    "gn:name":"Iliana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091908169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556776
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"da04ee404b2de828c97255c0b47025ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908169,
+            "locality_id":1343969735,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1343969735,
+    "wof:lastmodified":1537005838,
+    "wof:name":"Iliana",
+    "wof:parent_id":1091908169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.55694,
+    22.68417,
+    -80.55694,
+    22.68417
+],
+  "geometry": {"coordinates":[-80.55694,22.68417],"type":"Point"}
+}

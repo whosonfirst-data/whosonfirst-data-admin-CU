@@ -1,0 +1,67 @@
+{
+  "id": 1293323969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.91389,22.80472,-82.91389,22.80472",
+    "geom:latitude":22.80472,
+    "geom:longitude":-82.91389,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Coblet",
+    "gn:country_code":"CU",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3564001,
+    "gn:latitude":22.80472,
+    "gn:longitude":-82.91389,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"Coblet",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091902795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564001
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0af7df7aa7b1f9f4477428159ab3f0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902795,
+            "locality_id":1293323969,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1293323969,
+    "wof:lastmodified":1537021896,
+    "wof:name":"Coblet",
+    "wof:parent_id":1091902795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.91389000000002,
+    22.80472,
+    -82.91389000000002,
+    22.80472
+],
+  "geometry": {"coordinates":[-82.91389000000002,22.80472],"type":"Point"}
+}

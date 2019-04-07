@@ -1,0 +1,72 @@
+{
+  "id": 1310685013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.31071,20.15509,-74.31071,20.15509",
+    "geom:latitude":20.15509,
+    "geom:longitude":-74.31071,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Jamales",
+    "gn:country_code":"CU",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3549164,
+    "gn:latitude":20.15509,
+    "gn:longitude":-74.31071,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Los Jamales",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Janales",
+        "Los-Khamales",
+        "Los Jamales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549164
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2d0424cb4863ad4324f6b337ba2824fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905819,
+            "locality_id":1310685013,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1310685013,
+    "wof:lastmodified":1537618972,
+    "wof:name":"Los Jamales",
+    "wof:parent_id":1091905819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.31071,
+    20.15509,
+    -74.31071,
+    20.15509
+],
+  "geometry": {"coordinates":[-74.31071,20.15509],"type":"Point"}
+}

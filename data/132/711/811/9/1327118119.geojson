@@ -1,0 +1,67 @@
+{
+  "id": 1327118119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.98028,20.13667,-74.98028,20.13667",
+    "geom:latitude":20.13667,
+    "geom:longitude":-74.98028,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Veguita",
+    "gn:country_code":"CU",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3534500,
+    "gn:latitude":20.13667,
+    "gn:longitude":-74.98028,
+    "gn:modification_date":"1996-04-26",
+    "gn:name":"Veguita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091906061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534500
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"01397067a47dd036d4a4d95651053df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906061,
+            "locality_id":1327118119,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1327118119,
+    "wof:lastmodified":1536635524,
+    "wof:name":"Veguita",
+    "wof:parent_id":1091906061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.98028000000002,
+    20.13667,
+    -74.98028000000002,
+    20.13667
+],
+  "geometry": {"coordinates":[-74.98028000000002,20.13667],"type":"Point"}
+}

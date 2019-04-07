@@ -1,0 +1,67 @@
+{
+  "id": 1209999451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.72444,20.09944,-75.72444,20.09944",
+    "geom:latitude":20.09944,
+    "geom:longitude":-75.72444,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"San Fernando de Barajagua",
+    "gn:country_code":"CU",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3749394,
+    "gn:latitude":20.09944,
+    "gn:longitude":-75.72444,
+    "gn:modification_date":"2004-10-19",
+    "gn:name":"San Fernando de Barajagua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3749394
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fc026deb3a04d3edfdbbcf0e7d36c1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":1209999451,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1209999451,
+    "wof:lastmodified":1536380299,
+    "wof:name":"San Fernando de Barajagua",
+    "wof:parent_id":1091908137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.72444,
+    20.09944,
+    -75.72444,
+    20.09944
+],
+  "geometry": {"coordinates":[-75.72444,20.09944],"type":"Point"}
+}

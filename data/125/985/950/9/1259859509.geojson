@@ -1,0 +1,72 @@
+{
+  "id": 1259859509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.69528,21.00917,-75.69528,21.00917",
+    "geom:latitude":21.00917,
+    "geom:longitude":-75.69528,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Canada Honda Numero Dos",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3565875,
+    "gn:latitude":21.00917,
+    "gn:longitude":-75.69528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ca\u00f1ada Honda N\u00famero Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1ada Honda N\u00famero 2",
+        "Ca\u00f1ada Honda N\u00famero Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565875
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"edd96b24a72f194c69363c19453fce01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1259859509,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1259859509,
+    "wof:lastmodified":1537619095,
+    "wof:name":"Canada Honda Numero Dos",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69528000000003,
+    21.00917,
+    -75.69528000000003,
+    21.00917
+],
+  "geometry": {"coordinates":[-75.69528000000003,21.00917],"type":"Point"}
+}

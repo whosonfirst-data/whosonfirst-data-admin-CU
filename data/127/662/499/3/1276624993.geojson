@@ -1,0 +1,70 @@
+{
+  "id": 1276624993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.94415,20.23503,-75.94415,20.23503",
+    "geom:latitude":20.23503,
+    "geom:longitude":-75.94415,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Alambre",
+    "gn:country_code":"CU",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763189,
+    "gn:latitude":20.23503,
+    "gn:longitude":-75.94415,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Alambre",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alambre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763189
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"61ce19f93a8e65c7cc4879e1eda3a90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907795,
+            "locality_id":1276624993,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1276624993,
+    "wof:lastmodified":1537619138,
+    "wof:name":"Alambre",
+    "wof:parent_id":1091907795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.94415,
+    20.23503,
+    -75.94415,
+    20.23503
+],
+  "geometry": {"coordinates":[-75.94414999999999,20.23503],"type":"Point"}
+}

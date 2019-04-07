@@ -1,0 +1,73 @@
+{
+  "id": 1276785163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.453,20.2919,-76.453,20.2919",
+    "geom:latitude":20.2919,
+    "geom:longitude":-76.453,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Perla",
+    "gn:country_code":"CU",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3552109,
+    "gn:latitude":20.2919,
+    "gn:longitude":-76.453,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Perla",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Perla"
+    ],
+    "name:und_x_variant":[
+        "La Perra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091905355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552109
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0a0d006243cff02541050c2ea7ed8379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905355,
+            "locality_id":1276785163,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1276785163,
+    "wof:lastmodified":1537618994,
+    "wof:name":"La Perla",
+    "wof:parent_id":1091905355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.453,
+    20.2919,
+    -76.453,
+    20.2919
+],
+  "geometry": {"coordinates":[-76.453,20.2919],"type":"Point"}
+}

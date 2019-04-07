@@ -1,0 +1,64 @@
+{
+  "id": 1209485717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.7829,20.20152,-75.7829,20.20152",
+    "geom:latitude":20.20152,
+    "geom:longitude":-75.7829,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Paquito Rosales",
+    "gn:country_code":"CU",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3748818,
+    "gn:latitude":20.20152,
+    "gn:longitude":-75.7829,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Paquito Rosales",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paquito Rosales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3748818
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c9eb553458d552ef4d82baaee5aef7ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209485717
+        }
+    ],
+    "wof:id":1209485717,
+    "wof:lastmodified":1537619136,
+    "wof:name":"Paquito Rosales",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.7829,
+    20.20152,
+    -75.7829,
+    20.20152
+],
+  "geometry": {"coordinates":[-75.7829,20.20152],"type":"Point"}
+}

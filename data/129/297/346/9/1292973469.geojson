@@ -1,0 +1,70 @@
+{
+  "id": 1292973469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.1869,22.5315,-80.1869,22.5315",
+    "geom:latitude":22.5315,
+    "geom:longitude":-80.1869,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Chorrera",
+    "gn:country_code":"CU",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11007431,
+    "gn:latitude":22.5315,
+    "gn:longitude":-80.1869,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Chorrera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Chorrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007431
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8a1f1523cff74480297afd8ca97992f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907311,
+            "locality_id":1292973469,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1292973469,
+    "wof:lastmodified":1537619162,
+    "wof:name":"La Chorrera",
+    "wof:parent_id":1091907311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.1869,
+    22.5315,
+    -80.1869,
+    22.5315
+],
+  "geometry": {"coordinates":[-80.18689999999999,22.5315],"type":"Point"}
+}

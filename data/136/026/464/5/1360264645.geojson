@@ -1,0 +1,67 @@
+{
+  "id": 1360264645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.51556,20.9175,-77.51556,20.9175",
+    "geom:latitude":20.9175,
+    "geom:longitude":-77.51556,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Tunas de Guaimarillo",
+    "gn:country_code":"CU",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550594,
+    "gn:latitude":20.9175,
+    "gn:longitude":-77.51556,
+    "gn:modification_date":"1996-02-20",
+    "gn:name":"Las Tunas de Guaimarillo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091902667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550594
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"91ed36ffebbae9be6aca24a9ba09372e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902667,
+            "locality_id":1360264645,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1360264645,
+    "wof:lastmodified":1536686685,
+    "wof:name":"Las Tunas de Guaimarillo",
+    "wof:parent_id":1091902667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.51556,
+    20.9175,
+    -77.51556,
+    20.9175
+],
+  "geometry": {"coordinates":[-77.51555999999999,20.9175],"type":"Point"}
+}

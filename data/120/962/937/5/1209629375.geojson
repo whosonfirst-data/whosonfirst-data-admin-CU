@@ -1,0 +1,66 @@
+{
+  "id": 1209629375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.6,22.48333,-83.6,22.48333",
+    "geom:latitude":22.48333,
+    "geom:longitude":-83.6,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Numero Cuatro",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3545805,
+    "gn:latitude":22.48333,
+    "gn:longitude":-83.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"N\u00famero Cuatro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00famero 4",
+        "N\u00famero Cuatro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545805
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"949b8b38ac4f0e0a77e3f0edd0b6af24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209629375
+        }
+    ],
+    "wof:id":1209629375,
+    "wof:lastmodified":1537618951,
+    "wof:name":"Numero Cuatro",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.6,
+    22.48333,
+    -83.6,
+    22.48333
+],
+  "geometry": {"coordinates":[-83.59999999999999,22.48333],"type":"Point"}
+}

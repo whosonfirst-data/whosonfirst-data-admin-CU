@@ -1,0 +1,70 @@
+{
+  "id": 1293002441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.28496,23.08893,-81.28496,23.08893",
+    "geom:latitude":23.08893,
+    "geom:longitude":-81.28496,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Vegas",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950053,
+    "gn:latitude":23.08893,
+    "gn:longitude":-81.28496,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Vegas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vegas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091903749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950053
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d1019079dd4fee47be70b46eb4d4a2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903749,
+            "locality_id":1293002441,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1293002441,
+    "wof:lastmodified":1537619151,
+    "wof:name":"Vegas",
+    "wof:parent_id":1091903749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.28496,
+    23.08893,
+    -81.28496,
+    23.08893
+],
+  "geometry": {"coordinates":[-81.28496,23.08893],"type":"Point"}
+}

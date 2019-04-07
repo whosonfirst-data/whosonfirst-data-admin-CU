@@ -1,0 +1,70 @@
+{
+  "id": 1260050177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.1989,19.99269,-76.1989,19.99269",
+    "geom:latitude":19.99269,
+    "geom:longitude":-76.1989,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Quivijan",
+    "gn:country_code":"CU",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542961,
+    "gn:latitude":19.99269,
+    "gn:longitude":-76.1989,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Quivij\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quivij\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542961
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6fade27882c2fe92c7b478d18ccc02e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904765,
+            "locality_id":1260050177,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1260050177,
+    "wof:lastmodified":1537618930,
+    "wof:name":"Quivijan",
+    "wof:parent_id":1091904765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.1989,
+    19.99269,
+    -76.1989,
+    19.99269
+],
+  "geometry": {"coordinates":[-76.19889999999999,19.99269],"type":"Point"}
+}

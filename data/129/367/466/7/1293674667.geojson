@@ -1,0 +1,73 @@
+{
+  "id": 1293674667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.1916,21.89229,-80.1916,21.89229",
+    "geom:latitude":21.89229,
+    "geom:longitude":-80.1916,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yaguanabo Arriba",
+    "gn:country_code":"CU",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3533818,
+    "gn:latitude":21.89229,
+    "gn:longitude":-80.1916,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Yaguanabo Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yaguanabo"
+    ],
+    "name:spa_x_variant":[
+        "Yaguanabo Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091904385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3533818
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c9f8450b8d87443a92d464395456c9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904385,
+            "locality_id":1293674667,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1293674667,
+    "wof:lastmodified":1537618879,
+    "wof:name":"Yaguanabo Arriba",
+    "wof:parent_id":1091904385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.1916,
+    21.89229,
+    -80.1916,
+    21.89229
+],
+  "geometry": {"coordinates":[-80.19159999999999,21.89229],"type":"Point"}
+}

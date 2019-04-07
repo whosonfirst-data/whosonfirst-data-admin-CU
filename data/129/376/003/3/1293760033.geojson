@@ -1,0 +1,70 @@
+{
+  "id": 1293760033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.03229,21.04047,-77.03229,21.04047",
+    "geom:latitude":21.04047,
+    "geom:longitude":-77.03229,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dumois Uno",
+    "gn:country_code":"CU",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058835,
+    "gn:latitude":21.04047,
+    "gn:longitude":-77.03229,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Dumois Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dumois Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058835
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c273ec06f34621c1b602d9399da08d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905619,
+            "locality_id":1293760033,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1293760033,
+    "wof:lastmodified":1537619206,
+    "wof:name":"Dumois Uno",
+    "wof:parent_id":1091905619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.03229,
+    21.04047000000001,
+    -77.03229,
+    21.04047000000001
+],
+  "geometry": {"coordinates":[-77.03229,21.04047000000001],"type":"Point"}
+}

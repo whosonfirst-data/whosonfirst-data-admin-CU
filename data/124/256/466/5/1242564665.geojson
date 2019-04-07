@@ -1,0 +1,70 @@
+{
+  "id": 1242564665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.47218,20.67431,-75.47218,20.67431",
+    "geom:latitude":20.67431,
+    "geom:longitude":-75.47218,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Alto Carbon",
+    "gn:country_code":"CU",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065591,
+    "gn:latitude":20.67431,
+    "gn:longitude":-75.47218,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Alto Carb\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alto Carb\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091906305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065591
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0fc218e0ec96aa32412a2e29688578bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906305,
+            "locality_id":1242564665,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1242564665,
+    "wof:lastmodified":1537619220,
+    "wof:name":"Alto Carbon",
+    "wof:parent_id":1091906305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.47218000000002,
+    20.67431,
+    -75.47218000000002,
+    20.67431
+],
+  "geometry": {"coordinates":[-75.47218000000002,20.67431],"type":"Point"}
+}

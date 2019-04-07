@@ -1,0 +1,67 @@
+{
+  "id": 1209524973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.90758,22.43962,-83.90758,22.43962",
+    "geom:latitude":22.43962,
+    "geom:longitude":-83.90758,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Caliente",
+    "gn:country_code":"CU",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3566149,
+    "gn:latitude":22.43962,
+    "gn:longitude":-83.90758,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Caliente",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caliente"
+    ],
+    "name:und_x_variant":[
+        "Calientes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566149
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7efc6aefd0e728065c4601926dcbb45b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209524973
+        }
+    ],
+    "wof:id":1209524973,
+    "wof:lastmodified":1537619098,
+    "wof:name":"Caliente",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.90758000000002,
+    22.43962,
+    -83.90758000000002,
+    22.43962
+],
+  "geometry": {"coordinates":[-83.90758000000002,22.43962],"type":"Point"}
+}

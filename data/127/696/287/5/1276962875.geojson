@@ -1,0 +1,72 @@
+{
+  "id": 1276962875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.08853,20.22177,-75.08853,20.22177",
+    "geom:latitude":20.22177,
+    "geom:longitude":-75.08853,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Sigual",
+    "gn:country_code":"CU",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3559701,
+    "gn:latitude":20.22177,
+    "gn:longitude":-75.08853,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"El Sigual",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sigual",
+        "Sigual Abajo",
+        "El Sigual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091904919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559701
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ac3d1f86cd514c7ae707bc7528fa56ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904919,
+            "locality_id":1276962875,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1276962875,
+    "wof:lastmodified":1537619046,
+    "wof:name":"El Sigual",
+    "wof:parent_id":1091904919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.08853,
+    20.22177000000001,
+    -75.08853,
+    20.22177000000001
+],
+  "geometry": {"coordinates":[-75.08853000000001,20.22177000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225913783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.90584,22.78142,-79.90584,22.78142",
+    "geom:latitude":22.78142,
+    "geom:longitude":-79.90584,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Triangulo",
+    "gn:country_code":"CU",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559575,
+    "gn:latitude":22.78142,
+    "gn:longitude":-79.90584,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"El Tri\u00e1ngulo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Tri\u00e1ngulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559575
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e5b52d41858d15da68cd6f111a50d9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904483,
+            "locality_id":1225913783,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1225913783,
+    "wof:lastmodified":1537619044,
+    "wof:name":"El Triangulo",
+    "wof:parent_id":1091904483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.90584,
+    22.78142,
+    -79.90584,
+    22.78142
+],
+  "geometry": {"coordinates":[-79.90584,22.78142],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310294027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.72829,20.05272,-74.72829,20.05272",
+    "geom:latitude":20.05272,
+    "geom:longitude":-74.72829,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Macambo",
+    "gn:country_code":"CU",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3548639,
+    "gn:latitude":20.05272,
+    "gn:longitude":-74.72829,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Macambo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Macambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091907633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548639
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4d761776aa229e18e258f821639eafb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907633,
+            "locality_id":1310294027,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1310294027,
+    "wof:lastmodified":1537618968,
+    "wof:name":"Macambo",
+    "wof:parent_id":1091907633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.72829,
+    20.05272,
+    -74.72829,
+    20.05272
+],
+  "geometry": {"coordinates":[-74.72829,20.05272],"type":"Point"}
+}

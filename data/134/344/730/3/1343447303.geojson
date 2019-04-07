@@ -1,0 +1,70 @@
+{
+  "id": 1343447303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.12843,21.10225,-77.12843,21.10225",
+    "geom:latitude":21.10225,
+    "geom:longitude":-77.12843,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Loreto Dos",
+    "gn:country_code":"CU",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058844,
+    "gn:latitude":21.10225,
+    "gn:longitude":-77.12843,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Loreto Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Loreto Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058844
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"aa6bf2daa5f5a5eb7f4ecbe1d5dd6f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905619,
+            "locality_id":1343447303,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1343447303,
+    "wof:lastmodified":1537619206,
+    "wof:name":"Loreto Dos",
+    "wof:parent_id":1091905619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.12843000000002,
+    21.10225,
+    -77.12843000000002,
+    21.10225
+],
+  "geometry": {"coordinates":[-77.12843000000002,21.10225],"type":"Point"}
+}

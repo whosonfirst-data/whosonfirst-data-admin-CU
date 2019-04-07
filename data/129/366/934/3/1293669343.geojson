@@ -1,0 +1,72 @@
+{
+  "id": 1293669343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.76667,20.81667,-75.76667,20.81667",
+    "geom:latitude":20.81667,
+    "geom:longitude":-75.76667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Lengua de Tierra",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3549941,
+    "gn:latitude":20.81667,
+    "gn:longitude":-75.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lengua de Tierra",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lengua Tierra",
+        "Lengua de Tierra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549941
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"41ff09d55cef597492a2854acd95c2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1293669343,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1293669343,
+    "wof:lastmodified":1537618977,
+    "wof:name":"Lengua de Tierra",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.76666999999998,
+    20.81667,
+    -75.76666999999998,
+    20.81667
+],
+  "geometry": {"coordinates":[-75.76666999999998,20.81667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242689441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.88648,22.89032,-80.88648,22.89032",
+    "geom:latitude":22.89032,
+    "geom:longitude":-80.88648,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Luis",
+    "gn:country_code":"CU",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3539089,
+    "gn:latitude":22.89032,
+    "gn:longitude":-80.88648,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey San Luis",
+        "San Luis del Pe\u00f1\u00f3n",
+        "San Luis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539089
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"41baad14c76eb64949f5445863cb580a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906225,
+            "locality_id":1242689441,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1242689441,
+    "wof:lastmodified":1537618909,
+    "wof:name":"San Luis",
+    "wof:parent_id":1091906225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.88648,
+    22.89032000000001,
+    -80.88648,
+    22.89032000000001
+],
+  "geometry": {"coordinates":[-80.88648000000001,22.89032000000001],"type":"Point"}
+}

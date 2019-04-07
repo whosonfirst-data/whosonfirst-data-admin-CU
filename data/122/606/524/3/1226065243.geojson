@@ -1,0 +1,73 @@
+{
+  "id": 1226065243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.41667,22.35,-80.41667,22.35",
+    "geom:latitude":22.35,
+    "geom:longitude":-80.41667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Banos de Agua",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3567851,
+    "gn:latitude":22.35,
+    "gn:longitude":-80.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ba\u00f1os de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u00f1os",
+        "Ba\u00f1os de Ciego Montero",
+        "Ba\u00f1os de Agua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091906851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567851
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"576a2b17fe3d9efd81eeeebfa29bbe02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906851,
+            "locality_id":1226065243,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1226065243,
+    "wof:lastmodified":1537619110,
+    "wof:name":"Banos de Agua",
+    "wof:parent_id":1091906851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.41667,
+    22.35,
+    -80.41667,
+    22.35
+],
+  "geometry": {"coordinates":[-80.41667,22.35],"type":"Point"}
+}

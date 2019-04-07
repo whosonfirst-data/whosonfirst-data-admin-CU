@@ -1,0 +1,70 @@
+{
+  "id": 1260370363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.16681,20.55593,-76.16681,20.55593",
+    "geom:latitude":20.55593,
+    "geom:longitude":-76.16681,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Cuarenta",
+    "gn:country_code":"CU",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063688,
+    "gn:latitude":20.55593,
+    "gn:longitude":-76.16681,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Las Cuarenta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Cuarenta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091908561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063688
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f0cf195bd1bd92699dcd2ef937b332d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908561,
+            "locality_id":1260370363,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1260370363,
+    "wof:lastmodified":1537619212,
+    "wof:name":"Las Cuarenta",
+    "wof:parent_id":1091908561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.16681,
+    20.55593,
+    -76.16681,
+    20.55593
+],
+  "geometry": {"coordinates":[-76.16681,20.55593],"type":"Point"}
+}

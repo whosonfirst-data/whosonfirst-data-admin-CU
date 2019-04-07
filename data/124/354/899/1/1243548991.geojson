@@ -1,0 +1,72 @@
+{
+  "id": 1243548991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.91667,20.63333,-76.91667,20.63333",
+    "geom:latitude":20.63333,
+    "geom:longitude":-76.91667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Cholonguito",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3564243,
+    "gn:latitude":20.63333,
+    "gn:longitude":-76.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cholonguito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cholongo",
+        "Cholonguito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091907413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564243
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c187e3d330858efb1102cbdf2f1cbd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907413,
+            "locality_id":1243548991,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1243548991,
+    "wof:lastmodified":1537619082,
+    "wof:name":"Cholonguito",
+    "wof:parent_id":1091907413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.91667,
+    20.63333,
+    -76.91667,
+    20.63333
+],
+  "geometry": {"coordinates":[-76.91667,20.63333],"type":"Point"}
+}

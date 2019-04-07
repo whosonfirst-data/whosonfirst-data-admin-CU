@@ -1,0 +1,72 @@
+{
+  "id": 1310389243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.12667,20.18028,-75.12667,20.18028",
+    "geom:latitude":20.18028,
+    "geom:longitude":-75.12667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Emilio",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3540593,
+    "gn:latitude":20.18028,
+    "gn:longitude":-75.12667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Emilio",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey S. Emilio",
+        "San Emilio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091904919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540593
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f09c822bea5262d157477bb32706417c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904919,
+            "locality_id":1310389243,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1310389243,
+    "wof:lastmodified":1537618916,
+    "wof:name":"San Emilio",
+    "wof:parent_id":1091904919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.12666999999998,
+    20.18028,
+    -75.12666999999998,
+    20.18028
+],
+  "geometry": {"coordinates":[-75.12666999999998,20.18028],"type":"Point"}
+}

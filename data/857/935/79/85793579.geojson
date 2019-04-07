@@ -1,0 +1,112 @@
+{
+  "id": 85793579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6428388.028336,
+    "geom:bbox":"-82.448898,23.084944,-82.448898,23.084944",
+    "geom:latitude":23.084944,
+    "geom:longitude":-82.448898,
+    "gn:latitude":23.08167,
+    "gn:longitude":-82.45083,
+    "iso:country":"CU",
+    "lbl:latitude":23.084944,
+    "lbl:longitude":-82.448898,
+    "mps:latitude":23.082022,
+    "mps:longitude":-82.446461,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:spa_x_colloquial":[
+        "Cubanacan"
+    ],
+    "name:spa_x_preferred":[
+        "Cubanac\u00e1n"
+    ],
+    "name:spa_x_variant":[
+        "Country Club"
+    ],
+    "name:unk_x_variant":[
+        "Country Club",
+        "Cubanac\u00e1n"
+    ],
+    "qs:gn_adm0_cc":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3553478,
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Cubanac\u00e1n",
+    "qs:local_max":6362,
+    "qs:local_sum":28186,
+    "qs:localhoods":23,
+    "qs:name":"Cubanac\u00e1n",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:name_local":"La Habana",
+    "qs:photo_max":124,
+    "qs:photo_sum":360,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424793,
+    "qs:woe_adm1":2345107,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":63817,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091907083,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562970,
+        "gp:id":61514,
+        "qs:id":211058
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ee405aada5c2601b1d0d08de988f77b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907083,
+            "locality_id":-1,
+            "neighbourhood_id":85793579,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":85793579,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531861388,
+    "wof:name":"Cubanac\u00e1n",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.448898,
+    23.084944,
+    -82.448898,
+    23.084944
+],
+  "geometry": {"coordinates":[-82.448898,23.084944],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243590811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.55745,22.76128,-82.55745,22.76128",
+    "geom:latitude":22.76128,
+    "geom:longitude":-82.55745,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"El Canonero",
+    "gn:country_code":"CU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10948088,
+    "gn:latitude":22.76128,
+    "gn:longitude":-82.55745,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"El Ca\u00f1onero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Ca\u00f1onero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091905003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948088
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a7b6299a8c6def366de50a58d5af8a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905003,
+            "locality_id":1243590811,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1243590811,
+    "wof:lastmodified":1537619146,
+    "wof:name":"El Canonero",
+    "wof:parent_id":1091905003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.55745,
+    22.76128,
+    -82.55745,
+    22.76128
+],
+  "geometry": {"coordinates":[-82.55745,22.76128],"type":"Point"}
+}

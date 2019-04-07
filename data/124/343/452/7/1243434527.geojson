@@ -1,0 +1,70 @@
+{
+  "id": 1243434527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.67507,20.92282,-75.67507,20.92282",
+    "geom:latitude":20.92282,
+    "geom:longitude":-75.67507,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cano Once",
+    "gn:country_code":"CU",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065289,
+    "gn:latitude":20.92282,
+    "gn:longitude":-75.67507,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Cano Once",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cano Once"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065289
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e6cfecbd7621fe33ae0fcda698571553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1243434527,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1243434527,
+    "wof:lastmodified":1537619217,
+    "wof:name":"Cano Once",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.67506999999998,
+    20.92282,
+    -75.67506999999998,
+    20.92282
+],
+  "geometry": {"coordinates":[-75.67506999999998,20.92282],"type":"Point"}
+}

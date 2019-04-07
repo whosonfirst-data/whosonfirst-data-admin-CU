@@ -1,0 +1,70 @@
+{
+  "id": 1276199169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.60838,20.25689,-75.60838,20.25689",
+    "geom:latitude":20.25689,
+    "geom:longitude":-75.60838,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Jabilla",
+    "gn:country_code":"CU",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065568,
+    "gn:latitude":20.25689,
+    "gn:longitude":-75.60838,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"La Jabilla",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Jabilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065568
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1f30e62d89a2aa53da4efa5faa835736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908347,
+            "locality_id":1276199169,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1276199169,
+    "wof:lastmodified":1537619219,
+    "wof:name":"La Jabilla",
+    "wof:parent_id":1091908347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.60838000000003,
+    20.25689,
+    -75.60838000000003,
+    20.25689
+],
+  "geometry": {"coordinates":[-75.60838000000003,20.25689],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293603101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.81917,22.67859,-83.81917,22.67859",
+    "geom:latitude":22.67859,
+    "geom:longitude":-83.81917,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bejuquera",
+    "gn:country_code":"CU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10946675,
+    "gn:latitude":22.67859,
+    "gn:longitude":-83.81917,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Bejuquera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bejuquera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091908691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946675
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"911ebde91ee3ede606ae1ec4d1091c12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908691,
+            "locality_id":1293603101,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1293603101,
+    "wof:lastmodified":1537619144,
+    "wof:name":"Bejuquera",
+    "wof:parent_id":1091908691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.81917,
+    22.67859,
+    -83.81917,
+    22.67859
+],
+  "geometry": {"coordinates":[-83.81917,22.67859],"type":"Point"}
+}

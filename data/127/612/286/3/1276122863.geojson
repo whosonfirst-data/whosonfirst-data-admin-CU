@@ -1,0 +1,70 @@
+{
+  "id": 1276122863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.6492,21.53606,-77.6492,21.53606",
+    "geom:latitude":21.53606,
+    "geom:longitude":-77.6492,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Patenque",
+    "gn:country_code":"CU",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11034204,
+    "gn:latitude":21.53606,
+    "gn:longitude":-77.6492,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Patenque",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Patenque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091906457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11034204
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0e5d5e7c6a85887f5fbb6ce6173c4ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906457,
+            "locality_id":1276122863,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1276122863,
+    "wof:lastmodified":1537619200,
+    "wof:name":"Patenque",
+    "wof:parent_id":1091906457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.6492,
+    21.53606,
+    -77.6492,
+    21.53606
+],
+  "geometry": {"coordinates":[-77.64919999999999,21.53606],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343841411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.07167,22.22861,-79.07167,22.22861",
+    "geom:latitude":22.22861,
+    "geom:longitude":-79.07167,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"San Jose del Lago",
+    "gn:country_code":"CU",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3539550,
+    "gn:latitude":22.22861,
+    "gn:longitude":-79.07167,
+    "gn:modification_date":"1996-09-20",
+    "gn:name":"San Jos\u00e9 del Lago",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539550
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c2ec005d6c899b72ea6f824952ecb173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908735,
+            "locality_id":1343841411,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1343841411,
+    "wof:lastmodified":1536694314,
+    "wof:name":"San Jose del Lago",
+    "wof:parent_id":1091908735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.07167,
+    22.22861,
+    -79.07167,
+    22.22861
+],
+  "geometry": {"coordinates":[-79.07167,22.22861],"type":"Point"}
+}

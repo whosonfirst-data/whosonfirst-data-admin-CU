@@ -1,0 +1,70 @@
+{
+  "id": 1243149469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.86167,20.84855,-75.86167,20.84855",
+    "geom:latitude":20.84855,
+    "geom:longitude":-75.86167,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Cana",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11064809,
+    "gn:latitude":20.84855,
+    "gn:longitude":-75.86167,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"La Cana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11064809
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1f3b0fc697d2b310b6b364e3a3c0664f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1243149469,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1243149469,
+    "wof:lastmodified":1537619217,
+    "wof:name":"La Cana",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.86166999999998,
+    20.84855,
+    -75.86166999999998,
+    20.84855
+],
+  "geometry": {"coordinates":[-75.86166999999998,20.84855],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260187139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.997,21.5755,-77.997,21.5755",
+    "geom:latitude":21.5755,
+    "geom:longitude":-77.997,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Heredia",
+    "gn:country_code":"CU",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3557114,
+    "gn:latitude":21.5755,
+    "gn:longitude":-77.997,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Heredia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557114
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"17b9338284e9d92f5d32adf26dbcd51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903577,
+            "locality_id":1260187139,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1260187139,
+    "wof:lastmodified":1536841851,
+    "wof:name":"Heredia",
+    "wof:parent_id":1091903577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.997,
+    21.5755,
+    -77.997,
+    21.5755
+],
+  "geometry": {"coordinates":[-77.997,21.5755],"type":"Point"}
+}

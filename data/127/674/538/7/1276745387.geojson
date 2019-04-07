@@ -1,0 +1,70 @@
+{
+  "id": 1276745387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.58513,22.19242,-79.58513,22.19242",
+    "geom:latitude":22.19242,
+    "geom:longitude":-79.58513,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Maja",
+    "gn:country_code":"CU",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11008024,
+    "gn:latitude":22.19242,
+    "gn:longitude":-79.58513,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Maj\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Maj\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008024
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2b3174756dd559350ae37a91327428d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907053,
+            "locality_id":1276745387,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1276745387,
+    "wof:lastmodified":1537619170,
+    "wof:name":"El Maja",
+    "wof:parent_id":1091907053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.58513,
+    22.19242,
+    -79.58513,
+    22.19242
+],
+  "geometry": {"coordinates":[-79.58513000000001,22.19242],"type":"Point"}
+}

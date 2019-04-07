@@ -1,0 +1,67 @@
+{
+  "id": 1293102779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.73333,22.35,-83.73333,22.35",
+    "geom:latitude":22.35,
+    "geom:longitude":-83.73333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La Primavera",
+    "gn:country_code":"CU",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3552005,
+    "gn:latitude":22.35,
+    "gn:longitude":-83.73333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"La Primavera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552005
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"99eb5d68b747e5d19e874418a976aab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907007,
+            "locality_id":1293102779,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1293102779,
+    "wof:lastmodified":1536843596,
+    "wof:name":"La Primavera",
+    "wof:parent_id":1091907007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.73333000000002,
+    22.35,
+    -83.73333000000002,
+    22.35
+],
+  "geometry": {"coordinates":[-83.73333000000002,22.35],"type":"Point"}
+}

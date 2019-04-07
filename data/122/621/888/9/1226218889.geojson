@@ -1,0 +1,71 @@
+{
+  "id": 1226218889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.28333,20.93333,-77.28333,20.93333",
+    "geom:latitude":20.93333,
+    "geom:longitude":-77.28333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Victoria",
+    "gn:country_code":"CU",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3534276,
+    "gn:latitude":20.93333,
+    "gn:longitude":-77.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Victoria",
+        "Victoria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534276
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0ea65b860e3f6552a8e282ff13525eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905447,
+            "locality_id":1226218889,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1226218889,
+    "wof:lastmodified":1537618882,
+    "wof:name":"Victoria",
+    "wof:parent_id":1091905447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.28333,
+    20.93333,
+    -77.28333,
+    20.93333
+],
+  "geometry": {"coordinates":[-77.28333000000001,20.93333],"type":"Point"}
+}

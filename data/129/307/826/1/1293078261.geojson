@@ -1,0 +1,73 @@
+{
+  "id": 1293078261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.08595,20.57471,-76.08595,20.57471",
+    "geom:latitude":20.57471,
+    "geom:longitude":-76.08595,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Van Horne Dos",
+    "gn:country_code":"CU",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3534639,
+    "gn:latitude":20.57471,
+    "gn:longitude":-76.08595,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Van Horne Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Van Horne Dos"
+    ],
+    "name:und_x_variant":[
+        "Van Horne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091908561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534639
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"96fe6d762fb9b98b370b9eb1979a3da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908561,
+            "locality_id":1293078261,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1293078261,
+    "wof:lastmodified":1537618886,
+    "wof:name":"Van Horne Dos",
+    "wof:parent_id":1091908561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.08595,
+    20.57471,
+    -76.08595,
+    20.57471
+],
+  "geometry": {"coordinates":[-76.08595,20.57471],"type":"Point"}
+}

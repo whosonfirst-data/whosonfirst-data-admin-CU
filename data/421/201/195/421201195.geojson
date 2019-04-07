@@ -1,0 +1,137 @@
+{
+  "id": 421201195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.01083,23.04306,-82.01083,23.04306",
+    "geom:latitude":23.04306,
+    "geom:longitude":-82.01083,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Municipio de Jaruco"
+    ],
+    "name:chi_x_preferred":[
+        "\u54c8\u9b6f\u79d1"
+    ],
+    "name:deu_x_preferred":[
+        "Jaruco"
+    ],
+    "name:dut_x_preferred":[
+        "Jaruco"
+    ],
+    "name:eng_x_preferred":[
+        "Jaruco"
+    ],
+    "name:fra_x_preferred":[
+        "Jaruco"
+    ],
+    "name:fre_x_preferred":[
+        "Jaruco"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ee\u10d0\u10e0\u10e3\u10d9\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Jaruco"
+    ],
+    "name:ita_x_preferred":[
+        "Jaruco"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10e0\u10e3\u10d9\u10dd"
+    ],
+    "name:por_x_preferred":[
+        "Jaruco"
+    ],
+    "name:sco_x_preferred":[
+        "Jaruco"
+    ],
+    "name:spa_x_preferred":[
+        "Jaruco"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Jaruco"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0631\u0648\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Jaruco"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u9b6f\u79d1"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3556351,
+    "qs:gn_pop":20207,
+    "qs:name":"Jaruco",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"La Habana",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":210364,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":63118,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":23.042778,
+    "wd:longitude":-82.009444,
+    "wd:wordcount":403,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091905233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556351,
+        "gp:id":63118,
+        "qs:id":210364,
+        "wd:id":"Q1683722"
+    },
+    "wof:country":"CU",
+    "wof:created":1459010065,
+    "wof:geomhash":"6fc61f5be9ef37e335368b7076c318df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905233,
+            "locality_id":421201195,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":421201195,
+    "wof:lastmodified":1527716432,
+    "wof:name":"Jaruco",
+    "wof:parent_id":1091905233,
+    "wof:placetype":"locality",
+    "wof:population":20207,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.01083,
+    23.04306,
+    -82.01083,
+    23.04306
+],
+  "geometry": {"coordinates":[-82.01083,23.04306],"type":"Point"}
+}

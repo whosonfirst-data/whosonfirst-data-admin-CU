@@ -1,0 +1,70 @@
+{
+  "id": 1243044343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.83283,21.17503,-76.83283,21.17503",
+    "geom:latitude":21.17503,
+    "geom:longitude":-76.83283,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Esprey Uno",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746254,
+    "gn:latitude":21.17503,
+    "gn:longitude":-76.83283,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Esprey Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Esprey Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746254
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d6aaccbdd6fe0e4512577ac523e65838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1243044343,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1243044343,
+    "wof:lastmodified":1537619130,
+    "wof:name":"Esprey Uno",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.83283,
+    21.17503,
+    -76.83283,
+    21.17503
+],
+  "geometry": {"coordinates":[-76.83283,21.17503],"type":"Point"}
+}

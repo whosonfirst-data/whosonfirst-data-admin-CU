@@ -1,0 +1,74 @@
+{
+  "id": 1209951489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.16583,22.85083,-83.16583,22.85083",
+    "geom:latitude":22.85083,
+    "geom:longitude":-83.16583,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Luis Carrasco",
+    "gn:country_code":"CU",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543012,
+    "gn:latitude":22.85083,
+    "gn:longitude":-83.16583,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Luis Carrasco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Luis Carrasco"
+    ],
+    "name:und_x_variant":[
+        "Batey de Qui\u00f1ones",
+        "Qui\u00f1ones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091902873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543012
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"002e15a8e64e86817eab82abb74123be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902873,
+            "locality_id":1209951489,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1209951489,
+    "wof:lastmodified":1537618930,
+    "wof:name":"Luis Carrasco",
+    "wof:parent_id":1091902873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.16583,
+    22.85083,
+    -83.16583,
+    22.85083
+],
+  "geometry": {"coordinates":[-83.16583,22.85083],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243397173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.5,22.75,-82.5,22.75",
+    "geom:latitude":22.75,
+    "geom:longitude":-82.5,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3538833,
+    "gn:latitude":22.75,
+    "gn:longitude":-82.5,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091905003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538833
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d225be97715e1028da97f8a8bf51185b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905003,
+            "locality_id":1243397173,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1243397173,
+    "wof:lastmodified":1536875803,
+    "wof:name":"San Miguel",
+    "wof:parent_id":1091905003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.5,
+    22.75,
+    -82.5,
+    22.75
+],
+  "geometry": {"coordinates":[-82.5,22.75],"type":"Point"}
+}

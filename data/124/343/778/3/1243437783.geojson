@@ -1,0 +1,71 @@
+{
+  "id": 1243437783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.9906,21.76018,-79.9906,21.76018",
+    "geom:latitude":21.76018,
+    "geom:longitude":-79.9906,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Casilda",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565055,
+    "gn:latitude":21.76018,
+    "gn:longitude":-79.9906,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"Casilda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Casilda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565055,
+        "wk:page":"Casilda_(Trinidad)"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ad20239576334a35ea41310deb7fa11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908473,
+            "locality_id":1243437783,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1243437783,
+    "wof:lastmodified":1537619088,
+    "wof:name":"Casilda",
+    "wof:parent_id":1091908473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.9906,
+    21.76018,
+    -79.9906,
+    21.76018
+],
+  "geometry": {"coordinates":[-79.9906,21.76018],"type":"Point"}
+}

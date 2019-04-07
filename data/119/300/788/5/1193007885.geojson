@@ -1,0 +1,67 @@
+{
+  "id": 1193007885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.46667,20.33333,-76.46667,20.33333",
+    "geom:latitude":20.33333,
+    "geom:longitude":-76.46667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tejas",
+    "gn:country_code":"CU",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3535427,
+    "gn:latitude":20.33333,
+    "gn:longitude":-76.46667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Tejas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091905355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535427
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f13ba2db1e2f7cb37d8888c0ef952c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905355,
+            "locality_id":1193007885,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1193007885,
+    "wof:lastmodified":1536364664,
+    "wof:name":"Tejas",
+    "wof:parent_id":1091905355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.46667,
+    20.33333,
+    -76.46667,
+    20.33333
+],
+  "geometry": {"coordinates":[-76.46666999999999,20.33333],"type":"Point"}
+}

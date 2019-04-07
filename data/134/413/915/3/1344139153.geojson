@@ -1,0 +1,70 @@
+{
+  "id": 1344139153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.94928,22.31401,-79.94928,22.31401",
+    "geom:latitude":22.31401,
+    "geom:longitude":-79.94928,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Las Glorias",
+    "gn:country_code":"CU",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11007973,
+    "gn:latitude":22.31401,
+    "gn:longitude":-79.94928,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Las Glorias",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Glorias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007973
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8cb50a6ae7bed086078179d077543bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1344139153,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1344139153,
+    "wof:lastmodified":1537619169,
+    "wof:name":"Las Glorias",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.94928,
+    22.31401,
+    -79.94928,
+    22.31401
+],
+  "geometry": {"coordinates":[-79.94928,22.31401],"type":"Point"}
+}

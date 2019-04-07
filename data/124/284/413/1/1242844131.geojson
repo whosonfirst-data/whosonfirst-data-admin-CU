@@ -1,0 +1,73 @@
+{
+  "id": 1242844131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.45198,22.36029,-79.45198,22.36029",
+    "geom:latitude":22.36029,
+    "geom:longitude":-79.45198,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Gueiva",
+    "gn:country_code":"CU",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557429,
+    "gn:latitude":22.36029,
+    "gn:longitude":-79.45198,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Gueiva",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gueiva"
+    ],
+    "name:und_x_variant":[
+        "Gueib\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557429
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"097e7892624a88d0b86e848860c8fdb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1242844131,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1242844131,
+    "wof:lastmodified":1537619030,
+    "wof:name":"Gueiva",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.45198,
+    22.36029,
+    -79.45198,
+    22.36029
+],
+  "geometry": {"coordinates":[-79.45198000000001,22.36029],"type":"Point"}
+}

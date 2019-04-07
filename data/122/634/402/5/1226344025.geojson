@@ -1,0 +1,72 @@
+{
+  "id": 1226344025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.03194,22.71528,-81.03194,22.71528",
+    "geom:latitude":22.71528,
+    "geom:longitude":-81.03194,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Santa Susana",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3536868,
+    "gn:latitude":22.71528,
+    "gn:longitude":-81.03194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Susana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Susana Batey",
+        "Santa Susana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536868
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"14aa233595d950efd6a1ad06819866d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906933,
+            "locality_id":1226344025,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1226344025,
+    "wof:lastmodified":1537618897,
+    "wof:name":"Santa Susana",
+    "wof:parent_id":1091906933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.03194,
+    22.71528,
+    -81.03194,
+    22.71528
+],
+  "geometry": {"coordinates":[-81.03194000000001,22.71528],"type":"Point"}
+}

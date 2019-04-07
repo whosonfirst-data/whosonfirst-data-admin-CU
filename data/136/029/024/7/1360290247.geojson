@@ -1,0 +1,73 @@
+{
+  "id": 1360290247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.93735,20.98863,-77.93735,20.98863",
+    "geom:latitude":20.98863,
+    "geom:longitude":-77.93735,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tranquera de Piedra",
+    "gn:country_code":"CU",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3535042,
+    "gn:latitude":20.98863,
+    "gn:longitude":-77.93735,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Tranquera de Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tranquera de Piedra"
+    ],
+    "name:spa_x_variant":[
+        "Tranquera de Piedras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535042
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c87baf4a43e0b10e9a622da80d015206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908085,
+            "locality_id":1360290247,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1360290247,
+    "wof:lastmodified":1537618888,
+    "wof:name":"Tranquera de Piedra",
+    "wof:parent_id":1091908085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.93735,
+    20.98863,
+    -77.93735,
+    20.98863
+],
+  "geometry": {"coordinates":[-77.93735,20.98863],"type":"Point"}
+}

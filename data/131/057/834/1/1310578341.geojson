@@ -1,0 +1,70 @@
+{
+  "id": 1310578341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.24463,20.46847,-75.24463,20.46847",
+    "geom:latitude":20.46847,
+    "geom:longitude":-75.24463,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Madre Vieja",
+    "gn:country_code":"CU",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065627,
+    "gn:latitude":20.46847,
+    "gn:longitude":-75.24463,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Madre Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Madre Vieja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091907503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065627
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1894a09291adac47689233b4081d0b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907503,
+            "locality_id":1310578341,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1310578341,
+    "wof:lastmodified":1537619220,
+    "wof:name":"Madre Vieja",
+    "wof:parent_id":1091907503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.24463,
+    20.46847,
+    -75.24463,
+    20.46847
+],
+  "geometry": {"coordinates":[-75.24463,20.46847],"type":"Point"}
+}

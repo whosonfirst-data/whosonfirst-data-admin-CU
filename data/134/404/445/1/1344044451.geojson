@@ -1,0 +1,67 @@
+{
+  "id": 1344044451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63278,20.80111,-76.63278,20.80111",
+    "geom:latitude":20.80111,
+    "geom:longitude":-76.63278,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sao Churroso",
+    "gn:country_code":"CU",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3536490,
+    "gn:latitude":20.80111,
+    "gn:longitude":-76.63278,
+    "gn:modification_date":"1996-03-20",
+    "gn:name":"Sao Churroso",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091903541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536490
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b88bf376d42b84e5159dca9aca96f491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903541,
+            "locality_id":1344044451,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1344044451,
+    "wof:lastmodified":1536898703,
+    "wof:name":"Sao Churroso",
+    "wof:parent_id":1091903541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63278000000003,
+    20.80111,
+    -76.63278000000003,
+    20.80111
+],
+  "geometry": {"coordinates":[-76.63278000000003,20.80111],"type":"Point"}
+}

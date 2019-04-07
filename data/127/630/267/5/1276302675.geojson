@@ -1,0 +1,71 @@
+{
+  "id": 1276302675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.33784,20.11909,-76.33784,20.11909",
+    "geom:latitude":20.11909,
+    "geom:longitude":-76.33784,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Lomon",
+    "gn:country_code":"CU",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3560638,
+    "gn:latitude":20.11909,
+    "gn:longitude":-76.33784,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"El Lom\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Lom\u00f3n",
+        "El Lob\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560638
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4eb611dca6f8901b87119b02119f9fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908439,
+            "locality_id":1276302675,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1276302675,
+    "wof:lastmodified":1537619054,
+    "wof:name":"El Lomon",
+    "wof:parent_id":1091908439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33784,
+    20.11909,
+    -76.33784,
+    20.11909
+],
+  "geometry": {"coordinates":[-76.33784,20.11909],"type":"Point"}
+}

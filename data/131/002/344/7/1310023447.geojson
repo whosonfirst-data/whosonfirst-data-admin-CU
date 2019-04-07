@@ -1,0 +1,73 @@
+{
+  "id": 1310023447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.49483,21.81578,-84.49483,21.81578",
+    "geom:latitude":21.81578,
+    "geom:longitude":-84.49483,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Maria La Gorda",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3740427,
+    "gn:latitude":21.81578,
+    "gn:longitude":-84.49483,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Mar\u00eda La Gorda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mar\u00eda La Gorda"
+    ],
+    "name:spa_x_variant":[
+        "Mar\u00eda la Gorda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740427
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"099cb1a1631c4375f771d74aa6fbc767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907969,
+            "locality_id":1310023447,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1310023447,
+    "wof:lastmodified":1537619128,
+    "wof:name":"Maria La Gorda",
+    "wof:parent_id":1091907969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.49483000000002,
+    21.81578,
+    -84.49483000000002,
+    21.81578
+],
+  "geometry": {"coordinates":[-84.49483000000002,21.81578],"type":"Point"}
+}

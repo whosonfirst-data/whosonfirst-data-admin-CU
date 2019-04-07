@@ -1,0 +1,71 @@
+{
+  "id": 1327104977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.45131,20.10221,-75.45131,20.10221",
+    "geom:latitude":20.10221,
+    "geom:longitude":-75.45131,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Sitio de Cabanas",
+    "gn:country_code":"CU",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3536049,
+    "gn:latitude":20.10221,
+    "gn:longitude":-75.45131,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"El Sitio de Caba\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sitio de Caba\u00f1as",
+        "Sitio Caba\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536049
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"82bd5e0182fb19b7ef4f617b60c01cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908347,
+            "locality_id":1327104977,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1327104977,
+    "wof:lastmodified":1537618893,
+    "wof:name":"El Sitio de Cabanas",
+    "wof:parent_id":1091908347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.45130999999998,
+    20.10221,
+    -75.45130999999998,
+    20.10221
+],
+  "geometry": {"coordinates":[-75.45130999999998,20.10221],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343965697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.31408,22.65097,-81.31408,22.65097",
+    "geom:latitude":22.65097,
+    "geom:longitude":-81.31408,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pedroso",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3544575,
+    "gn:latitude":22.65097,
+    "gn:longitude":-81.31408,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Pedroso",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tramojo",
+        "Pedroso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544575
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fc14587067a27be6eba5df292dca012c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906893,
+            "locality_id":1343965697,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1343965697,
+    "wof:lastmodified":1537618942,
+    "wof:name":"Pedroso",
+    "wof:parent_id":1091906893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.31408,
+    22.65097,
+    -81.31408,
+    22.65097
+],
+  "geometry": {"coordinates":[-81.31408,22.65097],"type":"Point"}
+}

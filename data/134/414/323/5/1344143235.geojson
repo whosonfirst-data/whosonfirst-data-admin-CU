@@ -1,0 +1,70 @@
+{
+  "id": 1344143235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.34954,21.18618,-76.34954,21.18618",
+    "geom:latitude":21.18618,
+    "geom:longitude":-76.34954,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Palma",
+    "gn:country_code":"CU",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3552324,
+    "gn:latitude":21.18618,
+    "gn:longitude":-76.34954,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Palma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552324
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ddfab75f7485f8cea2a20aee0d09a0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1344143235,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1344143235,
+    "wof:lastmodified":1537618996,
+    "wof:name":"La Palma",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.34954,
+    21.18618,
+    -76.34954,
+    21.18618
+],
+  "geometry": {"coordinates":[-76.34954,21.18618],"type":"Point"}
+}

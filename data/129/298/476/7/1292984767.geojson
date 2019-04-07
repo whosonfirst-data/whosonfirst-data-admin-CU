@@ -1,0 +1,67 @@
+{
+  "id": 1292984767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.18722,20.23833,-74.18722,20.23833",
+    "geom:latitude":20.23833,
+    "geom:longitude":-74.18722,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Quemados",
+    "gn:country_code":"CU",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3543064,
+    "gn:latitude":20.23833,
+    "gn:longitude":-74.18722,
+    "gn:modification_date":"1995-07-03",
+    "gn:name":"Quemados",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543064
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"84423f7e32d7a491cf3738e2459c5c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905819,
+            "locality_id":1292984767,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1292984767,
+    "wof:lastmodified":1537014048,
+    "wof:name":"Quemados",
+    "wof:parent_id":1091905819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.18722,
+    20.23833,
+    -74.18722,
+    20.23833
+],
+  "geometry": {"coordinates":[-74.18722,20.23833],"type":"Point"}
+}

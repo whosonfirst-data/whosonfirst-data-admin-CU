@@ -1,0 +1,71 @@
+{
+  "id": 1276419461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.08526,22.03425,-79.08526,22.03425",
+    "geom:latitude":22.03425,
+    "geom:longitude":-79.08526,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Arroyo Blanco",
+    "gn:country_code":"CU",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3568411,
+    "gn:latitude":22.03425,
+    "gn:longitude":-79.08526,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Arroyo Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tello S\u00e1nchez",
+        "Arroyo Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568411
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"032d5fa1d32133de3289fb078ce60c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905283,
+            "locality_id":1276419461,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1276419461,
+    "wof:lastmodified":1537619114,
+    "wof:name":"Arroyo Blanco",
+    "wof:parent_id":1091905283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.08525999999998,
+    22.03425,
+    -79.08525999999998,
+    22.03425
+],
+  "geometry": {"coordinates":[-79.08525999999998,22.03425],"type":"Point"}
+}

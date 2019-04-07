@@ -1,0 +1,70 @@
+{
+  "id": 1226376911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.04126,22.93986,-83.04126,22.93986",
+    "geom:latitude":22.93986,
+    "geom:longitude":-83.04126,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Recompensa",
+    "gn:country_code":"CU",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542617,
+    "gn:latitude":22.93986,
+    "gn:longitude":-83.04126,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Recompensa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Recompensa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091902873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542617
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4b4682a7cb39fef321080826b38851cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902873,
+            "locality_id":1226376911,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1226376911,
+    "wof:lastmodified":1537618929,
+    "wof:name":"Recompensa",
+    "wof:parent_id":1091902873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.04126,
+    22.93986,
+    -83.04126,
+    22.93986
+],
+  "geometry": {"coordinates":[-83.04125999999999,22.93986],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226432067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.45453,19.88335,-77.45453,19.88335",
+    "geom:latitude":19.88335,
+    "geom:longitude":-77.45453,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ojo del Toro",
+    "gn:country_code":"CU",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3545582,
+    "gn:latitude":19.88335,
+    "gn:longitude":-77.45453,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ojo del Toro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ojo del Toro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545582
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"eb6e959cafbd63587637c19a856feb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906677,
+            "locality_id":1226432067,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1226432067,
+    "wof:lastmodified":1537618949,
+    "wof:name":"Ojo del Toro",
+    "wof:parent_id":1091906677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.45453,
+    19.88335,
+    -77.45453,
+    19.88335
+],
+  "geometry": {"coordinates":[-77.45453000000001,19.88335],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293676185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73911,21.04624,-75.73911,21.04624",
+    "geom:latitude":21.04624,
+    "geom:longitude":-75.73911,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Juba",
+    "gn:country_code":"CU",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3553191,
+    "gn:latitude":21.04624,
+    "gn:longitude":-75.73911,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Juba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Juba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553191
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9906f3df7dad2aad7c2595e8ca7ee100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1293676185,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1293676185,
+    "wof:lastmodified":1537619001,
+    "wof:name":"La Juba",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73911,
+    21.04624,
+    -75.73911,
+    21.04624
+],
+  "geometry": {"coordinates":[-75.73911,21.04624],"type":"Point"}
+}

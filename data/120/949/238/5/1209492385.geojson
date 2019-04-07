@@ -1,0 +1,64 @@
+{
+  "id": 1209492385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.40638,20.90749,-76.40638,20.90749",
+    "geom:latitude":20.90749,
+    "geom:longitude":-76.40638,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Loma",
+    "gn:country_code":"CU",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11061310,
+    "gn:latitude":20.90749,
+    "gn:longitude":-76.40638,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"La Loma",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Loma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11061310
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"98f733e2884fe4b06c0d965d564bb699",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209492385
+        }
+    ],
+    "wof:id":1209492385,
+    "wof:lastmodified":1537619209,
+    "wof:name":"La Loma",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.40638,
+    20.90749,
+    -76.40638,
+    20.90749
+],
+  "geometry": {"coordinates":[-76.40638,20.90749],"type":"Point"}
+}

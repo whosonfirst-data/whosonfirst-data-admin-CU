@@ -1,0 +1,70 @@
+{
+  "id": 1243045171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.06145,20.83628,-76.06145,20.83628",
+    "geom:latitude":20.83628,
+    "geom:longitude":-76.06145,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ceuta",
+    "gn:country_code":"CU",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3564412,
+    "gn:latitude":20.83628,
+    "gn:longitude":-76.06145,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Ceuta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ceuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564412
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4a72d57ff400a6165b3f9340ade646a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902841,
+            "locality_id":1243045171,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1243045171,
+    "wof:lastmodified":1537619083,
+    "wof:name":"Ceuta",
+    "wof:parent_id":1091902841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.06145,
+    20.83628,
+    -76.06145,
+    20.83628
+],
+  "geometry": {"coordinates":[-76.06144999999999,20.83628],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421193649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.83333,20.01667,-75.83333,20.01667",
+    "geom:latitude":20.01667,
+    "geom:longitude":-75.83333,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3542434,
+    "qs:gn_pop":0,
+    "qs:name":"Reparto Dagnesse",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Santiago de Cuba",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":53464,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":66563,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091908137,
+        85670441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542434,
+        "gp:id":66563,
+        "qs:id":53464
+    },
+    "wof:country":"CU",
+    "wof:created":1459009778,
+    "wof:geomhash":"43500ec1521cbf0c6a8ee68bcdf16f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":-1,
+            "neighbourhood_id":421193649,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":421193649,
+    "wof:lastmodified":1531858717,
+    "wof:name":"Reparto Dagnesse",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.83333,
+    20.01667,
+    -75.83333,
+    20.01667
+],
+  "geometry": {"coordinates":[-75.83333,20.01667],"type":"Point"}
+}

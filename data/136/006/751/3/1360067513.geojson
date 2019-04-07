@@ -1,0 +1,70 @@
+{
+  "id": 1360067513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.36612,22.91127,-80.36612,22.91127",
+    "geom:latitude":22.91127,
+    "geom:longitude":-80.36612,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Piedra",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007210,
+    "gn:latitude":22.91127,
+    "gn:longitude":-80.36612,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Piedra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007210
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"43c9e2ff4dbb919225f7db1c510a78f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904251,
+            "locality_id":1360067513,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1360067513,
+    "wof:lastmodified":1537619159,
+    "wof:name":"La Piedra",
+    "wof:parent_id":1091904251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.36612,
+    22.91127,
+    -80.36612,
+    22.91127
+],
+  "geometry": {"coordinates":[-80.36612,22.91127],"type":"Point"}
+}

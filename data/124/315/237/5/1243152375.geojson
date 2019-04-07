@@ -1,0 +1,67 @@
+{
+  "id": 1243152375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.93333,20.65,-74.93333,20.65",
+    "geom:latitude":20.65,
+    "geom:longitude":-74.93333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Los Mangos",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3549075,
+    "gn:latitude":20.65,
+    "gn:longitude":-74.93333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Los Mangos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091906483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549075
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a6e67febe223967d668067954b231579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906483,
+            "locality_id":1243152375,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1243152375,
+    "wof:lastmodified":1536732851,
+    "wof:name":"Los Mangos",
+    "wof:parent_id":1091906483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.93333,
+    20.65,
+    -74.93333,
+    20.65
+],
+  "geometry": {"coordinates":[-74.93333,20.65],"type":"Point"}
+}

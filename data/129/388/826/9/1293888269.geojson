@@ -1,0 +1,70 @@
+{
+  "id": 1293888269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.21895,21.64081,-78.21895,21.64081",
+    "geom:latitude":21.64081,
+    "geom:longitude":-78.21895,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Quinta",
+    "gn:country_code":"CU",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3551930,
+    "gn:latitude":21.64081,
+    "gn:longitude":-78.21895,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Quinta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Quinta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551930
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"712869063720f2044116e369da5a661d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903793,
+            "locality_id":1293888269,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1293888269,
+    "wof:lastmodified":1537618993,
+    "wof:name":"La Quinta",
+    "wof:parent_id":1091903793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.21895,
+    21.64081,
+    -78.21895,
+    21.64081
+],
+  "geometry": {"coordinates":[-78.21895000000001,21.64081],"type":"Point"}
+}

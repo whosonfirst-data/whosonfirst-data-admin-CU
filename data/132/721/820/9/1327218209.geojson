@@ -1,0 +1,70 @@
+{
+  "id": 1327218209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.98488,20.31269,-76.98488,20.31269",
+    "geom:latitude":20.31269,
+    "geom:longitude":-76.98488,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Candonga",
+    "gn:country_code":"CU",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11023736,
+    "gn:latitude":20.31269,
+    "gn:longitude":-76.98488,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Candonga",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Candonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091908741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023736
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4f4010f0581e9ea7f0964e539da2405b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908741,
+            "locality_id":1327218209,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1327218209,
+    "wof:lastmodified":1537619191,
+    "wof:name":"Candonga",
+    "wof:parent_id":1091908741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.98488,
+    20.31269,
+    -76.98488,
+    20.31269
+],
+  "geometry": {"coordinates":[-76.98488,20.31269],"type":"Point"}
+}

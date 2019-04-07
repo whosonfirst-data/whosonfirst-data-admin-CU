@@ -1,0 +1,64 @@
+{
+  "id": 1209696031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.35373,20.94118,-76.35373,20.94118",
+    "geom:latitude":20.94118,
+    "geom:longitude":-76.35373,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Purnio",
+    "gn:country_code":"CU",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543119,
+    "gn:latitude":20.94118,
+    "gn:longitude":-76.35373,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Purnio",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Purnio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543119
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b30e20a430c99d50aed5d5c81e4e6d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209696031
+        }
+    ],
+    "wof:id":1209696031,
+    "wof:lastmodified":1537618931,
+    "wof:name":"Purnio",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.35373,
+    20.94118,
+    -76.35373,
+    20.94118
+],
+  "geometry": {"coordinates":[-76.35373,20.94118],"type":"Point"}
+}

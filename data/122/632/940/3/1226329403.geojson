@@ -1,0 +1,74 @@
+{
+  "id": 1226329403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.63968,21.023,-75.63968,21.023",
+    "geom:latitude":21.023,
+    "geom:longitude":-75.63968,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Canada Honda Trece",
+    "gn:country_code":"CU",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565872,
+    "gn:latitude":21.023,
+    "gn:longitude":-75.63968,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Ca\u00f1ada Honda Trece",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ca\u00f1ada Honda Trece"
+    ],
+    "name:und_x_variant":[
+        "Ca\u00f1ada Honda N\u00famero 13",
+        "Ca\u00f1ada Honda N\u00famero Trece"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565872
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"36d32a14317792829764242cb379e3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1226329403,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1226329403,
+    "wof:lastmodified":1537619095,
+    "wof:name":"Canada Honda Trece",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.63968,
+    21.023,
+    -75.63968,
+    21.023
+],
+  "geometry": {"coordinates":[-75.63968,21.023],"type":"Point"}
+}

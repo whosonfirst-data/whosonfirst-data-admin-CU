@@ -1,0 +1,67 @@
+{
+  "id": 1243574191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.41667,22.13333,-80.41667,22.13333",
+    "geom:latitude":22.13333,
+    "geom:longitude":-80.41667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tejar la Palma",
+    "gn:country_code":"CU",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3535431,
+    "gn:latitude":22.13333,
+    "gn:longitude":-80.41667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Tejar la Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091904035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535431
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3fc6d6841e6677904d536e853f3ba814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904035,
+            "locality_id":1243574191,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1243574191,
+    "wof:lastmodified":1536619381,
+    "wof:name":"Tejar la Palma",
+    "wof:parent_id":1091904035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.41667,
+    22.13333,
+    -80.41667,
+    22.13333
+],
+  "geometry": {"coordinates":[-80.41667,22.13333],"type":"Point"}
+}

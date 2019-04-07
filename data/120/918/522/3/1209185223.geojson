@@ -1,0 +1,64 @@
+{
+  "id": 1209185223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.33771,22.03276,-79.33771,22.03276",
+    "geom:latitude":22.03276,
+    "geom:longitude":-79.33771,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Portada Prieta",
+    "gn:country_code":"CU",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543339,
+    "gn:latitude":22.03276,
+    "gn:longitude":-79.33771,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Portada Prieta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerta Prieta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543339
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"23f26fb0a4b61f28177a18f59f0d7638",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209185223
+        }
+    ],
+    "wof:id":1209185223,
+    "wof:lastmodified":1537618933,
+    "wof:name":"Portada Prieta",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.33771,
+    22.03276,
+    -79.33771,
+    22.03276
+],
+  "geometry": {"coordinates":[-79.33771,22.03276],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344251627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.95318,20.21475,-76.95318,20.21475",
+    "geom:latitude":20.21475,
+    "geom:longitude":-76.95318,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Cabagan",
+    "gn:country_code":"CU",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3566607,
+    "gn:latitude":20.21475,
+    "gn:longitude":-76.95318,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Cabag\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cabag\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091902987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566607
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"85c04abc2a294d6e4af65f38e05b2025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902987,
+            "locality_id":1344251627,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1344251627,
+    "wof:lastmodified":1537619101,
+    "wof:name":"Cabagan",
+    "wof:parent_id":1091902987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95318,
+    20.21475,
+    -76.95318,
+    20.21475
+],
+  "geometry": {"coordinates":[-76.95318,20.21475],"type":"Point"}
+}

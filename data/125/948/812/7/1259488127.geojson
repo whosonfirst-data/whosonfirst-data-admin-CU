@@ -1,0 +1,72 @@
+{
+  "id": 1259488127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.21667,21.05,-78.21667,21.05",
+    "geom:latitude":21.05,
+    "geom:longitude":-78.21667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Yabunal",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559497,
+    "gn:latitude":21.05,
+    "gn:longitude":-78.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Yabunal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yabunal",
+        "El Yabunal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559497
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"97a31174851afcf51cdc51b49e44798d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908663,
+            "locality_id":1259488127,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1259488127,
+    "wof:lastmodified":1537619044,
+    "wof:name":"El Yabunal",
+    "wof:parent_id":1091908663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.21667,
+    21.05,
+    -78.21667,
+    21.05
+],
+  "geometry": {"coordinates":[-78.21666999999999,21.05],"type":"Point"}
+}

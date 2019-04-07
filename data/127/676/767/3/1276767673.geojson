@@ -1,0 +1,70 @@
+{
+  "id": 1276767673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.92612,21.91097,-77.92612,21.91097",
+    "geom:latitude":21.91097,
+    "geom:longitude":-77.92612,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Playa Jiguey",
+    "gn:country_code":"CU",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11037606,
+    "gn:latitude":21.91097,
+    "gn:longitude":-77.92612,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Playa Jig\u00fcey",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Playa Jig\u00fcey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11037606
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c93bfcf22cc50ba38b23a965566d85ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904517,
+            "locality_id":1276767673,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1276767673,
+    "wof:lastmodified":1537619201,
+    "wof:name":"Playa Jiguey",
+    "wof:parent_id":1091904517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.92612,
+    21.91097,
+    -77.92612,
+    21.91097
+],
+  "geometry": {"coordinates":[-77.92612,21.91097],"type":"Point"}
+}

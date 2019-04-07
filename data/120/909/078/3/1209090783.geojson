@@ -1,0 +1,64 @@
+{
+  "id": 1209090783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.46318,20.11629,-77.46318,20.11629",
+    "geom:latitude":20.11629,
+    "geom:longitude":-77.46318,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Jabao",
+    "gn:country_code":"CU",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11012650,
+    "gn:latitude":20.11629,
+    "gn:longitude":-77.46318,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Jabao",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Jabao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11012650
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"293ae08333a5382ad04752b87fa0918d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209090783
+        }
+    ],
+    "wof:id":1209090783,
+    "wof:lastmodified":1537619182,
+    "wof:name":"El Jabao",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.46318000000002,
+    20.11629,
+    -77.46318000000002,
+    20.11629
+],
+  "geometry": {"coordinates":[-77.46318000000002,20.11629],"type":"Point"}
+}

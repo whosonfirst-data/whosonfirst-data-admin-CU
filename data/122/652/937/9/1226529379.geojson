@@ -1,0 +1,67 @@
+{
+  "id": 1226529379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.14028,20.92944,-76.14028,20.92944",
+    "geom:latitude":20.92944,
+    "geom:longitude":-76.14028,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Lindero",
+    "gn:country_code":"CU",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3549730,
+    "gn:latitude":20.92944,
+    "gn:longitude":-76.14028,
+    "gn:modification_date":"1996-04-25",
+    "gn:name":"Lindero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091905117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549730
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"459ce24f89218a8576160226c58a3fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905117,
+            "locality_id":1226529379,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1226529379,
+    "wof:lastmodified":1537020754,
+    "wof:name":"Lindero",
+    "wof:parent_id":1091905117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.14028,
+    20.92944,
+    -76.14028,
+    20.92944
+],
+  "geometry": {"coordinates":[-76.14028,20.92944],"type":"Point"}
+}

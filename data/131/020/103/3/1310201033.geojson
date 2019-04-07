@@ -1,0 +1,73 @@
+{
+  "id": 1310201033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.78938,20.28215,-76.78938,20.28215",
+    "geom:latitude":20.28215,
+    "geom:longitude":-76.78938,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Represa",
+    "gn:country_code":"CU",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542389,
+    "gn:latitude":20.28215,
+    "gn:longitude":-76.78938,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Represa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Represa"
+    ],
+    "name:und_x_variant":[
+        "Represa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542389
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"edb90408b8647be76bebee967fae355e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903105,
+            "locality_id":1310201033,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1310201033,
+    "wof:lastmodified":1537618927,
+    "wof:name":"La Represa",
+    "wof:parent_id":1091903105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.78938000000002,
+    20.28215,
+    -76.78938000000002,
+    20.28215
+],
+  "geometry": {"coordinates":[-76.78938000000002,20.28215],"type":"Point"}
+}

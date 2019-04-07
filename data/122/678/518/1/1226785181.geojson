@@ -1,0 +1,67 @@
+{
+  "id": 1226785181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.01667,23.03333,-82.01667,23.03333",
+    "geom:latitude":23.03333,
+    "geom:longitude":-82.01667,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Juana Maria",
+    "gn:country_code":"CU",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3555890,
+    "gn:latitude":23.03333,
+    "gn:longitude":-82.01667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Juana Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091905233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555890
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1f9a419164b06ad8b711192831cc12cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905233,
+            "locality_id":1226785181,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1226785181,
+    "wof:lastmodified":1536658800,
+    "wof:name":"Juana Maria",
+    "wof:parent_id":1091905233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.01666999999998,
+    23.03333,
+    -82.01666999999998,
+    23.03333
+],
+  "geometry": {"coordinates":[-82.01666999999998,23.03333],"type":"Point"}
+}

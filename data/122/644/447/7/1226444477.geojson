@@ -1,0 +1,71 @@
+{
+  "id": 1226444477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.13545,22.8172,-81.13545,22.8172",
+    "geom:latitude":22.8172,
+    "geom:longitude":-81.13545,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Julio Reyes Cairo",
+    "gn:country_code":"CU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3555669,
+    "gn:latitude":22.8172,
+    "gn:longitude":-81.13545,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Julio Reyes Cairo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Julio Reyes",
+        "Julio Reyes Cairo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555669
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4119596ed487a2108468bd14472c4e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905493,
+            "locality_id":1226444477,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1226444477,
+    "wof:lastmodified":1537619018,
+    "wof:name":"Julio Reyes Cairo",
+    "wof:parent_id":1091905493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.13545,
+    22.8172,
+    -81.13545,
+    22.8172
+],
+  "geometry": {"coordinates":[-81.13545000000001,22.8172],"type":"Point"}
+}

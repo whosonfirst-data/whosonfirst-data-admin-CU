@@ -1,0 +1,73 @@
+{
+  "id": 1360064757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.8449,21.07163,-76.8449,21.07163",
+    "geom:latitude":21.07163,
+    "geom:longitude":-76.8449,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Diego Felipe Dos",
+    "gn:country_code":"CU",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3562437,
+    "gn:latitude":21.07163,
+    "gn:longitude":-76.8449,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Diego Felipe Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Diego Felipe Dos"
+    ],
+    "name:und_x_variant":[
+        "Diego Felipe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562437
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4fa142a92a1f3b1201e6868f7c0ef6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1360064757,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1360064757,
+    "wof:lastmodified":1537619070,
+    "wof:name":"Diego Felipe Dos",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.8449,
+    21.07163,
+    -76.8449,
+    21.07163
+],
+  "geometry": {"coordinates":[-76.8449,21.07163],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344127865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.19389,21.74222,-79.19389,21.74222",
+    "geom:latitude":21.74222,
+    "geom:longitude":-79.19389,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Siguaguaco",
+    "gn:country_code":"CU",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3536197,
+    "gn:latitude":21.74222,
+    "gn:longitude":-79.19389,
+    "gn:modification_date":"1996-07-18",
+    "gn:name":"Siguaguaco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536197
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"53d95645b3820f70333aa0b744456f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905283,
+            "locality_id":1344127865,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1344127865,
+    "wof:lastmodified":1536778922,
+    "wof:name":"Siguaguaco",
+    "wof:parent_id":1091905283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.19389,
+    21.74222,
+    -79.19389,
+    21.74222
+],
+  "geometry": {"coordinates":[-79.19389,21.74222],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309817381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.3385,22.32526,-84.3385,22.32526",
+    "geom:latitude":22.32526,
+    "geom:longitude":-84.3385,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pino Gordo",
+    "gn:country_code":"CU",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3544037,
+    "gn:latitude":22.32526,
+    "gn:longitude":-84.3385,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Pino Gordo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pino Gordo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091906027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544037
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"108d9348e560b7af83ba26a41d306282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906027,
+            "locality_id":1309817381,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1309817381,
+    "wof:lastmodified":1537618939,
+    "wof:name":"Pino Gordo",
+    "wof:parent_id":1091906027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.3385,
+    22.32526,
+    -84.3385,
+    22.32526
+],
+  "geometry": {"coordinates":[-84.3385,22.32526],"type":"Point"}
+}

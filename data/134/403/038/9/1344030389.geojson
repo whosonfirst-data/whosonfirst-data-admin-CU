@@ -1,0 +1,70 @@
+{
+  "id": 1344030389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.55567,22.43366,-79.55567,22.43366",
+    "geom:latitude":22.43366,
+    "geom:longitude":-79.55567,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Hogar",
+    "gn:country_code":"CU",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007932,
+    "gn:latitude":22.43366,
+    "gn:longitude":-79.55567,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"El Hogar",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Hogar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007932
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8356e2b7032a0cd92d2ec044f0fca5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1344030389,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1344030389,
+    "wof:lastmodified":1537619168,
+    "wof:name":"El Hogar",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.55566999999998,
+    22.43366,
+    -79.55566999999998,
+    22.43366
+],
+  "geometry": {"coordinates":[-79.55566999999998,22.43366],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277065739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.05346,20.17932,-75.05346,20.17932",
+    "geom:latitude":20.17932,
+    "geom:longitude":-75.05346,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Manuel Tames",
+    "gn:country_code":"CU",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547884,
+    "gn:latitude":20.17932,
+    "gn:longitude":-75.05346,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Manuel Tames",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00edo Seco",
+        "San Antonio",
+        "Manuel Tames"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091906061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547884,
+        "wk:page":"Manuel_Tames"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5b9c37cc58f31f771ee51b27f8b16d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906061,
+            "locality_id":1277065739,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1277065739,
+    "wof:lastmodified":1537618963,
+    "wof:name":"Manuel Tames",
+    "wof:parent_id":1091906061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.05346,
+    20.17932,
+    -75.05346,
+    20.17932
+],
+  "geometry": {"coordinates":[-75.05346,20.17932],"type":"Point"}
+}

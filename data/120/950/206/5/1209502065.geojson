@@ -1,0 +1,66 @@
+{
+  "id": 1209502065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.81709,21.00683,-75.81709,21.00683",
+    "geom:latitude":21.00683,
+    "geom:longitude":-75.81709,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Retrete",
+    "gn:country_code":"CU",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3559891,
+    "gn:latitude":21.00683,
+    "gn:longitude":-75.81709,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"El Retrete",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Retrete",
+        "Hacienda el Retrete",
+        "El Retrete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559891
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6db88ce33fa86534b6ae352338fc0313",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209502065
+        }
+    ],
+    "wof:id":1209502065,
+    "wof:lastmodified":1537619047,
+    "wof:name":"El Retrete",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.81709000000002,
+    21.00683,
+    -75.81709000000002,
+    21.00683
+],
+  "geometry": {"coordinates":[-75.81709000000002,21.00683],"type":"Point"}
+}

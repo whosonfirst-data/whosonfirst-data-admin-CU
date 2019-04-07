@@ -1,0 +1,67 @@
+{
+  "id": 1343763925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.02556,22.72361,-81.02556,22.72361",
+    "geom:latitude":22.72361,
+    "geom:longitude":-81.02556,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fraternidad",
+    "gn:country_code":"CU",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3558637,
+    "gn:latitude":22.72361,
+    "gn:longitude":-81.02556,
+    "gn:modification_date":"1996-07-18",
+    "gn:name":"Fraternidad",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3558637
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7ae84047f3af96298b75ae0a3b2a96d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906933,
+            "locality_id":1343763925,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1343763925,
+    "wof:lastmodified":1536805763,
+    "wof:name":"Fraternidad",
+    "wof:parent_id":1091906933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.02556,
+    22.72361,
+    -81.02556,
+    22.72361
+],
+  "geometry": {"coordinates":[-81.02556,22.72361],"type":"Point"}
+}

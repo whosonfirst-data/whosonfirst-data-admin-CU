@@ -1,0 +1,73 @@
+{
+  "id": 1293763129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.90285,21.03735,-76.90285,21.03735",
+    "geom:latitude":21.03735,
+    "geom:longitude":-76.90285,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Santa Maria",
+    "gn:country_code":"CU",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3537297,
+    "gn:latitude":21.03735,
+    "gn:longitude":-76.90285,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Santa Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:und_x_variant":[
+        "Santa Mar\u00eda de Manzanillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3537297
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"87209eef7fd3bbcfe66a388a9c5f1519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905619,
+            "locality_id":1293763129,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1293763129,
+    "wof:lastmodified":1537618899,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":1091905619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.90285,
+    21.03735,
+    -76.90285,
+    21.03735
+],
+  "geometry": {"coordinates":[-76.90285,21.03735],"type":"Point"}
+}

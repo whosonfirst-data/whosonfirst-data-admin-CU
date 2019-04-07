@@ -1,0 +1,70 @@
+{
+  "id": 1293469189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63694,21.11234,-76.63694,21.11234",
+    "geom:latitude":21.11234,
+    "geom:longitude":-76.63694,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Farola",
+    "gn:country_code":"CU",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3553972,
+    "gn:latitude":21.11234,
+    "gn:longitude":-76.63694,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Farola",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Farola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553972
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c025c3d17579d90799e8433e0ce52d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1293469189,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1293469189,
+    "wof:lastmodified":1537619007,
+    "wof:name":"La Farola",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63694,
+    21.11234,
+    -76.63694,
+    21.11234
+],
+  "geometry": {"coordinates":[-76.63694,21.11234],"type":"Point"}
+}

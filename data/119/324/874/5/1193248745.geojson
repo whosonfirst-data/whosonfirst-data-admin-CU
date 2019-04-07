@@ -1,0 +1,67 @@
+{
+  "id": 1193248745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.76806,20.09278,-75.76806,20.09278",
+    "geom:latitude":20.09278,
+    "geom:longitude":-75.76806,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dos Bocas",
+    "gn:country_code":"CU",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3562190,
+    "gn:latitude":20.09278,
+    "gn:longitude":-75.76806,
+    "gn:modification_date":"1996-07-17",
+    "gn:name":"Dos Bocas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562190
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bf7117f2879bef129c3334a4fc360dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":1193248745,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1193248745,
+    "wof:lastmodified":1536370472,
+    "wof:name":"Dos Bocas",
+    "wof:parent_id":1091908137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.76805999999998,
+    20.09278,
+    -75.76805999999998,
+    20.09278
+],
+  "geometry": {"coordinates":[-75.76805999999998,20.09278],"type":"Point"}
+}

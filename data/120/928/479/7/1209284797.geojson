@@ -1,0 +1,64 @@
+{
+  "id": 1209284797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.02835,19.89885,-77.02835,19.89885",
+    "geom:latitude":19.89885,
+    "geom:longitude":-77.02835,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Salvial",
+    "gn:country_code":"CU",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11028959,
+    "gn:latitude":19.89885,
+    "gn:longitude":-77.02835,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Salvial",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Salvial"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11028959
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"197ca3ebd6d2583c6e2fc475c6f9e8f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209284797
+        }
+    ],
+    "wof:id":1209284797,
+    "wof:lastmodified":1537619197,
+    "wof:name":"El Salvial",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.02835,
+    19.89885,
+    -77.02835,
+    19.89885
+],
+  "geometry": {"coordinates":[-77.02835,19.89885],"type":"Point"}
+}

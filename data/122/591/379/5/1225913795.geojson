@@ -1,0 +1,70 @@
+{
+  "id": 1225913795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.7236,22.67014,-79.7236,22.67014",
+    "geom:latitude":22.67014,
+    "geom:longitude":-79.7236,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Embarcadero",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3559468,
+    "gn:latitude":22.67014,
+    "gn:longitude":-79.7236,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Embarcadero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Embarcadero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559468
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c68ab35fec3f910b02b4e799c237d191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904483,
+            "locality_id":1225913795,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1225913795,
+    "wof:lastmodified":1537619043,
+    "wof:name":"Embarcadero",
+    "wof:parent_id":1091904483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.7236,
+    22.67014,
+    -79.7236,
+    22.67014
+],
+  "geometry": {"coordinates":[-79.7236,22.67014],"type":"Point"}
+}

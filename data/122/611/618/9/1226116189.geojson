@@ -1,0 +1,70 @@
+{
+  "id": 1226116189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.27675,22.07832,-79.27675,22.07832",
+    "geom:latitude":22.07832,
+    "geom:longitude":-79.27675,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Francisco Cabrera",
+    "gn:country_code":"CU",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008693,
+    "gn:latitude":22.07832,
+    "gn:longitude":-79.27675,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Francisco Cabrera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Francisco Cabrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008693
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"43b2839a5dea152ed698a87e1dd25f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908397,
+            "locality_id":1226116189,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1226116189,
+    "wof:lastmodified":1537619171,
+    "wof:name":"Francisco Cabrera",
+    "wof:parent_id":1091908397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.27675,
+    22.07832,
+    -79.27675,
+    22.07832
+],
+  "geometry": {"coordinates":[-79.27675000000001,22.07832],"type":"Point"}
+}

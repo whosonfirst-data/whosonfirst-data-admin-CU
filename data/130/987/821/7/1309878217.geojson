@@ -1,0 +1,73 @@
+{
+  "id": 1309878217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.17685,22.76758,-80.17685,22.76758",
+    "geom:latitude":22.76758,
+    "geom:longitude":-80.17685,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Malpaez",
+    "gn:country_code":"CU",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3548307,
+    "gn:latitude":22.76758,
+    "gn:longitude":-80.17685,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Malp\u00e1ez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Malpaez"
+    ],
+    "name:spa_x_variant":[
+        "Malp\u00e1ez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548307
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"53d47d14fc5e107ac42ba53ca14b591c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907545,
+            "locality_id":1309878217,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1309878217,
+    "wof:lastmodified":1537618966,
+    "wof:name":"Malpaez",
+    "wof:parent_id":1091907545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.17685,
+    22.76758,
+    -80.17685,
+    22.76758
+],
+  "geometry": {"coordinates":[-80.17685,22.76758],"type":"Point"}
+}

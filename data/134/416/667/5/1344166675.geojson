@@ -1,0 +1,74 @@
+{
+  "id": 1344166675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.70196,22.26717,-83.70196,22.26717",
+    "geom:latitude":22.26717,
+    "geom:longitude":-83.70196,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Espanta Sueno",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559309,
+    "gn:latitude":22.26717,
+    "gn:longitude":-83.70196,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Espanta Sue\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Espanta Sue\u00f1o"
+    ],
+    "name:und_x_variant":[
+        "Finca Espanto Sue\u00f1os",
+        "Espanto Sue\u00f1os"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559309
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"eb02273ea0497466b827546676f88a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907795,
+            "locality_id":1344166675,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1344166675,
+    "wof:lastmodified":1537619042,
+    "wof:name":"Espanta Sueno",
+    "wof:parent_id":1091907795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.70196,
+    22.26717,
+    -83.70196,
+    22.26717
+],
+  "geometry": {"coordinates":[-83.70196,22.26717],"type":"Point"}
+}

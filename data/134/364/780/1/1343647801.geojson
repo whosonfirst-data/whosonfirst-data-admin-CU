@@ -1,0 +1,73 @@
+{
+  "id": 1343647801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.58216,20.74652,-77.58216,20.74652",
+    "geom:latitude":20.74652,
+    "geom:longitude":-77.58216,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Maboas",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3550818,
+    "gn:latitude":20.74652,
+    "gn:longitude":-77.58216,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Las Maboas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Maboas"
+    ],
+    "name:und_x_variant":[
+        "Las Naboas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091902667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550818
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fedb2d3b1c53946e7ef05c4afe294873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902667,
+            "locality_id":1343647801,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1343647801,
+    "wof:lastmodified":1537618984,
+    "wof:name":"Las Maboas",
+    "wof:parent_id":1091902667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.58216,
+    20.74652,
+    -77.58216,
+    20.74652
+],
+  "geometry": {"coordinates":[-77.58216,20.74652],"type":"Point"}
+}

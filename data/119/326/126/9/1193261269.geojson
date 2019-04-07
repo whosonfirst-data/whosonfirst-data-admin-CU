@@ -1,0 +1,70 @@
+{
+  "id": 1193261269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.00829,20.52908,-76.00829,20.52908",
+    "geom:latitude":20.52908,
+    "geom:longitude":-76.00829,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Andrea",
+    "gn:country_code":"CU",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063697,
+    "gn:latitude":20.52908,
+    "gn:longitude":-76.00829,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"La Andrea",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Andrea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091906371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063697
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bb5cdfb4c06aa964c02cfeb143d5a8a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906371,
+            "locality_id":1193261269,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1193261269,
+    "wof:lastmodified":1537619212,
+    "wof:name":"La Andrea",
+    "wof:parent_id":1091906371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.00829,
+    20.52908,
+    -76.00829,
+    20.52908
+],
+  "geometry": {"coordinates":[-76.00829,20.52908],"type":"Point"}
+}

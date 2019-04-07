@@ -1,0 +1,70 @@
+{
+  "id": 1242691709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.03221,22.23101,-84.03221,22.23101",
+    "geom:latitude":22.23101,
+    "geom:longitude":-84.03221,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Portales",
+    "gn:country_code":"CU",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003066,
+    "gn:latitude":22.23101,
+    "gn:longitude":-84.03221,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Portales",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Portales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091904873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003066
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"76de0c9fe8f32a890ef4a8ea44c8a6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904873,
+            "locality_id":1242691709,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1242691709,
+    "wof:lastmodified":1537619154,
+    "wof:name":"Portales",
+    "wof:parent_id":1091904873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.03220999999998,
+    22.23101,
+    -84.03220999999998,
+    22.23101
+],
+  "geometry": {"coordinates":[-84.03220999999998,22.23101],"type":"Point"}
+}

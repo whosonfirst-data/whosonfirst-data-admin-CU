@@ -1,0 +1,70 @@
+{
+  "id": 1226229289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6395,20.86352,-76.6395,20.86352",
+    "geom:latitude":20.86352,
+    "geom:longitude":-76.6395,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Buenaventura",
+    "gn:country_code":"CU",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3566804,
+    "gn:latitude":20.86352,
+    "gn:longitude":-76.6395,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Buenaventura",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Buenaventura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091903541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566804
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3cfc8552122a463dae3da7e885e3b886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903541,
+            "locality_id":1226229289,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1226229289,
+    "wof:lastmodified":1537619102,
+    "wof:name":"Buenaventura",
+    "wof:parent_id":1091903541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.6395,
+    20.86352,
+    -76.6395,
+    20.86352
+],
+  "geometry": {"coordinates":[-76.6395,20.86352],"type":"Point"}
+}

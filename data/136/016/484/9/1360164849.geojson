@@ -1,0 +1,70 @@
+{
+  "id": 1360164849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.51571,20.66088,-76.51571,20.66088",
+    "geom:latitude":20.66088,
+    "geom:longitude":-76.51571,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tauler",
+    "gn:country_code":"CU",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3535466,
+    "gn:latitude":20.66088,
+    "gn:longitude":-76.51571,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Tauler",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tauler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091903321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535466
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"40602212ba048f371ca9f55cb88b2401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903321,
+            "locality_id":1360164849,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1360164849,
+    "wof:lastmodified":1537618890,
+    "wof:name":"Tauler",
+    "wof:parent_id":1091903321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.51571,
+    20.66088,
+    -76.51571,
+    20.66088
+],
+  "geometry": {"coordinates":[-76.51571,20.66088],"type":"Point"}
+}

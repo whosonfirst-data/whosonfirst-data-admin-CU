@@ -1,0 +1,64 @@
+{
+  "id": 1209599039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.32324,20.26424,-74.32324,20.26424",
+    "geom:latitude":20.26424,
+    "geom:longitude":-74.32324,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guagui",
+    "gn:country_code":"CU",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080173,
+    "gn:latitude":20.26424,
+    "gn:longitude":-74.32324,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Guag\u00fc\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guag\u00fc\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080173
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0bb7cca910861c65dcefab001c821c3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209599039
+        }
+    ],
+    "wof:id":1209599039,
+    "wof:lastmodified":1537619226,
+    "wof:name":"Guagui",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.32324,
+    20.26424,
+    -74.32324,
+    20.26424
+],
+  "geometry": {"coordinates":[-74.32324,20.26424],"type":"Point"}
+}

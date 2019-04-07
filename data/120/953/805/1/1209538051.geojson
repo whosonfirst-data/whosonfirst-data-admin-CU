@@ -1,0 +1,62 @@
+{
+  "id": 1209538051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.2333,22.2667,-80.2333,22.2667",
+    "geom:latitude":22.2667,
+    "geom:longitude":-80.2333,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Las Vegas",
+    "gn:country_code":"CU",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550563,
+    "gn:latitude":22.2667,
+    "gn:longitude":-80.2333,
+    "gn:modification_date":"2016-11-21",
+    "gn:name":"Las Vegas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550563
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"92474c2f7de98a5a3adc9f52819c58ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209538051
+        }
+    ],
+    "wof:id":1209538051,
+    "wof:lastmodified":1536284075,
+    "wof:name":"Las Vegas",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.2333,
+    22.2667,
+    -80.2333,
+    22.2667
+],
+  "geometry": {"coordinates":[-80.2333,22.2667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890424169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.3597,23.0881,-82.3597,23.0881",
+    "geom:latitude":23.0881,
+    "geom:longitude":-82.3597,
+    "gn:country":"CU",
+    "gn:fcode":"PPLX",
+    "gn:pop":227293,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Diez de Octubre",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        102191575,
+        85670445,
+        85632675,
+        1091904421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6956648,
+        "gp:id":64790,
+        "qs:id":653229,
+        "wd:id":"Q2397948",
+        "wk:page":"Diez de Octubre"
+    },
+    "wof:country":"CU",
+    "wof:created":1469051533,
+    "wof:geomhash":"f7522799d24adb7ad54d1c502c81ddfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904421,
+            "neighbourhood_id":890424169,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":890424169,
+    "wof:lastmodified":1527727263,
+    "wof:name":"Diez de Octubre",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":227293,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.3597,
+    23.0881,
+    -82.3597,
+    23.0881
+],
+  "geometry": {"coordinates":[-82.3597,23.0881],"type":"Point"}
+}

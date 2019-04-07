@@ -1,0 +1,73 @@
+{
+  "id": 1226657389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.74959,22.588,-80.74959,22.588",
+    "geom:latitude":22.588,
+    "geom:longitude":-80.74959,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oriente",
+    "gn:country_code":"CU",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3545494,
+    "gn:latitude":22.588,
+    "gn:longitude":-80.74959,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Oriente",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Oriente"
+    ],
+    "name:spa_x_variant":[
+        "Nuevo Oriente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091903495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545494
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5b0fda8a300b0f46fd98d23a0c8ce31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903495,
+            "locality_id":1226657389,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1226657389,
+    "wof:lastmodified":1537618949,
+    "wof:name":"Oriente",
+    "wof:parent_id":1091903495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.74959,
+    22.588,
+    -80.74959,
+    22.588
+],
+  "geometry": {"coordinates":[-80.74959,22.588],"type":"Point"}
+}

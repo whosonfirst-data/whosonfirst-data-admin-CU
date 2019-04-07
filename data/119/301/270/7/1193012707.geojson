@@ -1,0 +1,73 @@
+{
+  "id": 1193012707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.62292,21.98729,-78.62292,21.98729",
+    "geom:latitude":21.98729,
+    "geom:longitude":-78.62292,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cacahual Nuevo",
+    "gn:country_code":"CU",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11009161,
+    "gn:latitude":21.98729,
+    "gn:longitude":-78.62292,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Cacahual Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Cacahual"
+    ],
+    "name:spa_x_variant":[
+        "Cacahual Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091904085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11009161
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f5c02991dbfaaffa508679fdbccf8ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904085,
+            "locality_id":1193012707,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1193012707,
+    "wof:lastmodified":1537619177,
+    "wof:name":"Cacahual Nuevo",
+    "wof:parent_id":1091904085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.62292,
+    21.98729,
+    -78.62292,
+    21.98729
+],
+  "geometry": {"coordinates":[-78.62291999999999,21.98729],"type":"Point"}
+}

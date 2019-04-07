@@ -1,0 +1,73 @@
+{
+  "id": 1327243033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.91406,22.63418,-80.91406,22.63418",
+    "geom:latitude":22.63418,
+    "geom:longitude":-80.91406,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Curamaguey",
+    "gn:country_code":"CU",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3562766,
+    "gn:latitude":22.63418,
+    "gn:longitude":-80.91406,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Curamag\u00fcey",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Curamag\u00fcey"
+    ],
+    "name:und_x_variant":[
+        "Cura Mag\u00fcey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091903495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562766
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a9dfecb03f81e0d486169901aebc4685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903495,
+            "locality_id":1327243033,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1327243033,
+    "wof:lastmodified":1537619072,
+    "wof:name":"Curamaguey",
+    "wof:parent_id":1091903495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.91405999999998,
+    22.63418,
+    -80.91405999999998,
+    22.63418
+],
+  "geometry": {"coordinates":[-80.91405999999998,22.63418],"type":"Point"}
+}

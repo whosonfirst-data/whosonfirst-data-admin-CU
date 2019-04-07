@@ -1,0 +1,74 @@
+{
+  "id": 1309993051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.70818,21.09659,-75.70818,21.09659",
+    "geom:latitude":21.09659,
+    "geom:longitude":-75.70818,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Rio Seco Diez y Siete",
+    "gn:country_code":"CU",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542087,
+    "gn:latitude":21.09659,
+    "gn:longitude":-75.70818,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"R\u00edo Seco Diez y Siete",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Seco Diez y Siete"
+    ],
+    "name:und_x_variant":[
+        "R\u00edo Seco N\u00famero 17",
+        "R\u00edo Seco N\u00famero Diecisiete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542087
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9378d2c47c5156913c47ce6ac8dfa08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1309993051,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1309993051,
+    "wof:lastmodified":1537618925,
+    "wof:name":"Rio Seco Diez y Siete",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.70818,
+    21.09659,
+    -75.70818,
+    21.09659
+],
+  "geometry": {"coordinates":[-75.70818,21.09659],"type":"Point"}
+}

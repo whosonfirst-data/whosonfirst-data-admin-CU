@@ -1,0 +1,70 @@
+{
+  "id": 1276438625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.26106,22.0587,-78.26106,22.0587",
+    "geom:latitude":22.0587,
+    "geom:longitude":-78.26106,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Cinco",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11008986,
+    "gn:latitude":22.0587,
+    "gn:longitude":-78.26106,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Cinco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cinco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091903181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008986
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"60ff0647ef5056741fe0a512019134f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903181,
+            "locality_id":1276438625,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1276438625,
+    "wof:lastmodified":1537619174,
+    "wof:name":"La Cinco",
+    "wof:parent_id":1091903181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.26106,
+    22.0587,
+    -78.26106,
+    22.0587
+],
+  "geometry": {"coordinates":[-78.26106,22.0587],"type":"Point"}
+}

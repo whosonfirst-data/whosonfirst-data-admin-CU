@@ -1,0 +1,70 @@
+{
+  "id": 1343398157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.83447,22.98771,-81.83447,22.98771",
+    "geom:latitude":22.98771,
+    "geom:longitude":-81.83447,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Ruben Martinez Villena",
+    "gn:country_code":"CU",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746746,
+    "gn:latitude":22.98771,
+    "gn:longitude":-81.83447,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Rub\u00e9n Mart\u00ednez Villena",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rub\u00e9n Mart\u00ednez Villena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091905779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746746
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ddf87abdc189b6a990862cdc07f2436a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905779,
+            "locality_id":1343398157,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1343398157,
+    "wof:lastmodified":1537619134,
+    "wof:name":"Ruben Martinez Villena",
+    "wof:parent_id":1091905779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.83447,
+    22.98771,
+    -81.83447,
+    22.98771
+],
+  "geometry": {"coordinates":[-81.83447,22.98771],"type":"Point"}
+}

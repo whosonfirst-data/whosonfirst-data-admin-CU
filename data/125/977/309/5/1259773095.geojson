@@ -1,0 +1,74 @@
+{
+  "id": 1259773095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.94291,20.16635,-76.94291,20.16635",
+    "geom:latitude":20.16635,
+    "geom:longitude":-76.94291,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bartolome Maso",
+    "gn:country_code":"CU",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3567669,
+    "gn:latitude":20.16635,
+    "gn:longitude":-76.94291,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Bartolom\u00e9 Mas\u00f3",
+    "gn:population":53024,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bartolom\u00e9 Mas\u00f3"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091902987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567669,
+        "wk:page":"Bartolom%C3%A9_Mas%C3%B3%2C_Cuba"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"956d06d33764412dd314ae3727b722ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902987,
+            "locality_id":1259773095,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1259773095,
+    "wof:lastmodified":1537619109,
+    "wof:name":"Bartolome Maso",
+    "wof:parent_id":1091902987,
+    "wof:placetype":"locality",
+    "wof:population":53024,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.94291,
+    20.16635,
+    -76.94291,
+    20.16635
+],
+  "geometry": {"coordinates":[-76.94291,20.16635],"type":"Point"}
+}

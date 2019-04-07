@@ -1,0 +1,67 @@
+{
+  "id": 1242868571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.91667,20.43333,-76.91667,20.43333",
+    "geom:latitude":20.43333,
+    "geom:longitude":-76.91667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Lajita",
+    "gn:country_code":"CU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3553296,
+    "gn:latitude":20.43333,
+    "gn:longitude":-76.91667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Lajita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091907413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553296
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"380b2cde23613d6c58d3da4b262a2b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907413,
+            "locality_id":1242868571,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1242868571,
+    "wof:lastmodified":1536643948,
+    "wof:name":"Lajita",
+    "wof:parent_id":1091907413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.91667,
+    20.43333,
+    -76.91667,
+    20.43333
+],
+  "geometry": {"coordinates":[-76.91667,20.43333],"type":"Point"}
+}

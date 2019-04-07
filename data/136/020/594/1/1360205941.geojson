@@ -1,0 +1,70 @@
+{
+  "id": 1360205941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.86848,21.87778,-78.86848,21.87778",
+    "geom:latitude":21.87778,
+    "geom:longitude":-78.86848,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tablones",
+    "gn:country_code":"CU",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535609,
+    "gn:latitude":21.87778,
+    "gn:longitude":-78.86848,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Tablones",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tablones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091908603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535609
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a96b2f66a10fb79fd6df86568556f81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908603,
+            "locality_id":1360205941,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1360205941,
+    "wof:lastmodified":1537618891,
+    "wof:name":"Tablones",
+    "wof:parent_id":1091908603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.86848,
+    21.87778,
+    -78.86848,
+    21.87778
+],
+  "geometry": {"coordinates":[-78.86848000000001,21.87778],"type":"Point"}
+}

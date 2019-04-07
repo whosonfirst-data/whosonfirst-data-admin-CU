@@ -1,0 +1,74 @@
+{
+  "id": 1277153531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.92966,21.09167,-76.92966,21.09167",
+    "geom:latitude":21.09167,
+    "geom:longitude":-76.92966,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Collado",
+    "gn:country_code":"CU",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3563892,
+    "gn:latitude":21.09167,
+    "gn:longitude":-76.92966,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Collado",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Collado"
+    ],
+    "name:und_x_variant":[
+        "Entronque Collada",
+        "Collada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563892
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"dede9094b9dc373b32c259f7465539f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905945,
+            "locality_id":1277153531,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1277153531,
+    "wof:lastmodified":1537619080,
+    "wof:name":"Collado",
+    "wof:parent_id":1091905945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.92966,
+    21.09167,
+    -76.92966,
+    21.09167
+],
+  "geometry": {"coordinates":[-76.92966,21.09167],"type":"Point"}
+}

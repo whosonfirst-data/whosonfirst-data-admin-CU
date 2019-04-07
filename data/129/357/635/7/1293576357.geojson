@@ -1,0 +1,70 @@
+{
+  "id": 1293576357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.37601,20.70192,-75.37601,20.70192",
+    "geom:latitude":20.70192,
+    "geom:longitude":-75.37601,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Barrederas",
+    "gn:country_code":"CU",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567725,
+    "gn:latitude":20.70192,
+    "gn:longitude":-75.37601,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Barrederas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barrederas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567725
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"afeda31a6a073d03c1de43e6792e13c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904661,
+            "locality_id":1293576357,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1293576357,
+    "wof:lastmodified":1537619109,
+    "wof:name":"Barrederas",
+    "wof:parent_id":1091904661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.37601,
+    20.70192,
+    -75.37601,
+    20.70192
+],
+  "geometry": {"coordinates":[-75.37600999999999,20.70192],"type":"Point"}
+}

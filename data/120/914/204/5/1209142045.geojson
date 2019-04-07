@@ -1,0 +1,64 @@
+{
+  "id": 1209142045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.16904,22.63132,-83.16904,22.63132",
+    "geom:latitude":22.63132,
+    "geom:longitude":-83.16904,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Lopez Pena",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948198,
+    "gn:latitude":22.63132,
+    "gn:longitude":-83.16904,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"L\u00f3pez Pe\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "L\u00f3pez Pe\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948198
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9e44905332a4e49c0a9a58f1f71dafce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209142045
+        }
+    ],
+    "wof:id":1209142045,
+    "wof:lastmodified":1537619147,
+    "wof:name":"Lopez Pena",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.16904,
+    22.63132,
+    -83.16904,
+    22.63132
+],
+  "geometry": {"coordinates":[-83.16904,22.63132],"type":"Point"}
+}

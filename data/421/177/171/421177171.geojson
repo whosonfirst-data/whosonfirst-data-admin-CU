@@ -1,0 +1,92 @@
+{
+  "id": 421177171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.89611,22.64472,-79.89611,22.64472",
+    "geom:latitude":22.64472,
+    "geom:longitude":-79.89611,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Calabazar de Sagua"
+    ],
+    "name:spa_x_preferred":[
+        "Calabazar de Sagua"
+    ],
+    "name:swe_x_preferred":[
+        "Calabazar de Sagua"
+    ],
+    "name:unk_x_variant":[
+        "Calabazar"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3566235,
+    "qs:gn_pop":10455,
+    "qs:name":"Calabazar de Sagua",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Villa Clara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1115834,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":60775,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566235,
+        "gp:id":60775,
+        "qs:id":1115834,
+        "wd:id":"Q5559579"
+    },
+    "wof:country":"CU",
+    "wof:created":1459009135,
+    "wof:geomhash":"2034ea6e4d8daf3f614376091f5ea63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904483,
+            "locality_id":421177171,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":421177171,
+    "wof:lastmodified":1513944486,
+    "wof:name":"Calabazar de Sagua",
+    "wof:parent_id":1091904483,
+    "wof:placetype":"locality",
+    "wof:population":10455,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.89611,
+    22.64472,
+    -79.89611,
+    22.64472
+],
+  "geometry": {"coordinates":[-79.89610999999999,22.64472],"type":"Point"}
+}

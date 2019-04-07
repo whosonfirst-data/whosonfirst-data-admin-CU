@@ -1,0 +1,76 @@
+{
+  "id": 1327215927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.42377,22.93053,-80.42377,22.93053",
+    "geom:latitude":22.93053,
+    "geom:longitude":-80.42377,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Islote La Panchita",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3544943,
+    "gn:latitude":22.93053,
+    "gn:longitude":-80.42377,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Islote La Panchita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Panchita"
+    ],
+    "name:spa_x_variant":[
+        "Islote La Panchita"
+    ],
+    "name:und_x_variant":[
+        "Panchita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544943
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0fbfe7907553af893cef4eb6d8ecac78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904251,
+            "locality_id":1327215927,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1327215927,
+    "wof:lastmodified":1537618944,
+    "wof:name":"Islote La Panchita",
+    "wof:parent_id":1091904251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.42376999999998,
+    22.93053,
+    -80.42376999999998,
+    22.93053
+],
+  "geometry": {"coordinates":[-80.42376999999998,22.93053],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309985465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.87144,20.92036,-76.87144,20.92036",
+    "geom:latitude":20.92036,
+    "geom:longitude":-76.87144,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Calixto",
+    "gn:country_code":"CU",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3566127,
+    "gn:latitude":20.92036,
+    "gn:longitude":-76.87144,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"Calixto",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Calixto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566127,
+        "wk:page":"Calixto,_Cuba"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bd8da37107e333aa0072f4f5690fb726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905901,
+            "locality_id":1309985465,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1309985465,
+    "wof:lastmodified":1537619098,
+    "wof:name":"Calixto",
+    "wof:parent_id":1091905901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.87144,
+    20.92036,
+    -76.87144,
+    20.92036
+],
+  "geometry": {"coordinates":[-76.87144000000001,20.92036],"type":"Point"}
+}

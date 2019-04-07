@@ -1,0 +1,70 @@
+{
+  "id": 1225827461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.28515,22.81073,-80.28515,22.81073",
+    "geom:latitude":22.81073,
+    "geom:longitude":-80.28515,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Viuda",
+    "gn:country_code":"CU",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007305,
+    "gn:latitude":22.81073,
+    "gn:longitude":-80.28515,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"La Viuda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Viuda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007305
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"eb666ecca3542e2275cfff9f4f959c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907209,
+            "locality_id":1225827461,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1225827461,
+    "wof:lastmodified":1537619161,
+    "wof:name":"La Viuda",
+    "wof:parent_id":1091907209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.28515,
+    22.81073,
+    -80.28515,
+    22.81073
+],
+  "geometry": {"coordinates":[-80.28515,22.81073],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293593183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.85256,22.21994,-83.85256,22.21994",
+    "geom:latitude":22.21994,
+    "geom:longitude":-83.85256,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Galope",
+    "gn:country_code":"CU",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3558504,
+    "gn:latitude":22.21994,
+    "gn:longitude":-83.85256,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Galope",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Galope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3558504
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0c61c2d0cc77c08f82a4cdbe6203afa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907755,
+            "locality_id":1293593183,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1293593183,
+    "wof:lastmodified":1537619037,
+    "wof:name":"Galope",
+    "wof:parent_id":1091907755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.85256,
+    22.21994,
+    -83.85256,
+    22.21994
+],
+  "geometry": {"coordinates":[-83.85256,22.21994],"type":"Point"}
+}

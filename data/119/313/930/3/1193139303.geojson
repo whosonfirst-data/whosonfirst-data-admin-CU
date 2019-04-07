@@ -1,0 +1,79 @@
+{
+  "id": 1193139303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.27878,22.69491,-81.27878,22.69491",
+    "geom:latitude":22.69491,
+    "geom:longitude":-81.27878,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Camilo Cienfuegos Uno",
+    "gn:country_code":"CU",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565977,
+    "gn:latitude":22.69491,
+    "gn:longitude":-81.27878,
+    "gn:modification_date":"2016-09-28",
+    "gn:name":"Camilo Cienfuegos Uno",
+    "gn:population":100,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0438\u043b\u043e \u0421\u044c\u0435\u043d\u0444\u0443\u0430\u0433\u043e\u0441 \u0423\u043d\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Camilo Cienfuegos Uno"
+    ],
+    "name:und_x_variant":[
+        "Camilo Cienfuegos N\u00famero 1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565977
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"21d0a6782d2f74f3520af02b027aae56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906893,
+            "locality_id":1193139303,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1193139303,
+    "wof:lastmodified":1537619096,
+    "wof:name":"Camilo Cienfuegos Uno",
+    "wof:parent_id":1091906893,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.27878,
+    22.69491,
+    -81.27878,
+    22.69491
+],
+  "geometry": {"coordinates":[-81.27878,22.69491],"type":"Point"}
+}

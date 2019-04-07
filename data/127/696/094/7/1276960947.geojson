@@ -1,0 +1,67 @@
+{
+  "id": 1276960947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.65,22.18333,-79.65,22.18333",
+    "geom:latitude":22.18333,
+    "geom:longitude":-79.65,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"America",
+    "gn:country_code":"CU",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3568963,
+    "gn:latitude":22.18333,
+    "gn:longitude":-79.65,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Am\u00e9rica",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091904623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568963
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e4597906606bda650788ec1539589f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904623,
+            "locality_id":1276960947,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1276960947,
+    "wof:lastmodified":1536933461,
+    "wof:name":"America",
+    "wof:parent_id":1091904623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.65,
+    22.18333,
+    -79.65,
+    22.18333
+],
+  "geometry": {"coordinates":[-79.65000000000001,22.18333],"type":"Point"}
+}

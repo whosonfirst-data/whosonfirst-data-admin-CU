@@ -1,0 +1,70 @@
+{
+  "id": 1193258549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.22846,21.03262,-76.22846,21.03262",
+    "geom:latitude":21.03262,
+    "geom:longitude":-76.22846,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Ceiba",
+    "gn:country_code":"CU",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3554731,
+    "gn:latitude":21.03262,
+    "gn:longitude":-76.22846,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Ceiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554731
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"50f5b920a475293cdbb9819ac2ced81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904693,
+            "locality_id":1193258549,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1193258549,
+    "wof:lastmodified":1537619012,
+    "wof:name":"La Ceiba",
+    "wof:parent_id":1091904693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.22846,
+    21.03262,
+    -76.22846,
+    21.03262
+],
+  "geometry": {"coordinates":[-76.22846,21.03262],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259367317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.8479,20.1078,-76.8479,20.1078",
+    "geom:latitude":20.1078,
+    "geom:longitude":-76.8479,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Los Lajales",
+    "gn:country_code":"CU",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024205,
+    "gn:latitude":20.1078,
+    "gn:longitude":-76.8479,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Los Lajales",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Lajales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091902987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024205
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e40eea708117e9992c09c508258d3fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902987,
+            "locality_id":1259367317,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1259367317,
+    "wof:lastmodified":1537619192,
+    "wof:name":"Los Lajales",
+    "wof:parent_id":1091902987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.8479,
+    20.1078,
+    -76.8479,
+    20.1078
+],
+  "geometry": {"coordinates":[-76.8479,20.1078],"type":"Point"}
+}

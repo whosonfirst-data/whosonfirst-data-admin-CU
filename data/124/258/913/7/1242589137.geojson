@@ -1,0 +1,67 @@
+{
+  "id": 1242589137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.55917,22.70139,-81.55917,22.70139",
+    "geom:latitude":22.70139,
+    "geom:longitude":-81.55917,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Santa Apolonia",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3538069,
+    "gn:latitude":22.70139,
+    "gn:longitude":-81.55917,
+    "gn:modification_date":"1996-06-13",
+    "gn:name":"Santa Apolonia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091908517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538069
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a70669e1f28ba63a41b12f24b0977b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908517,
+            "locality_id":1242589137,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1242589137,
+    "wof:lastmodified":1537045100,
+    "wof:name":"Santa Apolonia",
+    "wof:parent_id":1091908517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.55917,
+    22.70139,
+    -81.55917,
+    22.70139
+],
+  "geometry": {"coordinates":[-81.55916999999999,22.70139],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260214343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.03907,22.91661,-82.03907,22.91661",
+    "geom:latitude":22.91661,
+    "geom:longitude":-82.03907,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Minacristi",
+    "gn:country_code":"CU",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10948322,
+    "gn:latitude":22.91661,
+    "gn:longitude":-82.03907,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Minacristi",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Minacristi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091907725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948322
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7011daf29fb111d122b435db9b8e0332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907725,
+            "locality_id":1260214343,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1260214343,
+    "wof:lastmodified":1537619148,
+    "wof:name":"Minacristi",
+    "wof:parent_id":1091907725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.03907,
+    22.91661,
+    -82.03907,
+    22.91661
+],
+  "geometry": {"coordinates":[-82.03907,22.91661],"type":"Point"}
+}

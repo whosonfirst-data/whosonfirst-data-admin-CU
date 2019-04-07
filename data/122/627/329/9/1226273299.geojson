@@ -1,0 +1,73 @@
+{
+  "id": 1226273299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.8433,22.9714,-82.8433,22.9714",
+    "geom:latitude":22.9714,
+    "geom:longitude":-82.8433,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"San Jacinto",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3540055,
+    "gn:latitude":22.9714,
+    "gn:longitude":-82.8433,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"San Jacinto",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jacinto"
+    ],
+    "name:und_x_variant":[
+        "San Jacinto Ramos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091906179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540055
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7e59b450165783b139783e83722d1d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906179,
+            "locality_id":1226273299,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1226273299,
+    "wof:lastmodified":1537618913,
+    "wof:name":"San Jacinto",
+    "wof:parent_id":1091906179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.8433,
+    22.9714,
+    -82.8433,
+    22.9714
+],
+  "geometry": {"coordinates":[-82.8433,22.9714],"type":"Point"}
+}

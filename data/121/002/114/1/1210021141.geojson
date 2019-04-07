@@ -1,0 +1,70 @@
+{
+  "id": 1210021141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.37594,21.01982,-78.37594,21.01982",
+    "geom:latitude":21.01982,
+    "geom:longitude":-78.37594,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Santo Domingo",
+    "gn:country_code":"CU",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3536678,
+    "gn:latitude":21.01982,
+    "gn:longitude":-78.37594,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Santo Domingo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santo Domingo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536678
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8645983468507d84b18438691f4c0383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908663,
+            "locality_id":1210021141,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1210021141,
+    "wof:lastmodified":1537618896,
+    "wof:name":"Santo Domingo",
+    "wof:parent_id":1091908663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.37594,
+    21.01982000000001,
+    -78.37594,
+    21.01982000000001
+],
+  "geometry": {"coordinates":[-78.37594,21.01982000000001],"type":"Point"}
+}

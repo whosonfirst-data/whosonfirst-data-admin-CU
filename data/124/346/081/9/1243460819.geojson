@@ -1,0 +1,70 @@
+{
+  "id": 1243460819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.82314,21.47282,-82.82314,21.47282",
+    "geom:latitude":21.47282,
+    "geom:longitude":-82.82314,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rincon del Guanal",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003262,
+    "gn:latitude":21.47282,
+    "gn:longitude":-82.82314,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Rinc\u00f3n del Guanal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n del Guanal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670405,
+        1091906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003262
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0e1ce449dc4533d0970a249d5494ae28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906563,
+            "locality_id":1243460819,
+            "region_id":85670405
+        }
+    ],
+    "wof:id":1243460819,
+    "wof:lastmodified":1537619155,
+    "wof:name":"Rincon del Guanal",
+    "wof:parent_id":1091906563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.82314000000002,
+    21.47282,
+    -82.82314000000002,
+    21.47282
+],
+  "geometry": {"coordinates":[-82.82314000000002,21.47282],"type":"Point"}
+}

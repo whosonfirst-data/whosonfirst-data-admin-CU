@@ -1,0 +1,71 @@
+{
+  "id": 1310519237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.81051,22.29643,-83.81051,22.29643",
+    "geom:latitude":22.29643,
+    "geom:longitude":-83.81051,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Santa Damiana",
+    "gn:country_code":"CU",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3537837,
+    "gn:latitude":22.29643,
+    "gn:longitude":-83.81051,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Santa Damiana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damiana",
+        "Santa Damiana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3537837
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d894ad632341d3064708e2500c8d0d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907755,
+            "locality_id":1310519237,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1310519237,
+    "wof:lastmodified":1537618903,
+    "wof:name":"Santa Damiana",
+    "wof:parent_id":1091907755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.81051,
+    22.29643,
+    -83.81051,
+    22.29643
+],
+  "geometry": {"coordinates":[-83.81050999999999,22.29643],"type":"Point"}
+}

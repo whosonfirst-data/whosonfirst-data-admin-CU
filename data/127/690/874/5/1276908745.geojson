@@ -1,0 +1,70 @@
+{
+  "id": 1276908745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.91359,22.77753,-82.91359,22.77753",
+    "geom:latitude":22.77753,
+    "geom:longitude":-82.91359,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Quebradero del Yuro",
+    "gn:country_code":"CU",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10947325,
+    "gn:latitude":22.77753,
+    "gn:longitude":-82.91359,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Quebradero del Yuro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebradero del Yuro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091902795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10947325
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9afee1b99869ead9fc13c3c3b75ca33b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902795,
+            "locality_id":1276908745,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1276908745,
+    "wof:lastmodified":1537619145,
+    "wof:name":"Quebradero del Yuro",
+    "wof:parent_id":1091902795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.91359,
+    22.77753,
+    -82.91359,
+    22.77753
+],
+  "geometry": {"coordinates":[-82.91359,22.77753],"type":"Point"}
+}

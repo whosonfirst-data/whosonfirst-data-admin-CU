@@ -1,0 +1,67 @@
+{
+  "id": 1360115727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.81667,22.9,-82.81667,22.9",
+    "geom:latitude":22.9,
+    "geom:longitude":-82.81667,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"San Miguel del Rosario",
+    "gn:country_code":"CU",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3538802,
+    "gn:latitude":22.9,
+    "gn:longitude":-82.81667,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"San Miguel del Rosario",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091904827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538802
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bf8ee069c9b024c147642695cf2a98bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904827,
+            "locality_id":1360115727,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1360115727,
+    "wof:lastmodified":1536901589,
+    "wof:name":"San Miguel del Rosario",
+    "wof:parent_id":1091904827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.81667,
+    22.9,
+    -82.81667,
+    22.9
+],
+  "geometry": {"coordinates":[-82.81667,22.9],"type":"Point"}
+}

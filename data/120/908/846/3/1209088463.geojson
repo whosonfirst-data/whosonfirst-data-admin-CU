@@ -1,0 +1,67 @@
+{
+  "id": 1209088463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.71517,22.44505,-79.71517,22.44505",
+    "geom:latitude":22.44505,
+    "geom:longitude":-79.71517,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Yagua",
+    "gn:country_code":"CU",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550542,
+    "gn:latitude":22.44505,
+    "gn:longitude":-79.71517,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"La Yagua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Yagua"
+    ],
+    "name:und_x_variant":[
+        "Las Yaguas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550542
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a5ee7d29636281e313eb8e7a012b2c21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209088463
+        }
+    ],
+    "wof:id":1209088463,
+    "wof:lastmodified":1537618982,
+    "wof:name":"La Yagua",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.71517,
+    22.44505,
+    -79.71517,
+    22.44505
+],
+  "geometry": {"coordinates":[-79.71517,22.44505],"type":"Point"}
+}

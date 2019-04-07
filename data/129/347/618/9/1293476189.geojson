@@ -1,0 +1,70 @@
+{
+  "id": 1293476189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.43542,21.00458,-77.43542,21.00458",
+    "geom:latitude":21.00458,
+    "geom:longitude":-77.43542,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Albaflores",
+    "gn:country_code":"CU",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11034253,
+    "gn:latitude":21.00458,
+    "gn:longitude":-77.43542,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Albaflores",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Albaflores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091904115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11034253
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"665d57d00c0184ec2538dfed9715a02f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904115,
+            "locality_id":1293476189,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1293476189,
+    "wof:lastmodified":1537619200,
+    "wof:name":"Albaflores",
+    "wof:parent_id":1091904115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.43542,
+    21.00458,
+    -77.43542,
+    21.00458
+],
+  "geometry": {"coordinates":[-77.43541999999999,21.00458],"type":"Point"}
+}

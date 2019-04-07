@@ -1,0 +1,67 @@
+{
+  "id": 1209297793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.41598,21.93351,-79.41598,21.93351",
+    "geom:latitude":21.93351,
+    "geom:longitude":-79.41598,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"San Jose de las Minas",
+    "gn:country_code":"CU",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3539663,
+    "gn:latitude":21.93351,
+    "gn:longitude":-79.41598,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"San Jos\u00e9 de las Minas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de las Minas"
+    ],
+    "name:und_x_variant":[
+        "San Jos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539663
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fd4b23f5794e0ee3bdd4520b4d5e1069",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209297793
+        }
+    ],
+    "wof:id":1209297793,
+    "wof:lastmodified":1537618912,
+    "wof:name":"San Jose de las Minas",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.41598,
+    21.93351,
+    -79.41598,
+    21.93351
+],
+  "geometry": {"coordinates":[-79.41598,21.93351],"type":"Point"}
+}

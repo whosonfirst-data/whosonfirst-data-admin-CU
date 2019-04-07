@@ -1,0 +1,70 @@
+{
+  "id": 1292895709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.03011,20.1706,-77.03011,20.1706",
+    "geom:latitude":20.1706,
+    "geom:longitude":-77.03011,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Garatas Arriba",
+    "gn:country_code":"CU",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11012862,
+    "gn:latitude":20.1706,
+    "gn:longitude":-77.03011,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Garatas Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Garatas Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11012862
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e06e393b489f7588ef216dde1d63b692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906089,
+            "locality_id":1292895709,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1292895709,
+    "wof:lastmodified":1537619183,
+    "wof:name":"Garatas Arriba",
+    "wof:parent_id":1091906089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.03011,
+    20.1706,
+    -77.03011,
+    20.1706
+],
+  "geometry": {"coordinates":[-77.03010999999999,20.1706],"type":"Point"}
+}

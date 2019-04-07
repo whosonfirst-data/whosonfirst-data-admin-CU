@@ -1,0 +1,73 @@
+{
+  "id": 1209986879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.1,20.25,-76.1,20.25",
+    "geom:latitude":20.25,
+    "geom:longitude":-76.1,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Juan Baron",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3555882,
+    "gn:latitude":20.25,
+    "gn:longitude":-76.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Juan Bar\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juan Maron",
+        "Juan Varona",
+        "Juan Bar\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091906823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555882
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a5264e9acacde343d71ac70d8eae9ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906823,
+            "locality_id":1209986879,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1209986879,
+    "wof:lastmodified":1537619019,
+    "wof:name":"Juan Baron",
+    "wof:parent_id":1091906823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.1,
+    20.25,
+    -76.1,
+    20.25
+],
+  "geometry": {"coordinates":[-76.09999999999999,20.25],"type":"Point"}
+}

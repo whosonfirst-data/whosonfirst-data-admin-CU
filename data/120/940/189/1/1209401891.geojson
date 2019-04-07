@@ -1,0 +1,64 @@
+{
+  "id": 1209401891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0348,21.01275,-76.0348,21.01275",
+    "geom:latitude":21.01275,
+    "geom:longitude":-76.0348,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Los Cocos",
+    "gn:country_code":"CU",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11059324,
+    "gn:latitude":21.01275,
+    "gn:longitude":-76.0348,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Los Cocos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Cocos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11059324
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"48f7034bb4f502a6a00693ed2dade7cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209401891
+        }
+    ],
+    "wof:id":1209401891,
+    "wof:lastmodified":1537619208,
+    "wof:name":"Los Cocos",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0348,
+    21.01275,
+    -76.0348,
+    21.01275
+],
+  "geometry": {"coordinates":[-76.0348,21.01275],"type":"Point"}
+}

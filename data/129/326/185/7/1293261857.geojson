@@ -1,0 +1,67 @@
+{
+  "id": 1293261857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.68333,22.38333,-79.68333,22.38333",
+    "geom:latitude":22.38333,
+    "geom:longitude":-79.68333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Eva",
+    "gn:country_code":"CU",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559052,
+    "gn:latitude":22.38333,
+    "gn:longitude":-79.68333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Eva",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091903633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559052
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"dc4d0b0dbcd4bb14a309b34d87d8d274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903633,
+            "locality_id":1293261857,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1293261857,
+    "wof:lastmodified":1536612935,
+    "wof:name":"Eva",
+    "wof:parent_id":1091903633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.68333,
+    22.38333,
+    -79.68333,
+    22.38333
+],
+  "geometry": {"coordinates":[-79.68333,22.38333],"type":"Point"}
+}

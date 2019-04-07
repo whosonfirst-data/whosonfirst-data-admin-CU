@@ -1,0 +1,76 @@
+{
+  "id": 1193267183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.46973,20.28092,-74.46973,20.28092",
+    "geom:latitude":20.28092,
+    "geom:longitude":-74.46973,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Blanquillo",
+    "gn:country_code":"CU",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567223,
+    "gn:latitude":20.28092,
+    "gn:longitude":-74.46973,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"El Blanquillo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "El\u2019-Blankil\u2019o"
+    ],
+    "name:spa_x_preferred":[
+        "El Blanquillo"
+    ],
+    "name:und_x_variant":[
+        "Blanquillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091902961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567223
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d416e26362f2f2a0ff0f1bcdb9907e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902961,
+            "locality_id":1193267183,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1193267183,
+    "wof:lastmodified":1537619106,
+    "wof:name":"El Blanquillo",
+    "wof:parent_id":1091902961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.46973,
+    20.28092,
+    -74.46973,
+    20.28092
+],
+  "geometry": {"coordinates":[-74.46973,20.28092],"type":"Point"}
+}

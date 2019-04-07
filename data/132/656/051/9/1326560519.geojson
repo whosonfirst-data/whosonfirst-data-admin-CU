@@ -1,0 +1,67 @@
+{
+  "id": 1326560519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.835,22.89472,-81.835,22.89472",
+    "geom:latitude":22.89472,
+    "geom:longitude":-81.835,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Concordia",
+    "gn:country_code":"CU",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3563613,
+    "gn:latitude":22.89472,
+    "gn:longitude":-81.835,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Concordia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091905779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563613
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"883fc42dde26dfe0da16ce86de86739d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905779,
+            "locality_id":1326560519,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1326560519,
+    "wof:lastmodified":1536943864,
+    "wof:name":"Concordia",
+    "wof:parent_id":1091905779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.835,
+    22.89472,
+    -81.835,
+    22.89472
+],
+  "geometry": {"coordinates":[-81.83499999999999,22.89472],"type":"Point"}
+}

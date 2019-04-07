@@ -1,0 +1,67 @@
+{
+  "id": 1277060761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.65,20.33333,-76.65,20.33333",
+    "geom:latitude":20.33333,
+    "geom:longitude":-76.65,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Almirante",
+    "gn:country_code":"CU",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3561896,
+    "gn:latitude":20.33333,
+    "gn:longitude":-76.65,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"El Almirante",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561896
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ac11a4253bf37d82cd84f12343346c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903105,
+            "locality_id":1277060761,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1277060761,
+    "wof:lastmodified":1536798598,
+    "wof:name":"El Almirante",
+    "wof:parent_id":1091903105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.65,
+    20.33333,
+    -76.65,
+    20.33333
+],
+  "geometry": {"coordinates":[-76.65000000000001,20.33333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343641607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.17905,20.87895,-76.17905,20.87895",
+    "geom:latitude":20.87895,
+    "geom:longitude":-76.17905,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Biajacas",
+    "gn:country_code":"CU",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3538519,
+    "gn:latitude":20.87895,
+    "gn:longitude":-76.17905,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Las Biajacas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Biajacas"
+    ],
+    "name:und_x_variant":[
+        "Las Viajacas",
+        "San Rafael"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091905117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538519
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0e93e42cd8de6ea00a782c608d09937e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905117,
+            "locality_id":1343641607,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1343641607,
+    "wof:lastmodified":1537618905,
+    "wof:name":"Las Biajacas",
+    "wof:parent_id":1091905117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.17905,
+    20.87895,
+    -76.17905,
+    20.87895
+],
+  "geometry": {"coordinates":[-76.17905,20.87895],"type":"Point"}
+}

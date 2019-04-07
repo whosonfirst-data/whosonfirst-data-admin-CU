@@ -1,0 +1,70 @@
+{
+  "id": 1226769817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.07493,22.1578,-80.07493,22.1578",
+    "geom:latitude":22.1578,
+    "geom:longitude":-80.07493,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Campana",
+    "gn:country_code":"CU",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3555215,
+    "gn:latitude":22.1578,
+    "gn:longitude":-80.07493,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"La Campana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Campana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555215
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"33b4c4bcc73e93447372ea8a36196668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1226769817,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1226769817,
+    "wof:lastmodified":1537619015,
+    "wof:name":"La Campana",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.07493000000002,
+    22.1578,
+    -80.07493000000002,
+    22.1578
+],
+  "geometry": {"coordinates":[-80.07493000000002,22.1578],"type":"Point"}
+}

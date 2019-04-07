@@ -1,0 +1,89 @@
+{
+  "id": 421192021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.42778,23.0625,-82.42778,23.0625",
+    "geom:latitude":23.0625,
+    "geom:longitude":-82.42778,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "El Palmar"
+    ],
+    "name:lit_x_preferred":[
+        "El Palmaras"
+    ],
+    "name:spa_x_preferred":[
+        "El Palmar"
+    ],
+    "name:unk_x_variant":[
+        "Palmar"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3560281,
+    "qs:gn_pop":0,
+    "qs:name":"El Palmar",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:photos":369,
+    "qs:photos_1k":75,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":369,
+    "qs:photos_sr":6,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165060,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":62216,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091906137,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560281,
+        "gp:id":62216,
+        "qs:id":1165060
+    },
+    "wof:country":"CU",
+    "wof:created":1459009723,
+    "wof:geomhash":"83821de664030f34535f19ce8c804927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906137,
+            "locality_id":-1,
+            "neighbourhood_id":421192021,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":421192021,
+    "wof:lastmodified":1531858670,
+    "wof:name":"El Palmar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.42778,
+    23.0625,
+    -82.42778,
+    23.0625
+],
+  "geometry": {"coordinates":[-82.42778,23.0625],"type":"Point"}
+}

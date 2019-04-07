@@ -1,0 +1,108 @@
+{
+  "id": 85793647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":8159399.542391,
+    "geom:bbox":"-75.8301,20.020388,-75.8301,20.020388",
+    "geom:latitude":20.020388,
+    "geom:longitude":-75.8301,
+    "gn:latitude":20.01667,
+    "gn:longitude":-75.83333,
+    "iso:country":"CU",
+    "lbl:latitude":20.020388,
+    "lbl:longitude":-75.8301,
+    "mps:latitude":20.017487,
+    "mps:longitude":-75.835945,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Reparto Altamira"
+    ],
+    "name:unk_x_variant":[
+        "Reparto Altamira"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Reparto Altamira",
+    "qs:local_max":2139,
+    "qs:local_sum":5427,
+    "qs:localhoods":10,
+    "qs:name":"Reparto Altamira",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Santiago de Cuba",
+    "qs:name_local":"Santiago de Cuba",
+    "qs:photo_max":256,
+    "qs:photo_sum":2139,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":58,
+    "qs:woe_adm0":23424793,
+    "qs:woe_adm1":2345119,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":68043,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670441,
+        102191575,
+        85632675,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542444,
+        "gp:id":66557,
+        "qs:id":211059
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"485d068285716111164d7c2864539292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":-1,
+            "neighbourhood_id":85793647,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":85793647,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379265,
+    "wof:name":"Reparto Altamira",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[
+        1126068619
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.8301,
+    20.020388,
+    -75.8301,
+    20.020388
+],
+  "geometry": {"coordinates":[-75.8301,20.020388],"type":"Point"}
+}

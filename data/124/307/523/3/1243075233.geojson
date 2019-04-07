@@ -1,0 +1,70 @@
+{
+  "id": 1243075233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.5965,22.93602,-81.5965,22.93602",
+    "geom:latitude":22.93602,
+    "geom:longitude":-81.5965,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Santa Ana",
+    "gn:country_code":"CU",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3538099,
+    "gn:latitude":22.93602,
+    "gn:longitude":-81.5965,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Santa Ana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Ana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3538099
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"789ba72f91f7228e79076f3834b5d9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905663,
+            "locality_id":1243075233,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1243075233,
+    "wof:lastmodified":1537618904,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":1091905663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.5965,
+    22.93602000000001,
+    -81.5965,
+    22.93602000000001
+],
+  "geometry": {"coordinates":[-81.59650000000001,22.93602000000001],"type":"Point"}
+}

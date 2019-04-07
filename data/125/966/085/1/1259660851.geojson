@@ -1,0 +1,72 @@
+{
+  "id": 1259660851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58333,20.68333,-75.58333,20.68333",
+    "geom:latitude":20.68333,
+    "geom:longitude":-75.58333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Corua Numero Siete",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3563262,
+    "gn:latitude":20.68333,
+    "gn:longitude":-75.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cor\u00faa N\u00famero Siete",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corua N\u00famero 7",
+        "Cor\u00faa N\u00famero Siete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091906305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563262
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a07a8de0d7eaf7c183d3de92448aa896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906305,
+            "locality_id":1259660851,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1259660851,
+    "wof:lastmodified":1537619076,
+    "wof:name":"Corua Numero Siete",
+    "wof:parent_id":1091906305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58333,
+    20.68333,
+    -75.58333,
+    20.68333
+],
+  "geometry": {"coordinates":[-75.58333,20.68333],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 421177477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.56222,23.05222,-82.56222,23.05222",
+    "geom:latitude":23.05222,
+    "geom:longitude":-82.56222,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Playa Baracoa"
+    ],
+    "name:eng_x_variant":[
+        "Caimito"
+    ],
+    "name:spa_x_preferred":[
+        "Playa de Baracoa"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3543913,
+    "qs:gn_pop":0,
+    "qs:name":"Playa Baracoa",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:photos":145,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":145,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1340776,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":66179,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091903075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543913,
+        "gp:id":66179,
+        "qs:id":1340776,
+        "wd:id":"Q559793",
+        "wk:page":"Caimito, Cuba"
+    },
+    "wof:country":"CU",
+    "wof:created":1459009146,
+    "wof:geomhash":"67bb9b20f817774d3af2030114d18b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903075,
+            "locality_id":421177477,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":421177477,
+    "wof:lastmodified":1501267549,
+    "wof:name":"Playa Baracoa",
+    "wof:parent_id":1091903075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.56222,
+    23.05222,
+    -82.56222,
+    23.05222
+],
+  "geometry": {"coordinates":[-82.56222,23.05222],"type":"Point"}
+}

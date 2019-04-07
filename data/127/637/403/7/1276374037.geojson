@@ -1,0 +1,67 @@
+{
+  "id": 1276374037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.29722,22.78639,-82.29722,22.78639",
+    "geom:latitude":22.78639,
+    "geom:longitude":-82.29722,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Cardona",
+    "gn:country_code":"CU",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565421,
+    "gn:latitude":22.78639,
+    "gn:longitude":-82.29722,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Cardona",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091903035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565421
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"022cade3c472c30d0a268b15e996a877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903035,
+            "locality_id":1276374037,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1276374037,
+    "wof:lastmodified":1536724258,
+    "wof:name":"Cardona",
+    "wof:parent_id":1091903035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.29722,
+    22.78639,
+    -82.29722,
+    22.78639
+],
+  "geometry": {"coordinates":[-82.29722,22.78639],"type":"Point"}
+}

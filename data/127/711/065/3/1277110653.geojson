@@ -1,0 +1,70 @@
+{
+  "id": 1277110653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.76584,23.05694,-81.76584,23.05694",
+    "geom:latitude":23.05694,
+    "geom:longitude":-81.76584,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Facenda",
+    "gn:country_code":"CU",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559035,
+    "gn:latitude":23.05694,
+    "gn:longitude":-81.76584,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Facenda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Facenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091908039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559035
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3ebc44860ad200be27e97fbd61f7f5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908039,
+            "locality_id":1277110653,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1277110653,
+    "wof:lastmodified":1537619040,
+    "wof:name":"Facenda",
+    "wof:parent_id":1091908039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.76584,
+    23.05694,
+    -81.76584,
+    23.05694
+],
+  "geometry": {"coordinates":[-81.76584,23.05694],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343341057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.44068,21.10696,-76.44068,21.10696",
+    "geom:latitude":21.10696,
+    "geom:longitude":-76.44068,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Rojas",
+    "gn:country_code":"CU",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3541955,
+    "gn:latitude":21.10696,
+    "gn:longitude":-76.44068,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Rojas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rojas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541955
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3a5f272b9a188a6b39a93d3ef7f47169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1343341057,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1343341057,
+    "wof:lastmodified":1537618924,
+    "wof:name":"Rojas",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.44068,
+    21.10696,
+    -76.44068,
+    21.10696
+],
+  "geometry": {"coordinates":[-76.44068,21.10696],"type":"Point"}
+}

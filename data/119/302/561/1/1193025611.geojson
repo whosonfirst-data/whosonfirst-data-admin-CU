@@ -1,0 +1,70 @@
+{
+  "id": 1193025611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.74626,22.49472,-83.74626,22.49472",
+    "geom:latitude":22.49472,
+    "geom:longitude":-83.74626,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Los Pozos",
+    "gn:country_code":"CU",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10946679,
+    "gn:latitude":22.49472,
+    "gn:longitude":-83.74626,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Los Pozos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Pozos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946679
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6eb78857106034e87d8f58a5542be333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907007,
+            "locality_id":1193025611,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1193025611,
+    "wof:lastmodified":1537619145,
+    "wof:name":"Los Pozos",
+    "wof:parent_id":1091907007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.74625999999998,
+    22.49472,
+    -83.74625999999998,
+    22.49472
+],
+  "geometry": {"coordinates":[-83.74625999999998,22.49472],"type":"Point"}
+}

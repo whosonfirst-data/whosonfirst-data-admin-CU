@@ -1,0 +1,68 @@
+{
+  "id": 1292992323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.93696,21.88073,-78.93696,21.88073",
+    "geom:latitude":21.88073,
+    "geom:longitude":-78.93696,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Guayacanes",
+    "gn:country_code":"CU",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557453,
+    "gn:latitude":21.88073,
+    "gn:longitude":-78.93696,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Guayacanes",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091905859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557453,
+        "wk:page":"Guayacanes"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d919c1d1b5a4e74fb0110dd2a82b1a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905859,
+            "locality_id":1292992323,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1292992323,
+    "wof:lastmodified":1537503941,
+    "wof:name":"Guayacanes",
+    "wof:parent_id":1091905859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.93696,
+    21.88073,
+    -78.93696,
+    21.88073
+],
+  "geometry": {"coordinates":[-78.93696,21.88073],"type":"Point"}
+}

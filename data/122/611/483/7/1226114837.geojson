@@ -1,0 +1,67 @@
+{
+  "id": 1226114837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.03194,22.10417,-80.03194,22.10417",
+    "geom:latitude":22.10417,
+    "geom:longitude":-80.03194,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Guanabana",
+    "gn:country_code":"CU",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557839,
+    "gn:latitude":22.10417,
+    "gn:longitude":-80.03194,
+    "gn:modification_date":"1996-02-21",
+    "gn:name":"Guan\u00e1bana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557839
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9f41753bebc002732a1e5cc9c4ee564c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1226114837,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1226114837,
+    "wof:lastmodified":1536623489,
+    "wof:name":"Guanabana",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.03194,
+    22.10417,
+    -80.03194,
+    22.10417
+],
+  "geometry": {"coordinates":[-80.03194000000001,22.10417],"type":"Point"}
+}

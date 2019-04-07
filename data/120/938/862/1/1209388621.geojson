@@ -1,0 +1,64 @@
+{
+  "id": 1209388621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.9788,21.96688,-79.9788,21.96688",
+    "geom:latitude":21.96688,
+    "geom:longitude":-79.9788,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Felicidad",
+    "gn:country_code":"CU",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763209,
+    "gn:latitude":21.96688,
+    "gn:longitude":-79.9788,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"La Felicidad",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Felicidad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763209
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1cba396116501efccaeb060fe19b4236",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209388621
+        }
+    ],
+    "wof:id":1209388621,
+    "wof:lastmodified":1537619139,
+    "wof:name":"La Felicidad",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.9788,
+    21.96688,
+    -79.9788,
+    21.96688
+],
+  "geometry": {"coordinates":[-79.97880000000001,21.96688],"type":"Point"}
+}

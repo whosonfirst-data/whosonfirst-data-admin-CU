@@ -1,0 +1,67 @@
+{
+  "id": 1226551391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.59472,23.04306,-81.59472,23.04306",
+    "geom:latitude":23.04306,
+    "geom:longitude":-81.59472,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Estrella",
+    "gn:country_code":"CU",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3553998,
+    "gn:latitude":23.04306,
+    "gn:longitude":-81.59472,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"La Estrella",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553998
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d1520bad59867dfc77d5414ffac15ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906273,
+            "locality_id":1226551391,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1226551391,
+    "wof:lastmodified":1536989052,
+    "wof:name":"La Estrella",
+    "wof:parent_id":1091906273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.59472,
+    23.04306,
+    -81.59472,
+    23.04306
+],
+  "geometry": {"coordinates":[-81.59472,23.04306],"type":"Point"}
+}

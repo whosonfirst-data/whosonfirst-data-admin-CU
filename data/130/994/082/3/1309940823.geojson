@@ -1,0 +1,67 @@
+{
+  "id": 1309940823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.26667,22.88333,-83.26667,22.88333",
+    "geom:latitude":22.88333,
+    "geom:longitude":-83.26667,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Las Tres Palmas",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550610,
+    "gn:latitude":22.88333,
+    "gn:longitude":-83.26667,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"Las Tres Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091902873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550610
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3111281f2aa7601a25c999246a3112cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902873,
+            "locality_id":1309940823,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1309940823,
+    "wof:lastmodified":1536736566,
+    "wof:name":"Las Tres Palmas",
+    "wof:parent_id":1091902873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.26666999999998,
+    22.88333,
+    -83.26666999999998,
+    22.88333
+],
+  "geometry": {"coordinates":[-83.26666999999998,22.88333],"type":"Point"}
+}

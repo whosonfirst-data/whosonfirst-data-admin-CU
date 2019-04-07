@@ -1,0 +1,70 @@
+{
+  "id": 1293569449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.40671,20.88958,-76.40671,20.88958",
+    "geom:latitude":20.88958,
+    "geom:longitude":-76.40671,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Damian",
+    "gn:country_code":"CU",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3562701,
+    "gn:latitude":20.88958,
+    "gn:longitude":-76.40671,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Dami\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dami\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091905117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562701
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7ba44cfeb285e3e0b1e7c3ad291d2d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905117,
+            "locality_id":1293569449,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1293569449,
+    "wof:lastmodified":1537619071,
+    "wof:name":"Damian",
+    "wof:parent_id":1091905117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.40671,
+    20.88958,
+    -76.40671,
+    20.88958
+],
+  "geometry": {"coordinates":[-76.40671,20.88958],"type":"Point"}
+}

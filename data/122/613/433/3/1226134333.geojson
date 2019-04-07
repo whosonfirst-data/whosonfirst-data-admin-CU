@@ -1,0 +1,67 @@
+{
+  "id": 1226134333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.99194,21.85667,-78.99194,21.85667",
+    "geom:latitude":21.85667,
+    "geom:longitude":-78.99194,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Narcisa",
+    "gn:country_code":"CU",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3546176,
+    "gn:latitude":21.85667,
+    "gn:longitude":-78.99194,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Narcisa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091905859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546176
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2e447e4e385f7b975ffe3c433fd807df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905859,
+            "locality_id":1226134333,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1226134333,
+    "wof:lastmodified":1537090981,
+    "wof:name":"Narcisa",
+    "wof:parent_id":1091905859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.99194,
+    21.85667,
+    -78.99194,
+    21.85667
+],
+  "geometry": {"coordinates":[-78.99194,21.85667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226668993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.94534,21.84524,-77.94534,21.84524",
+    "geom:latitude":21.84524,
+    "geom:longitude":-77.94534,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Arostegui",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3568473,
+    "gn:latitude":21.84524,
+    "gn:longitude":-77.94534,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Ar\u00f3stegui",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ar\u00f3stegui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568473
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"959962e9955676f5e1f92514d2761782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904517,
+            "locality_id":1226668993,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1226668993,
+    "wof:lastmodified":1537619115,
+    "wof:name":"Arostegui",
+    "wof:parent_id":1091904517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.94534,
+    21.84524,
+    -77.94534,
+    21.84524
+],
+  "geometry": {"coordinates":[-77.94534,21.84524],"type":"Point"}
+}

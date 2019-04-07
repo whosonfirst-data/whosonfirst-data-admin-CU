@@ -1,0 +1,70 @@
+{
+  "id": 1293673687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.88654,20.66759,-76.88654,20.66759",
+    "geom:latitude":20.66759,
+    "geom:longitude":-76.88654,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Vado del Yeso",
+    "gn:country_code":"CU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023115,
+    "gn:latitude":20.66759,
+    "gn:longitude":-76.88654,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Vado del Yeso",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vado del Yeso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091907413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023115
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ca117ccbcc782e736436921647a26c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907413,
+            "locality_id":1293673687,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1293673687,
+    "wof:lastmodified":1537619189,
+    "wof:name":"Vado del Yeso",
+    "wof:parent_id":1091907413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.88654,
+    20.66759,
+    -76.88654,
+    20.66759
+],
+  "geometry": {"coordinates":[-76.88654,20.66759],"type":"Point"}
+}

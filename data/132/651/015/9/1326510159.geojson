@@ -1,0 +1,67 @@
+{
+  "id": 1326510159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.77528,21.05139,-75.77528,21.05139",
+    "geom:latitude":21.05139,
+    "geom:longitude":-75.77528,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Filipina",
+    "gn:country_code":"CU",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3558870,
+    "gn:latitude":21.05139,
+    "gn:longitude":-75.77528,
+    "gn:modification_date":"1995-04-19",
+    "gn:name":"Filipina",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3558870
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"63d497ded1b15c4dacbcd097d428db12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1326510159,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1326510159,
+    "wof:lastmodified":1537015159,
+    "wof:name":"Filipina",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.77528000000002,
+    21.05139,
+    -75.77528000000002,
+    21.05139
+],
+  "geometry": {"coordinates":[-75.77528000000002,21.05139],"type":"Point"}
+}

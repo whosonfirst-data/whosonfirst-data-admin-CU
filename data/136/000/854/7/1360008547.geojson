@@ -1,0 +1,70 @@
+{
+  "id": 1360008547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.14207,21.77892,-78.14207,21.77892",
+    "geom:latitude":21.77892,
+    "geom:longitude":-78.14207,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Seoane",
+    "gn:country_code":"CU",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11009876,
+    "gn:latitude":21.77892,
+    "gn:longitude":-78.14207,
+    "gn:modification_date":"2018-07-06",
+    "gn:name":"Seoane",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Seoane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11009876
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e4338069b8f43ae50be9f7c7b4f856e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903793,
+            "locality_id":1360008547,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1360008547,
+    "wof:lastmodified":1537619181,
+    "wof:name":"Seoane",
+    "wof:parent_id":1091903793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.14206999999998,
+    21.77892,
+    -78.14206999999998,
+    21.77892
+],
+  "geometry": {"coordinates":[-78.14206999999998,21.77892],"type":"Point"}
+}

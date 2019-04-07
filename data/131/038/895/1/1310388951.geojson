@@ -1,0 +1,72 @@
+{
+  "id": 1310388951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.14139,21.60111,-79.14139,21.60111",
+    "geom:latitude":21.60111,
+    "geom:longitude":-79.14139,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Subiaurri",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3535722,
+    "gn:latitude":21.60111,
+    "gn:longitude":-79.14139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Subiaurri",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Subirana",
+        "Subiaurri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535722
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f9512693ac61b5ff96c1c047817b003b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905615,
+            "locality_id":1310388951,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1310388951,
+    "wof:lastmodified":1537618891,
+    "wof:name":"Subiaurri",
+    "wof:parent_id":1091905615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.14139,
+    21.60111,
+    -79.14139,
+    21.60111
+],
+  "geometry": {"coordinates":[-79.14139,21.60111],"type":"Point"}
+}

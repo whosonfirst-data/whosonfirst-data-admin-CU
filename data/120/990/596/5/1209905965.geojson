@@ -1,0 +1,72 @@
+{
+  "id": 1209905965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.35,20.13333,-77.35,20.13333",
+    "geom:latitude":20.13333,
+    "geom:longitude":-77.35,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Caney Abajo",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565721,
+    "gn:latitude":20.13333,
+    "gn:longitude":-77.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Caney Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caney",
+        "Caney Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565721
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b309cd5eef182d8aaca8d9f416d691de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906341,
+            "locality_id":1209905965,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1209905965,
+    "wof:lastmodified":1537619094,
+    "wof:name":"Caney Abajo",
+    "wof:parent_id":1091906341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.35,
+    20.13333,
+    -77.35,
+    20.13333
+],
+  "geometry": {"coordinates":[-77.34999999999999,20.13333],"type":"Point"}
+}

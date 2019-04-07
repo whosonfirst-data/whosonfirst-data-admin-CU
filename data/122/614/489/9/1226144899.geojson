@@ -1,0 +1,67 @@
+{
+  "id": 1226144899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.21139,22.79167,-81.21139,22.79167",
+    "geom:latitude":22.79167,
+    "geom:longitude":-81.21139,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Almagro",
+    "gn:country_code":"CU",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3569187,
+    "gn:latitude":22.79167,
+    "gn:longitude":-81.21139,
+    "gn:modification_date":"1996-06-06",
+    "gn:name":"Almagro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3569187
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5e75c4c9ec4d4e626b841647ea4dc1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905493,
+            "locality_id":1226144899,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1226144899,
+    "wof:lastmodified":1537075826,
+    "wof:name":"Almagro",
+    "wof:parent_id":1091905493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.21139000000002,
+    22.79167,
+    -81.21139000000002,
+    22.79167
+],
+  "geometry": {"coordinates":[-81.21139000000002,22.79167],"type":"Point"}
+}

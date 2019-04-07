@@ -1,0 +1,61 @@
+{
+  "id": 1209599747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0,20.33333,-77.0,20.33333",
+    "geom:latitude":20.33333,
+    "geom:longitude":-77.0,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bertot",
+    "gn:country_code":"CU",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567367,
+    "gn:latitude":20.33333,
+    "gn:longitude":-77.0,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Bertot",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567367
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c99c1d765a7e737aa33aceb3edc11328",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209599747
+        }
+    ],
+    "wof:id":1209599747,
+    "wof:lastmodified":1536282207,
+    "wof:name":"Bertot",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0,
+    20.33333,
+    -77.0,
+    20.33333
+],
+  "geometry": {"coordinates":[-77.0,20.33333],"type":"Point"}
+}

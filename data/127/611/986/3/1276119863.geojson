@@ -1,0 +1,70 @@
+{
+  "id": 1276119863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.14247,22.47794,-81.14247,22.47794",
+    "geom:latitude":22.47794,
+    "geom:longitude":-81.14247,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Los Alpes",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3549510,
+    "gn:latitude":22.47794,
+    "gn:longitude":-81.14247,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Los Alpes",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Alpes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549510
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a3556d59e1705055d9d2234f6264fc4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905195,
+            "locality_id":1276119863,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1276119863,
+    "wof:lastmodified":1537618975,
+    "wof:name":"Los Alpes",
+    "wof:parent_id":1091905195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.14246999999997,
+    22.47794,
+    -81.14246999999997,
+    22.47794
+],
+  "geometry": {"coordinates":[-81.14246999999997,22.47794],"type":"Point"}
+}

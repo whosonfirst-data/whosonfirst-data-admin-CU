@@ -1,0 +1,70 @@
+{
+  "id": 1226129613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.81092,21.05588,-75.81092,21.05588",
+    "geom:latitude":21.05588,
+    "geom:longitude":-75.81092,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Los Riscos",
+    "gn:country_code":"CU",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11060845,
+    "gn:latitude":21.05588,
+    "gn:longitude":-75.81092,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Los Riscos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Riscos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060845
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5ef6ff0f6dac8f9833f5ce9a4406b55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1226129613,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1226129613,
+    "wof:lastmodified":1537619209,
+    "wof:name":"Los Riscos",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.81092,
+    21.05588,
+    -75.81092,
+    21.05588
+],
+  "geometry": {"coordinates":[-75.81092,21.05588],"type":"Point"}
+}

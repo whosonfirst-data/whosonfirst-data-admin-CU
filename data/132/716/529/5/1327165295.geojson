@@ -1,0 +1,67 @@
+{
+  "id": 1327165295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.8875,22.86056,-81.8875,22.86056",
+    "geom:latitude":22.86056,
+    "geom:longitude":-81.8875,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Naranjito",
+    "gn:country_code":"CU",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3546243,
+    "gn:latitude":22.86056,
+    "gn:longitude":-81.8875,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Naranjito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091904955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546243
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"80c2521941b617709994ad1627bea252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904955,
+            "locality_id":1327165295,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1327165295,
+    "wof:lastmodified":1537063754,
+    "wof:name":"Naranjito",
+    "wof:parent_id":1091904955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.8875,
+    22.86056,
+    -81.8875,
+    22.86056
+],
+  "geometry": {"coordinates":[-81.8875,22.86056],"type":"Point"}
+}

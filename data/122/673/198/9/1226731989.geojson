@@ -1,0 +1,67 @@
+{
+  "id": 1226731989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.64806,22.57667,-79.64806,22.57667",
+    "geom:latitude":22.57667,
+    "geom:longitude":-79.64806,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Los Martinez",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3549061,
+    "gn:latitude":22.57667,
+    "gn:longitude":-79.64806,
+    "gn:modification_date":"1995-04-18",
+    "gn:name":"Los Mart\u00ednez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091903367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549061
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1143033224d61267bd641c1badfc85e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903367,
+            "locality_id":1226731989,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1226731989,
+    "wof:lastmodified":1536735459,
+    "wof:name":"Los Martinez",
+    "wof:parent_id":1091903367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.64806,
+    22.57667,
+    -79.64806,
+    22.57667
+],
+  "geometry": {"coordinates":[-79.64806,22.57667],"type":"Point"}
+}

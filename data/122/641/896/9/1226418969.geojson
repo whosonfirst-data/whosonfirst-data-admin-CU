@@ -1,0 +1,70 @@
+{
+  "id": 1226418969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.73534,21.05842,-76.73534,21.05842",
+    "geom:latitude":21.05842,
+    "geom:longitude":-76.73534,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Piedra Hueca",
+    "gn:country_code":"CU",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3544238,
+    "gn:latitude":21.05842,
+    "gn:longitude":-76.73534,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Piedra Hueca",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedra Hueca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544238
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0f3315a15a9d08eddce6091b30bba128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1226418969,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1226418969,
+    "wof:lastmodified":1537618940,
+    "wof:name":"Piedra Hueca",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.73534000000002,
+    21.05842,
+    -76.73534000000002,
+    21.05842
+],
+  "geometry": {"coordinates":[-76.73534000000002,21.05842],"type":"Point"}
+}

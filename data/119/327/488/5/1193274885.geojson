@@ -1,0 +1,74 @@
+{
+  "id": 1193274885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.00611,20.91663,-78.00611,20.91663",
+    "geom:latitude":20.91663,
+    "geom:longitude":-78.00611,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Curajaya",
+    "gn:country_code":"CU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3562772,
+    "gn:latitude":20.91663,
+    "gn:longitude":-78.00611,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Curajaya",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Curajaya"
+    ],
+    "name:und_x_variant":[
+        "Madrazo",
+        "Curajalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562772
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f6f38673f38a5e6a9808e97c61c7b144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908085,
+            "locality_id":1193274885,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1193274885,
+    "wof:lastmodified":1537619072,
+    "wof:name":"Curajaya",
+    "wof:parent_id":1091908085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.00610999999998,
+    20.91663,
+    -78.00610999999998,
+    20.91663
+],
+  "geometry": {"coordinates":[-78.00610999999998,20.91663],"type":"Point"}
+}

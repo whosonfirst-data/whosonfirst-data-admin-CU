@@ -1,0 +1,70 @@
+{
+  "id": 1310670445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.93175,22.02132,-79.93175,22.02132",
+    "geom:latitude":22.02132,
+    "geom:longitude":-79.93175,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Pico Blanco",
+    "gn:country_code":"CU",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763210,
+    "gn:latitude":22.02132,
+    "gn:longitude":-79.93175,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Pico Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pico Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763210
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ec1ca7debe2c11e85b187ab560826c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1310670445,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1310670445,
+    "wof:lastmodified":1537619139,
+    "wof:name":"Pico Blanco",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.93175,
+    22.02132000000001,
+    -79.93175,
+    22.02132000000001
+],
+  "geometry": {"coordinates":[-79.93174999999999,22.02132000000001],"type":"Point"}
+}

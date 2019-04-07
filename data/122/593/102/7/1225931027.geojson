@@ -1,0 +1,67 @@
+{
+  "id": 1225931027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.65,20.73333,-76.65,20.73333",
+    "geom:latitude":20.73333,
+    "geom:longitude":-76.65,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mala Noche",
+    "gn:country_code":"CU",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3548334,
+    "gn:latitude":20.73333,
+    "gn:longitude":-76.65,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Mala Noche",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091903541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3548334
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bccd1806b5dbdaefd20789940c1d4565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903541,
+            "locality_id":1225931027,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1225931027,
+    "wof:lastmodified":1536890331,
+    "wof:name":"Mala Noche",
+    "wof:parent_id":1091903541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.65,
+    20.73333,
+    -76.65,
+    20.73333
+],
+  "geometry": {"coordinates":[-76.65000000000001,20.73333],"type":"Point"}
+}

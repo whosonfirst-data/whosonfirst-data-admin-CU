@@ -1,0 +1,66 @@
+{
+  "id": 1209395057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.19325,20.71909,-76.19325,20.71909",
+    "geom:latitude":20.71909,
+    "geom:longitude":-76.19325,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Caridad",
+    "gn:country_code":"CU",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3554954,
+    "gn:latitude":20.71909,
+    "gn:longitude":-76.19325,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Caridad",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sitio de la Caridad",
+        "La Caridad del Sitio",
+        "La Caridad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554954
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3b618b3e29de31193a66a7eb8951a7ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209395057
+        }
+    ],
+    "wof:id":1209395057,
+    "wof:lastmodified":1537619013,
+    "wof:name":"La Caridad",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.19325,
+    20.71909,
+    -76.19325,
+    20.71909
+],
+  "geometry": {"coordinates":[-76.19325000000001,20.71909],"type":"Point"}
+}

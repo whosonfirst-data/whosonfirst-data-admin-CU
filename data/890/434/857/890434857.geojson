@@ -1,0 +1,132 @@
+{
+  "id": 890434857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.04806,22.71417,-83.04806,22.71417",
+    "geom:latitude":22.71417,
+    "geom:longitude":-83.04806,
+    "gn:country":"CU",
+    "gn:fcode":"PPL",
+    "gn:pop":59579,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0643\u0631\u064a\u0633\u062a\u0648\u0628\u0627\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u91cc\u65af\u6258\u74e6\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:eng_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:fre_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d9\u10e0\u10d8\u10e1\u10e2\u10dd\u10d1\u10d0\u10da\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:glg_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:hat_x_preferred":[
+        "San Cristobal"
+    ],
+    "name:ita_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:pol_x_preferred":[
+        "Metropolia San Cristobal de la Habana"
+    ],
+    "name:por_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041a\u0440\u0438\u0441\u0442\u043e\u0431\u0430\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:spa_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u041a\u0440\u0438\u0441\u0442\u043e\u0431\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de San Crist\u00f3bal"
+    ],
+    "name:tur_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u06a9\u0631\u0633\u0679\u0648\u0628\u0644\u060c \u06a9\u06cc\u0648\u0628\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "qs:name":"San Crist\u00f3bal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":325,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540680,
+        "gp:id":67044,
+        "qs:id":148907,
+        "wd:id":"Q559801",
+        "wk:page":"San Crist\u00f3bal"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052042,
+    "wof:geomhash":"a7b6aa0f64e37386d7fb9e9ff6b3de7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907679,
+            "locality_id":890434857,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":890434857,
+    "wof:lastmodified":1553816396,
+    "wof:name":"San Crist\u00f3bal",
+    "wof:parent_id":1091907679,
+    "wof:placetype":"locality",
+    "wof:population":59579,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.04806,
+    22.71417,
+    -83.04806,
+    22.71417
+],
+  "geometry": {"coordinates":[-83.04806000000001,22.71417],"type":"Point"}
+}

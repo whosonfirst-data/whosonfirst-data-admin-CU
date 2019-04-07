@@ -1,0 +1,98 @@
+{
+  "id": 421199327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.1,22.45,-80.1,22.45",
+    "geom:latitude":22.45,
+    "geom:longitude":-80.1,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Esperanza"
+    ],
+    "name:eng_x_preferred":[
+        "Esperanza"
+    ],
+    "name:hat_x_preferred":[
+        "Esperanza"
+    ],
+    "name:ita_x_preferred":[
+        "Esperanza"
+    ],
+    "name:spa_x_preferred":[
+        "Esperanza"
+    ],
+    "name:unk_x_variant":[
+        "La Esperanza"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3559235,
+    "qs:gn_pop":10462,
+    "qs:name":"Esperanza",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Villa Clara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":193109,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":62522,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559235,
+        "gp:id":62522,
+        "qs:id":193109,
+        "wd:id":"Q13634358"
+    },
+    "wof:country":"CU",
+    "wof:created":1459009985,
+    "wof:geomhash":"0dcd53ee12ec4405216e3acc66594a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907311,
+            "locality_id":421199327,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":421199327,
+    "wof:lastmodified":1513944531,
+    "wof:name":"Esperanza",
+    "wof:parent_id":1091907311,
+    "wof:placetype":"locality",
+    "wof:population":10462,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.1,
+    22.45,
+    -80.1,
+    22.45
+],
+  "geometry": {"coordinates":[-80.09999999999999,22.45],"type":"Point"}
+}

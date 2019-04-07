@@ -1,0 +1,70 @@
+{
+  "id": 1226125939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.14911,22.28217,-79.14911,22.28217",
+    "geom:latitude":22.28217,
+    "geom:longitude":-79.14911,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Siboney",
+    "gn:country_code":"CU",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3536250,
+    "gn:latitude":22.28217,
+    "gn:longitude":-79.14911,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Siboney",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Siboney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3536250
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bad62092af8590ef73331eb3ae2cf63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908735,
+            "locality_id":1226125939,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1226125939,
+    "wof:lastmodified":1537618894,
+    "wof:name":"Siboney",
+    "wof:parent_id":1091908735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.14911,
+    22.28217,
+    -79.14911,
+    22.28217
+],
+  "geometry": {"coordinates":[-79.14910999999999,22.28217],"type":"Point"}
+}

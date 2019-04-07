@@ -1,0 +1,70 @@
+{
+  "id": 1192995383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.59786,20.65929,-75.59786,20.65929",
+    "geom:latitude":20.65929,
+    "geom:longitude":-75.59786,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Entronque",
+    "gn:country_code":"CU",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065347,
+    "gn:latitude":20.65929,
+    "gn:longitude":-75.59786,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"El Entronque",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Entronque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091906305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065347
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"004a0928511cfdd50bf9a126ffce88b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906305,
+            "locality_id":1192995383,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1192995383,
+    "wof:lastmodified":1537619218,
+    "wof:name":"El Entronque",
+    "wof:parent_id":1091906305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.59786,
+    20.65929,
+    -75.59786,
+    20.65929
+],
+  "geometry": {"coordinates":[-75.59786,20.65929],"type":"Point"}
+}

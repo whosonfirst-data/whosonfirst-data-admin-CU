@@ -1,0 +1,70 @@
+{
+  "id": 1343784739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.16705,21.1536,-78.16705,21.1536",
+    "geom:latitude":21.1536,
+    "geom:longitude":-78.16705,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pajones Dos",
+    "gn:country_code":"CU",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11009859,
+    "gn:latitude":21.1536,
+    "gn:longitude":-78.16705,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Pajones Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pajones Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11009859
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4c9988929cbb0e63483de8e636f805dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908663,
+            "locality_id":1343784739,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1343784739,
+    "wof:lastmodified":1537619180,
+    "wof:name":"Pajones Dos",
+    "wof:parent_id":1091908663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.16705,
+    21.1536,
+    -78.16705,
+    21.1536
+],
+  "geometry": {"coordinates":[-78.16705,21.1536],"type":"Point"}
+}

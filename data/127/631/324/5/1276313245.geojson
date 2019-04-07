@@ -1,0 +1,70 @@
+{
+  "id": 1276313245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.65492,21.03004,-75.65492,21.03004",
+    "geom:latitude":21.03004,
+    "geom:longitude":-75.65492,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Colorado",
+    "gn:country_code":"CU",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060684,
+    "gn:latitude":21.03004,
+    "gn:longitude":-75.65492,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"El Colorado",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Colorado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060684
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c7e9222c3fac9c4fdb8dd9c037c66a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1276313245,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1276313245,
+    "wof:lastmodified":1537619208,
+    "wof:name":"El Colorado",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.65491999999998,
+    21.03004,
+    -75.65491999999998,
+    21.03004
+],
+  "geometry": {"coordinates":[-75.65491999999998,21.03004],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209203597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2179,20.24806,-75.2179,20.24806",
+    "geom:latitude":20.24806,
+    "geom:longitude":-75.2179,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Santa Fe Arriba",
+    "gn:country_code":"CU",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3537753,
+    "gn:latitude":20.24806,
+    "gn:longitude":-75.2179,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Santa F\u00e9 Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa F\u00e9 Arriba"
+    ],
+    "name:und_x_variant":[
+        "Santa Fe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3537753
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"28a5c219988b9bdb4c57c93818c9214d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209203597
+        }
+    ],
+    "wof:id":1209203597,
+    "wof:lastmodified":1537618902,
+    "wof:name":"Santa Fe Arriba",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.2179,
+    20.24806,
+    -75.2179,
+    20.24806
+],
+  "geometry": {"coordinates":[-75.2179,20.24806],"type":"Point"}
+}

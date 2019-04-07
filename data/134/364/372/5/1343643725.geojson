@@ -1,0 +1,70 @@
+{
+  "id": 1343643725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.46491,22.37743,-79.46491,22.37743",
+    "geom:latitude":22.37743,
+    "geom:longitude":-79.46491,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"San Cayetano",
+    "gn:country_code":"CU",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3540745,
+    "gn:latitude":22.37743,
+    "gn:longitude":-79.46491,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"San Cayetano",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Cayetano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540745
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8af1ce04a20909be1b380ab51efc2890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1343643725,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1343643725,
+    "wof:lastmodified":1537618917,
+    "wof:name":"San Cayetano",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.46491,
+    22.37743,
+    -79.46491,
+    22.37743
+],
+  "geometry": {"coordinates":[-79.46491,22.37743],"type":"Point"}
+}

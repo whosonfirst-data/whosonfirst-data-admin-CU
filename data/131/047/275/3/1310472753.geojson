@@ -1,0 +1,67 @@
+{
+  "id": 1310472753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.05,22.05,-79.05,22.05",
+    "geom:latitude":22.05,
+    "geom:longitude":-79.05,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"San Galillo",
+    "gn:country_code":"CU",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3540181,
+    "gn:latitude":22.05,
+    "gn:longitude":-79.05,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"San Galillo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540181
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c590ecbd9795c42fae89befbf0287b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905283,
+            "locality_id":1310472753,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1310472753,
+    "wof:lastmodified":1536964031,
+    "wof:name":"San Galillo",
+    "wof:parent_id":1091905283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.05,
+    22.05,
+    -79.05,
+    22.05
+],
+  "geometry": {"coordinates":[-79.05,22.05],"type":"Point"}
+}

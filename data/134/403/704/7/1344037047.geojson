@@ -1,0 +1,70 @@
+{
+  "id": 1344037047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.67411,20.765,-77.67411,20.765",
+    "geom:latitude":20.765,
+    "geom:longitude":-77.67411,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Santa Amalia",
+    "gn:country_code":"CU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11014457,
+    "gn:latitude":20.765,
+    "gn:longitude":-77.67411,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Santa Amalia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Amalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091902667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11014457
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a13e1ec0fb0e74bd58c2a1bed2ec884d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902667,
+            "locality_id":1344037047,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1344037047,
+    "wof:lastmodified":1537619184,
+    "wof:name":"Santa Amalia",
+    "wof:parent_id":1091902667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.67411,
+    20.765,
+    -77.67411,
+    20.765
+],
+  "geometry": {"coordinates":[-77.67411,20.765],"type":"Point"}
+}

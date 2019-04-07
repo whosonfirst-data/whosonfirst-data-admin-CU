@@ -1,0 +1,73 @@
+{
+  "id": 1310581453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.87267,20.60246,-75.87267,20.60246",
+    "geom:latitude":20.60246,
+    "geom:longitude":-75.87267,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sojo Tres",
+    "gn:country_code":"CU",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535896,
+    "gn:latitude":20.60246,
+    "gn:longitude":-75.87267,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Sojo Tres",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sojo Tres"
+    ],
+    "name:und_x_variant":[
+        "Sojo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535896
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f85554868fb682e9bda2b31b3e69930f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904361,
+            "locality_id":1310581453,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1310581453,
+    "wof:lastmodified":1537618892,
+    "wof:name":"Sojo Tres",
+    "wof:parent_id":1091904361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.87267,
+    20.60246,
+    -75.87267,
+    20.60246
+],
+  "geometry": {"coordinates":[-75.87267,20.60246],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327319341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.58333,22.35,-80.58333,22.35",
+    "geom:latitude":22.35,
+    "geom:longitude":-80.58333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mata la Nina",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3547416,
+    "gn:latitude":22.35,
+    "gn:longitude":-80.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mata la Ni\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lucum\u00ed",
+        "Mata la Ni\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091907455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547416
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"571549345b2e35ed2edd69e09ec8bdc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907455,
+            "locality_id":1327319341,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1327319341,
+    "wof:lastmodified":1537618960,
+    "wof:name":"Mata la Nina",
+    "wof:parent_id":1091907455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.58333,
+    22.35,
+    -80.58333,
+    22.35
+],
+  "geometry": {"coordinates":[-80.58333,22.35],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243051419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.70723,22.13069,-79.70723,22.13069",
+    "geom:latitude":22.13069,
+    "geom:longitude":-79.70723,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Name Uno",
+    "gn:country_code":"CU",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3560415,
+    "gn:latitude":22.13069,
+    "gn:longitude":-79.70723,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"El \u00d1ame Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El \u00d1ame Uno"
+    ],
+    "name:und_x_variant":[
+        "Batey el Name",
+        "El \u00d1ame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091904623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560415
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"78a44bbb4939e89d6a6eea503ebba8d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904623,
+            "locality_id":1243051419,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1243051419,
+    "wof:lastmodified":1537619052,
+    "wof:name":"El Name Uno",
+    "wof:parent_id":1091904623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.70723000000002,
+    22.13069,
+    -79.70723000000002,
+    22.13069
+],
+  "geometry": {"coordinates":[-79.70723000000002,22.13069],"type":"Point"}
+}

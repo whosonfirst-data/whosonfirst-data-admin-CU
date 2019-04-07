@@ -1,0 +1,70 @@
+{
+  "id": 1226478791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.7562,22.83585,-82.7562,22.83585",
+    "geom:latitude":22.83585,
+    "geom:longitude":-82.7562,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Pablo Torres",
+    "gn:country_code":"CU",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746795,
+    "gn:latitude":22.83585,
+    "gn:longitude":-82.7562,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Pablo Torres",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pablo Torres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091902795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746795
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3a777dc475fc8ef79daf48fbea679d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902795,
+            "locality_id":1226478791,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1226478791,
+    "wof:lastmodified":1537619134,
+    "wof:name":"Pablo Torres",
+    "wof:parent_id":1091902795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.7562,
+    22.83585,
+    -82.7562,
+    22.83585
+],
+  "geometry": {"coordinates":[-82.75620000000001,22.83585],"type":"Point"}
+}

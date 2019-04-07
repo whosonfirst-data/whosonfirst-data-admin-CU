@@ -1,0 +1,67 @@
+{
+  "id": 1242769359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.08111,21.84722,-79.08111,21.84722",
+    "geom:latitude":21.84722,
+    "geom:longitude":-79.08111,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bernaly",
+    "gn:country_code":"CU",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3567397,
+    "gn:latitude":21.84722,
+    "gn:longitude":-79.08111,
+    "gn:modification_date":"1996-08-05",
+    "gn:name":"Bernaly",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091905859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567397
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1e29ea0886c4b52cb6386433a873daf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905859,
+            "locality_id":1242769359,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1242769359,
+    "wof:lastmodified":1536787965,
+    "wof:name":"Bernaly",
+    "wof:parent_id":1091905859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.08111,
+    21.84722,
+    -79.08111,
+    21.84722
+],
+  "geometry": {"coordinates":[-79.08111,21.84722],"type":"Point"}
+}

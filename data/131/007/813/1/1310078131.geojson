@@ -1,0 +1,71 @@
+{
+  "id": 1310078131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81521,22.50402,-79.81521,22.50402",
+    "geom:latitude":22.50402,
+    "geom:longitude":-79.81521,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Luis Arcos Bergnes",
+    "gn:country_code":"CU",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3565244,
+    "gn:latitude":22.50402,
+    "gn:longitude":-79.81521,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Luis Arcos Bergnes",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carmita",
+        "Luis Arcos Bergnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091903633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565244
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"59e13c8bff99b1fba2e8507e22e4e47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903633,
+            "locality_id":1310078131,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1310078131,
+    "wof:lastmodified":1537619090,
+    "wof:name":"Luis Arcos Bergnes",
+    "wof:parent_id":1091903633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81521,
+    22.50402,
+    -79.81521,
+    22.50402
+],
+  "geometry": {"coordinates":[-79.81520999999999,22.50402],"type":"Point"}
+}

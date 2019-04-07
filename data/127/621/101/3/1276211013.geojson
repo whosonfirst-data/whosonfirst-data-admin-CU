@@ -1,0 +1,70 @@
+{
+  "id": 1276211013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.67659,20.08675,-76.67659,20.08675",
+    "geom:latitude":20.08675,
+    "geom:longitude":-76.67659,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Almendral",
+    "gn:country_code":"CU",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11024210,
+    "gn:latitude":20.08675,
+    "gn:longitude":-76.67659,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Almendral",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Almendral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024210
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"930bc87f4fbbc7f0582e39687ea863e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903243,
+            "locality_id":1276211013,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1276211013,
+    "wof:lastmodified":1537619192,
+    "wof:name":"Almendral",
+    "wof:parent_id":1091903243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.67659,
+    20.08675,
+    -76.67659,
+    20.08675
+],
+  "geometry": {"coordinates":[-76.67659,20.08675],"type":"Point"}
+}

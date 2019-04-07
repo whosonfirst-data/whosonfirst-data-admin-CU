@@ -1,0 +1,70 @@
+{
+  "id": 1260267377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52508,20.07078,-76.52508,20.07078",
+    "geom:latitude":20.07078,
+    "geom:longitude":-76.52508,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Jesus Perez",
+    "gn:country_code":"CU",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11024262,
+    "gn:latitude":20.07078,
+    "gn:longitude":-76.52508,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Jes\u00fas P\u00e9rez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jes\u00fas P\u00e9rez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091905039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024262
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a04b9401a2257234be8917cf74bf75c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905039,
+            "locality_id":1260267377,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1260267377,
+    "wof:lastmodified":1537619192,
+    "wof:name":"Jesus Perez",
+    "wof:parent_id":1091905039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52508,
+    20.07078,
+    -76.52508,
+    20.07078
+],
+  "geometry": {"coordinates":[-76.52508,20.07078],"type":"Point"}
+}

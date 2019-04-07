@@ -1,0 +1,73 @@
+{
+  "id": 1310084545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.56041,22.15962,-79.56041,22.15962",
+    "geom:latitude":22.15962,
+    "geom:longitude":-79.56041,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Jacinto Martinez",
+    "gn:country_code":"CU",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007871,
+    "gn:latitude":22.15962,
+    "gn:longitude":-79.56041,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Jacinto Mart\u00ednez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Juancito Mart\u00ednez"
+    ],
+    "name:spa_x_variant":[
+        "Jacinto Mart\u00ednez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007871
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"454548c1b4c4a330ab7e80a8447bce4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907053,
+            "locality_id":1310084545,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1310084545,
+    "wof:lastmodified":1537619168,
+    "wof:name":"Jacinto Martinez",
+    "wof:parent_id":1091907053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.56041,
+    22.15962,
+    -79.56041,
+    22.15962
+],
+  "geometry": {"coordinates":[-79.56041,22.15962],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327320075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.2265,20.9676,-77.2265,20.9676",
+    "geom:latitude":20.9676,
+    "geom:longitude":-77.2265,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"San Jose de La Plata",
+    "gn:country_code":"CU",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3539565,
+    "gn:latitude":20.9676,
+    "gn:longitude":-77.2265,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"San Jos\u00e9 de La Plata",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de La Plata"
+    ],
+    "name:und_x_variant":[
+        "San Jos\u00e9 de la Plata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539565
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"58e0f83d71bb9e806617716432a484ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905447,
+            "locality_id":1327320075,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1327320075,
+    "wof:lastmodified":1537618911,
+    "wof:name":"San Jose de La Plata",
+    "wof:parent_id":1091905447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.2265,
+    20.9676,
+    -77.2265,
+    20.9676
+],
+  "geometry": {"coordinates":[-77.2265,20.9676],"type":"Point"}
+}

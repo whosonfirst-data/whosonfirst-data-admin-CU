@@ -1,0 +1,70 @@
+{
+  "id": 1226127001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.60115,20.39736,-76.60115,20.39736",
+    "geom:latitude":20.39736,
+    "geom:longitude":-76.60115,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Padron",
+    "gn:country_code":"CU",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3545365,
+    "gn:latitude":20.39736,
+    "gn:longitude":-76.60115,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Padr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Padr\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545365
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fb12054124dde4d1027bc50ec2b8c874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903105,
+            "locality_id":1226127001,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1226127001,
+    "wof:lastmodified":1537618948,
+    "wof:name":"Padron",
+    "wof:parent_id":1091903105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.60115,
+    20.39736,
+    -76.60115,
+    20.39736
+],
+  "geometry": {"coordinates":[-76.60115,20.39736],"type":"Point"}
+}

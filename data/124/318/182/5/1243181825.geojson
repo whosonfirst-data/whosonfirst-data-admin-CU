@@ -1,0 +1,70 @@
+{
+  "id": 1243181825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.46929,22.6866,-83.46929,22.6866",
+    "geom:latitude":22.6866,
+    "geom:longitude":-83.46929,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Galalon",
+    "gn:country_code":"CU",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3558558,
+    "gn:latitude":22.6866,
+    "gn:longitude":-83.46929,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Galal\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Galal\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091905609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3558558
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a37b491325ed1a49d2dfa0c1331c0407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905609,
+            "locality_id":1243181825,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1243181825,
+    "wof:lastmodified":1537619038,
+    "wof:name":"Galalon",
+    "wof:parent_id":1091905609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.46929,
+    22.6866,
+    -83.46929,
+    22.6866
+],
+  "geometry": {"coordinates":[-83.46929,22.6866],"type":"Point"}
+}

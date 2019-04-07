@@ -1,0 +1,109 @@
+{
+  "id": 421192027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.05694,21.03861,-76.05694,21.03861",
+    "geom:latitude":21.03861,
+    "geom:longitude":-76.05694,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Benito Jer\u00f3nimo Feijoo"
+    ],
+    "name:cat_x_preferred":[
+        "Benito Jer\u00f3nimo Feijoo"
+    ],
+    "name:ces_x_preferred":[
+        "Benito Jer\u00f3nimo Feijoo"
+    ],
+    "name:deu_x_preferred":[
+        "Benito Jer\u00f3nimo Feijoo"
+    ],
+    "name:epo_x_preferred":[
+        "Benito Jer\u00f3nimo Feijoo"
+    ],
+    "name:eus_x_preferred":[
+        "Benito Jer\u00f3nimo Feij\u00f3o"
+    ],
+    "name:fra_x_preferred":[
+        "Benito Jer\u00f3nimo Feijoo"
+    ],
+    "name:glg_x_preferred":[
+        "Benito Xer\u00f3nimo Feijoo e Montenegro"
+    ],
+    "name:ita_x_preferred":[
+        "Benito Feijoo"
+    ],
+    "name:spa_x_preferred":[
+        "Benito Jer\u00f3nimo Feijoo"
+    ],
+    "name:spa_x_variant":[
+        "Fray Benito"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3558634,
+    "qs:gn_pop":0,
+    "qs:name":"Fray Benito",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Holguin",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165063,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":62642,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091907267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3558634,
+        "gp:id":62642,
+        "qs:id":1165063
+    },
+    "wof:country":"CU",
+    "wof:created":1459009723,
+    "wof:geomhash":"1c08752bbd8083b1b54169f936b8abd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907267,
+            "locality_id":421192027,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":421192027,
+    "wof:lastmodified":1501267552,
+    "wof:name":"Fray Benito",
+    "wof:parent_id":1091907267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.05694,
+    21.03861,
+    -76.05694,
+    21.03861
+],
+  "geometry": {"coordinates":[-76.05694,21.03861],"type":"Point"}
+}

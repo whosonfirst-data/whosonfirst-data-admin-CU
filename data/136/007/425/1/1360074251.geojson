@@ -1,0 +1,67 @@
+{
+  "id": 1360074251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.91333,20.37806,-74.91333,20.37806",
+    "geom:latitude":20.37806,
+    "geom:longitude":-74.91333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Batey Durano",
+    "gn:country_code":"CU",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3567633,
+    "gn:latitude":20.37806,
+    "gn:longitude":-74.91333,
+    "gn:modification_date":"1996-04-17",
+    "gn:name":"Batey Durano",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091908743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567633
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"afc92c6a746da16b4b14b1313bc1e936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908743,
+            "locality_id":1360074251,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1360074251,
+    "wof:lastmodified":1536961238,
+    "wof:name":"Batey Durano",
+    "wof:parent_id":1091908743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.91333,
+    20.37806,
+    -74.91333,
+    20.37806
+],
+  "geometry": {"coordinates":[-74.91333,20.37806],"type":"Point"}
+}

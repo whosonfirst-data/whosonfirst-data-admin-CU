@@ -1,0 +1,73 @@
+{
+  "id": 1344039709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.21679,22.33196,-80.21679,22.33196",
+    "geom:latitude":22.33196,
+    "geom:longitude":-80.21679,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jova",
+    "gn:country_code":"CU",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3555909,
+    "gn:latitude":22.33196,
+    "gn:longitude":-80.21679,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Jova",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jova"
+    ],
+    "name:und_x_variant":[
+        "Jovas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091904329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3555909
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0e2a17215e639beaf7b69cc431a8b064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904329,
+            "locality_id":1344039709,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1344039709,
+    "wof:lastmodified":1537619019,
+    "wof:name":"Jova",
+    "wof:parent_id":1091904329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.21679,
+    22.33196,
+    -80.21679,
+    22.33196
+],
+  "geometry": {"coordinates":[-80.21679,22.33196],"type":"Point"}
+}

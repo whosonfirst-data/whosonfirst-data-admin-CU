@@ -1,0 +1,73 @@
+{
+  "id": 1259579183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.28407,20.35596,-75.28407,20.35596",
+    "geom:latitude":20.35596,
+    "geom:longitude":-75.28407,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Oasis",
+    "gn:country_code":"CU",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3545792,
+    "gn:latitude":20.35596,
+    "gn:longitude":-75.28407,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Los Oasis",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Oasis"
+    ],
+    "name:und_x_variant":[
+        "Oasis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091904459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545792
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b7ec94646c274a0481400e67267f8379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904459,
+            "locality_id":1259579183,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1259579183,
+    "wof:lastmodified":1537618951,
+    "wof:name":"Los Oasis",
+    "wof:parent_id":1091904459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.28407,
+    20.35596,
+    -75.28407,
+    20.35596
+],
+  "geometry": {"coordinates":[-75.28407,20.35596],"type":"Point"}
+}

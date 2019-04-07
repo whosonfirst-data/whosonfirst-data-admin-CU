@@ -1,0 +1,73 @@
+{
+  "id": 1259714965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.97714,22.75778,-82.97714,22.75778",
+    "geom:latitude":22.75778,
+    "geom:longitude":-82.97714,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"El Veinte",
+    "gn:country_code":"CU",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746774,
+    "gn:latitude":22.75778,
+    "gn:longitude":-82.97714,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"El Veinte",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Veinte"
+    ],
+    "name:spa_x_variant":[
+        "La Curva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091903705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746774
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2b13be5a5bb01c9bd61096085ddded71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903705,
+            "locality_id":1259714965,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1259714965,
+    "wof:lastmodified":1537619134,
+    "wof:name":"El Veinte",
+    "wof:parent_id":1091903705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.97714,
+    22.75778,
+    -82.97714,
+    22.75778
+],
+  "geometry": {"coordinates":[-82.97714000000001,22.75778],"type":"Point"}
+}

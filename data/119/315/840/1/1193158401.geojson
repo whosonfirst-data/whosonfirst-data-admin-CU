@@ -1,0 +1,70 @@
+{
+  "id": 1193158401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15134,21.80482,-78.15134,21.80482",
+    "geom:latitude":21.80482,
+    "geom:longitude":-78.15134,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mestre",
+    "gn:country_code":"CU",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11009875,
+    "gn:latitude":21.80482,
+    "gn:longitude":-78.15134,
+    "gn:modification_date":"2018-07-06",
+    "gn:name":"Mestre",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mestre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11009875
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1ea4ede5b2683f6e2e16a3199fd57285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903793,
+            "locality_id":1193158401,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1193158401,
+    "wof:lastmodified":1537619180,
+    "wof:name":"Mestre",
+    "wof:parent_id":1091903793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15134,
+    21.80482,
+    -78.15134,
+    21.80482
+],
+  "geometry": {"coordinates":[-78.15134,21.80482],"type":"Point"}
+}

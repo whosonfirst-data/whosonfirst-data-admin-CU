@@ -1,0 +1,70 @@
+{
+  "id": 1226338239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.97221,19.97344,-76.97221,19.97344",
+    "geom:latitude":19.97344,
+    "geom:longitude":-76.97221,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Merino",
+    "gn:country_code":"CU",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11027489,
+    "gn:latitude":19.97344,
+    "gn:longitude":-76.97221,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Meri\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Meri\u00f1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091902987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027489
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c66cd7e1d1487f20b0438cb2c3e2a196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902987,
+            "locality_id":1226338239,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1226338239,
+    "wof:lastmodified":1537619195,
+    "wof:name":"Merino",
+    "wof:parent_id":1091902987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.97221,
+    19.97344,
+    -76.97221,
+    19.97344
+],
+  "geometry": {"coordinates":[-76.97221,19.97344],"type":"Point"}
+}

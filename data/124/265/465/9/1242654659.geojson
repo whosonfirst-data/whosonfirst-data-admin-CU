@@ -1,0 +1,70 @@
+{
+  "id": 1242654659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63218,20.70611,-76.63218,20.70611",
+    "geom:latitude":20.70611,
+    "geom:longitude":-76.63218,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Cruces Dos",
+    "gn:country_code":"CU",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023044,
+    "gn:latitude":20.70611,
+    "gn:longitude":-76.63218,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Las Cruces Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Cruces Dos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091903541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023044
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0f631b909c987712ab2619142c4e195e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903541,
+            "locality_id":1242654659,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1242654659,
+    "wof:lastmodified":1537619188,
+    "wof:name":"Las Cruces Dos",
+    "wof:parent_id":1091903541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63218,
+    20.70611,
+    -76.63218,
+    20.70611
+],
+  "geometry": {"coordinates":[-76.63218000000001,20.70611],"type":"Point"}
+}

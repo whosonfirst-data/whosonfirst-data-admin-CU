@@ -1,0 +1,64 @@
+{
+  "id": 1209499595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.57851,19.94634,-77.57851,19.94634",
+    "geom:latitude":19.94634,
+    "geom:longitude":-77.57851,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Chicharron del Macho",
+    "gn:country_code":"CU",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027031,
+    "gn:latitude":19.94634,
+    "gn:longitude":-77.57851,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Chicharr\u00f3n del Macho",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Chicharr\u00f3n del Macho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027031
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a0063e0e1f1f12a59e3381df0c12ac07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209499595
+        }
+    ],
+    "wof:id":1209499595,
+    "wof:lastmodified":1537619193,
+    "wof:name":"El Chicharron del Macho",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.57851,
+    19.94634,
+    -77.57851,
+    19.94634
+],
+  "geometry": {"coordinates":[-77.57850999999999,19.94634],"type":"Point"}
+}

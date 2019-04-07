@@ -1,0 +1,61 @@
+{
+  "id": 1209317885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.36667,22.98333,-82.36667,22.98333",
+    "geom:latitude":22.98333,
+    "geom:longitude":-82.36667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dona Juana",
+    "gn:country_code":"CU",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3562266,
+    "gn:latitude":22.98333,
+    "gn:longitude":-82.36667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Do\u00f1a Juana",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562266
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"afad5dcc82cb4adc583dcc5e5656945c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209317885
+        }
+    ],
+    "wof:id":1209317885,
+    "wof:lastmodified":1536290800,
+    "wof:name":"Dona Juana",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.36667,
+    22.98333,
+    -82.36667,
+    22.98333
+],
+  "geometry": {"coordinates":[-82.36667,22.98333],"type":"Point"}
+}

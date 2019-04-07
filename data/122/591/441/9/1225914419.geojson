@@ -1,0 +1,70 @@
+{
+  "id": 1225914419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0731,20.23143,-76.0731,20.23143",
+    "geom:latitude":20.23143,
+    "geom:longitude":-76.0731,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Arroyo Blanco",
+    "gn:country_code":"CU",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063906,
+    "gn:latitude":20.23143,
+    "gn:longitude":-76.0731,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Arroyo Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arroyo Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091906823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063906
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e04d243f1957063eb80c7571f8dfd0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906823,
+            "locality_id":1225914419,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1225914419,
+    "wof:lastmodified":1537619215,
+    "wof:name":"Arroyo Blanco",
+    "wof:parent_id":1091906823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0731,
+    20.23143,
+    -76.0731,
+    20.23143
+],
+  "geometry": {"coordinates":[-76.0731,20.23143],"type":"Point"}
+}

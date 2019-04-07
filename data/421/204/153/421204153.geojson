@@ -1,0 +1,94 @@
+{
+  "id": 421204153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.2,23.16667,-82.2,23.16667",
+    "geom:latitude":23.16667,
+    "geom:longitude":-82.2,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Tarar\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Tarar\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Campamento Jos\u00e9 Marti"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3535498,
+    "qs:gn_pop":0,
+    "qs:name":"Tarar\u00e1",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Ciudad de la Habana",
+    "qs:photos":374,
+    "qs:photos_1k":76,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":374,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238564,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":68296,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":651,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091905073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535498,
+        "gp:id":68296,
+        "qs:id":238564,
+        "wd:id":"Q7685517",
+        "wk:page":"Tarar\u00e1"
+    },
+    "wof:country":"CU",
+    "wof:created":1459010175,
+    "wof:geomhash":"4c81246e942d051f7c0172e277ef2610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905073,
+            "locality_id":421204153,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":421204153,
+    "wof:lastmodified":1527716183,
+    "wof:name":"Tarar\u00e1",
+    "wof:parent_id":1091905073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.2,
+    23.16667,
+    -82.2,
+    23.16667
+],
+  "geometry": {"coordinates":[-82.2,23.16667],"type":"Point"}
+}

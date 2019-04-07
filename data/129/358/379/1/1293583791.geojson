@@ -1,0 +1,70 @@
+{
+  "id": 1293583791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54217,20.497,-76.54217,20.497",
+    "geom:latitude":20.497,
+    "geom:longitude":-76.54217,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Horno de Cal",
+    "gn:country_code":"CU",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11023245,
+    "gn:latitude":20.497,
+    "gn:longitude":-76.54217,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Horno de Cal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Horno de Cal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091903105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023245
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e3112ba22af1b83408dfc700e718b00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903105,
+            "locality_id":1293583791,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1293583791,
+    "wof:lastmodified":1537619189,
+    "wof:name":"Horno de Cal",
+    "wof:parent_id":1091903105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54217,
+    20.497,
+    -76.54217,
+    20.497
+],
+  "geometry": {"coordinates":[-76.54217,20.497],"type":"Point"}
+}

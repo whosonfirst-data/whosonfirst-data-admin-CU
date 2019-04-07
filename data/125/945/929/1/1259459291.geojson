@@ -1,0 +1,70 @@
+{
+  "id": 1259459291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.58723,20.89295,-77.58723,20.89295",
+    "geom:latitude":20.89295,
+    "geom:longitude":-77.58723,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"San Alberto",
+    "gn:country_code":"CU",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3541175,
+    "gn:latitude":20.89295,
+    "gn:longitude":-77.58723,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"San Alberto",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Alberto Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091902667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541175
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c7800dbea3f025c31592bdaff9daca4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902667,
+            "locality_id":1259459291,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1259459291,
+    "wof:lastmodified":1537618920,
+    "wof:name":"San Alberto",
+    "wof:parent_id":1091902667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.58723,
+    20.89295,
+    -77.58723,
+    20.89295
+],
+  "geometry": {"coordinates":[-77.58723000000001,20.89295],"type":"Point"}
+}

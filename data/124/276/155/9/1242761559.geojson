@@ -1,0 +1,71 @@
+{
+  "id": 1242761559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.6314,20.06936,-74.6314,20.06936",
+    "geom:latitude":20.06936,
+    "geom:longitude":-74.6314,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Imias",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3556772,
+    "gn:latitude":20.06936,
+    "gn:longitude":-74.6314,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Im\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Im\u00edas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556772,
+        "wk:page":"Im%C3%ADas"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"91cc499f3e63b5028ab4ce5b3e0ab418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1242761559,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1242761559,
+    "wof:lastmodified":1537619025,
+    "wof:name":"Imias",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.6314,
+    20.06936,
+    -74.6314,
+    20.06936
+],
+  "geometry": {"coordinates":[-74.6314,20.06936],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242857343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.31667,20.28333,-76.31667,20.28333",
+    "geom:latitude":20.28333,
+    "geom:longitude":-76.31667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Aji",
+    "gn:country_code":"CU",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3561923,
+    "gn:latitude":20.28333,
+    "gn:longitude":-76.31667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"El Aj\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561923
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"96a273e0f7850a21071a366d63da1e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904221,
+            "locality_id":1242857343,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1242857343,
+    "wof:lastmodified":1536660788,
+    "wof:name":"El Aji",
+    "wof:parent_id":1091904221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.31667,
+    20.28333,
+    -76.31667,
+    20.28333
+],
+  "geometry": {"coordinates":[-76.31667,20.28333],"type":"Point"}
+}

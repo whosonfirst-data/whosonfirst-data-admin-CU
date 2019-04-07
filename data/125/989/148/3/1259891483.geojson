@@ -1,0 +1,73 @@
+{
+  "id": 1259891483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.62528,22.80065,-80.62528,22.80065",
+    "geom:latitude":22.80065,
+    "geom:longitude":-80.62528,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Las Charcas",
+    "gn:country_code":"CU",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3549387,
+    "gn:latitude":22.80065,
+    "gn:longitude":-80.62528,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Las Charcas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Charcas"
+    ],
+    "name:und_x_variant":[
+        "Los Charcas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549387
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2a955bf162c584ad69f75c52faa75c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905697,
+            "locality_id":1259891483,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1259891483,
+    "wof:lastmodified":1537618973,
+    "wof:name":"Las Charcas",
+    "wof:parent_id":1091905697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.62528,
+    22.80065,
+    -80.62528,
+    22.80065
+],
+  "geometry": {"coordinates":[-80.62528,22.80065],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309901789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.47973,20.13103,-76.47973,20.13103",
+    "geom:latitude":20.13103,
+    "geom:longitude":-76.47973,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Trozo Solo",
+    "gn:country_code":"CU",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063923,
+    "gn:latitude":20.13103,
+    "gn:longitude":-76.47973,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Trozo Solo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Trozo Solo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091905039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063923
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"237b954e1024d519e549f29f56761c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905039,
+            "locality_id":1309901789,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1309901789,
+    "wof:lastmodified":1537619215,
+    "wof:name":"Trozo Solo",
+    "wof:parent_id":1091905039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.47973,
+    20.13103,
+    -76.47973,
+    20.13103
+],
+  "geometry": {"coordinates":[-76.47973,20.13103],"type":"Point"}
+}

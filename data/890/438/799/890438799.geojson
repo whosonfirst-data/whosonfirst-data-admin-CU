@@ -1,0 +1,111 @@
+{
+  "id": 890438799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.97361,22.14944,-79.97361,22.14944",
+    "geom:latitude":22.14944,
+    "geom:longitude":-79.97361,
+    "gn:country":"CU",
+    "gn:fcode":"PPL",
+    "gn:pop":41532,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u99ac\u5c3c\u5361\u62c9\u74dc"
+    ],
+    "name:dut_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:eng_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:fre_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d8\u10d9\u10d0\u10e0\u10d0\u10d2\u10e3\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:ita_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:pol_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:por_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:sco_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:spa_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:swe_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:unk_x_variant":[
+        "Poblado Manicaragua"
+    ],
+    "name:vie_x_preferred":[
+        "Manicaragua"
+    ],
+    "qs:name":"Manicaragua",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":393,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547976,
+        "gp:id":65269,
+        "qs:id":1045498,
+        "wd:id":"Q2573328",
+        "wk:page":"Manicaragua"
+    },
+    "wof:country":"CU",
+    "wof:created":1469052210,
+    "wof:geomhash":"c6629cde9775f67e301f0c365634711a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":890438799,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":890438799,
+    "wof:lastmodified":1527735419,
+    "wof:name":"Manicaragua",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:population":41532,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.97361,
+    22.14944,
+    -79.97361,
+    22.14944
+],
+  "geometry": {"coordinates":[-79.97360999999999,22.14944],"type":"Point"}
+}

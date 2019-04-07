@@ -1,0 +1,64 @@
+{
+  "id": 1209244331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.01319,22.75447,-82.01319,22.75447",
+    "geom:latitude":22.75447,
+    "geom:longitude":-82.01319,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Batey Nuevo",
+    "gn:country_code":"CU",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948297,
+    "gn:latitude":22.75447,
+    "gn:longitude":-82.01319,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Batey Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Batey Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948297
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"fc6b4d19ccb5e9d3945e56acbefefbe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209244331
+        }
+    ],
+    "wof:id":1209244331,
+    "wof:lastmodified":1537619148,
+    "wof:name":"Batey Nuevo",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.01319000000002,
+    22.75447,
+    -82.01319000000002,
+    22.75447
+],
+  "geometry": {"coordinates":[-82.01319000000002,22.75447],"type":"Point"}
+}

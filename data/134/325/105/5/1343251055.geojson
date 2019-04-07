@@ -1,0 +1,70 @@
+{
+  "id": 1343251055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.62498,20.19024,-74.62498,20.19024",
+    "geom:latitude":20.19024,
+    "geom:longitude":-74.62498,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Name",
+    "gn:country_code":"CU",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3560416,
+    "gn:latitude":20.19024,
+    "gn:longitude":-74.62498,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"El \u00d1ame",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El \u00d1ame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560416
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"304a464c98992d7f3e94b85ed0a7d4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1343251055,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1343251055,
+    "wof:lastmodified":1537619052,
+    "wof:name":"El Name",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.62498000000002,
+    20.19024,
+    -74.62498000000002,
+    20.19024
+],
+  "geometry": {"coordinates":[-74.62498000000002,20.19024],"type":"Point"}
+}

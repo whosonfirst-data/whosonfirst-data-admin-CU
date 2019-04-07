@@ -1,0 +1,71 @@
+{
+  "id": 1226119627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.79923,20.98597,-75.79923,20.98597",
+    "geom:latitude":20.98597,
+    "geom:longitude":-75.79923,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pozo Blanco",
+    "gn:country_code":"CU",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543596,
+    "gn:latitude":20.98597,
+    "gn:longitude":-75.79923,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Pozo Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poza Blanca",
+        "Pozo Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543596
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"29fa8f10a3d4188847b64da55d5a3b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1226119627,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1226119627,
+    "wof:lastmodified":1537618935,
+    "wof:name":"Pozo Blanco",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.79923000000002,
+    20.98597,
+    -75.79923000000002,
+    20.98597
+],
+  "geometry": {"coordinates":[-75.79923000000002,20.98597],"type":"Point"}
+}

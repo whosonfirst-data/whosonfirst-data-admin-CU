@@ -1,0 +1,67 @@
+{
+  "id": 1293606805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.92444,22.67722,-83.92444,22.67722",
+    "geom:latitude":22.67722,
+    "geom:longitude":-83.92444,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Venero",
+    "gn:country_code":"CU",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559527,
+    "gn:latitude":22.67722,
+    "gn:longitude":-83.92444,
+    "gn:modification_date":"1996-03-01",
+    "gn:name":"El Venero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091906417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559527
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"571cf41024ac5ef233daf839332b9632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906417,
+            "locality_id":1293606805,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1293606805,
+    "wof:lastmodified":1536612634,
+    "wof:name":"El Venero",
+    "wof:parent_id":1091906417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.92444,
+    22.67722,
+    -83.92444,
+    22.67722
+],
+  "geometry": {"coordinates":[-83.92444,22.67722],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276303195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81474,21.92592,-79.81474,21.92592",
+    "geom:latitude":21.92592,
+    "geom:longitude":-79.81474,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Guinia de Soto",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557374,
+    "gn:latitude":21.92592,
+    "gn:longitude":-79.81474,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"G\u00fcinia de Soto",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "G\u00fcinia de Soto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557374
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ef4006e44b3f502495c7a7c9e6aeb23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908473,
+            "locality_id":1276303195,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1276303195,
+    "wof:lastmodified":1537619029,
+    "wof:name":"Guinia de Soto",
+    "wof:parent_id":1091908473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81474,
+    21.92592,
+    -79.81474,
+    21.92592
+],
+  "geometry": {"coordinates":[-79.81474,21.92592],"type":"Point"}
+}

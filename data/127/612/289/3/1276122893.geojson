@@ -1,0 +1,70 @@
+{
+  "id": 1276122893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.31742,21.49414,-78.31742,21.49414",
+    "geom:latitude":21.49414,
+    "geom:longitude":-78.31742,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Juan Bosco",
+    "gn:country_code":"CU",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3539326,
+    "gn:latitude":21.49414,
+    "gn:longitude":-78.31742,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"San Juan Bosco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Juan Bosco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539326
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9b955ca100b816db43d145fe942f2dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904585,
+            "locality_id":1276122893,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1276122893,
+    "wof:lastmodified":1537618910,
+    "wof:name":"San Juan Bosco",
+    "wof:parent_id":1091904585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.31742,
+    21.49414,
+    -78.31742,
+    21.49414
+],
+  "geometry": {"coordinates":[-78.31742,21.49414],"type":"Point"}
+}

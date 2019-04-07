@@ -1,0 +1,64 @@
+{
+  "id": 1209598777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.51121,21.70082,-79.51121,21.70082",
+    "geom:latitude":21.70082,
+    "geom:longitude":-79.51121,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tayabacoa",
+    "gn:country_code":"CU",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535463,
+    "gn:latitude":21.70082,
+    "gn:longitude":-79.51121,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Tayabacoa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tayabacoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535463
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8185e3b1fdc5bc9ab2c12bd10091d2b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209598777
+        }
+    ],
+    "wof:id":1209598777,
+    "wof:lastmodified":1537618889,
+    "wof:name":"Tayabacoa",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.51120999999998,
+    21.70082,
+    -79.51120999999998,
+    21.70082
+],
+  "geometry": {"coordinates":[-79.51120999999998,21.70082],"type":"Point"}
+}

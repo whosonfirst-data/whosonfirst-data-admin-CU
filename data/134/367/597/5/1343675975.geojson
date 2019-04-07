@@ -1,0 +1,67 @@
+{
+  "id": 1343675975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.11139,21.95778,-84.11139,21.95778",
+    "geom:latitude":21.95778,
+    "geom:longitude":-84.11139,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Palmarito",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3545129,
+    "gn:latitude":21.95778,
+    "gn:longitude":-84.11139,
+    "gn:modification_date":"1996-06-07",
+    "gn:name":"Palmarito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545129
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1c64e3e5ab7cb2720c8baab76b29f7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907969,
+            "locality_id":1343675975,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1343675975,
+    "wof:lastmodified":1536933372,
+    "wof:name":"Palmarito",
+    "wof:parent_id":1091907969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.11139,
+    21.95778,
+    -84.11139,
+    21.95778
+],
+  "geometry": {"coordinates":[-84.11139,21.95778],"type":"Point"}
+}

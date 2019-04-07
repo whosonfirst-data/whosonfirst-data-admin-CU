@@ -1,0 +1,70 @@
+{
+  "id": 1259774211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.54204,22.47705,-80.54204,22.47705",
+    "geom:latitude":22.47705,
+    "geom:longitude":-80.54204,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gutierrez",
+    "gn:country_code":"CU",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11007223,
+    "gn:latitude":22.47705,
+    "gn:longitude":-80.54204,
+    "gn:modification_date":"2017-11-10",
+    "gn:name":"Guti\u00e9rrez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guti\u00e9rrez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091907455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007223
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"74a550461d4862f17dbd856039d791bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907455,
+            "locality_id":1259774211,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1259774211,
+    "wof:lastmodified":1537619159,
+    "wof:name":"Gutierrez",
+    "wof:parent_id":1091907455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.54204,
+    22.47705,
+    -80.54204,
+    22.47705
+],
+  "geometry": {"coordinates":[-80.54204,22.47705],"type":"Point"}
+}

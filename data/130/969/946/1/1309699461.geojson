@@ -1,0 +1,67 @@
+{
+  "id": 1309699461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.86639,21.07306,-75.86639,21.07306",
+    "geom:latitude":21.07306,
+    "geom:longitude":-75.86639,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Canela",
+    "gn:country_code":"CU",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3565742,
+    "gn:latitude":21.07306,
+    "gn:longitude":-75.86639,
+    "gn:modification_date":"1995-04-19",
+    "gn:name":"Canela",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091907267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3565742
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4673ef88616adc6aac21001a3d850a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907267,
+            "locality_id":1309699461,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1309699461,
+    "wof:lastmodified":1537081321,
+    "wof:name":"Canela",
+    "wof:parent_id":1091907267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.86639,
+    21.07306,
+    -75.86639,
+    21.07306
+],
+  "geometry": {"coordinates":[-75.86639,21.07306],"type":"Point"}
+}

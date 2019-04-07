@@ -1,0 +1,70 @@
+{
+  "id": 1193255567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.17274,21.06606,-76.17274,21.06606",
+    "geom:latitude":21.06606,
+    "geom:longitude":-76.17274,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Vigia",
+    "gn:country_code":"CU",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550146,
+    "gn:latitude":21.06606,
+    "gn:longitude":-76.17274,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Vig\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Vig\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550146
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0427df806344abe937112036da195016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904693,
+            "locality_id":1193255567,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1193255567,
+    "wof:lastmodified":1537618979,
+    "wof:name":"La Vigia",
+    "wof:parent_id":1091904693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.17274,
+    21.06606,
+    -76.17274,
+    21.06606
+],
+  "geometry": {"coordinates":[-76.17274,21.06606],"type":"Point"}
+}

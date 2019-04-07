@@ -1,0 +1,71 @@
+{
+  "id": 1225866057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.97328,22.1461,-78.97328,22.1461",
+    "geom:latitude":22.1461,
+    "geom:longitude":-78.97328,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Florencia",
+    "gn:country_code":"CU",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3558792,
+    "gn:latitude":22.1461,
+    "gn:longitude":-78.97328,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Florencia",
+    "gn:population":19811,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670419,
+        1091904557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3558792,
+        "wk:page":"Florencia%2C_Cuba"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5a7765d934a4794b9863903bf79cc29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904557,
+            "locality_id":1225866057,
+            "region_id":85670419
+        }
+    ],
+    "wof:id":1225866057,
+    "wof:lastmodified":1537503943,
+    "wof:name":"Florencia",
+    "wof:parent_id":1091904557,
+    "wof:placetype":"locality",
+    "wof:population":19811,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.97328,
+    22.1461,
+    -78.97328,
+    22.1461
+],
+  "geometry": {"coordinates":[-78.97328,22.1461],"type":"Point"}
+}

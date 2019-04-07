@@ -1,0 +1,71 @@
+{
+  "id": 1276861111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.39398,20.14168,-77.39398,20.14168",
+    "geom:latitude":20.14168,
+    "geom:longitude":-77.39398,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Los Guayos",
+    "gn:country_code":"CU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3549229,
+    "gn:latitude":20.14168,
+    "gn:longitude":-77.39398,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Los Guayos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guayos",
+        "Los Guayos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3549229
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1950a87af64894888be1a49328cf4ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906341,
+            "locality_id":1276861111,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1276861111,
+    "wof:lastmodified":1537618972,
+    "wof:name":"Los Guayos",
+    "wof:parent_id":1091906341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.39398,
+    20.14168,
+    -77.39398,
+    20.14168
+],
+  "geometry": {"coordinates":[-77.39398,20.14168],"type":"Point"}
+}

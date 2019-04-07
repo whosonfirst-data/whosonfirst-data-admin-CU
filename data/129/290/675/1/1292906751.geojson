@@ -1,0 +1,67 @@
+{
+  "id": 1292906751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.15,23.11667,-82.15,23.11667",
+    "geom:latitude":23.11667,
+    "geom:longitude":-82.15,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dona Felicia",
+    "gn:country_code":"CU",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3562270,
+    "gn:latitude":23.11667,
+    "gn:longitude":-82.15,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Do\u00f1a Felicia",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445,
+        1091905073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562270
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2212deb06fa864b8539fb2b2c042be62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905073,
+            "locality_id":1292906751,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1292906751,
+    "wof:lastmodified":1536628417,
+    "wof:name":"Dona Felicia",
+    "wof:parent_id":1091905073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.15,
+    23.11667000000001,
+    -82.15,
+    23.11667000000001
+],
+  "geometry": {"coordinates":[-82.15000000000001,23.11667000000001],"type":"Point"}
+}

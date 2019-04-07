@@ -1,0 +1,71 @@
+{
+  "id": 1242808051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.74306,22.79472,-81.74306,22.79472",
+    "geom:latitude":22.79472,
+    "geom:longitude":-81.74306,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Palos",
+    "gn:country_code":"CU",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3544970,
+    "gn:latitude":22.79472,
+    "gn:longitude":-81.74306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Palos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Palos",
+        "Palos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091906719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3544970
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"31c6ddb76e804c8ee0d9b425bf1254f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906719,
+            "locality_id":1242808051,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1242808051,
+    "wof:lastmodified":1537618945,
+    "wof:name":"Palos",
+    "wof:parent_id":1091906719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.74306,
+    22.79472,
+    -81.74306,
+    22.79472
+],
+  "geometry": {"coordinates":[-81.74306,22.79472],"type":"Point"}
+}

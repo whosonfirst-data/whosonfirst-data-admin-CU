@@ -1,0 +1,134 @@
+{
+  "id": 421199331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.355,22.82306,-82.355,22.82306",
+    "geom:latitude":22.82306,
+    "geom:longitude":-82.355,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Municipio de Quivic\u00e1n"
+    ],
+    "name:chi_x_preferred":[
+        "\u57fa\u6bd4\u574e"
+    ],
+    "name:deu_x_preferred":[
+        "Quivic\u00e1n"
+    ],
+    "name:dut_x_preferred":[
+        "Quivic\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Quivic\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Quivic\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Quivic\u00e1n"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d8\u10d5\u10d8\u10d9\u10d0\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Quivic\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Quivic\u00e1n"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10d5\u10d8\u10d9\u10d0\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Quivic\u00e1n"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0432\u0438\u043a\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Quivic\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Quivic\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Quivic\u00e1n"
+    ],
+    "name:vie_x_preferred":[
+        "Quivican"
+    ],
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3542965,
+    "qs:gn_pop":12919,
+    "qs:name":"Quivic\u00e1n",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"La Habana",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":193124,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":66459,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":22.824722,
+    "wd:longitude":-82.355833,
+    "wd:wordcount":193,
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091907223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542965,
+        "gp:id":66459,
+        "qs:id":193124,
+        "wd:id":"Q2123580"
+    },
+    "wof:country":"CU",
+    "wof:created":1459009985,
+    "wof:geomhash":"b90ad97d4a3d2e9eacfcbede7e31ea46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907223,
+            "locality_id":421199331,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":421199331,
+    "wof:lastmodified":1527716409,
+    "wof:name":"Quivic\u00e1n",
+    "wof:parent_id":1091907223,
+    "wof:placetype":"locality",
+    "wof:population":12919,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.355,
+    22.82306,
+    -82.355,
+    22.82306
+],
+  "geometry": {"coordinates":[-82.355,22.82306],"type":"Point"}
+}

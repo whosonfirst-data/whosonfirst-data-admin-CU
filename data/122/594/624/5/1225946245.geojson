@@ -1,0 +1,70 @@
+{
+  "id": 1225946245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.95611,22.8049,-80.95611,22.8049",
+    "geom:latitude":22.8049,
+    "geom:longitude":-80.95611,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Juanita",
+    "gn:country_code":"CU",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3553202,
+    "gn:latitude":22.8049,
+    "gn:longitude":-80.95611,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"La Juanita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Juanita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091904143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553202
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0e5f34e50285a03734c26bc0b58cf9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904143,
+            "locality_id":1225946245,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1225946245,
+    "wof:lastmodified":1537619001,
+    "wof:name":"La Juanita",
+    "wof:parent_id":1091904143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.95611,
+    22.8049,
+    -80.95611,
+    22.8049
+],
+  "geometry": {"coordinates":[-80.95611,22.8049],"type":"Point"}
+}

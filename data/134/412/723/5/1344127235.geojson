@@ -1,0 +1,70 @@
+{
+  "id": 1344127235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.42412,19.97114,-76.42412,19.97114",
+    "geom:latitude":19.97114,
+    "geom:longitude":-76.42412,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Calentura",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3566187,
+    "gn:latitude":19.97114,
+    "gn:longitude":-76.42412,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Calentura",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Calentura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566187
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e4cfa69f25587f7a2f49c59e5e046438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904765,
+            "locality_id":1344127235,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1344127235,
+    "wof:lastmodified":1537619098,
+    "wof:name":"Calentura",
+    "wof:parent_id":1091904765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.42412,
+    19.97114,
+    -76.42412,
+    19.97114
+],
+  "geometry": {"coordinates":[-76.42412,19.97114],"type":"Point"}
+}

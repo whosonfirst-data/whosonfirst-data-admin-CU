@@ -1,0 +1,70 @@
+{
+  "id": 1343676133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.82675,21.87125,-84.82675,21.87125",
+    "geom:latitude":21.87125,
+    "geom:longitude":-84.82675,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bolondron",
+    "gn:country_code":"CU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567083,
+    "gn:latitude":21.87125,
+    "gn:longitude":-84.82675,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Bolondr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bolondr\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567083
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2b6ab120dbd89458a2a2f2e911b7bd33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907969,
+            "locality_id":1343676133,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1343676133,
+    "wof:lastmodified":1537619104,
+    "wof:name":"Bolondron",
+    "wof:parent_id":1091907969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.82675,
+    21.87125,
+    -84.82675,
+    21.87125
+],
+  "geometry": {"coordinates":[-84.82675,21.87125],"type":"Point"}
+}

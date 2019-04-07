@@ -1,0 +1,70 @@
+{
+  "id": 1310671173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.83809,19.9368,-76.83809,19.9368",
+    "geom:latitude":19.9368,
+    "geom:longitude":-76.83809,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Dian",
+    "gn:country_code":"CU",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11027115,
+    "gn:latitude":19.9368,
+    "gn:longitude":-76.83809,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Dian",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Dian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027115
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"deb03152320d665a20f6af6017a6da93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904765,
+            "locality_id":1310671173,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1310671173,
+    "wof:lastmodified":1537619194,
+    "wof:name":"El Dian",
+    "wof:parent_id":1091904765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.83809000000002,
+    19.9368,
+    -76.83809000000002,
+    19.9368
+],
+  "geometry": {"coordinates":[-76.83809000000002,19.9368],"type":"Point"}
+}

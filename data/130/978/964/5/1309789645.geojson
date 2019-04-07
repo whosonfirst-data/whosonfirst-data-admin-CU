@@ -1,0 +1,70 @@
+{
+  "id": 1309789645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.55261,20.36837,-74.55261,20.36837",
+    "geom:latitude":20.36837,
+    "geom:longitude":-74.55261,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Riconta",
+    "gn:country_code":"CU",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080263,
+    "gn:latitude":20.36837,
+    "gn:longitude":-74.55261,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"La Riconta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Riconta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091902961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080263
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d13293d34b171b2fc08e542008b020a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902961,
+            "locality_id":1309789645,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1309789645,
+    "wof:lastmodified":1537619228,
+    "wof:name":"La Riconta",
+    "wof:parent_id":1091902961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.55261,
+    20.36837,
+    -74.55261,
+    20.36837
+],
+  "geometry": {"coordinates":[-74.55261,20.36837],"type":"Point"}
+}

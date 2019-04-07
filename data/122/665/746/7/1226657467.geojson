@@ -1,0 +1,70 @@
+{
+  "id": 1226657467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.74244,22.8371,-80.74244,22.8371",
+    "geom:latitude":22.8371,
+    "geom:longitude":-80.74244,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Juan Genetica",
+    "gn:country_code":"CU",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007147,
+    "gn:latitude":22.8371,
+    "gn:longitude":-80.74244,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"San Juan Gen\u00e9tica",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Juan Gen\u00e9tica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091906225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007147
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bc8517f83f5990a6d8de8740b0484108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906225,
+            "locality_id":1226657467,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1226657467,
+    "wof:lastmodified":1537619157,
+    "wof:name":"San Juan Genetica",
+    "wof:parent_id":1091906225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.74244,
+    22.8371,
+    -80.74244,
+    22.8371
+],
+  "geometry": {"coordinates":[-80.74244,22.8371],"type":"Point"}
+}

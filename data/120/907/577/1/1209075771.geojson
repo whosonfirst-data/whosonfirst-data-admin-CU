@@ -1,0 +1,66 @@
+{
+  "id": 1209075771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.10576,22.33217,-80.10576,22.33217",
+    "geom:latitude":22.33217,
+    "geom:longitude":-80.10576,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"San Juan de los Yeras",
+    "gn:country_code":"CU",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3539284,
+    "gn:latitude":22.33217,
+    "gn:longitude":-80.10576,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"San Juan de los Yeras",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan de las Yeras",
+        "San Juan de los Yeras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539284,
+        "wk:page":"San_Juan_de_los_Yeras"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a4713dc15d1a068cad604a8c15088d24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209075771
+        }
+    ],
+    "wof:id":1209075771,
+    "wof:lastmodified":1537618910,
+    "wof:name":"San Juan de los Yeras",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.10576,
+    22.33217,
+    -80.10576,
+    22.33217
+],
+  "geometry": {"coordinates":[-80.10576,22.33217],"type":"Point"}
+}

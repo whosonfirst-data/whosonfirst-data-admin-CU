@@ -1,0 +1,61 @@
+{
+  "id": 1209617139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.21472,22.74778,-81.21472,22.74778",
+    "geom:latitude":22.74778,
+    "geom:longitude":-81.21472,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Coronel",
+    "gn:country_code":"CU",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3563376,
+    "gn:latitude":22.74778,
+    "gn:longitude":-81.21472,
+    "gn:modification_date":"1996-07-18",
+    "gn:name":"Coronel",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563376
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"c58b2ac9006f39e00f12818353e9adc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209617139
+        }
+    ],
+    "wof:id":1209617139,
+    "wof:lastmodified":1536281649,
+    "wof:name":"Coronel",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.21472,
+    22.74778,
+    -81.21472,
+    22.74778
+],
+  "geometry": {"coordinates":[-81.21472,22.74778],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293084643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.78463,22.01367,-79.78463,22.01367",
+    "geom:latitude":22.01367,
+    "geom:longitude":-79.78463,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sopimpa",
+    "gn:country_code":"CU",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535786,
+    "gn:latitude":22.01367,
+    "gn:longitude":-79.78463,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Sopimpa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zopimpa",
+        "Sopimpa de Esquerra",
+        "Sopimpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091904623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535786
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e2eec1b7eb3a492958cb49e93aebd757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904623,
+            "locality_id":1293084643,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1293084643,
+    "wof:lastmodified":1537618892,
+    "wof:name":"Sopimpa",
+    "wof:parent_id":1091904623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.78463,
+    22.01367,
+    -79.78463,
+    22.01367
+],
+  "geometry": {"coordinates":[-79.78463000000001,22.01367],"type":"Point"}
+}

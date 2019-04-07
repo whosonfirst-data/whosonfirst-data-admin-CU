@@ -1,0 +1,70 @@
+{
+  "id": 1326847971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.29711,22.46842,-83.29711,22.46842",
+    "geom:latitude":22.46842,
+    "geom:longitude":-83.29711,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cubanacan",
+    "gn:country_code":"CU",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3740422,
+    "gn:latitude":22.46842,
+    "gn:longitude":-83.29711,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Cubanac\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cubanac\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091905737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740422
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ac1f5fc8c5d3d4adad3f27d519124995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905737,
+            "locality_id":1326847971,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1326847971,
+    "wof:lastmodified":1537619128,
+    "wof:name":"Cubanacan",
+    "wof:parent_id":1091905737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.29711,
+    22.46842,
+    -83.29711,
+    22.46842
+],
+  "geometry": {"coordinates":[-83.29711,22.46842],"type":"Point"}
+}

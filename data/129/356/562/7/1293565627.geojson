@@ -1,0 +1,67 @@
+{
+  "id": 1293565627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54027,21.22684,-76.54027,21.22684",
+    "geom:latitude":21.22684,
+    "geom:longitude":-76.54027,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Puerto Carupano",
+    "gn:country_code":"CU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3543325,
+    "gn:latitude":21.22684,
+    "gn:longitude":-76.54027,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Puerto Car\u00fapano",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Car\u00fapano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543325
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"09b28380cb766ab7fa88d0a8b573c6a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "locality_id":1293565627,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293565627,
+    "wof:lastmodified":1537618933,
+    "wof:name":"Puerto Carupano",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54026999999998,
+    21.22684,
+    -76.54026999999998,
+    21.22684
+],
+  "geometry": {"coordinates":[-76.54026999999998,21.22684],"type":"Point"}
+}

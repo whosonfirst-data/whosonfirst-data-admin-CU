@@ -1,0 +1,72 @@
+{
+  "id": 1310511085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.95806,22.36694,-83.95806,22.36694",
+    "geom:latitude":22.36694,
+    "geom:longitude":-83.95806,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La Majagua",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3552742,
+    "gn:latitude":22.36694,
+    "gn:longitude":-83.95806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Majagua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca La Majagua",
+        "La Majagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091906417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552742
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"25a4350738586b09a04289f7be2d9f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906417,
+            "locality_id":1310511085,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1310511085,
+    "wof:lastmodified":1537618998,
+    "wof:name":"La Majagua",
+    "wof:parent_id":1091906417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.95806,
+    22.36694,
+    -83.95806,
+    22.36694
+],
+  "geometry": {"coordinates":[-83.95806,22.36694],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225825417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.65805,20.92408,-75.65805,20.92408",
+    "geom:latitude":20.92408,
+    "geom:longitude":-75.65805,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cano Doce",
+    "gn:country_code":"CU",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065290,
+    "gn:latitude":20.92408,
+    "gn:longitude":-75.65805,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Cano Doce",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cano Doce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091902915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065290
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"82284ae5d20e743901cf7a9b46756138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902915,
+            "locality_id":1225825417,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1225825417,
+    "wof:lastmodified":1537619217,
+    "wof:name":"Cano Doce",
+    "wof:parent_id":1091902915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.65805,
+    20.92408,
+    -75.65805,
+    20.92408
+],
+  "geometry": {"coordinates":[-75.65805,20.92408],"type":"Point"}
+}

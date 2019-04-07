@@ -1,0 +1,70 @@
+{
+  "id": 1326630389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.91928,21.82448,-82.91928,21.82448",
+    "geom:latitude":21.82448,
+    "geom:longitude":-82.91928,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Bosque",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003455,
+    "gn:latitude":21.82448,
+    "gn:longitude":-82.91928,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Bosque",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Bosque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670405,
+        1091906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003455
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9cd1d9eceaeb00f6312865dba072bcbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906563,
+            "locality_id":1326630389,
+            "region_id":85670405
+        }
+    ],
+    "wof:id":1326630389,
+    "wof:lastmodified":1537619155,
+    "wof:name":"El Bosque",
+    "wof:parent_id":1091906563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.91928,
+    21.82448,
+    -82.91928,
+    21.82448
+],
+  "geometry": {"coordinates":[-82.91928,21.82448],"type":"Point"}
+}

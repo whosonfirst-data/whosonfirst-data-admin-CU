@@ -1,0 +1,70 @@
+{
+  "id": 1344046989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.42724,19.94613,-77.42724,19.94613",
+    "geom:latitude":19.94613,
+    "geom:longitude":-77.42724,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Duran",
+    "gn:country_code":"CU",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3562014,
+    "gn:latitude":19.94613,
+    "gn:longitude":-77.42724,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Dur\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3562014
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"bc3b4fdb926a6ca75863a5f8c7dbf719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906965,
+            "locality_id":1344046989,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1344046989,
+    "wof:lastmodified":1537619067,
+    "wof:name":"Duran",
+    "wof:parent_id":1091906965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.42724,
+    19.94613,
+    -77.42724,
+    19.94613
+],
+  "geometry": {"coordinates":[-77.42724,19.94613],"type":"Point"}
+}

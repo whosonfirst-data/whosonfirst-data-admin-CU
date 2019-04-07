@@ -1,0 +1,71 @@
+{
+  "id": 1327139061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.10378,21.62653,-78.10378,21.62653",
+    "geom:latitude":21.62653,
+    "geom:longitude":-78.10378,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Ciegas",
+    "gn:country_code":"CU",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3551447,
+    "gn:latitude":21.62653,
+    "gn:longitude":-78.10378,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Las Ciegas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Ciega",
+        "Las Ciegas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091904585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551447
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0ad12a534caa88cab29f9bd0e6a51d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904585,
+            "locality_id":1327139061,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1327139061,
+    "wof:lastmodified":1537618989,
+    "wof:name":"Las Ciegas",
+    "wof:parent_id":1091904585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.10378,
+    21.62653,
+    -78.10378,
+    21.62653
+],
+  "geometry": {"coordinates":[-78.10378,21.62653],"type":"Point"}
+}

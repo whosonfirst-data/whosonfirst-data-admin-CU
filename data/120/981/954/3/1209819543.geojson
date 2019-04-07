@@ -1,0 +1,70 @@
+{
+  "id": 1209819543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.60092,22.2617,-83.60092,22.2617",
+    "geom:latitude":22.2617,
+    "geom:longitude":-83.60092,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Veintiuno de la Coloma",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945384,
+    "gn:latitude":22.2617,
+    "gn:longitude":-83.60092,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Veintiuno de la Coloma",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Veintiuno de la Coloma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945384
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"af099b134efc811a2c5dba14ef457920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907007,
+            "locality_id":1209819543,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1209819543,
+    "wof:lastmodified":1537619143,
+    "wof:name":"Veintiuno de la Coloma",
+    "wof:parent_id":1091907007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.60092,
+    22.2617,
+    -83.60092,
+    22.2617
+],
+  "geometry": {"coordinates":[-83.60092,22.2617],"type":"Point"}
+}

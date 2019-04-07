@@ -1,0 +1,73 @@
+{
+  "id": 1276732077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.97639,22.02776,-79.97639,22.02776",
+    "geom:latitude":22.02776,
+    "geom:longitude":-79.97639,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Rincon Naranjo",
+    "gn:country_code":"CU",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3542213,
+    "gn:latitude":22.02776,
+    "gn:longitude":-79.97639,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Rinc\u00f3n Naranjo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n de Naranjo"
+    ],
+    "name:spa_x_variant":[
+        "Rinc\u00f3n Naranjo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091905979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542213
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1adf8fbecbfb8507647fb2b91fc71075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905979,
+            "locality_id":1276732077,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1276732077,
+    "wof:lastmodified":1537618926,
+    "wof:name":"Rincon Naranjo",
+    "wof:parent_id":1091905979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.97639000000002,
+    22.02776,
+    -79.97639000000002,
+    22.02776
+],
+  "geometry": {"coordinates":[-79.97639000000002,22.02776],"type":"Point"}
+}

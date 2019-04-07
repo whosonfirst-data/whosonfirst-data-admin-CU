@@ -1,0 +1,67 @@
+{
+  "id": 1293035471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.56667,22.83333,-82.56667,22.83333",
+    "geom:latitude":22.83333,
+    "geom:longitude":-82.56667,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Bagatela",
+    "gn:country_code":"CU",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3568009,
+    "gn:latitude":22.83333,
+    "gn:longitude":-82.56667,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"Bagatela",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091902641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3568009
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"1e43449e7ecd4a7f148d95af23ee0be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902641,
+            "locality_id":1293035471,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1293035471,
+    "wof:lastmodified":1536942358,
+    "wof:name":"Bagatela",
+    "wof:parent_id":1091902641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.56667,
+    22.83333,
+    -82.56667,
+    22.83333
+],
+  "geometry": {"coordinates":[-82.56667,22.83333],"type":"Point"}
+}

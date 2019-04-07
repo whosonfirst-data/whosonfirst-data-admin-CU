@@ -1,0 +1,70 @@
+{
+  "id": 1259367395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.1583,19.91368,-77.1583,19.91368",
+    "geom:latitude":19.91368,
+    "geom:longitude":-77.1583,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mota Uno",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3745078,
+    "gn:latitude":19.91368,
+    "gn:longitude":-77.1583,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Mota Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mota Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3745078
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"81d16e65082caaf8bf92407834246cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906965,
+            "locality_id":1259367395,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1259367395,
+    "wof:lastmodified":1537619128,
+    "wof:name":"Mota Uno",
+    "wof:parent_id":1091906965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.1583,
+    19.91368,
+    -77.1583,
+    19.91368
+],
+  "geometry": {"coordinates":[-77.1583,19.91368],"type":"Point"}
+}

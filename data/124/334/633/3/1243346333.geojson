@@ -1,0 +1,70 @@
+{
+  "id": 1243346333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.67583,20.38393,-75.67583,20.38393",
+    "geom:latitude":20.38393,
+    "geom:longitude":-75.67583,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Vergel",
+    "gn:country_code":"CU",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763201,
+    "gn:latitude":20.38393,
+    "gn:longitude":-75.67583,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"El Vergel",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Vergel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763201
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d149062d99c5c6df717446950125aad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907795,
+            "locality_id":1243346333,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1243346333,
+    "wof:lastmodified":1537619138,
+    "wof:name":"El Vergel",
+    "wof:parent_id":1091907795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.67583,
+    20.38393,
+    -75.67583,
+    20.38393
+],
+  "geometry": {"coordinates":[-75.67583,20.38393],"type":"Point"}
+}

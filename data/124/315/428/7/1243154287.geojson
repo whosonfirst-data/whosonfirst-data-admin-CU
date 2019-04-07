@@ -1,0 +1,75 @@
+{
+  "id": 1243154287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.69195,22.20796,-79.69195,22.20796",
+    "geom:latitude":22.20796,
+    "geom:longitude":-79.69195,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ceja-La Legua",
+    "gn:country_code":"CU",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3553073,
+    "gn:latitude":22.20796,
+    "gn:longitude":-79.69195,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ceja-La Legua",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Legua"
+    ],
+    "name:spa_x_variant":[
+        "Ceja-La Legua",
+        "La Ceja",
+        "La Ceja-La Legua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553073
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4921504954486fec2338f16321c0a665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907053,
+            "locality_id":1243154287,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1243154287,
+    "wof:lastmodified":1537619000,
+    "wof:name":"Ceja-La Legua",
+    "wof:parent_id":1091907053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.69195,
+    22.20796,
+    -79.69195,
+    22.20796
+],
+  "geometry": {"coordinates":[-79.69195000000001,22.20796],"type":"Point"}
+}

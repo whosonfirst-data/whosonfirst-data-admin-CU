@@ -1,0 +1,64 @@
+{
+  "id": 1209689691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.20998,22.34911,-79.20998,22.34911",
+    "geom:latitude":22.34911,
+    "geom:longitude":-79.20998,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Claudio",
+    "gn:country_code":"CU",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3564041,
+    "gn:latitude":22.34911,
+    "gn:longitude":-79.20998,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Claudio",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Claudio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3564041
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"49dd87544b58143a5ef52d210d44e246",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209689691
+        }
+    ],
+    "wof:id":1209689691,
+    "wof:lastmodified":1537619081,
+    "wof:name":"Claudio",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.20998,
+    22.34911,
+    -79.20998,
+    22.34911
+],
+  "geometry": {"coordinates":[-79.20998,22.34911],"type":"Point"}
+}

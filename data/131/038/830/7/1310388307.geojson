@@ -1,0 +1,74 @@
+{
+  "id": 1310388307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73552,19.98301,-75.73552,19.98301",
+    "geom:latitude":19.98301,
+    "geom:longitude":-75.73552,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Palenque Dos",
+    "gn:country_code":"CU",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3545307,
+    "gn:latitude":19.98301,
+    "gn:longitude":-75.73552,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"El Palenque Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Palenque Dos"
+    ],
+    "name:und_x_variant":[
+        "Palenque",
+        "El Palenque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545307
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"220bb554291db62b30a70b5fb3c1684e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":1310388307,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1310388307,
+    "wof:lastmodified":1537618947,
+    "wof:name":"El Palenque Dos",
+    "wof:parent_id":1091908137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73552,
+    19.98301,
+    -75.73552,
+    19.98301
+],
+  "geometry": {"coordinates":[-75.73551999999999,19.98301],"type":"Point"}
+}

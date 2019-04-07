@@ -1,0 +1,67 @@
+{
+  "id": 1226778865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.86361,22.81972,-81.86361,22.81972",
+    "geom:latitude":22.81972,
+    "geom:longitude":-81.86361,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"CU",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3539633,
+    "gn:latitude":22.81972,
+    "gn:longitude":-81.86361,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091907877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539633
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b259f5e93e169530ba87648e88fb3787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907877,
+            "locality_id":1226778865,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1226778865,
+    "wof:lastmodified":1536667957,
+    "wof:name":"San Jose",
+    "wof:parent_id":1091907877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.86361,
+    22.81972,
+    -81.86361,
+    22.81972
+],
+  "geometry": {"coordinates":[-81.86360999999999,22.81972],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276133027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.11667,22.1,-84.11667,22.1",
+    "geom:latitude":22.1,
+    "geom:longitude":-84.11667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Barro",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3561816,
+    "gn:latitude":22.1,
+    "gn:longitude":-84.11667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"El Barro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3561816
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f020b17bf23e12ad9b3138ac1cbce35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907969,
+            "locality_id":1276133027,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1276133027,
+    "wof:lastmodified":1537045086,
+    "wof:name":"El Barro",
+    "wof:parent_id":1091907969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.11667,
+    22.1,
+    -84.11667,
+    22.1
+],
+  "geometry": {"coordinates":[-84.11667,22.1],"type":"Point"}
+}

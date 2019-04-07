@@ -1,0 +1,70 @@
+{
+  "id": 1343550943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.50387,20.04824,-77.50387,20.04824",
+    "geom:latitude":20.04824,
+    "geom:longitude":-77.50387,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Santa Isabel",
+    "gn:country_code":"CU",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3537561,
+    "gn:latitude":20.04824,
+    "gn:longitude":-77.50387,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Santa Isabel",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Isabel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3537561
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"dcdb93d840c7bd30fe2428f0969b6fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906677,
+            "locality_id":1343550943,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1343550943,
+    "wof:lastmodified":1537618901,
+    "wof:name":"Santa Isabel",
+    "wof:parent_id":1091906677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.50386999999998,
+    20.04824,
+    -77.50386999999998,
+    20.04824
+],
+  "geometry": {"coordinates":[-77.50386999999998,20.04824],"type":"Point"}
+}

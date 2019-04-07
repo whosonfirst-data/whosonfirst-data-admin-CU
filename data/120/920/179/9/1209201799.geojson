@@ -1,0 +1,74 @@
+{
+  "id": 1209201799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.65048,20.7533,-75.65048,20.7533",
+    "geom:latitude":20.7533,
+    "geom:longitude":-75.65048,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Guatemala",
+    "gn:country_code":"CU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557556,
+    "gn:latitude":20.7533,
+    "gn:longitude":-75.65048,
+    "gn:modification_date":"2013-11-17",
+    "gn:name":"Guatemala",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Preston"
+    ],
+    "name:eng_x_preferred":[
+        "Preston"
+    ],
+    "name:eng_x_variant":[
+        "Guatemala"
+    ],
+    "name:und_x_variant":[
+        "Preston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557556,
+        "wk:page":"Guatemala,_Cuba"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"b332dc9f8c8e6a33b2362b6856e34632",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209201799
+        }
+    ],
+    "wof:id":1209201799,
+    "wof:lastmodified":1537619031,
+    "wof:name":"Guatemala",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.65048,
+    20.7533,
+    -75.65048,
+    20.7533
+],
+  "geometry": {"coordinates":[-75.65048,20.7533],"type":"Point"}
+}

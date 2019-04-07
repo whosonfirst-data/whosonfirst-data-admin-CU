@@ -1,0 +1,70 @@
+{
+  "id": 1327133413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.83077,21.31592,-77.83077,21.31592",
+    "geom:latitude":21.31592,
+    "geom:longitude":-77.83077,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ingenio Chiquito",
+    "gn:country_code":"CU",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3556700,
+    "gn:latitude":21.31592,
+    "gn:longitude":-77.83077,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ingenio Chiquito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ingenio Chiquito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091905417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556700
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"09f5fa25a343ff926cc6211888257aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905417,
+            "locality_id":1327133413,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1327133413,
+    "wof:lastmodified":1537619025,
+    "wof:name":"Ingenio Chiquito",
+    "wof:parent_id":1091905417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.83077,
+    21.31592,
+    -77.83077,
+    21.31592
+],
+  "geometry": {"coordinates":[-77.83077,21.31592],"type":"Point"}
+}

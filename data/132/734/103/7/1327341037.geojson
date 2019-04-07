@@ -1,0 +1,73 @@
+{
+  "id": 1327341037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.95897,22.13892,-80.95897,22.13892",
+    "geom:latitude":22.13892,
+    "geom:longitude":-80.95897,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bermeja",
+    "gn:country_code":"CU",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3567413,
+    "gn:latitude":22.13892,
+    "gn:longitude":-80.95897,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Bermeja",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bermeja"
+    ],
+    "name:spa_x_variant":[
+        "Bermejas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091903987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3567413
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"12a14b9eb5977d9db76d8b1ebd1b06b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903987,
+            "locality_id":1327341037,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1327341037,
+    "wof:lastmodified":1537619107,
+    "wof:name":"Bermeja",
+    "wof:parent_id":1091903987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.95897,
+    22.13892,
+    -80.95897,
+    22.13892
+],
+  "geometry": {"coordinates":[-80.95896999999999,22.13892],"type":"Point"}
+}

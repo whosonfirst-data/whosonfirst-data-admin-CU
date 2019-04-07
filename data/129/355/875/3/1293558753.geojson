@@ -1,0 +1,72 @@
+{
+  "id": 1293558753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.53944,22.99583,-80.53944,22.99583",
+    "geom:latitude":22.99583,
+    "geom:longitude":-80.53944,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Salto",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3559742,
+    "gn:latitude":22.99583,
+    "gn:longitude":-80.53944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Salto",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Playa El Salto",
+        "El Salto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091904251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559742
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e22fd6574cb1a840ab7ed749ae76934f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904251,
+            "locality_id":1293558753,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1293558753,
+    "wof:lastmodified":1537619046,
+    "wof:name":"El Salto",
+    "wof:parent_id":1091904251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.53944,
+    22.99583,
+    -80.53944,
+    22.99583
+],
+  "geometry": {"coordinates":[-80.53944,22.99583],"type":"Point"}
+}

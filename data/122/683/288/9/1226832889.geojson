@@ -1,0 +1,70 @@
+{
+  "id": 1226832889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.6223,20.10303,-74.6223,20.10303",
+    "geom:latitude":20.10303,
+    "geom:longitude":-74.6223,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Ignacio",
+    "gn:country_code":"CU",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3540111,
+    "gn:latitude":20.10303,
+    "gn:longitude":-74.6223,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"San Ignacio",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Ignacio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3540111
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"24a17b50d693ffd936adce9d2ee7dc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1226832889,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1226832889,
+    "wof:lastmodified":1537618914,
+    "wof:name":"San Ignacio",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.6223,
+    20.10303,
+    -74.6223,
+    20.10303
+],
+  "geometry": {"coordinates":[-74.6223,20.10303],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226112589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.93749,20.41721,-75.93749,20.41721",
+    "geom:latitude":20.41721,
+    "geom:longitude":-75.93749,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Quince",
+    "gn:country_code":"CU",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063769,
+    "gn:latitude":20.41721,
+    "gn:longitude":-75.93749,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"El Quince",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Quince"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091906371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063769
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2be41090abe80003ead9610e061cbdb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906371,
+            "locality_id":1226112589,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1226112589,
+    "wof:lastmodified":1537619214,
+    "wof:name":"El Quince",
+    "wof:parent_id":1091906371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.93749,
+    20.41721,
+    -75.93749,
+    20.41721
+],
+  "geometry": {"coordinates":[-75.93749,20.41721],"type":"Point"}
+}

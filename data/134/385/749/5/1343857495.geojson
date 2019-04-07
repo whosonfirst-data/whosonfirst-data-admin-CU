@@ -1,0 +1,70 @@
+{
+  "id": 1343857495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.66332,21.37802,-77.66332,21.37802",
+    "geom:latitude":21.37802,
+    "geom:longitude":-77.66332,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Varela",
+    "gn:country_code":"CU",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11033494,
+    "gn:latitude":21.37802,
+    "gn:longitude":-77.66332,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Varela",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Varela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091908257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11033494
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"005b53c9dc73b63a582bd96ca901002b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908257,
+            "locality_id":1343857495,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1343857495,
+    "wof:lastmodified":1537619199,
+    "wof:name":"Varela",
+    "wof:parent_id":1091908257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.66332,
+    21.37802000000001,
+    -77.66332,
+    21.37802000000001
+],
+  "geometry": {"coordinates":[-77.66332,21.37802000000001],"type":"Point"}
+}

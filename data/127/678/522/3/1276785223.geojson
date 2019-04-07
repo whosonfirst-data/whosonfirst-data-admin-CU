@@ -1,0 +1,77 @@
+{
+  "id": 1276785223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.1833,19.91912,-77.1833,19.91912",
+    "geom:latitude":19.91912,
+    "geom:longitude":-77.1833,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Marea del Portillo",
+    "gn:country_code":"CU",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3547786,
+    "gn:latitude":19.91912,
+    "gn:longitude":-77.1833,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Marea del Portillo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Marea del Portillo"
+    ],
+    "name:und_x_variant":[
+        "La Marca del Portillo",
+        "Marca de Portillo",
+        "La Marea de Portillo",
+        "Portillo",
+        "Marea de Portillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547786
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d9e85fe60809320a04d58c04904a6fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906965,
+            "locality_id":1276785223,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1276785223,
+    "wof:lastmodified":1537618962,
+    "wof:name":"Marea del Portillo",
+    "wof:parent_id":1091906965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.1833,
+    19.91912,
+    -77.1833,
+    19.91912
+],
+  "geometry": {"coordinates":[-77.1833,19.91912],"type":"Point"}
+}

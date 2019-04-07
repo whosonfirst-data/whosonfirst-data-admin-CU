@@ -1,0 +1,64 @@
+{
+  "id": 1209604163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.74826,20.07916,-74.74826,20.07916",
+    "geom:latitude":20.07916,
+    "geom:longitude":-74.74826,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Posanquito",
+    "gn:country_code":"CU",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11082182,
+    "gn:latitude":20.07916,
+    "gn:longitude":-74.74826,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Posanquito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Posanquito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11082182
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"20c2247fee6bd6dc660f72197ea6c488",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209604163
+        }
+    ],
+    "wof:id":1209604163,
+    "wof:lastmodified":1537619232,
+    "wof:name":"Posanquito",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.74826,
+    20.07916,
+    -74.74826,
+    20.07916
+],
+  "geometry": {"coordinates":[-74.74826,20.07916],"type":"Point"}
+}

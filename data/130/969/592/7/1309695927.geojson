@@ -1,0 +1,70 @@
+{
+  "id": 1309695927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.64664,20.36089,-74.64664,20.36089",
+    "geom:latitude":20.36089,
+    "geom:longitude":-74.64664,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Junco",
+    "gn:country_code":"CU",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081970,
+    "gn:latitude":20.36089,
+    "gn:longitude":-74.64664,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"El Junco",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Junco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091902961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081970
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"25d3afe81522fe4c9c21e4f3557e087f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902961,
+            "locality_id":1309695927,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1309695927,
+    "wof:lastmodified":1537619231,
+    "wof:name":"El Junco",
+    "wof:parent_id":1091902961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.64664,
+    20.36089,
+    -74.64664,
+    20.36089
+],
+  "geometry": {"coordinates":[-74.64664,20.36089],"type":"Point"}
+}

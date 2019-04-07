@@ -1,0 +1,70 @@
+{
+  "id": 1360256531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.04346,21.01363,-77.04346,21.01363",
+    "geom:latitude":21.01363,
+    "geom:longitude":-77.04346,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Yarigua",
+    "gn:country_code":"CU",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057061,
+    "gn:latitude":21.01363,
+    "gn:longitude":-77.04346,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Yarigu\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yarigu\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057061
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"38767c23c1729ba8921583d31e0b580b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905619,
+            "locality_id":1360256531,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1360256531,
+    "wof:lastmodified":1537619203,
+    "wof:name":"Yarigua",
+    "wof:parent_id":1091905619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.04346,
+    21.01363,
+    -77.04346,
+    21.01363
+],
+  "geometry": {"coordinates":[-77.04346,21.01363],"type":"Point"}
+}

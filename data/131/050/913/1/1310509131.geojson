@@ -1,0 +1,72 @@
+{
+  "id": 1310509131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.64226,22.41156,-81.64226,22.41156",
+    "geom:latitude":22.41156,
+    "geom:longitude":-81.64226,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Maneadero",
+    "gn:country_code":"CU",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3560549,
+    "gn:latitude":22.41156,
+    "gn:longitude":-81.64226,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Maneadero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Maneadero",
+        "Maneadero",
+        "Maniadero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091903987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3560549
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e004ec6489b4895a338d6c783ba02de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903987,
+            "locality_id":1310509131,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1310509131,
+    "wof:lastmodified":1537619053,
+    "wof:name":"Maneadero",
+    "wof:parent_id":1091903987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.64226,
+    22.41156,
+    -81.64226,
+    22.41156
+],
+  "geometry": {"coordinates":[-81.64225999999999,22.41156],"type":"Point"}
+}

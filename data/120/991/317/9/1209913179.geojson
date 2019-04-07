@@ -1,0 +1,70 @@
+{
+  "id": 1209913179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.83689,21.42753,-77.83689,21.42753",
+    "geom:latitude":21.42753,
+    "geom:longitude":-77.83689,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Algodonera",
+    "gn:country_code":"CU",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11038055,
+    "gn:latitude":21.42753,
+    "gn:longitude":-77.83689,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Algodonera",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Algodonera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11038055
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cefc6271a692f3c73a5492f041bb3e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903577,
+            "locality_id":1209913179,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1209913179,
+    "wof:lastmodified":1537619202,
+    "wof:name":"Algodonera",
+    "wof:parent_id":1091903577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.83689,
+    21.42753,
+    -77.83689,
+    21.42753
+],
+  "geometry": {"coordinates":[-77.83689,21.42753],"type":"Point"}
+}

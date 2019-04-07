@@ -1,0 +1,70 @@
+{
+  "id": 1276659147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.22018,22.87622,-81.22018,22.87622",
+    "geom:latitude":22.87622,
+    "geom:longitude":-81.22018,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Olimpo",
+    "gn:country_code":"CU",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3545567,
+    "gn:latitude":22.87622,
+    "gn:longitude":-81.22018,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Olimpo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Olimpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545567
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"24227bff88ade1dd6e3d2e9f6fe24744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905493,
+            "locality_id":1276659147,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1276659147,
+    "wof:lastmodified":1537618949,
+    "wof:name":"Olimpo",
+    "wof:parent_id":1091905493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.22018,
+    22.87622,
+    -81.22018,
+    22.87622
+],
+  "geometry": {"coordinates":[-81.22018,22.87622],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226761523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.1,22.16667,-84.1,22.16667",
+    "geom:latitude":22.16667,
+    "geom:longitude":-84.1,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nino",
+    "gn:country_code":"CU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3545987,
+    "gn:latitude":22.16667,
+    "gn:longitude":-84.1,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Nino",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091904873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3545987
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cdf849b893f6b8deb160d7ed666ee404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904873,
+            "locality_id":1226761523,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1226761523,
+    "wof:lastmodified":1536692964,
+    "wof:name":"Nino",
+    "wof:parent_id":1091904873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.1,
+    22.16667,
+    -84.1,
+    22.16667
+],
+  "geometry": {"coordinates":[-84.09999999999999,22.16667],"type":"Point"}
+}

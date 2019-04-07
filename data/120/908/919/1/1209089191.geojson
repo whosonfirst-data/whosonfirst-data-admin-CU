@@ -1,0 +1,64 @@
+{
+  "id": 1209089191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.21831,20.18274,-76.21831,20.18274",
+    "geom:latitude":20.18274,
+    "geom:longitude":-76.21831,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"La Somania",
+    "gn:country_code":"CU",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063950,
+    "gn:latitude":20.18274,
+    "gn:longitude":-76.21831,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"La Somania",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Somania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063950
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8e6aa91b59babe32ca1a9c1a9650412a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209089191
+        }
+    ],
+    "wof:id":1209089191,
+    "wof:lastmodified":1537619216,
+    "wof:name":"La Somania",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.21831,
+    20.18274,
+    -76.21831,
+    20.18274
+],
+  "geometry": {"coordinates":[-76.21831,20.18274],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343443899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.61998,19.96592,-75.61998,19.96592",
+    "geom:latitude":19.96592,
+    "geom:longitude":-75.61998,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Santa Maria",
+    "gn:country_code":"CU",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11079827,
+    "gn:latitude":19.96592,
+    "gn:longitude":-75.61998,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Santa Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091908137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11079827
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"84a893901f2b71c6e10f1484d9bd3a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":1343443899,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1343443899,
+    "wof:lastmodified":1537619224,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":1091908137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.61998,
+    19.96592,
+    -75.61998,
+    19.96592
+],
+  "geometry": {"coordinates":[-75.61998,19.96592],"type":"Point"}
+}

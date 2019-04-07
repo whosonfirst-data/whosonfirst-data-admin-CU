@@ -1,0 +1,70 @@
+{
+  "id": 1226622503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.51079,20.83334,-77.51079,20.83334",
+    "geom:latitude":20.83334,
+    "geom:longitude":-77.51079,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Cruz",
+    "gn:country_code":"CU",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11015688,
+    "gn:latitude":20.83334,
+    "gn:longitude":-77.51079,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091902667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11015688
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"654655aab2f0ff4510674dcefba27df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902667,
+            "locality_id":1226622503,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1226622503,
+    "wof:lastmodified":1537619184,
+    "wof:name":"La Cruz",
+    "wof:parent_id":1091902667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.51079,
+    20.83334,
+    -77.51079,
+    20.83334
+],
+  "geometry": {"coordinates":[-77.51079,20.83334],"type":"Point"}
+}

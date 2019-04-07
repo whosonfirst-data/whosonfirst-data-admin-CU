@@ -1,0 +1,73 @@
+{
+  "id": 1309805311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.80416,22.65602,-80.80416,22.65602",
+    "geom:latitude":22.65602,
+    "geom:longitude":-80.80416,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Jose Mayoz",
+    "gn:country_code":"CU",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3539525,
+    "gn:latitude":22.65602,
+    "gn:longitude":-80.80416,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"San Jos\u00e9 Mayoz",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 Mayoz"
+    ],
+    "name:und_x_variant":[
+        "San Jos\u00e9 de Mayoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3539525
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"4b616c1c98f64808cb1470df463d4a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905697,
+            "locality_id":1309805311,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1309805311,
+    "wof:lastmodified":1537618911,
+    "wof:name":"San Jose Mayoz",
+    "wof:parent_id":1091905697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.80416,
+    22.65602,
+    -80.80416,
+    22.65602
+],
+  "geometry": {"coordinates":[-80.80416,22.65602],"type":"Point"}
+}

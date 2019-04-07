@@ -1,0 +1,73 @@
+{
+  "id": 1242689511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.97311,22.76316,-80.97311,22.76316",
+    "geom:latitude":22.76316,
+    "geom:longitude":-80.97311,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sergio Gonzalez",
+    "gn:country_code":"CU",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007098,
+    "gn:latitude":22.76316,
+    "gn:longitude":-80.97311,
+    "gn:modification_date":"2017-11-10",
+    "gn:name":"Sergio Gonz\u00e1lez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sergio Gons\u00e1lez"
+    ],
+    "name:spa_x_variant":[
+        "Sergio Gonz\u00e1lez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091904143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007098
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"965bb83193cb3cb43487f31b0080d7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904143,
+            "locality_id":1242689511,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1242689511,
+    "wof:lastmodified":1537619156,
+    "wof:name":"Sergio Gonzalez",
+    "wof:parent_id":1091904143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.97310999999998,
+    22.76316,
+    -80.97310999999998,
+    22.76316
+],
+  "geometry": {"coordinates":[-80.97310999999998,22.76316],"type":"Point"}
+}

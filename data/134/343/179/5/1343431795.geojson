@@ -1,0 +1,70 @@
+{
+  "id": 1343431795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.55822,22.06834,-79.55822,22.06834",
+    "geom:latitude":22.06834,
+    "geom:longitude":-79.55822,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Aramis Perez",
+    "gn:country_code":"CU",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007847,
+    "gn:latitude":22.06834,
+    "gn:longitude":-79.55822,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Aram\u00eds P\u00e9rez",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aram\u00eds P\u00e9rez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091903285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007847
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e468a5560856c1eeef24c92faa9b0986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903285,
+            "locality_id":1343431795,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1343431795,
+    "wof:lastmodified":1537619167,
+    "wof:name":"Aramis Perez",
+    "wof:parent_id":1091903285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.55821999999998,
+    22.06834,
+    -79.55821999999998,
+    22.06834
+],
+  "geometry": {"coordinates":[-79.55821999999998,22.06834],"type":"Point"}
+}

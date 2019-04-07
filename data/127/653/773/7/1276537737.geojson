@@ -1,0 +1,67 @@
+{
+  "id": 1276537737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.04056,20.13056,-75.04056,20.13056",
+    "geom:latitude":20.13056,
+    "geom:longitude":-75.04056,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Quebrada del Maquey",
+    "gn:country_code":"CU",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3543110,
+    "gn:latitude":20.13056,
+    "gn:longitude":-75.04056,
+    "gn:modification_date":"1997-11-04",
+    "gn:name":"Quebrada del Maquey",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091906061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543110
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"70c4e9fdd89af4f92e849601755a9198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906061,
+            "locality_id":1276537737,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1276537737,
+    "wof:lastmodified":1537001323,
+    "wof:name":"Quebrada del Maquey",
+    "wof:parent_id":1091906061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.04056,
+    20.13056,
+    -75.04056,
+    20.13056
+],
+  "geometry": {"coordinates":[-75.04056,20.13056],"type":"Point"}
+}

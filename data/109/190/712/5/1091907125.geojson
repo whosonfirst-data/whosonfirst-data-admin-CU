@@ -1,0 +1,121 @@
+{
+  "id": 1091907125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001306,
+    "geom:area_square_m":14847814.990356,
+    "geom:bbox":"-82.4172158792,23.1008753596,-82.366253041,23.147888184",
+    "geom:latitude":23.127988,
+    "geom:longitude":-82.392197,
+    "iso:country":"CU",
+    "lbl:latitude":23.128996,
+    "lbl:longitude":-82.394707,
+    "meso:admin_1":"Ciudad De La Habana",
+    "meso:diss_me":"PLAZA DE LA REVOLUCIONPLAZA DE LA REVOLUCIONCIUDAD DE LA HABANA",
+    "meso:gadm_admin":"Plaza de la Revoluci\u00f3n",
+    "meso:gadm_hasc2":"CU.CH.PR",
+    "meso:gaul_admin":"Plaza De La Revolucion",
+    "meso:mps_x":-82.394707,
+    "meso:mps_y":23.128996,
+    "meso:name_loc":"Plaza De La Revolucion",
+    "mps:latitude":23.128996,
+    "mps:longitude":-82.394707,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Pla\u00e7a de la Revoluci\u00f3"
+    ],
+    "name:chi_x_preferred":[
+        "\u9769\u547d\u5e7f\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Plaza de la Revoluci\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Plaza de la Revoluci\u00f3n"
+    ],
+    "name:eng_x_variant":[
+        "Plaza De La Revolucion",
+        "Plaza de la Revoluci\u00f3n",
+        "Plaza de la Revoluci\u00f3n"
+    ],
+    "name:epo_x_preferred":[
+        "Placo de la Revolucio"
+    ],
+    "name:fre_x_preferred":[
+        "Plaza de la Revoluci\u00f3n"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10da\u10d0\u10e1\u10d0-\u10d3\u10d4-\u10da\u10d0-\u10e0\u10d4\u10d5\u10dd\u10da\u10e3\u10e1\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Plaza de la Revoluci\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Plaza de la Revoluci\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u0420\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Plaza de la Revoluci\u00f3n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2012-09-15",
+    "statoids:area_km":"12",
+    "statoids:as_of_date":"2012-09-15",
+    "statoids:capital":"Plaza de la Revoluci\u00f3n",
+    "statoids:country":"CU",
+    "statoids:hasc":"CU.CH",
+    "statoids:name":"Plaza de la Revoluci\u00f3n",
+    "statoids:population":"147789",
+    "statoids:statoid":"CU.CH.PR",
+    "statoids:timezone":"-5~",
+    "statoids:type":"municipio",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"CU.CH.PR",
+        "wd:id":"Q2099152"
+    },
+    "wof:country":"CU",
+    "wof:created":1473892438,
+    "wof:geomhash":"91573f874f2053bf1205c01dac76394e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907125,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1091907125,
+    "wof:lastmodified":1536615000,
+    "wof:name":"Plaza De La Revolucion",
+    "wof:parent_id":85670445,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipio",
+    "wof:population":147789,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:shortcode":"PR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.41721587921462,
+    23.10087535962199,
+    -82.36625304095838,
+    23.14788818400007
+],
+  "geometry": {"coordinates":[[[-82.36625304095838,23.14394941459329],[-82.36806377748729,23.13471287302083],[-82.37124396564934,23.13156951233054],[-82.37300183866282,23.12802088057026],[-82.38226576128579,23.12209833301274],[-82.384161899131,23.11119786789093],[-82.38514970013838,23.11096361010736],[-82.39893238897139,23.10087535962199],[-82.40543366975008,23.10324699318118],[-82.40446587301149,23.11377712982847],[-82.40671788729546,23.11778115187531],[-82.409182179383,23.1192686085633],[-82.41176431781136,23.12058784617873],[-82.41190917055486,23.12578836348488],[-82.41721587921462,23.13321780386706],[-82.41586303699995,23.13452720600003],[-82.41252899199998,23.13541603100003],[-82.41210937499994,23.13249969500004],[-82.41085815399998,23.13205528300006],[-82.40791320799997,23.13500022900007],[-82.40797424299996,23.13747215300003],[-82.40711212199994,23.13913917500003],[-82.40335845899995,23.14205551100002],[-82.40247344999995,23.14205551100002],[-82.39950561499995,23.14386177100005],[-82.39836120599995,23.14455604600005],[-82.39583587599998,23.14711189300004],[-82.39416503899997,23.14705467200002],[-82.39336395299995,23.14786148100006],[-82.38500213599997,23.14788818400007],[-82.38222503699996,23.14651680000003],[-82.38169097899998,23.14624977100004],[-82.37999725299994,23.14622306800004],[-82.37416839599996,23.14374923700007],[-82.37169647199994,23.14374923700007],[-82.37086486799996,23.14291572600007],[-82.36919403099995,23.14372253400006],[-82.36672210699999,23.14374923700007],[-82.36625304095838,23.14394941459329]]],"type":"Polygon"}
+}

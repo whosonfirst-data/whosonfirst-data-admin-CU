@@ -1,0 +1,71 @@
+{
+  "id": 1243098373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.13609,23.02451,-82.13609,23.02451",
+    "geom:latitude":23.02451,
+    "geom:longitude":-82.13609,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Tapaste",
+    "gn:country_code":"CU",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3535507,
+    "gn:latitude":23.02451,
+    "gn:longitude":-82.13609,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"Tapaste",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tapaste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670461,
+        1091907725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535507,
+        "wk:page":"Tapaste"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"7eff15e5ed2d0b792162ed05a3a20c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907725,
+            "locality_id":1243098373,
+            "region_id":85670461
+        }
+    ],
+    "wof:id":1243098373,
+    "wof:lastmodified":1537618890,
+    "wof:name":"Tapaste",
+    "wof:parent_id":1091907725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.13609,
+    23.02451,
+    -82.13609,
+    23.02451
+],
+  "geometry": {"coordinates":[-82.13609,23.02451],"type":"Point"}
+}

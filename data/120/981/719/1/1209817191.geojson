@@ -1,0 +1,72 @@
+{
+  "id": 1209817191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.11972,22.8225,-81.11972,22.8225",
+    "geom:latitude":22.8225,
+    "geom:longitude":-81.11972,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Paula",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3552204,
+    "gn:latitude":22.8225,
+    "gn:longitude":-81.11972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Paula",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batey La Paula",
+        "La Paula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552204
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e5c62d82ccf1d1daf573ceb0696f9e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905493,
+            "locality_id":1209817191,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1209817191,
+    "wof:lastmodified":1537618995,
+    "wof:name":"La Paula",
+    "wof:parent_id":1091905493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.11972,
+    22.8225,
+    -81.11972,
+    22.8225
+],
+  "geometry": {"coordinates":[-81.11972,22.8225],"type":"Point"}
+}

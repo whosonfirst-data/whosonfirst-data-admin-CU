@@ -1,0 +1,70 @@
+{
+  "id": 1293084913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.46862,20.15253,-74.46862,20.15253",
+    "geom:latitude":20.15253,
+    "geom:longitude":-74.46862,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Asientos",
+    "gn:country_code":"CU",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080203,
+    "gn:latitude":20.15253,
+    "gn:longitude":-74.46862,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Los Asientos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Asientos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080203
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8b744bbdb787d878d48c69e7e10452dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905153,
+            "locality_id":1293084913,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1293084913,
+    "wof:lastmodified":1537619227,
+    "wof:name":"Los Asientos",
+    "wof:parent_id":1091905153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.46862,
+    20.15253,
+    -74.46862,
+    20.15253
+],
+  "geometry": {"coordinates":[-74.46862,20.15253],"type":"Point"}
+}

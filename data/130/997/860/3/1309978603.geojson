@@ -1,0 +1,73 @@
+{
+  "id": 1309978603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.21443,22.41905,-80.21443,22.41905",
+    "geom:latitude":22.41905,
+    "geom:longitude":-80.21443,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Rosalia",
+    "gn:country_code":"CU",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11007438,
+    "gn:latitude":22.41905,
+    "gn:longitude":-80.21443,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Rosal\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rosalia"
+    ],
+    "name:spa_x_variant":[
+        "Rosal\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007438
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"5786dbda96d8216727d10f97730b08ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907311,
+            "locality_id":1309978603,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1309978603,
+    "wof:lastmodified":1537619163,
+    "wof:name":"Rosalia",
+    "wof:parent_id":1091907311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.21443000000002,
+    22.41905,
+    -80.21443000000002,
+    22.41905
+],
+  "geometry": {"coordinates":[-80.21443000000002,22.41905],"type":"Point"}
+}

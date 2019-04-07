@@ -1,0 +1,70 @@
+{
+  "id": 1309740775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.78714,22.77943,-82.78714,22.77943",
+    "geom:latitude":22.77943,
+    "geom:longitude":-82.78714,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"El Portugues",
+    "gn:country_code":"CU",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10947326,
+    "gn:latitude":22.77943,
+    "gn:longitude":-82.78714,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"El Portugu\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Portugu\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670449,
+        1091902795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10947326
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"086e052a63a2824c4e8d8f30cc6048b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902795,
+            "locality_id":1309740775,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":1309740775,
+    "wof:lastmodified":1537619145,
+    "wof:name":"El Portugues",
+    "wof:parent_id":1091902795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.78714000000002,
+    22.77943,
+    -82.78714000000002,
+    22.77943
+],
+  "geometry": {"coordinates":[-82.78714000000002,22.77943],"type":"Point"}
+}

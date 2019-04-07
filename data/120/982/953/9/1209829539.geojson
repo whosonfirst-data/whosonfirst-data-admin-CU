@@ -1,0 +1,67 @@
+{
+  "id": 1209829539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.9,22.18333,-83.9,22.18333",
+    "geom:latitude":22.18333,
+    "geom:longitude":-83.9,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La Josefita",
+    "gn:country_code":"CU",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3553244,
+    "gn:latitude":22.18333,
+    "gn:longitude":-83.9,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"La Josefita",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3553244
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2889ab31edc5c8e8f10aac1827a7e012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907755,
+            "locality_id":1209829539,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1209829539,
+    "wof:lastmodified":1536369969,
+    "wof:name":"La Josefita",
+    "wof:parent_id":1091907755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.9,
+    22.18333,
+    -83.9,
+    22.18333
+],
+  "geometry": {"coordinates":[-83.90000000000001,22.18333],"type":"Point"}
+}

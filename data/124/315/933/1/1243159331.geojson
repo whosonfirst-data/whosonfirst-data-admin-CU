@@ -1,0 +1,72 @@
+{
+  "id": 1243159331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.64861,20.82944,-76.64861,20.82944",
+    "geom:latitude":20.82944,
+    "geom:longitude":-76.64861,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Manteca",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3552713,
+    "gn:latitude":20.82944,
+    "gn:longitude":-76.64861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Manteca",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manteca",
+        "La Manteca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091903541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3552713
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"175764c4cd999d3e544e5b13d19a52fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903541,
+            "locality_id":1243159331,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1243159331,
+    "wof:lastmodified":1537618998,
+    "wof:name":"La Manteca",
+    "wof:parent_id":1091903541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.64860999999998,
+    20.82944,
+    -76.64860999999998,
+    20.82944
+],
+  "geometry": {"coordinates":[-76.64860999999998,20.82944],"type":"Point"}
+}

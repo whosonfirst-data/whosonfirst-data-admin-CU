@@ -1,0 +1,71 @@
+{
+  "id": 1225879455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.22199,22.88827,-83.22199,22.88827",
+    "geom:latitude":22.88827,
+    "geom:longitude":-83.22199,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"El Volador",
+    "gn:country_code":"CU",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3559501,
+    "gn:latitude":22.88827,
+    "gn:longitude":-83.22199,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"El Volador",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Volador",
+        "El Volador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091902873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3559501
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"ee9de2dba11c89458baa10888e867d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902873,
+            "locality_id":1225879455,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1225879455,
+    "wof:lastmodified":1537619044,
+    "wof:name":"El Volador",
+    "wof:parent_id":1091902873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.22199,
+    22.88827,
+    -83.22199,
+    22.88827
+],
+  "geometry": {"coordinates":[-83.22199000000001,22.88827],"type":"Point"}
+}

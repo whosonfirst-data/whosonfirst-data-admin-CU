@@ -1,0 +1,70 @@
+{
+  "id": 1259454085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.3127,22.27135,-79.3127,22.27135",
+    "geom:latitude":22.27135,
+    "geom:longitude":-79.3127,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Purial",
+    "gn:country_code":"CU",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008677,
+    "gn:latitude":22.27135,
+    "gn:longitude":-79.3127,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"El Purial",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Purial"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008677
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d609b452a4cccc6f11f6251fc7d6b933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908735,
+            "locality_id":1259454085,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1259454085,
+    "wof:lastmodified":1537619171,
+    "wof:name":"El Purial",
+    "wof:parent_id":1091908735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.3127,
+    22.27135,
+    -79.3127,
+    22.27135
+],
+  "geometry": {"coordinates":[-79.31270000000001,22.27135],"type":"Point"}
+}

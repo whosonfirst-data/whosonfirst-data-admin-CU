@@ -1,0 +1,67 @@
+{
+  "id": 1310312535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.80944,22.7025,-80.80944,22.7025",
+    "geom:latitude":22.7025,
+    "geom:longitude":-80.80944,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Molina",
+    "gn:country_code":"CU",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3546717,
+    "gn:latitude":22.7025,
+    "gn:longitude":-80.80944,
+    "gn:modification_date":"1996-10-10",
+    "gn:name":"Molina",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091904143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546717
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"defa37374782f02734cab23c7f4d6acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904143,
+            "locality_id":1310312535,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1310312535,
+    "wof:lastmodified":1536697940,
+    "wof:name":"Molina",
+    "wof:parent_id":1091904143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.80944000000002,
+    22.7025,
+    -80.80944000000002,
+    22.7025
+],
+  "geometry": {"coordinates":[-80.80944000000002,22.7025],"type":"Point"}
+}

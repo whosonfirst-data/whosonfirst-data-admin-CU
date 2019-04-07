@@ -1,0 +1,67 @@
+{
+  "id": 1226024295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.33333,20.78333,-77.33333,20.78333",
+    "geom:latitude":20.78333,
+    "geom:longitude":-77.33333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Monte Guairajal",
+    "gn:country_code":"CU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3546605,
+    "gn:latitude":20.78333,
+    "gn:longitude":-77.33333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Monte Guairajal",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091904115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3546605
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"371e0edaf669944416e846ab4267d7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904115,
+            "locality_id":1226024295,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1226024295,
+    "wof:lastmodified":1536756230,
+    "wof:name":"Monte Guairajal",
+    "wof:parent_id":1091904115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.33333,
+    20.78333,
+    -77.33333,
+    20.78333
+],
+  "geometry": {"coordinates":[-77.33333,20.78333],"type":"Point"}
+}

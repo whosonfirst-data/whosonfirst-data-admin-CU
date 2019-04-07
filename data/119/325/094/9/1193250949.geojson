@@ -1,0 +1,70 @@
+{
+  "id": 1193250949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.77581,22.54443,-79.77581,22.54443",
+    "geom:latitude":22.54443,
+    "geom:longitude":-79.77581,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Guerrero",
+    "gn:country_code":"CU",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3557413,
+    "gn:latitude":22.54443,
+    "gn:longitude":-79.77581,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Guerrero",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guerrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091903633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3557413
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"773008aca2ee435a4a8a8ffcbf2dc3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903633,
+            "locality_id":1193250949,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1193250949,
+    "wof:lastmodified":1537619030,
+    "wof:name":"Guerrero",
+    "wof:parent_id":1091903633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.77580999999998,
+    22.54443,
+    -79.77580999999998,
+    22.54443
+],
+  "geometry": {"coordinates":[-79.77580999999998,22.54443],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293087539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.83624,21.26623,-76.83624,21.26623",
+    "geom:latitude":21.26623,
+    "geom:longitude":-76.83624,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Manati Uno",
+    "gn:country_code":"CU",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746243,
+    "gn:latitude":21.26623,
+    "gn:longitude":-76.83624,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Manat\u00ed Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Manat\u00ed Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746243
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"0a098208ddbd9e118c1e41444a0be571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1293087539,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1293087539,
+    "wof:lastmodified":1537619129,
+    "wof:name":"Manati Uno",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.83624,
+    21.26623,
+    -76.83624,
+    21.26623
+],
+  "geometry": {"coordinates":[-76.83624,21.26623],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209638135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.57187,21.1142,-77.57187,21.1142",
+    "geom:latitude":21.1142,
+    "geom:longitude":-77.57187,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Santa Marta",
+    "gn:country_code":"CU",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3537275,
+    "gn:latitude":21.1142,
+    "gn:longitude":-77.57187,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Santa Marta",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Marta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3537275
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f079db3548829ca858babbeae5fa47de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209638135
+        }
+    ],
+    "wof:id":1209638135,
+    "wof:lastmodified":1537618898,
+    "wof:name":"Santa Marta",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.57186999999998,
+    21.1142,
+    -77.57186999999998,
+    21.1142
+],
+  "geometry": {"coordinates":[-77.57186999999998,21.1142],"type":"Point"}
+}

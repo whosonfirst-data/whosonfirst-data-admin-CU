@@ -1,0 +1,70 @@
+{
+  "id": 1293071937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.13541,21.9148,-79.13541,21.9148",
+    "geom:latitude":21.9148,
+    "geom:longitude":-79.13541,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Trilladeras",
+    "gn:country_code":"CU",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3534936,
+    "gn:latitude":21.9148,
+    "gn:longitude":-79.13541,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Trilladeras",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Trilladeras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091905283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3534936
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6455dd6c1e39ab4410e3f1f51cecdc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905283,
+            "locality_id":1293071937,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":1293071937,
+    "wof:lastmodified":1537618887,
+    "wof:name":"Trilladeras",
+    "wof:parent_id":1091905283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.13541,
+    21.9148,
+    -79.13541,
+    21.9148
+],
+  "geometry": {"coordinates":[-79.13540999999999,21.9148],"type":"Point"}
+}

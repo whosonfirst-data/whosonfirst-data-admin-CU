@@ -1,0 +1,121 @@
+{
+  "id": 1125939043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.28444,22.28889,-84.28444,22.28889",
+    "geom:latitude":22.28889,
+    "geom:longitude":-84.28444,
+    "gn:gn_country":"CU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10797,
+    "gn:population":10797,
+    "iso:country":"CU",
+    "lbl:latitude":22.28889,
+    "lbl:longitude":-84.28444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u66fc\u5716\u963f"
+    ],
+    "name:dut_x_preferred":[
+        "Mantua"
+    ],
+    "name:eng_x_preferred":[
+        "Mantua"
+    ],
+    "name:fre_x_preferred":[
+        "Mantua"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10dc\u10e2\u10e3\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Mantua"
+    ],
+    "name:hun_x_preferred":[
+        "Mantua"
+    ],
+    "name:ita_x_preferred":[
+        "Mantua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30c8\u30a5\u30a2"
+    ],
+    "name:por_x_preferred":[
+        "Mantua"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0442\u0443\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Mantua"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Mantua"
+    ],
+    "name:vie_x_preferred":[
+        "Mantua"
+    ],
+    "qs_pg:aaroncc":"CU",
+    "qs_pg:gn_country":"CU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3547930,
+    "qs_pg:gn_pop":10797,
+    "qs_pg:name":"Mantua",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1045497,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091906027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3547930,
+        "qs_pg:id":1045497,
+        "wd:id":"Q2213002"
+    },
+    "wof:country":"CU",
+    "wof:created":1497297059,
+    "wof:geomhash":"53f6db0f7980da4ec3b8cad3a1f3d3a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906027,
+            "locality_id":1125939043,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1125939043,
+    "wof:lastmodified":1513944576,
+    "wof:name":"Mantua",
+    "wof:parent_id":1091906027,
+    "wof:placetype":"locality",
+    "wof:population":10797,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.28444,
+    22.28889,
+    -84.28444,
+    22.28889
+],
+  "geometry": {"coordinates":[-84.28444,22.28889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326641543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.29778,22.98028,-81.29778,22.98028",
+    "geom:latitude":22.98028,
+    "geom:longitude":-81.29778,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Sierra",
+    "gn:country_code":"CU",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3551146,
+    "gn:latitude":22.98028,
+    "gn:longitude":-81.29778,
+    "gn:modification_date":"1996-06-06",
+    "gn:name":"La Sierra",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3551146
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d0915d121c7fe02ecf105effb7fcef89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905663,
+            "locality_id":1326641543,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1326641543,
+    "wof:lastmodified":1536825400,
+    "wof:name":"La Sierra",
+    "wof:parent_id":1091905663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.29778,
+    22.98028,
+    -81.29778,
+    22.98028
+],
+  "geometry": {"coordinates":[-81.29778,22.98028],"type":"Point"}
+}

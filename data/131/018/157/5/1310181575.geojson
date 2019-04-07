@@ -1,0 +1,75 @@
+{
+  "id": 1310181575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.47919,21.16139,-76.47919,21.16139",
+    "geom:latitude":21.16139,
+    "geom:longitude":-76.47919,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Jesus Menendez",
+    "gn:country_code":"CU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3556268,
+    "gn:latitude":21.16139,
+    "gn:longitude":-76.47919,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Jes\u00fas Men\u00e9ndez",
+    "gn:population":51002,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaparra",
+        "Jes\u00fas Men\u00e9ndez"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556268,
+        "wk:page":"Jes%C3%BAs_Men%C3%A9ndez"
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"e5d6980b0d644d537f9799955202dc14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905315,
+            "locality_id":1310181575,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1310181575,
+    "wof:lastmodified":1537619022,
+    "wof:name":"Jesus Menendez",
+    "wof:parent_id":1091905315,
+    "wof:placetype":"locality",
+    "wof:population":51002,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.47919,
+    21.16139,
+    -76.47919,
+    21.16139
+],
+  "geometry": {"coordinates":[-76.47919,21.16139],"type":"Point"}
+}

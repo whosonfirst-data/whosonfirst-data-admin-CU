@@ -1,0 +1,72 @@
+{
+  "id": 1343646071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.43333,20.1,-77.43333,20.1",
+    "geom:latitude":20.1,
+    "geom:longitude":-77.43333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Yaragabo",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3533744,
+    "gn:latitude":20.1,
+    "gn:longitude":-77.43333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yaragabo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yarayabo",
+        "Yaragabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091906341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3533744
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"d477e199d382056a423f4fd7739a7ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906341,
+            "locality_id":1343646071,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1343646071,
+    "wof:lastmodified":1537618879,
+    "wof:name":"Yaragabo",
+    "wof:parent_id":1091906341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.43333,
+    20.1,
+    -77.43333,
+    20.1
+],
+  "geometry": {"coordinates":[-77.43333,20.1],"type":"Point"}
+}

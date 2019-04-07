@@ -1,0 +1,70 @@
+{
+  "id": 1293470007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.01281,20.58573,-76.01281,20.58573",
+    "geom:latitude":20.58573,
+    "geom:longitude":-76.01281,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Matias",
+    "gn:country_code":"CU",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11063694,
+    "gn:latitude":20.58573,
+    "gn:longitude":-76.01281,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Mat\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mat\u00edas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091904361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11063694
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"36f7566db07fcc8c8115e653534291e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904361,
+            "locality_id":1293470007,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1293470007,
+    "wof:lastmodified":1537619212,
+    "wof:name":"Matias",
+    "wof:parent_id":1091904361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.01281,
+    20.58573,
+    -76.01281,
+    20.58573
+],
+  "geometry": {"coordinates":[-76.01281,20.58573],"type":"Point"}
+}

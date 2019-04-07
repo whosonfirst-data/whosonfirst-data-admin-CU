@@ -1,0 +1,70 @@
+{
+  "id": 1276354037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.99808,22.04586,-83.99808,22.04586",
+    "geom:latitude":22.04586,
+    "geom:longitude":-83.99808,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cortes",
+    "gn:country_code":"CU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3563281,
+    "gn:latitude":22.04586,
+    "gn:longitude":-83.99808,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Cort\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cort\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670409,
+        1091907969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3563281
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8441b6bf0b40867ae27e86bc4d270f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907969,
+            "locality_id":1276354037,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":1276354037,
+    "wof:lastmodified":1537619076,
+    "wof:name":"Cortes",
+    "wof:parent_id":1091907969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.99808,
+    22.04586,
+    -83.99808,
+    22.04586
+],
+  "geometry": {"coordinates":[-83.99808,22.04586],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276441115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.66667,21.56667,-77.66667,21.56667",
+    "geom:latitude":21.56667,
+    "geom:longitude":-77.66667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Providencias",
+    "gn:country_code":"CU",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550664,
+    "gn:latitude":21.56667,
+    "gn:longitude":-77.66667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Las Providencias",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091906457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550664
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a54eb01a09917ad3936447bcd71a08f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906457,
+            "locality_id":1276441115,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1276441115,
+    "wof:lastmodified":1536632782,
+    "wof:name":"Las Providencias",
+    "wof:parent_id":1091906457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.66667,
+    21.56667,
+    -77.66667,
+    21.56667
+],
+  "geometry": {"coordinates":[-77.66667,21.56667],"type":"Point"}
+}

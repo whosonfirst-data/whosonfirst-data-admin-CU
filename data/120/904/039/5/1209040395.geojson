@@ -1,0 +1,61 @@
+{
+  "id": 1209040395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.15,22.7,-83.15,22.7",
+    "geom:latitude":22.7,
+    "geom:longitude":-83.15,
+    "gn:admin1_code":"AR",
+    "gn:asciiname":"Las Mercedes",
+    "gn:country_code":"CU",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3550874,
+    "gn:latitude":22.7,
+    "gn:longitude":-83.15,
+    "gn:modification_date":"2011-10-09",
+    "gn:name":"Las Mercedes",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3550874
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f0dd121bc4ca9bc0cfbd8d4ec4e01ec7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632675,
+            "locality_id":1209040395
+        }
+    ],
+    "wof:id":1209040395,
+    "wof:lastmodified":1536299564,
+    "wof:name":"Las Mercedes",
+    "wof:parent_id":85632675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.15,
+    22.7,
+    -83.15,
+    22.7
+],
+  "geometry": {"coordinates":[-83.15000000000001,22.7],"type":"Point"}
+}

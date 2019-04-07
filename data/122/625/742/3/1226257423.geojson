@@ -1,0 +1,70 @@
+{
+  "id": 1226257423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.66582,22.76256,-81.66582,22.76256",
+    "geom:latitude":22.76256,
+    "geom:longitude":-81.66582,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Los Alonsos",
+    "gn:country_code":"CU",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10948654,
+    "gn:latitude":22.76256,
+    "gn:longitude":-81.66582,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Los Alonsos",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Alonsos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091908517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948654
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3c25a491849f2619beca61f8b17383dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908517,
+            "locality_id":1226257423,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1226257423,
+    "wof:lastmodified":1537619149,
+    "wof:name":"Los Alonsos",
+    "wof:parent_id":1091908517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.66582,
+    22.76256,
+    -81.66582,
+    22.76256
+],
+  "geometry": {"coordinates":[-81.66582,22.76256],"type":"Point"}
+}

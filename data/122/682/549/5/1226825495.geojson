@@ -1,0 +1,70 @@
+{
+  "id": 1226825495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.21586,20.94349,-77.21586,20.94349",
+    "geom:latitude":20.94349,
+    "geom:longitude":-77.21586,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bracito",
+    "gn:country_code":"CU",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3566948,
+    "gn:latitude":20.94349,
+    "gn:longitude":-77.21586,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Bracito",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bracito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670439,
+        1091905447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3566948
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"6d5d1d422566f1ca6e1a1982d03e2010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905447,
+            "locality_id":1226825495,
+            "region_id":85670439
+        }
+    ],
+    "wof:id":1226825495,
+    "wof:lastmodified":1537619103,
+    "wof:name":"Bracito",
+    "wof:parent_id":1091905447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.21585999999998,
+    20.94349,
+    -77.21585999999998,
+    20.94349
+],
+  "geometry": {"coordinates":[-77.21585999999998,20.94349],"type":"Point"}
+}

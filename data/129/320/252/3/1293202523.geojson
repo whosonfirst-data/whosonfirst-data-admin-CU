@@ -1,0 +1,72 @@
+{
+  "id": 1293202523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.41667,22.9,-81.41667,22.9",
+    "geom:latitude":22.9,
+    "geom:longitude":-81.41667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pogoloti",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3543836,
+    "gn:latitude":22.9,
+    "gn:longitude":-81.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pogolot\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chucho Carros",
+        "Pogolot\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670455,
+        1091905663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3543836
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"9a395feaae7f51e8b1d5acea7b377917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905663,
+            "locality_id":1293202523,
+            "region_id":85670455
+        }
+    ],
+    "wof:id":1293202523,
+    "wof:lastmodified":1537618936,
+    "wof:name":"Pogoloti",
+    "wof:parent_id":1091905663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.41667,
+    22.9,
+    -81.41667,
+    22.9
+],
+  "geometry": {"coordinates":[-81.41667,22.9],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1226832661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.58056,21.54167,-79.58056,21.54167",
+    "geom:latitude":21.54167,
+    "geom:longitude":-79.58056,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sabana de Ciego Banao",
+    "gn:country_code":"CU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3739876,
+    "gn:latitude":21.54167,
+    "gn:longitude":-79.58056,
+    "gn:modification_date":"1995-01-25",
+    "gn:name":"Sabana de Ciego Banao",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3739876
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"cf1b6bfd0c9de8b3a5b2ec29599885da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226832661,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226832661,
+    "wof:lastmodified":1537083996,
+    "wof:name":"Sabana de Ciego Banao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.58055999999998,
+    21.54167,
+    -79.58055999999998,
+    21.54167
+],
+  "geometry": {"coordinates":[-79.58055999999998,21.54167],"type":"Point"}
+}

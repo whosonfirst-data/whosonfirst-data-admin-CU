@@ -1,0 +1,70 @@
+{
+  "id": 1360181485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.8789,20.08927,-76.8789,20.08927",
+    "geom:latitude":20.08927,
+    "geom:longitude":-76.8789,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Las Cuevas del Frio",
+    "gn:country_code":"CU",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024269,
+    "gn:latitude":20.08927,
+    "gn:longitude":-76.8789,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Las Cuevas del Fr\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Cuevas del Fr\u00edo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091902987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024269
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"3a9dad282ffe98b7b5d3fd7a91b738ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091902987,
+            "locality_id":1360181485,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1360181485,
+    "wof:lastmodified":1537619193,
+    "wof:name":"Las Cuevas del Frio",
+    "wof:parent_id":1091902987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.8789,
+    20.08927000000001,
+    -76.8789,
+    20.08927000000001
+],
+  "geometry": {"coordinates":[-76.8789,20.08927000000001],"type":"Point"}
+}

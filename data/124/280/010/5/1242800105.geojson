@@ -1,0 +1,70 @@
+{
+  "id": 1242800105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.15502,22.13516,-80.15502,22.13516",
+    "geom:latitude":22.13516,
+    "geom:longitude":-80.15502,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Cidra",
+    "gn:country_code":"CU",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763219,
+    "gn:latitude":22.13516,
+    "gn:longitude":-80.15502,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Cidra",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cidra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091904385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763219
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"36f337ede538de4d7d89bf2b93c73a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904385,
+            "locality_id":1242800105,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1242800105,
+    "wof:lastmodified":1537619139,
+    "wof:name":"La Cidra",
+    "wof:parent_id":1091904385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.15502,
+    22.13516,
+    -80.15502,
+    22.13516
+],
+  "geometry": {"coordinates":[-80.15501999999999,22.13516],"type":"Point"}
+}

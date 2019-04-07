@@ -1,0 +1,70 @@
+{
+  "id": 1344153255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.91611,20.39752,-76.91611,20.39752",
+    "geom:latitude":20.39752,
+    "geom:longitude":-76.91611,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Monte Oscuro",
+    "gn:country_code":"CU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023379,
+    "gn:latitude":20.39752,
+    "gn:longitude":-76.91611,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Monte Oscuro",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Monte Oscuro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670431,
+        1091908741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023379
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"f3dc10597248554b87052baa10f0d4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908741,
+            "locality_id":1344153255,
+            "region_id":85670431
+        }
+    ],
+    "wof:id":1344153255,
+    "wof:lastmodified":1537619190,
+    "wof:name":"Monte Oscuro",
+    "wof:parent_id":1091908741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.91611,
+    20.39752,
+    -76.91611,
+    20.39752
+],
+  "geometry": {"coordinates":[-76.91611,20.39752],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344130063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.25276,20.38546,-76.25276,20.38546",
+    "geom:latitude":20.38546,
+    "geom:longitude":-76.25276,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Resbaloso",
+    "gn:country_code":"CU",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3542371,
+    "gn:latitude":20.38546,
+    "gn:longitude":-76.25276,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Resbaloso",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Resbalosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670441,
+        1091904221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3542371
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"a0ecaed2739e638fcdc07e139653c9a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904221,
+            "locality_id":1344130063,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":1344130063,
+    "wof:lastmodified":1537618927,
+    "wof:name":"Resbaloso",
+    "wof:parent_id":1091904221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.25276,
+    20.38546,
+    -76.25276,
+    20.38546
+],
+  "geometry": {"coordinates":[-76.25275999999999,20.38546],"type":"Point"}
+}

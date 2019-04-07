@@ -1,0 +1,71 @@
+{
+  "id": 1243248937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.60712,22.37813,-80.60712,22.37813",
+    "geom:latitude":22.37813,
+    "geom:longitude":-80.60712,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jabacoa",
+    "gn:country_code":"CU",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3556547,
+    "gn:latitude":22.37813,
+    "gn:longitude":-80.60712,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Jabacoa",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jabaco",
+        "Jabacoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670403,
+        1091907455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556547
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"8c6c461d38e5ff25dd87d37460bbdf7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907455,
+            "locality_id":1243248937,
+            "region_id":85670403
+        }
+    ],
+    "wof:id":1243248937,
+    "wof:lastmodified":1537619024,
+    "wof:name":"Jabacoa",
+    "wof:parent_id":1091907455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.60712,
+    22.37813,
+    -80.60712,
+    22.37813
+],
+  "geometry": {"coordinates":[-80.60711999999999,22.37813],"type":"Point"}
+}

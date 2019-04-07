@@ -1,0 +1,67 @@
+{
+  "id": 1209788267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.46667,22.25,-79.46667,22.25",
+    "geom:latitude":22.25,
+    "geom:longitude":-79.46667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sabanas de Pedro Barba",
+    "gn:country_code":"CU",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3541590,
+    "gn:latitude":22.25,
+    "gn:longitude":-79.46667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Sabanas de Pedro Barba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670457,
+        1091907371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3541590
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"2a63ec83169c21fcc8ae1a3c00473d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907371,
+            "locality_id":1209788267,
+            "region_id":85670457
+        }
+    ],
+    "wof:id":1209788267,
+    "wof:lastmodified":1536396190,
+    "wof:name":"Sabanas de Pedro Barba",
+    "wof:parent_id":1091907371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.46667,
+    22.25,
+    -79.46667,
+    22.25
+],
+  "geometry": {"coordinates":[-79.46666999999999,22.25],"type":"Point"}
+}

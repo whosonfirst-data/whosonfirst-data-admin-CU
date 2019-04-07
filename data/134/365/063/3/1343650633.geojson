@@ -1,0 +1,73 @@
+{
+  "id": 1343650633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.01224,20.37779,-75.01224,20.37779",
+    "geom:latitude":20.37779,
+    "geom:longitude":-75.01224,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Jaiba",
+    "gn:country_code":"CU",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3556428,
+    "gn:latitude":20.37779,
+    "gn:longitude":-75.01224,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"La Jaiba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Jaiba"
+    ],
+    "name:und_x_variant":[
+        "Jaiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091908743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3556428
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"22cd837c053cc509b29267d8166fd0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908743,
+            "locality_id":1343650633,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":1343650633,
+    "wof:lastmodified":1537619023,
+    "wof:name":"La Jaiba",
+    "wof:parent_id":1091908743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.01224,
+    20.37779,
+    -75.01224,
+    20.37779
+],
+  "geometry": {"coordinates":[-75.01224000000001,20.37779],"type":"Point"}
+}

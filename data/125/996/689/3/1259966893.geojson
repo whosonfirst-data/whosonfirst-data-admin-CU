@@ -1,0 +1,70 @@
+{
+  "id": 1259966893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.34368,20.8868,-76.34368,20.8868",
+    "geom:latitude":20.8868,
+    "geom:longitude":-76.34368,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Yaba",
+    "gn:country_code":"CU",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11062394,
+    "gn:latitude":20.8868,
+    "gn:longitude":-76.34368,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"La Yaba",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Yaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091905117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11062394
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"768d530a4a069e3481c5456783eda6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905117,
+            "locality_id":1259966893,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":1259966893,
+    "wof:lastmodified":1537619210,
+    "wof:name":"La Yaba",
+    "wof:parent_id":1091905117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.34368,
+    20.8868,
+    -76.34368,
+    20.8868
+],
+  "geometry": {"coordinates":[-76.34368000000001,20.8868],"type":"Point"}
+}

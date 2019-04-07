@@ -1,0 +1,72 @@
+{
+  "id": 1310428337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.98333,21.4,-77.98333,21.4",
+    "geom:latitude":21.4,
+    "geom:longitude":-77.98333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Taburete",
+    "gn:cc2":"CU",
+    "gn:country_code":"CU",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3535600,
+    "gn:latitude":21.4,
+    "gn:longitude":-77.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taburete",
+    "gn:population":0,
+    "gn:timezone":"America/Havana",
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taburetes",
+        "Taburete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670423,
+        1091903577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3535600
+    },
+    "wof:country":"CU",
+    "wof:geomhash":"20742168080090a92ccc7e507c220bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903577,
+            "locality_id":1310428337,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":1310428337,
+    "wof:lastmodified":1537618891,
+    "wof:name":"Taburete",
+    "wof:parent_id":1091903577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.98333000000002,
+    21.4,
+    -77.98333000000002,
+    21.4
+],
+  "geometry": {"coordinates":[-77.98333000000002,21.4],"type":"Point"}
+}

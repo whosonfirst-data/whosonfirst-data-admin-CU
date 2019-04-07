@@ -1,0 +1,100 @@
+{
+  "id": 1126090379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.4,23.11667,-82.4,23.11667",
+    "geom:latitude":23.11667,
+    "geom:longitude":-82.4,
+    "gn:gn_country":"CU",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":23.11667,
+    "gn:longitude":-82.4,
+    "iso:country":"CU",
+    "lbl:latitude":23.11667,
+    "lbl:longitude":-82.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Aldecoa"
+    ],
+    "name:unk_x_variant":[
+        "Aldecoa"
+    ],
+    "qs_pg:aaroncc":"CU",
+    "qs_pg:gn_country":"CU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3569315,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Aldecoa",
+    "qs_pg:name_adm0":"Cuba",
+    "qs_pg:name_adm1":"Ciudad de la Habana",
+    "qs_pg:photos":1649,
+    "qs_pg:photos_1k":334,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1649,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082590,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424793,
+    "qs_pg:woe_id":60080,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424793,
+    "woe:name_adm0":"Cuba",
+    "woe:name_adm1":"Ciudad de la Habana",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670445,
+        102191575,
+        85632675,
+        1091907125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3569315,
+        "gp:id":60080,
+        "qs:id":1082590,
+        "qs_pg:id":1082590
+    },
+    "wof:country":"CU",
+    "wof:created":1497313626,
+    "wof:geomhash":"0ffb5cbff0ec2cf0e56421d7a1f74bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907125,
+            "locality_id":-1,
+            "neighbourhood_id":1126090379,
+            "region_id":85670445
+        }
+    ],
+    "wof:id":1126090379,
+    "wof:lastmodified":1534379264,
+    "wof:name":"Aldecoa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85793533
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.4,
+    23.11667,
+    -82.4,
+    23.11667
+],
+  "geometry": {"coordinates":[-82.40000000000001,23.11667],"type":"Point"}
+}

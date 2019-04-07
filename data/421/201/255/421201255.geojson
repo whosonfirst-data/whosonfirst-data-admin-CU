@@ -1,0 +1,77 @@
+{
+  "id": 421201255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.93333,21.38333,-77.93333,21.38333",
+    "geom:latitude":21.38333,
+    "geom:longitude":-77.93333,
+    "iso:country":"CU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3554919,
+    "qs:gn_pop":0,
+    "qs:name":"La Caridad",
+    "qs:name_adm0":"Cuba",
+    "qs:name_adm1":"Camaguey",
+    "qs:photos":184,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":184,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211017,
+    "qs:woe_adm0":23424793,
+    "qs:woe_id":63467,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091903577,
+        85670423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554919,
+        "gp:id":63467,
+        "qs:id":211017
+    },
+    "wof:country":"CU",
+    "wof:created":1459010066,
+    "wof:geomhash":"d6305303db25ee0c3b14f3261e22baf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903577,
+            "locality_id":-1,
+            "neighbourhood_id":421201255,
+            "region_id":85670423
+        }
+    ],
+    "wof:id":421201255,
+    "wof:lastmodified":1531858791,
+    "wof:name":"La Caridad",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.93333,
+    21.38333,
+    -77.93333,
+    21.38333
+],
+  "geometry": {"coordinates":[-77.93333,21.38333],"type":"Point"}
+}
