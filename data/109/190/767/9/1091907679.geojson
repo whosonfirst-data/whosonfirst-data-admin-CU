@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08224,
-    "geom:area_square_m":938405093.774383,
+    "geom:area_square_m":938405093.774621,
     "geom:bbox":"-83.3619626852,22.4864077455,-82.8840121675,22.8151834909",
     "geom:latitude":22.660864,
     "geom:longitude":-83.10946,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "San Cristobal Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.64936,
     "lbl:longitude":-83.07339,
     "meso:admin_1":"Pinar Del Rio",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1091907679,
-    "wof:lastmodified":1553816439,
+    "wof:lastmodified":1555037690,
     "wof:name":"San Cristobal",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

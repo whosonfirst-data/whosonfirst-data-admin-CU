@@ -10,6 +10,12 @@
     "geom:latitude":22.870946,
     "geom:longitude":-80.089326,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Sagua La Grande Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.840437,
     "lbl:longitude":-80.09878,
     "meso:admin_1":"Villa Clara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091907545,
-    "wof:lastmodified":1536615000,
+    "wof:lastmodified":1553717964,
     "wof:name":"Sagua La Grande",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

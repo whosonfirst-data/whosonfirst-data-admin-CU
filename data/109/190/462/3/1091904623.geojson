@@ -10,6 +10,12 @@
     "geom:latitude":22.052521,
     "geom:longitude":-79.691442,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Fomento Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.021744,
     "lbl:longitude":-79.713036,
     "meso:admin_1":"Sancti Spiritus",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1091904623,
-    "wof:lastmodified":1536614996,
+    "wof:lastmodified":1553717958,
     "wof:name":"Fomento",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

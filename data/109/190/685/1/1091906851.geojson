@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026739,
-    "geom:area_square_m":305932358.524728,
+    "geom:area_square_m":305932358.524779,
     "geom:bbox":"-80.4987501633,22.1924030492,-80.2468949348,22.4299017638",
     "geom:latitude":22.289066,
     "geom:longitude":-80.382205,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Palmira Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.275818,
     "lbl:longitude":-80.382167,
     "meso:admin_1":"Cienfuegos",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1091906851,
-    "wof:lastmodified":1553816439,
+    "wof:lastmodified":1555037691,
     "wof:name":"Palmira",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

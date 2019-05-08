@@ -10,6 +10,12 @@
     "geom:latitude":20.651984,
     "geom:longitude":-75.286053,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Frank Pais Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.634401,
     "lbl:longitude":-75.302364,
     "meso:admin_1":"Holguin",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091904661,
-    "wof:lastmodified":1536614996,
+    "wof:lastmodified":1553717958,
     "wof:name":"Frank Pais",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":23.136157,
     "geom:longitude":-82.178549,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Habana Del Este Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":23.12057,
     "lbl:longitude":-82.130901,
     "meso:admin_1":"Ciudad De La Habana",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1091905073,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717959,
     "wof:name":"Habana Del Este",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

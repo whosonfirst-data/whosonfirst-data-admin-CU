@@ -10,6 +10,12 @@
     "geom:latitude":21.667966,
     "geom:longitude":-77.764235,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Sierra De Cubitas Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.65839,
     "lbl:longitude":-77.777594,
     "meso:admin_1":"Camaguey",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091908301,
-    "wof:lastmodified":1536615001,
+    "wof:lastmodified":1553717963,
     "wof:name":"Sierra De Cubitas",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

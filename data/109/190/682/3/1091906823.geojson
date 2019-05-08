@@ -10,6 +10,12 @@
     "geom:latitude":20.209565,
     "geom:longitude":-76.057824,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Palma Soriano Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.182647,
     "lbl:longitude":-76.071608,
     "meso:admin_1":"Santiago De Cuba",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091906823,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717961,
     "wof:name":"Palma Soriano",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

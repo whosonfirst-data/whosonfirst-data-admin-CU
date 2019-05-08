@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024464,
-    "geom:area_square_m":278504356.220918,
+    "geom:area_square_m":278504356.220902,
     "geom:bbox":"-82.978863876,22.9085986187,-82.6662957498,23.0301255028",
     "geom:latitude":22.97611,
     "geom:longitude":-82.817018,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Mariel Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.978745,
     "lbl:longitude":-82.829435,
     "meso:admin_1":"La Habana",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1091906179,
-    "wof:lastmodified":1553816439,
+    "wof:lastmodified":1555037692,
     "wof:name":"Mariel",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

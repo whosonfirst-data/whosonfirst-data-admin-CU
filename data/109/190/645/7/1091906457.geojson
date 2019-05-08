@@ -10,6 +10,12 @@
     "geom:latitude":21.579245,
     "geom:longitude":-77.546173,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Minas Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.573889,
     "lbl:longitude":-77.526475,
     "meso:admin_1":"Camaguey",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091906457,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717961,
     "wof:name":"Minas",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

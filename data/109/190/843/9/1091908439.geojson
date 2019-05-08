@@ -10,6 +10,12 @@
     "geom:latitude":20.144588,
     "geom:longitude":-76.303155,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Tercer Frente Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.133665,
     "lbl:longitude":-76.289623,
     "meso:admin_1":"Santiago De Cuba",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091908439,
-    "wof:lastmodified":1536615001,
+    "wof:lastmodified":1553717963,
     "wof:name":"Tercer Frente",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

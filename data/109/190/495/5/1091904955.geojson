@@ -10,6 +10,12 @@
     "geom:latitude":22.806995,
     "geom:longitude":-81.999707,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Guines Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.824012,
     "lbl:longitude":-82.001986,
     "meso:admin_1":"La Habana",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091904955,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717959,
     "wof:name":"Guines",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":22.353618,
     "geom:longitude":-80.793769,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Aguada De Pasajeros Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.358489,
     "lbl:longitude":-80.796637,
     "meso:admin_1":"Cienfuegos",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1091902603,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717955,
     "wof:name":"Aguada De Pasajeros",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":22.054622,
     "geom:longitude":-79.282818,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Taguasco Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.051826,
     "lbl:longitude":-79.285592,
     "meso:admin_1":"Sancti Spiritus",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1091908397,
-    "wof:lastmodified":1536615001,
+    "wof:lastmodified":1553717963,
     "wof:name":"Taguasco",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

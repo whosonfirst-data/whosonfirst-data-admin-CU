@@ -10,6 +10,12 @@
     "geom:latitude":22.913958,
     "geom:longitude":-82.347959,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Bejucal Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.915102,
     "lbl:longitude":-82.339452,
     "meso:admin_1":"La Habana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091903147,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717956,
     "wof:name":"Bejucal",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

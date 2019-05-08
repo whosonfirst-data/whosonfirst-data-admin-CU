@@ -10,6 +10,12 @@
     "geom:latitude":22.613563,
     "geom:longitude":-80.00906,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Cifuentes Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.625067,
     "lbl:longitude":-79.985097,
     "meso:admin_1":"Villa Clara",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091904069,
-    "wof:lastmodified":1536614995,
+    "wof:lastmodified":1553717958,
     "wof:name":"Cifuentes",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027917,
-    "geom:area_square_m":323163002.178939,
+    "geom:area_square_m":323163002.178871,
     "geom:bbox":"-76.0278527336,20.4569057092,-75.8032078206,20.7049759785",
     "geom:latitude":20.583026,
     "geom:longitude":-75.922696,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Cueto Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.580002,
     "lbl:longitude":-75.933725,
     "meso:admin_1":"Holguin",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1091904361,
-    "wof:lastmodified":1553816439,
+    "wof:lastmodified":1555037695,
     "wof:name":"Cueto",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

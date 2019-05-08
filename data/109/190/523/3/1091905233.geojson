@@ -10,6 +10,12 @@
     "geom:latitude":23.061598,
     "geom:longitude":-82.002483,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Jaruco Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":23.051687,
     "lbl:longitude":-81.98171,
     "meso:admin_1":"La Habana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091905233,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717959,
     "wof:name":"Jaruco",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

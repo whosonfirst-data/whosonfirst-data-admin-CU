@@ -10,6 +10,12 @@
     "geom:latitude":22.290504,
     "geom:longitude":-83.869513,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "San Juan Y Martinez Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.299042,
     "lbl:longitude":-83.861932,
     "meso:admin_1":"Pinar Del Rio",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1091907755,
-    "wof:lastmodified":1536615001,
+    "wof:lastmodified":1553717963,
     "wof:name":"San Juan Y Martinez",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

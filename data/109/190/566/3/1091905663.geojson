@@ -10,6 +10,12 @@
     "geom:latitude":22.941849,
     "geom:longitude":-81.483302,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Limonar Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.923586,
     "lbl:longitude":-81.428698,
     "meso:admin_1":"Matanzas",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091905663,
-    "wof:lastmodified":1536614998,
+    "wof:lastmodified":1553717960,
     "wof:name":"Limonar",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

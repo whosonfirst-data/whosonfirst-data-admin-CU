@@ -10,6 +10,12 @@
     "geom:latitude":20.596446,
     "geom:longitude":-76.580284,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Cauto Cristo Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.568697,
     "lbl:longitude":-76.512443,
     "meso:admin_1":"Granma",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091903821,
-    "wof:lastmodified":1536614995,
+    "wof:lastmodified":1553717957,
     "wof:name":"Cauto Cristo",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

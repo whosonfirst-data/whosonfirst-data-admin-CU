@@ -10,6 +10,12 @@
     "geom:latitude":20.410804,
     "geom:longitude":-76.389149,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Jiguani Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.447399,
     "lbl:longitude":-76.345606,
     "meso:admin_1":"Granma",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091905355,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717959,
     "wof:name":"Jiguani",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

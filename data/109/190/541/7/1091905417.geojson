@@ -10,6 +10,12 @@
     "geom:latitude":21.233677,
     "geom:longitude":-77.845456,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Jimaguayu Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.230664,
     "lbl:longitude":-77.842206,
     "meso:admin_1":"Camaguey",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091905417,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717959,
     "wof:name":"Jimaguayu",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

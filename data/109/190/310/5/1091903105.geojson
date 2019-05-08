@@ -10,6 +10,12 @@
     "geom:latitude":20.404216,
     "geom:longitude":-76.669277,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Bayamo Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.382466,
     "lbl:longitude":-76.654651,
     "meso:admin_1":"Granma",
@@ -219,7 +225,7 @@
         }
     ],
     "wof:id":1091903105,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717956,
     "wof:name":"Bayamo",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

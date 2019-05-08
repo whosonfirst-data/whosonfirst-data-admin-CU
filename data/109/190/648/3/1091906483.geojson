@@ -10,6 +10,12 @@
     "geom:latitude":20.546068,
     "geom:longitude":-74.909339,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Moa Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.548246,
     "lbl:longitude":-74.90924,
     "meso:admin_1":"Holguin",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091906483,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717961,
     "wof:name":"Moa",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":21.266408,
     "geom:longitude":-76.979771,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Manati Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.237192,
     "lbl:longitude":-76.991143,
     "meso:admin_1":"Las Tunas",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091905945,
-    "wof:lastmodified":1536614998,
+    "wof:lastmodified":1553717960,
     "wof:name":"Manati",
     "wof:parent_id":85670439,
     "wof:placetype":"county",

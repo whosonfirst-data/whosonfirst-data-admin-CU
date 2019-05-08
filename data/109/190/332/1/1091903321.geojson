@@ -10,6 +10,12 @@
     "geom:latitude":20.740187,
     "geom:longitude":-76.441589,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Cacocum Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.729224,
     "lbl:longitude":-76.469764,
     "meso:admin_1":"Holguin",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091903321,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717956,
     "wof:name":"Cacocum",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

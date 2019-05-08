@@ -10,6 +10,12 @@
     "geom:latitude":22.423843,
     "geom:longitude":-80.919752,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Calimete Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.551215,
     "lbl:longitude":-80.851897,
     "meso:admin_1":"Matanzas",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091903495,
-    "wof:lastmodified":1536614995,
+    "wof:lastmodified":1553717957,
     "wof:name":"Calimete",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069561,
-    "geom:area_square_m":794504190.055612,
+    "geom:area_square_m":794504190.055556,
     "geom:bbox":"-83.4742604954,22.322916031,-83.079612732,22.7261565799",
     "geom:latitude":22.527252,
     "geom:longitude":-83.254939,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Los Palacios Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.441633,
     "lbl:longitude":-83.219067,
     "meso:admin_1":"Pinar Del Rio",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1091905737,
-    "wof:lastmodified":1553816439,
+    "wof:lastmodified":1555037693,
     "wof:name":"Los Palacios",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

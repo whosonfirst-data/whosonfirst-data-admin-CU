@@ -10,6 +10,12 @@
     "geom:latitude":22.589941,
     "geom:longitude":-81.122461,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Jaguey Grande Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.575786,
     "lbl:longitude":-81.125645,
     "meso:admin_1":"Matanzas",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091905195,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717959,
     "wof:name":"Jaguey Grande",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

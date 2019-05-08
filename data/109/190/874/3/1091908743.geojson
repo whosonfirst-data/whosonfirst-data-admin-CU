@@ -10,6 +10,12 @@
     "geom:latitude":20.344918,
     "geom:longitude":-74.924894,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Yateras Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.361949,
     "lbl:longitude":-74.904118,
     "meso:admin_1":"Guantanamo",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091908743,
-    "wof:lastmodified":1536615002,
+    "wof:lastmodified":1553717964,
     "wof:name":"Yateras",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

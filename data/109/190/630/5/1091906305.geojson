@@ -10,6 +10,12 @@
     "geom:latitude":20.609645,
     "geom:longitude":-75.698754,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Mayari Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.582056,
     "lbl:longitude":-75.683936,
     "meso:admin_1":"Holguin",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091906305,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717961,
     "wof:name":"Mayari",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

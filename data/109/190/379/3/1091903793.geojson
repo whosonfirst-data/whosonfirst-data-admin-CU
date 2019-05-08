@@ -10,6 +10,12 @@
     "geom:latitude":21.672866,
     "geom:longitude":-78.262051,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Carlos Manuel De Cespedes Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.671111,
     "lbl:longitude":-78.27397,
     "meso:admin_1":"Camaguey",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091903793,
-    "wof:lastmodified":1536614995,
+    "wof:lastmodified":1553717957,
     "wof:name":"Carlos Manuel De Cespedes",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

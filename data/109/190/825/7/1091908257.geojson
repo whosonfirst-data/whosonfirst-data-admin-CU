@@ -10,6 +10,12 @@
     "geom:latitude":21.279578,
     "geom:longitude":-77.571742,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Sibanicu Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.320553,
     "lbl:longitude":-77.522738,
     "meso:admin_1":"Camaguey",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091908257,
-    "wof:lastmodified":1536615001,
+    "wof:lastmodified":1553717963,
     "wof:name":"Sibanicu",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

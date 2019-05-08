@@ -10,6 +10,12 @@
     "geom:latitude":20.845827,
     "geom:longitude":-78.056711,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Santa Cruz Del Sur Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.848491,
     "lbl:longitude":-77.996833,
     "meso:admin_1":"Camaguey",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091908085,
-    "wof:lastmodified":1536615001,
+    "wof:lastmodified":1553717963,
     "wof:name":"Santa Cruz Del Sur",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

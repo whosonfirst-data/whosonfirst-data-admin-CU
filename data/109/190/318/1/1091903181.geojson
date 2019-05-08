@@ -10,6 +10,12 @@
     "geom:latitude":22.081383,
     "geom:longitude":-78.327877,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Bolivia Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.095718,
     "lbl:longitude":-78.385508,
     "meso:admin_1":"Ciego De Avila",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091903181,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717956,
     "wof:name":"Bolivia",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

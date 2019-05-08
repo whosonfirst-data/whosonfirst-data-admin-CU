@@ -10,6 +10,12 @@
     "geom:latitude":20.792736,
     "geom:longitude":-76.038213,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Baguanos Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.775876,
     "lbl:longitude":-76.038252,
     "meso:admin_1":"Holguin",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091902841,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717955,
     "wof:name":"Baguanos",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

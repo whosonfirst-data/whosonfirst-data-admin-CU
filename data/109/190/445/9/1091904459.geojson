@@ -10,6 +10,12 @@
     "geom:latitude":20.286479,
     "geom:longitude":-75.344704,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "El Salvador Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.291246,
     "lbl:longitude":-75.347474,
     "meso:admin_1":"Guantanamo",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091904459,
-    "wof:lastmodified":1536614996,
+    "wof:lastmodified":1553717958,
     "wof:name":"El Salvador",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":22.202634,
     "geom:longitude":-80.653851,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Abreus Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.212272,
     "lbl:longitude":-80.653933,
     "meso:admin_1":"Cienfuegos",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1091902555,
-    "wof:lastmodified":1536614993,
+    "wof:lastmodified":1553717955,
     "wof:name":"Abreus",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

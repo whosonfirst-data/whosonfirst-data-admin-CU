@@ -10,6 +10,12 @@
     "geom:latitude":22.136567,
     "geom:longitude":-80.422592,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Cienfuegos Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.136108,
     "lbl:longitude":-80.425434,
     "meso:admin_1":"Cienfuegos",
@@ -244,7 +250,7 @@
         }
     ],
     "wof:id":1091904035,
-    "wof:lastmodified":1536614995,
+    "wof:lastmodified":1553717957,
     "wof:name":"Cienfuegos",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

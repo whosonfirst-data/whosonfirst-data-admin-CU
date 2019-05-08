@@ -10,6 +10,12 @@
     "geom:latitude":20.84289,
     "geom:longitude":-76.815076,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Majibacoa Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.845029,
     "lbl:longitude":-76.817818,
     "meso:admin_1":"Las Tunas",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091905901,
-    "wof:lastmodified":1536614998,
+    "wof:lastmodified":1553717960,
     "wof:name":"Majibacoa",
     "wof:parent_id":85670439,
     "wof:placetype":"county",

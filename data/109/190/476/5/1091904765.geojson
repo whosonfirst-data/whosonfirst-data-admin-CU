@@ -10,6 +10,12 @@
     "geom:latitude":19.992915,
     "geom:longitude":-76.53112,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Guama Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.022168,
     "lbl:longitude":-76.384798,
     "meso:admin_1":"Santiago De Cuba",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091904765,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717959,
     "wof:name":"Guama",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

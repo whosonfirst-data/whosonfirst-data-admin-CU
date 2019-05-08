@@ -10,6 +10,12 @@
     "geom:latitude":21.129944,
     "geom:longitude":-78.262832,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Vertientes Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.132654,
     "lbl:longitude":-78.262855,
     "meso:admin_1":"Camaguey",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091908663,
-    "wof:lastmodified":1536615002,
+    "wof:lastmodified":1553717964,
     "wof:name":"Vertientes",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

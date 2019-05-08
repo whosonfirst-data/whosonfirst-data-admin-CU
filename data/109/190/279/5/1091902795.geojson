@@ -10,6 +10,12 @@
     "geom:latitude":22.780739,
     "geom:longitude":-82.817327,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Artemisa Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.775466,
     "lbl:longitude":-82.819801,
     "meso:admin_1":"La Habana",
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":1091902795,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717955,
     "wof:name":"Artemisa",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

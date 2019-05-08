@@ -10,6 +10,12 @@
     "geom:latitude":22.937949,
     "geom:longitude":-82.151328,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "San Jose De Las Lajas Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.936885,
     "lbl:longitude":-82.153847,
     "meso:admin_1":"La Habana",
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":1091907725,
-    "wof:lastmodified":1536615001,
+    "wof:lastmodified":1553717962,
     "wof:name":"San Jose De Las Lajas",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

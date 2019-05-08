@@ -10,6 +10,12 @@
     "geom:latitude":22.526376,
     "geom:longitude":-79.706894,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Camajuani Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.511412,
     "lbl:longitude":-79.733425,
     "meso:admin_1":"Villa Clara",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091903633,
-    "wof:lastmodified":1536614995,
+    "wof:lastmodified":1553717957,
     "wof:name":"Camajuani",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

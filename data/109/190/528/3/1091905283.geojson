@@ -10,6 +10,12 @@
     "geom:latitude":21.938472,
     "geom:longitude":-79.123939,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Jatibonico Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.917577,
     "lbl:longitude":-79.139009,
     "meso:admin_1":"Sancti Spiritus",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1091905283,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717959,
     "wof:name":"Jatibonico",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

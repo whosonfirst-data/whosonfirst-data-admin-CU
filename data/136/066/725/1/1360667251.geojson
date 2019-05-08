@@ -10,6 +10,12 @@
     "geom:latitude":20.273903,
     "geom:longitude":-75.810546,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "San Luis Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.230432,
     "lbl:longitude":-75.842254,
     "mps:latitude":20.230432,
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1360667251,
-    "wof:lastmodified":1539121049,
+    "wof:lastmodified":1555047431,
     "wof:name":"San Luis",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

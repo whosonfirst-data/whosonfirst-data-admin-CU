@@ -10,6 +10,12 @@
     "geom:latitude":20.434622,
     "geom:longitude":-75.961038,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Mella Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.414937,
     "lbl:longitude":-75.935746,
     "meso:admin_1":"Santiago De Cuba",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091906371,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717961,
     "wof:name":"Mella",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

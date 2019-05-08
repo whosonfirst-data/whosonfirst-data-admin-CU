@@ -10,6 +10,12 @@
     "geom:latitude":23.127988,
     "geom:longitude":-82.392197,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Plaza De La Revolucion Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":23.128996,
     "lbl:longitude":-82.394707,
     "meso:admin_1":"Ciudad De La Habana",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1091907125,
-    "wof:lastmodified":1536615000,
+    "wof:lastmodified":1553717962,
     "wof:name":"Plaza De La Revolucion",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

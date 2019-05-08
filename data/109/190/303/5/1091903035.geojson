@@ -10,6 +10,12 @@
     "geom:latitude":22.737202,
     "geom:longitude":-82.284209,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Batabano Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.733577,
     "lbl:longitude":-82.282431,
     "meso:admin_1":"La Habana",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091903035,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717956,
     "wof:name":"Batabano",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

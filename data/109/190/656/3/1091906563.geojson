@@ -10,6 +10,12 @@
     "geom:latitude":21.674996,
     "geom:longitude":-82.788054,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Municipio Especial Isla De La Juventud"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.687866,
     "lbl:longitude":-82.812849,
     "meso:admin_1":"Municipio Especial Isla De La Juventud",
@@ -232,7 +238,7 @@
         }
     ],
     "wof:id":1091906563,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717962,
     "wof:name":"Municipio Especial Isla De La Juventud",
     "wof:parent_id":85670405,
     "wof:placetype":"county",

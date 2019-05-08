@@ -10,6 +10,12 @@
     "geom:latitude":22.286066,
     "geom:longitude":-79.168103,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Yaguajay Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.262127,
     "lbl:longitude":-79.126464,
     "meso:admin_1":"Sancti Spiritus",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1091908735,
-    "wof:lastmodified":1536615002,
+    "wof:lastmodified":1553717964,
     "wof:name":"Yaguajay",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

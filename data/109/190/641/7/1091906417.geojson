@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076697,
-    "geom:area_square_m":875900152.428563,
+    "geom:area_square_m":875900152.428537,
     "geom:bbox":"-84.1390995047,22.3413451313,-83.8104894086,22.750389099",
     "geom:latitude":22.544412,
     "geom:longitude":-83.963531,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Minas De Matahambre Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.546717,
     "lbl:longitude":-83.990757,
     "meso:admin_1":"Pinar Del Rio",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1091906417,
-    "wof:lastmodified":1553816439,
+    "wof:lastmodified":1555037691,
     "wof:name":"Minas De Matahambre",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

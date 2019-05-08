@@ -10,6 +10,12 @@
     "geom:latitude":20.587654,
     "geom:longitude":-76.204867,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Urbano Noris Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.59671,
     "lbl:longitude":-76.189279,
     "meso:admin_1":"Holguin",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091908561,
-    "wof:lastmodified":1536615002,
+    "wof:lastmodified":1553717964,
     "wof:name":"Urbano Noris",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

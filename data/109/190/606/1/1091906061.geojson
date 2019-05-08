@@ -10,6 +10,12 @@
     "geom:latitude":20.145693,
     "geom:longitude":-74.971554,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Manuel Tames Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.117131,
     "lbl:longitude":-74.969377,
     "meso:admin_1":"Guantanamo",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091906061,
-    "wof:lastmodified":1536614998,
+    "wof:lastmodified":1553717960,
     "wof:name":"Manuel Tames",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":22.747363,
     "geom:longitude":-80.878165,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Colon Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.762641,
     "lbl:longitude":-80.87558,
     "meso:admin_1":"Matanzas",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091904143,
-    "wof:lastmodified":1536614996,
+    "wof:lastmodified":1553717957,
     "wof:name":"Colon",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

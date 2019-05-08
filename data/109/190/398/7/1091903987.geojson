@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.364713,
-    "geom:area_square_m":4172196761.734476,
+    "geom:area_square_m":4172196761.734388,
     "geom:bbox":"-82.159637451,22.018749237,-80.5902072886,22.6130253034",
     "geom:latitude":22.308622,
     "geom:longitude":-81.416821,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Cienaga De Zapata Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.393484,
     "lbl:longitude":-81.404045,
     "meso:admin_1":"Matanzas",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1091903987,
-    "wof:lastmodified":1553816438,
+    "wof:lastmodified":1555037695,
     "wof:name":"Cienaga De Zapata",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

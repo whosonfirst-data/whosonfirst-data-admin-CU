@@ -10,6 +10,12 @@
     "geom:latitude":20.527255,
     "geom:longitude":-75.232234,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Sagua De Tanamo Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.527991,
     "lbl:longitude":-75.251884,
     "meso:admin_1":"Holguin",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091907503,
-    "wof:lastmodified":1536615000,
+    "wof:lastmodified":1553717962,
     "wof:name":"Sagua De Tanamo",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

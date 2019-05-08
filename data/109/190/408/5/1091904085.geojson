@@ -10,6 +10,12 @@
     "geom:latitude":21.991207,
     "geom:longitude":-78.678804,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Ciro Redondo Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.999707,
     "lbl:longitude":-78.634671,
     "meso:admin_1":"Ciego De Avila",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091904085,
-    "wof:lastmodified":1536614996,
+    "wof:lastmodified":1553717957,
     "wof:name":"Ciro Redondo",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

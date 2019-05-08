@@ -10,6 +10,12 @@
     "geom:latitude":22.716535,
     "geom:longitude":-81.721464,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Nueva Paz Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.712219,
     "lbl:longitude":-81.735602,
     "meso:admin_1":"La Habana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091906719,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717961,
     "wof:name":"Nueva Paz",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":23.129596,
     "geom:longitude":-82.332506,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Regla Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":23.128027,
     "lbl:longitude":-82.332514,
     "meso:admin_1":"Ciudad De La Habana",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1091907335,
-    "wof:lastmodified":1536615000,
+    "wof:lastmodified":1553717962,
     "wof:name":"Regla",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

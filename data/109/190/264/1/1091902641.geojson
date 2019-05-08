@@ -10,6 +10,12 @@
     "geom:latitude":22.762382,
     "geom:longitude":-82.606627,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Alquizar Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.762584,
     "lbl:longitude":-82.612517,
     "meso:admin_1":"La Habana",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1091902641,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717955,
     "wof:name":"Alquizar",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

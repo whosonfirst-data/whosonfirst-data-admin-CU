@@ -10,6 +10,12 @@
     "geom:latitude":22.737529,
     "geom:longitude":-82.502218,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Guira De Melena Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.739585,
     "lbl:longitude":-82.499856,
     "meso:admin_1":"La Habana",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":1091905003,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717959,
     "wof:name":"Guira De Melena",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

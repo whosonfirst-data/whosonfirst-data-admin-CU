@@ -10,6 +10,12 @@
     "geom:latitude":20.17024,
     "geom:longitude":-76.528359,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Guisa Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.171373,
     "lbl:longitude":-76.528378,
     "meso:admin_1":"Granma",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091905039,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717959,
     "wof:name":"Guisa",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":21.152933,
     "geom:longitude":-76.640799,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Jesus Menendez Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.111245,
     "lbl:longitude":-76.709397,
     "meso:admin_1":"Las Tunas",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091905315,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717960,
     "wof:name":"Jesus Menendez",
     "wof:parent_id":85670439,
     "wof:placetype":"county",

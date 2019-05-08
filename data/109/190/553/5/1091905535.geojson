@@ -10,6 +10,12 @@
     "geom:latitude":23.12968,
     "geom:longitude":-82.359196,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "La Habana Vieja Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":23.128979,
     "lbl:longitude":-82.361638,
     "meso:admin_1":"Ciudad De La Habana",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091905535,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717959,
     "wof:name":"La Habana Vieja",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

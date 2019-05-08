@@ -10,6 +10,12 @@
     "geom:latitude":22.191032,
     "geom:longitude":-78.590255,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Moron Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.238779,
     "lbl:longitude":-78.618207,
     "meso:admin_1":"Ciego De Avila",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091906525,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717961,
     "wof:name":"Moron",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

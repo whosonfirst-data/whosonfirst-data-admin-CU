@@ -10,6 +10,12 @@
     "geom:latitude":21.480736,
     "geom:longitude":-78.320635,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Florida Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.444479,
     "lbl:longitude":-78.439541,
     "meso:admin_1":"Camaguey",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091904585,
-    "wof:lastmodified":1536614996,
+    "wof:lastmodified":1553717958,
     "wof:name":"Florida",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

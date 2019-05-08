@@ -10,6 +10,12 @@
     "geom:latitude":20.861866,
     "geom:longitude":-76.588656,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Calixto Garcia Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.881333,
     "lbl:longitude":-76.603332,
     "meso:admin_1":"Holguin",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091903541,
-    "wof:lastmodified":1536614995,
+    "wof:lastmodified":1553717956,
     "wof:name":"Calixto Garcia",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

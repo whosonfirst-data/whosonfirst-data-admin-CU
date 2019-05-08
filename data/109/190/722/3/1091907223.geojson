@@ -10,6 +10,12 @@
     "geom:latitude":22.799698,
     "geom:longitude":-82.388796,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Quivican Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.81054,
     "lbl:longitude":-82.390204,
     "meso:admin_1":"La Habana",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1091907223,
-    "wof:lastmodified":1536615000,
+    "wof:lastmodified":1553717962,
     "wof:name":"Quivican",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

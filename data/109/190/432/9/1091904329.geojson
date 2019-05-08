@@ -10,6 +10,12 @@
     "geom:latitude":22.295042,
     "geom:longitude":-80.220619,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Cruces Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.302198,
     "lbl:longitude":-80.252243,
     "meso:admin_1":"Cienfuegos",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1091904329,
-    "wof:lastmodified":1536614996,
+    "wof:lastmodified":1553717958,
     "wof:name":"Cruces",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

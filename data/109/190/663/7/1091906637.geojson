@@ -10,6 +10,12 @@
     "geom:latitude":20.050067,
     "geom:longitude":-75.353149,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Niceto Perez Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.048089,
     "lbl:longitude":-75.336887,
     "meso:admin_1":"Guantanamo",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091906637,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717961,
     "wof:name":"Niceto Perez",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":21.87609,
     "geom:longitude":-78.758513,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Ciego De Avila Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.86922,
     "lbl:longitude":-78.743426,
     "meso:admin_1":"Ciego De Avila",
@@ -210,7 +216,7 @@
         }
     ],
     "wof:id":1091903947,
-    "wof:lastmodified":1536614995,
+    "wof:lastmodified":1553717957,
     "wof:name":"Ciego De Avila",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

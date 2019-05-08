@@ -10,6 +10,12 @@
     "geom:latitude":23.009037,
     "geom:longitude":-80.83987,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Marti Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.978038,
     "lbl:longitude":-80.849632,
     "meso:admin_1":"Matanzas",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1091906225,
-    "wof:lastmodified":1536614998,
+    "wof:lastmodified":1553717961,
     "wof:name":"Marti",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

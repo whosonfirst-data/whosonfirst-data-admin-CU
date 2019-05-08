@@ -10,6 +10,12 @@
     "geom:latitude":21.881527,
     "geom:longitude":-77.945269,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Esmeralda Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.817454,
     "lbl:longitude":-78.004462,
     "meso:admin_1":"Camaguey",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091904517,
-    "wof:lastmodified":1536614996,
+    "wof:lastmodified":1553717959,
     "wof:name":"Esmeralda",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

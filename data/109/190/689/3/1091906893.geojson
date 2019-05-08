@@ -10,6 +10,12 @@
     "geom:latitude":22.745087,
     "geom:longitude":-81.357659,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Pedro Betancourt Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.765063,
     "lbl:longitude":-81.407656,
     "meso:admin_1":"Matanzas",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091906893,
-    "wof:lastmodified":1536615000,
+    "wof:lastmodified":1553717961,
     "wof:name":"Pedro Betancourt",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

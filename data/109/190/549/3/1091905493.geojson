@@ -10,6 +10,12 @@
     "geom:latitude":22.845902,
     "geom:longitude":-81.239456,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Jovellanos Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.853699,
     "lbl:longitude":-81.267038,
     "meso:admin_1":"Matanzas",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091905493,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717960,
     "wof:name":"Jovellanos",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

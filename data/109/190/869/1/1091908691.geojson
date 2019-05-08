@@ -10,6 +10,12 @@
     "geom:latitude":22.630622,
     "geom:longitude":-83.739578,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Vinales Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.630667,
     "lbl:longitude":-83.716165,
     "meso:admin_1":"Pinar Del Rio",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1091908691,
-    "wof:lastmodified":1536615002,
+    "wof:lastmodified":1553717964,
     "wof:name":"Vinales",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

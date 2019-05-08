@@ -10,6 +10,12 @@
     "geom:latitude":20.24757,
     "geom:longitude":-77.094647,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Manzanillo Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.249814,
     "lbl:longitude":-77.126949,
     "meso:admin_1":"Granma",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091906089,
-    "wof:lastmodified":1536614998,
+    "wof:lastmodified":1553717960,
     "wof:name":"Manzanillo",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

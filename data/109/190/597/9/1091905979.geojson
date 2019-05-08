@@ -10,6 +10,12 @@
     "geom:latitude":22.144641,
     "geom:longitude":-79.930502,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Manicaragua Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.153693,
     "lbl:longitude":-79.951696,
     "meso:admin_1":"Villa Clara",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091905979,
-    "wof:lastmodified":1536614998,
+    "wof:lastmodified":1553717960,
     "wof:name":"Manicaragua",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

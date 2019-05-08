@@ -10,6 +10,12 @@
     "geom:latitude":20.866324,
     "geom:longitude":-77.418684,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Colombia Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.878754,
     "lbl:longitude":-77.411531,
     "meso:admin_1":"Las Tunas",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091904115,
-    "wof:lastmodified":1536614996,
+    "wof:lastmodified":1553717957,
     "wof:name":"Colombia",
     "wof:parent_id":85670439,
     "wof:placetype":"county",

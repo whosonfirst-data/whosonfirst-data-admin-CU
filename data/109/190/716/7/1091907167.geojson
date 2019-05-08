@@ -10,6 +10,12 @@
     "geom:latitude":21.888384,
     "geom:longitude":-78.374231,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Primero De Enero Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.894626,
     "lbl:longitude":-78.35306,
     "meso:admin_1":"Ciego De Avila",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091907167,
-    "wof:lastmodified":1536615000,
+    "wof:lastmodified":1553717962,
     "wof:name":"Primero De Enero",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139056,
-    "geom:area_square_m":1598065629.851794,
+    "geom:area_square_m":1598065629.851841,
     "geom:bbox":"-79.451248169,20.836194992,-78.3299786162,21.9143116011",
     "geom:latitude":21.657605,
     "geom:longitude":-78.712196,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Venezuela Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.676152,
     "lbl:longitude":-78.618903,
     "meso:admin_1":"Ciego De Avila",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1091908603,
-    "wof:lastmodified":1553816439,
+    "wof:lastmodified":1555037689,
     "wof:name":"Venezuela",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

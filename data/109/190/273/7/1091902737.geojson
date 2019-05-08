@@ -10,6 +10,12 @@
     "geom:latitude":23.021189,
     "geom:longitude":-82.323348,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Arroyo Naranjo Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":23.03436,
     "lbl:longitude":-82.338358,
     "meso:admin_1":"Ciudad De La Habana",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091902737,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717955,
     "wof:name":"Arroyo Naranjo",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

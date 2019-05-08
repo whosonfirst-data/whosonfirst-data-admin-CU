@@ -10,6 +10,12 @@
     "geom:latitude":22.93126,
     "geom:longitude":-82.624682,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Caimito Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.900367,
     "lbl:longitude":-82.613282,
     "meso:admin_1":"La Habana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091903451,
-    "wof:lastmodified":1536614995,
+    "wof:lastmodified":1553717956,
     "wof:name":"Caimito",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":22.907098,
     "geom:longitude":-82.729811,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Guanajay Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.89806,
     "lbl:longitude":-82.735689,
     "meso:admin_1":"La Habana",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1091904827,
-    "wof:lastmodified":1536614997,
+    "wof:lastmodified":1553717959,
     "wof:name":"Guanajay",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

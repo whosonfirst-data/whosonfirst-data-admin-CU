@@ -10,6 +10,12 @@
     "geom:latitude":21.01221,
     "geom:longitude":-76.001993,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Rafael Freyre Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.983309,
     "lbl:longitude":-76.020479,
     "meso:admin_1":"Holguin",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091907267,
-    "wof:lastmodified":1536615000,
+    "wof:lastmodified":1553717962,
     "wof:name":"Rafael Freyre",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

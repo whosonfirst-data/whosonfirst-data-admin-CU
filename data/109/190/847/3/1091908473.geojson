@@ -10,6 +10,12 @@
     "geom:latitude":21.850289,
     "geom:longitude":-79.858899,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Trinidad Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.869622,
     "lbl:longitude":-79.862711,
     "meso:admin_1":"Sancti Spiritus",
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":1091908473,
-    "wof:lastmodified":1536615001,
+    "wof:lastmodified":1553717964,
     "wof:name":"Trinidad",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

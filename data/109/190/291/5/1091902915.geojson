@@ -10,6 +10,12 @@
     "geom:latitude":20.97091,
     "geom:longitude":-75.749067,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Banes Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.991672,
     "lbl:longitude":-75.737989,
     "meso:admin_1":"Holguin",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091902915,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717956,
     "wof:name":"Banes",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

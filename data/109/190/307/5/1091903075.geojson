@@ -10,6 +10,12 @@
     "geom:latitude":22.985917,
     "geom:longitude":-82.524062,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Bauta Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.974286,
     "lbl:longitude":-82.530864,
     "meso:admin_1":"La Habana",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1091903075,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717956,
     "wof:name":"Bauta",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

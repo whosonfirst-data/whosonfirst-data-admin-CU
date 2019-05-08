@@ -10,6 +10,12 @@
     "geom:latitude":20.599653,
     "geom:longitude":-76.976955,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Rio Cauto Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.621779,
     "lbl:longitude":-76.971955,
     "meso:admin_1":"Granma",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091907413,
-    "wof:lastmodified":1536615000,
+    "wof:lastmodified":1553717962,
     "wof:name":"Rio Cauto",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

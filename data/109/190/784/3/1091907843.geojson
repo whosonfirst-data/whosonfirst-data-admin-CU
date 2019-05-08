@@ -10,6 +10,12 @@
     "geom:latitude":23.081893,
     "geom:longitude":-82.306936,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "San Miguel Del Padron Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":23.078776,
     "lbl:longitude":-82.309556,
     "meso:admin_1":"Ciudad De La Habana",
@@ -24,6 +30,9 @@
     "mps:longitude":-82.309556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Miguel Del Padron"
+    ],
     "name:eng_x_variant":[
         "San Miguel Del Padron",
         "Guanabacoa"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1091907843,
-    "wof:lastmodified":1536615001,
+    "wof:lastmodified":1555047431,
     "wof:name":"San Miguel Del Padron",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

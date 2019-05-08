@@ -10,6 +10,12 @@
     "geom:latitude":20.178569,
     "geom:longitude":-74.282547,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Maisi Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.155433,
     "lbl:longitude":-74.293227,
     "meso:admin_1":"Guantanamo",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091905819,
-    "wof:lastmodified":1536614998,
+    "wof:lastmodified":1553717960,
     "wof:name":"Maisi",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

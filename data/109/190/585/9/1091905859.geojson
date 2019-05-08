@@ -10,6 +10,12 @@
     "geom:latitude":21.852944,
     "geom:longitude":-78.986333,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Majagua Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.843743,
     "lbl:longitude":-79.0032,
     "meso:admin_1":"Ciego De Avila",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091905859,
-    "wof:lastmodified":1536614998,
+    "wof:lastmodified":1553717960,
     "wof:name":"Majagua",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":21.876172,
     "geom:longitude":-77.563424,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Nuevitas Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.666653,
     "lbl:longitude":-77.290345,
     "meso:admin_1":"Camaguey",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091906765,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717963,
     "wof:name":"Nuevitas",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

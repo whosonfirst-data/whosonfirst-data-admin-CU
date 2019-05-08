@@ -10,6 +10,12 @@
     "geom:latitude":20.119367,
     "geom:longitude":-76.711284,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Buey Arriba Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.106354,
     "lbl:longitude":-76.724502,
     "meso:admin_1":"Granma",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091903243,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717956,
     "wof:name":"Buey Arriba",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

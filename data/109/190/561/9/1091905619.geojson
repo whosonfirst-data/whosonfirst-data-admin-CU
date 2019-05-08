@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076186,
-    "geom:area_square_m":879610977.606392,
+    "geom:area_square_m":879610977.606194,
     "geom:bbox":"-77.2951327832,20.7238587416,-76.8328611002,21.1836550649",
     "geom:latitude":20.977863,
     "geom:longitude":-77.031543,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Las Tunas Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.98315,
     "lbl:longitude":-76.989506,
     "meso:admin_1":"Las Tunas",
@@ -222,7 +228,7 @@
         }
     ],
     "wof:id":1091905619,
-    "wof:lastmodified":1553816439,
+    "wof:lastmodified":1555037693,
     "wof:name":"Las Tunas",
     "wof:parent_id":85670439,
     "wof:placetype":"county",

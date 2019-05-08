@@ -10,6 +10,12 @@
     "geom:latitude":21.428944,
     "geom:longitude":-77.92616,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Camaguey Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.459055,
     "lbl:longitude":-77.908138,
     "meso:admin_1":"Camaguey",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091903577,
-    "wof:lastmodified":1536614995,
+    "wof:lastmodified":1553717957,
     "wof:name":"Camaguey",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

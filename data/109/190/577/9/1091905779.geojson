@@ -10,6 +10,12 @@
     "geom:latitude":22.949594,
     "geom:longitude":-81.812723,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Madruga Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.962316,
     "lbl:longitude":-81.815623,
     "meso:admin_1":"La Habana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091905779,
-    "wof:lastmodified":1536614998,
+    "wof:lastmodified":1553717960,
     "wof:name":"Madruga",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

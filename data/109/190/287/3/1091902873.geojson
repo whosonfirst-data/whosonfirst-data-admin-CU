@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071071,
-    "geom:area_square_m":809578140.644266,
+    "geom:area_square_m":809578140.644137,
     "geom:bbox":"-83.3971564427,22.7648414904,-82.9282032287,23.013750076",
     "geom:latitude":22.893344,
     "geom:longitude":-83.166711,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Bahia Honda Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.859064,
     "lbl:longitude":-83.166515,
     "meso:admin_1":"Pinar Del Rio",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1091902873,
-    "wof:lastmodified":1553816438,
+    "wof:lastmodified":1555037697,
     "wof:name":"Bahia Honda",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

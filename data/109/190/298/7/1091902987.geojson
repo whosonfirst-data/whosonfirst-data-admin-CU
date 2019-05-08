@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056979,
-    "geom:area_square_m":661639767.008087,
+    "geom:area_square_m":661639767.008083,
     "geom:bbox":"-77.0807951839,19.9376147114,-76.7819319956,20.2708191702",
     "geom:latitude":20.102222,
     "geom:longitude":-76.925236,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Bartolome Maso Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.107601,
     "lbl:longitude":-76.915116,
     "meso:admin_1":"Granma",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1091902987,
-    "wof:lastmodified":1553816438,
+    "wof:lastmodified":1555037697,
     "wof:name":"Bartolome Maso",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

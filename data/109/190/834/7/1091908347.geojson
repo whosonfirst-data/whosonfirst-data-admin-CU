@@ -10,6 +10,12 @@
     "geom:latitude":20.193698,
     "geom:longitude":-75.590524,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Songo La Maya Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.198643,
     "lbl:longitude":-75.587808,
     "meso:admin_1":"Santiago De Cuba",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091908347,
-    "wof:lastmodified":1536615001,
+    "wof:lastmodified":1553717963,
     "wof:name":"Songo La Maya",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

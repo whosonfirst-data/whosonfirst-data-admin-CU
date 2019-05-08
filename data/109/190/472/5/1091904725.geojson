@@ -10,6 +10,12 @@
     "geom:latitude":21.237264,
     "geom:longitude":-77.329424,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Guaimaro Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":21.238855,
     "lbl:longitude":-77.28794,
     "meso:admin_1":"Camaguey",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091904725,
-    "wof:lastmodified":1536614996,
+    "wof:lastmodified":1553717959,
     "wof:name":"Guaimaro",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

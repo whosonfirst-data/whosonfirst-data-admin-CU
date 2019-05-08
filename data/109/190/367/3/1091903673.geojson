@@ -10,6 +10,12 @@
     "geom:latitude":20.120057,
     "geom:longitude":-77.225485,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Campechuela Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.118206,
     "lbl:longitude":-77.237261,
     "meso:admin_1":"Granma",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091903673,
-    "wof:lastmodified":1536614995,
+    "wof:lastmodified":1553717957,
     "wof:name":"Campechuela",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

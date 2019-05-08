@@ -10,6 +10,12 @@
     "geom:latitude":22.594804,
     "geom:longitude":-79.451551,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Caibarien Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.491648,
     "lbl:longitude":-79.475905,
     "meso:admin_1":"Villa Clara",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091903367,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717957,
     "wof:name":"Caibarien",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

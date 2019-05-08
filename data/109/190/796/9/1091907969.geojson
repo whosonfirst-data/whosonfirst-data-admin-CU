@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152187,
-    "geom:area_square_m":1745126528.85693,
+    "geom:area_square_m":1745126528.85675,
     "geom:bbox":"-84.952079773,21.754554749,-83.960441589,22.1995547358",
     "geom:latitude":21.972975,
     "geom:longitude":-84.358582,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Sandino Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.038556,
     "lbl:longitude":-84.144887,
     "meso:admin_1":"Pinar Del Rio",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1091907969,
-    "wof:lastmodified":1553816439,
+    "wof:lastmodified":1555037690,
     "wof:name":"Sandino",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

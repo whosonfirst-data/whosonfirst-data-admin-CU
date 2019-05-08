@@ -10,6 +10,12 @@
     "geom:latitude":20.064693,
     "geom:longitude":-77.371461,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Media Luna Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.077495,
     "lbl:longitude":-77.386109,
     "meso:admin_1":"Granma",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091906341,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717961,
     "wof:name":"Media Luna",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

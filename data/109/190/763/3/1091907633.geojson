@@ -10,6 +10,12 @@
     "geom:latitude":20.146916,
     "geom:longitude":-74.809847,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "San Antonio Del Sur Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.15324,
     "lbl:longitude":-74.806957,
     "meso:admin_1":"Guantanamo",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091907633,
-    "wof:lastmodified":1536615000,
+    "wof:lastmodified":1553717962,
     "wof:name":"San Antonio Del Sur",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

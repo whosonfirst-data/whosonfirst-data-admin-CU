@@ -10,6 +10,12 @@
     "geom:latitude":22.747306,
     "geom:longitude":-82.96331,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Candelaria Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.805936,
     "lbl:longitude":-83.017403,
     "meso:admin_1":"Pinar Del Rio",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091903705,
-    "wof:lastmodified":1536614995,
+    "wof:lastmodified":1553717957,
     "wof:name":"Candelaria",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

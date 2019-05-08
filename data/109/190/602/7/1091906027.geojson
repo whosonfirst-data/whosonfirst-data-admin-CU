@@ -10,6 +10,12 @@
     "geom:latitude":22.343433,
     "geom:longitude":-84.261213,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Mantua Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.352049,
     "lbl:longitude":-84.259106,
     "meso:admin_1":"Pinar Del Rio",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1091906027,
-    "wof:lastmodified":1536614998,
+    "wof:lastmodified":1553717960,
     "wof:name":"Mantua",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

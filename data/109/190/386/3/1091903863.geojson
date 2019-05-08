@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000889,
-    "geom:area_square_m":10111246.52066,
+    "geom:area_square_m":10111246.520663,
     "geom:bbox":"-82.4056040379,23.0767023941,-82.3657834999,23.1280208806",
     "geom:latitude":23.099859,
     "geom:longitude":-82.384462,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Cerro Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":23.100696,
     "lbl:longitude":-82.384161,
     "meso:admin_1":"Ciudad De La Habana",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1091903863,
-    "wof:lastmodified":1553816438,
+    "wof:lastmodified":1555037696,
     "wof:name":"Cerro",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

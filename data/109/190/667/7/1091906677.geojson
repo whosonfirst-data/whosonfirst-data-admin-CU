@@ -10,6 +10,12 @@
     "geom:latitude":19.946632,
     "geom:longitude":-77.564907,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Niquero Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":19.950443,
     "lbl:longitude":-77.551191,
     "meso:admin_1":"Granma",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1091906677,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717961,
     "wof:name":"Niquero",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

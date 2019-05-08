@@ -10,6 +10,12 @@
     "geom:latitude":20.340155,
     "geom:longitude":-74.56915,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Baracoa Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":20.354214,
     "lbl:longitude":-74.607918,
     "meso:admin_1":"Guantanamo",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091902961,
-    "wof:lastmodified":1536614994,
+    "wof:lastmodified":1553717956,
     "wof:name":"Baracoa",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":23.057095,
     "geom:longitude":-81.605163,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Matanzas Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":23.08211,
     "lbl:longitude":-81.615288,
     "meso:admin_1":"Matanzas",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091906273,
-    "wof:lastmodified":1536614999,
+    "wof:lastmodified":1553717961,
     "wof:name":"Matanzas",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

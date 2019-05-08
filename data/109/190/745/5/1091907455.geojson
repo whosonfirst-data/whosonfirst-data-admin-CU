@@ -10,6 +10,12 @@
     "geom:latitude":22.399898,
     "geom:longitude":-80.522286,
     "iso:country":"CU",
+    "label:eng_x_preferred_longname":[
+        "Rodas Municipio"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipio"
+    ],
     "lbl:latitude":22.406869,
     "lbl:longitude":-80.555297,
     "meso:admin_1":"Cienfuegos",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1091907455,
-    "wof:lastmodified":1536615000,
+    "wof:lastmodified":1553717962,
     "wof:name":"Rodas",
     "wof:parent_id":85670403,
     "wof:placetype":"county",
