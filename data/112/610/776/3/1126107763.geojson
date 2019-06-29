@@ -32,11 +32,11 @@
     "name:cat_x_preferred":[
         "Ciutat vella de l'Havana"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u74e6\u90a3\u65e7\u57ce"
+    "name:deu_x_preferred":[
+        "La Habana Vieja"
     ],
-    "name:dut_x_preferred":[
-        "Oud Havana en haar vestingwerken"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b9\u03ac \u0391\u03b2\u03ac\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Old Havana"
@@ -44,17 +44,11 @@
     "name:epo_x_preferred":[
         "Malnova Havano"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0648\u0627\u0646\u0627\u06cc \u0642\u062f\u06cc\u0645"
+    ],
+    "name:fra_x_preferred":[
         "La Habana Vieja"
-    ],
-    "name:geo_x_preferred":[
-        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10f0\u10d0\u10d5\u10d0\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "La Habana Vieja"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bb\u03b9\u03ac \u0391\u03b2\u03ac\u03bd\u03b1"
     ],
     "name:hrv_x_preferred":[
         "Stara Havana"
@@ -68,17 +62,20 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30eb\u30c9\u30fb\u30cf\u30d0\u30ca"
     ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10f0\u10d0\u10d5\u10d0\u10dc\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub77c\uc544\ubc14\ub098\ube44\uc5d0\ud558"
     ],
     "name:nep_x_preferred":[
         "\u092a\u0941\u0930\u093e\u0928\u094b \u0939\u092d\u093e\u0928\u093e"
     ],
+    "name:nld_x_preferred":[
+        "Oud Havana en haar vestingwerken"
+    ],
     "name:pan_x_preferred":[
         "\u0a2a\u0a41\u0a30\u0a3e\u0a23\u0a3e \u0a39\u0a35\u0a3e\u0a28\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0648\u0627\u0646\u0627\u06cc \u0642\u062f\u06cc\u0645"
     ],
     "name:por_x_preferred":[
         "Cidade antiga de Havana e suas fortifica\u00e7\u00f5es"
@@ -100,6 +97,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05dc\u05d8 \u05d4\u05d0\u05d5\u05d5\u05d0\u05e0\u05e2"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u74e6\u90a3\u65e7\u57ce"
     ],
     "qs_pg:aaroncc":"CU",
     "qs_pg:gn_country":"CU",
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":1126107763,
-    "wof:lastmodified":1534379264,
+    "wof:lastmodified":1561766487,
     "wof:name":"La Habana Vieja",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

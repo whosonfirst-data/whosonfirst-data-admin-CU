@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u063a\u0648\u064a\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Holgu\u00edngo probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u0410\u043b\u044c\u0433\u0456\u043d"
     ],
@@ -53,17 +50,14 @@
     "name:ceb_x_preferred":[
         "Holgu\u00edn"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u5c14\u91d1\u7701"
-    ],
     "name:dan_x_preferred":[
         "Holgu\u00edn Provinsen"
     ],
     "name:deu_x_preferred":[
         "Provinz Holgu\u00edn"
     ],
-    "name:dut_x_preferred":[
-        "Holgu\u00edn"
+    "name:ell_x_preferred":[
+        "\u039f\u03bb\u03b3\u03ba\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Holgu\u00edn"
@@ -74,23 +68,20 @@
     "name:est_x_preferred":[
         "Holgu\u00edni provints"
     ],
+    "name:eus_x_preferred":[
+        "Holgu\u00edngo probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0644\u06af\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Holgu\u00edn"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Holgu\u00edn"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10da\u10d2\u10d8\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Holgu\u00edn"
     ],
     "name:glg_x_preferred":[
         "Provincia de Holgu\u00edn"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03bb\u03b3\u03ba\u03af\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0ab2\u0acd\u0a97\u0abf\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -116,6 +107,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0cca\u0cb2\u0ccd\u0c97\u0cc1\u0caf\u0cbf\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10da\u10d2\u10d8\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc62c\uae34 \uc8fc"
     ],
@@ -125,23 +119,23 @@
     "name:lit_x_preferred":[
         "Holgino provincija"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043b\u0433\u0438\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u094b\u0932\u094d\u0917\u093f\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041e\u043b\u0433\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Daerah Holgu\u00edn"
     ],
     "name:nan_x_preferred":[
         "Holgu\u00edn S\u00e9ng"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Holgu\u00edn"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0644\u06af\u06cc\u0646"
+    "name:nob_x_preferred":[
+        "Holgu\u00edn"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06c1\u0648\u0644\u06a9\u0648\u0626\u0646"
@@ -206,6 +200,9 @@
     ],
     "name:war_x_preferred":[
         "Holgu\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5c14\u91d1\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CUB",
@@ -330,7 +327,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550365,
+    "wof:lastmodified":1561766441,
     "wof:name":"Holguin",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

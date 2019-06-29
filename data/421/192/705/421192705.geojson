@@ -16,28 +16,25 @@
     "name:cat_x_preferred":[
         "Palmira"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u723e\u7c73\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Palmira"
     ],
     "name:eng_x_preferred":[
         "Palmira"
     ],
-    "name:fre_x_preferred":[
-        "Palmira"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10da\u10db\u10d8\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Palmira"
     ],
     "name:hat_x_preferred":[
         "Palmira"
     ],
     "name:ita_x_preferred":[
+        "Palmira"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10da\u10db\u10d8\u10e0\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Palmira"
     ],
     "name:oci_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Palmira"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u723e\u7c73\u62c9"
     ],
     "qs:gn_country":"CU",
     "qs:gn_fcode":"PPL",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":421192705,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1561766479,
     "wof:name":"Palmira",
     "wof:parent_id":1091906851,
     "wof:placetype":"locality",

@@ -22,17 +22,11 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u064a\u063a\u0648 \u062f\u064a \u0627\u0641\u064a\u0644\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Ciego de \u00c1vila"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09af\u09bc\u09c7\u0997\u09cb \u09a6\u09c7 \u0986\u09ad\u09bf\u09b2\u09be"
     ],
     "name:cat_x_preferred":[
         "Ciego de \u00c1vila"
-    ],
-    "name:chi_x_preferred":[
-        "\u8b1d\u6208\u5fb7\u963f\u7dad\u62c9"
     ],
     "name:dan_x_preferred":[
         "Ciego de \u00c1vila"
@@ -40,8 +34,8 @@
     "name:deu_x_preferred":[
         "Ciego de \u00c1vila"
     ],
-    "name:dut_x_preferred":[
-        "Ciego de \u00c1vila"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03ad\u03b3\u03bf \u03bd\u03c4\u03b5 \u0386\u03b2\u03b9\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ciego de \u00c1vila"
@@ -49,20 +43,17 @@
     "name:epo_x_preferred":[
         "Ciego de \u00c1vila"
     ],
+    "name:eus_x_preferred":[
+        "Ciego de \u00c1vila"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0647\u200c\u06af\u0648 \u062f\u0647 \u0622\u0648\u06cc\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ciego de \u00c1vila"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ciego de \u00c1vila"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10d4\u10d2\u10dd-\u10d3\u10d4-\u10d0\u10d5\u10d8\u10da\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Ciego de \u00c1vila"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03ad\u03b3\u03bf \u03bd\u03c4\u03b5 \u0386\u03b2\u03b9\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0a8f\u0a97\u0acb \u0aa1\u0ac7 \u0a8f\u0ab5\u0abf\u0ab2\u0abe"
@@ -85,6 +76,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0caf\u0ccb\u0c97\u0cca \u0ca1\u0cbf \u0c86\u0cb5\u0cbf\u0cb2\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10d4\u10d2\u10dd-\u10d3\u10d4-\u10d0\u10d5\u10d8\u10da\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\u200e\uc2dc\uc5d0\uace0\ub370\uc544\ube4c\ub77c"
     ],
@@ -97,7 +91,7 @@
     "name:mar_x_preferred":[
         "\u0938\u093f\u090f\u0917\u094b \u0926\u0947 \u0905\u0935\u093f\u0932\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ciego de Avila"
     ],
     "name:nah_x_preferred":[
@@ -106,14 +100,14 @@
     "name:nan_x_preferred":[
         "Ciego de \u00c1vila"
     ],
+    "name:nld_x_preferred":[
+        "Ciego de \u00c1vila"
+    ],
     "name:nob_x_preferred":[
         "Ciego de Avila"
     ],
     "name:oci_x_preferred":[
         "Ciego de \u00c1vila"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0647\u200c\u06af\u0648 \u062f\u0647 \u0622\u0648\u06cc\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Ciego de \u00c1vila"
@@ -121,7 +115,7 @@
     "name:por_x_preferred":[
         "Ciego de \u00c1vila"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ciego de Avila"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +160,9 @@
     "name:war_x_preferred":[
         "Ciego de \u00c1vila"
     ],
+    "name:zho_x_preferred":[
+        "\u8b1d\u6208\u5fb7\u963f\u7dad\u62c9"
+    ],
     "qs_pg:aaroncc":"CU",
     "qs_pg:gn_country":"CU",
     "qs_pg:gn_fcode":"PPLA",
@@ -205,7 +202,7 @@
         }
     ],
     "wof:id":1125983095,
-    "wof:lastmodified":1513944509,
+    "wof:lastmodified":1561766487,
     "wof:name":"Ciego de \u00c1vila",
     "wof:parent_id":1091903947,
     "wof:placetype":"locality",

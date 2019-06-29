@@ -16,29 +16,20 @@
     "name:ceb_x_preferred":[
         "B\u00e1guanos"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u74dc\u8afe\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "B\u00e1guanos"
-    ],
     "name:eng_x_preferred":[
         "B\u00e1guanos"
     ],
     "name:fra_x_preferred":[
         "B\u00e1guanos"
     ],
-    "name:fre_x_preferred":[
-        "B\u00e1guanos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10d2\u10e3\u10d0\u10dc\u10dd\u10e1\u10d8"
-    ],
     "name:ita_x_preferred":[
         "B\u00e1guanos"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10d2\u10e3\u10d0\u10dc\u10dd\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00e1guanos"
     ],
     "name:sco_x_preferred":[
         "B\u00e1guanos"
@@ -105,7 +96,7 @@
         }
     ],
     "wof:id":421198423,
-    "wof:lastmodified":1527716351,
+    "wof:lastmodified":1561766481,
     "wof:name":"B\u00e1guanos",
     "wof:parent_id":1091902841,
     "wof:placetype":"locality",

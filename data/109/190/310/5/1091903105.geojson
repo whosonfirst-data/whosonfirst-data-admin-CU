@@ -33,9 +33,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0627\u0645\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Bayamo"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u044f\u043c\u0430"
     ],
@@ -48,17 +45,17 @@
     "name:cat_x_preferred":[
         "Bayamo"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u4e9e\u83ab"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bayamo"
     ],
     "name:dan_x_preferred":[
         "Bayamo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bayamo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03b3\u03b9\u03b1\u03bc\u03bf"
     ],
     "name:eng_x_preferred":[
         "Bayamo"
@@ -66,23 +63,20 @@
     "name:epo_x_preferred":[
         "Bayamo"
     ],
+    "name:eus_x_preferred":[
+        "Bayamo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0627\u0645\u0648"
+    ],
     "name:fin_x_preferred":[
         "Bayamo"
     ],
-    "name:fre_x_preferred":[
-        "Bayamo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10d8\u10d0\u10db\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bayamo"
     ],
     "name:glg_x_preferred":[
         "Bayamo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03b3\u03b9\u03b1\u03bc\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aaf\u0aae\u0acb"
@@ -108,6 +102,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0caf\u0cbe\u0cae\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d8\u10d0\u10db\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ubc14\uc57c\ubaa8"
     ],
@@ -120,10 +117,13 @@
     "name:mar_x_preferred":[
         "\u092c\u092f\u093e\u092e\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bayamo"
     ],
     "name:nan_x_preferred":[
+        "Bayamo"
+    ],
+    "name:nld_x_preferred":[
         "Bayamo"
     ],
     "name:nob_x_preferred":[
@@ -132,16 +132,13 @@
     "name:oci_x_preferred":[
         "Bayamo"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u06cc\u0627\u0645\u0648"
-    ],
     "name:pol_x_preferred":[
         "Bayamo"
     ],
     "name:por_x_preferred":[
         "Bayamo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bayamo"
     ],
     "name:rus_x_preferred":[
@@ -189,6 +186,9 @@
     "name:war_x_preferred":[
         "Bayamo"
     ],
+    "name:zho_x_preferred":[
+        "\u5df4\u4e9e\u83ab"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -225,7 +225,7 @@
         }
     ],
     "wof:id":1091903105,
-    "wof:lastmodified":1553717956,
+    "wof:lastmodified":1561766477,
     "wof:name":"Bayamo",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

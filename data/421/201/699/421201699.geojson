@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "Media Luna"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u8fea\u4e9e\u76e7\u7d0d"
-    ],
     "name:deu_x_preferred":[
-        "Media Luna"
-    ],
-    "name:dut_x_preferred":[
         "Media Luna"
     ],
     "name:eng_x_preferred":[
@@ -31,20 +25,14 @@
     "name:fra_x_preferred":[
         "Media Luna"
     ],
-    "name:fre_x_preferred":[
-        "Media Luna"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10d3\u10d8\u10d0-\u10da\u10e3\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Media Luna"
-    ],
     "name:ita_x_preferred":[
         "Media Luna"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10d3\u10d8\u10d0-\u10da\u10e3\u10dc\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Media Luna"
     ],
     "name:spa_x_preferred":[
         "Media Luna"
@@ -108,7 +96,7 @@
         }
     ],
     "wof:id":421201699,
-    "wof:lastmodified":1527716440,
+    "wof:lastmodified":1561766482,
     "wof:name":"Media Luna",
     "wof:parent_id":1091906341,
     "wof:placetype":"locality",

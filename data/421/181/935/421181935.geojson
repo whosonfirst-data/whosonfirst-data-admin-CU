@@ -19,13 +19,7 @@
     "name:ceb_x_preferred":[
         "Chambas"
     ],
-    "name:chi_x_preferred":[
-        "\u660c\u5df4\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Chambas"
-    ],
-    "name:dut_x_preferred":[
         "Chambas"
     ],
     "name:eng_x_preferred":[
@@ -34,20 +28,14 @@
     "name:fra_x_preferred":[
         "Chambas"
     ],
-    "name:fre_x_preferred":[
-        "Chambas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d0\u10db\u10d1\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Chambas"
-    ],
     "name:ita_x_preferred":[
         "Chambas"
     ],
     "name:kat_x_preferred":[
         "\u10e9\u10d0\u10db\u10d1\u10d0\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Chambas"
     ],
     "name:pol_x_preferred":[
         "Chambas"
@@ -114,7 +102,7 @@
         }
     ],
     "wof:id":421181935,
-    "wof:lastmodified":1553816371,
+    "wof:lastmodified":1561766481,
     "wof:name":"Chambas",
     "wof:parent_id":1091903905,
     "wof:placetype":"locality",

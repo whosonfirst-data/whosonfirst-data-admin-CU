@@ -18,9 +18,6 @@
     "name:ceb_x_preferred":[
         "Vilo Acu\u00f1a Airport"
     ],
-    "name:chi_x_preferred":[
-        "Vilo Acu\u00f1a\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Vilo Acu\u00f1a Airport"
     ],
@@ -32,9 +29,6 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0644\u0648 \u0622\u06a9\u0648\u0646\u06cc\u0627"
     ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10dd \u10d0\u10d9\u10e3\u10dc\u10d8\u10d0\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Aeroporto Vilo Acu\u00f1a"
     ],
@@ -44,14 +38,8 @@
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10da\u10dd \u10d0\u10d9\u10e3\u10dc\u10d8\u10d0\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Antarabangsa Vilo Acuna"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Vilo Acuna"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0644\u0648 \u0622\u06a9\u0648\u0646\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Vilo Acu\u00f1a"
@@ -67,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Vilo Acu\u00f1a"
+    ],
+    "name:zho_x_preferred":[
+        "Vilo Acu\u00f1a\u6a5f\u5834"
     ],
     "oa:elevation_ft":"10",
     "oa:type":"medium_airport",
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":102547243,
-    "wof:lastmodified":1513944506,
+    "wof:lastmodified":1561766434,
     "wof:name":"Cayo Largo del sur Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

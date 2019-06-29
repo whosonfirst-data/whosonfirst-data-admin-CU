@@ -16,28 +16,13 @@
     "name:ceb_x_preferred":[
         "Minas"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u7d0d\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Minas"
-    ],
-    "name:dut_x_preferred":[
         "Minas"
     ],
     "name:eng_x_preferred":[
         "Minas"
     ],
     "name:fra_x_preferred":[
-        "Minas"
-    ],
-    "name:fre_x_preferred":[
-        "Minas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10dc\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Minas"
     ],
     "name:ita_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":421166683,
-    "wof:lastmodified":1553816354,
+    "wof:lastmodified":1561766479,
     "wof:name":"Minas",
     "wof:parent_id":1091906457,
     "wof:placetype":"locality",

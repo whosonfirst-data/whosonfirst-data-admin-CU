@@ -15,25 +15,22 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u99ac\u5c3c\u5361\u62c9\u74dc"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Manicaragua"
     ],
     "name:eng_x_preferred":[
         "Manicaragua"
     ],
-    "name:fre_x_preferred":[
-        "Manicaragua"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10dc\u10d8\u10d9\u10d0\u10e0\u10d0\u10d2\u10e3\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Manicaragua"
     ],
     "name:ita_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d8\u10d9\u10d0\u10e0\u10d0\u10d2\u10e3\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Manicaragua"
     ],
     "name:pol_x_preferred":[
@@ -56,6 +53,9 @@
     ],
     "name:vie_x_preferred":[
         "Manicaragua"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5c3c\u5361\u62c9\u74dc"
     ],
     "qs:name":"Manicaragua",
     "qs:photos_9r":0,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":890438799,
-    "wof:lastmodified":1527735419,
+    "wof:lastmodified":1561766483,
     "wof:name":"Manicaragua",
     "wof:parent_id":1091905979,
     "wof:placetype":"locality",

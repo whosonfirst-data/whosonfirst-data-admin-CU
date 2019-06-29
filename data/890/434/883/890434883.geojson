@@ -15,28 +15,19 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u056f\u056b\u057d\u0561\u0580"
-    ],
     "name:cat_x_preferred":[
         "Alqu\u00edzar"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u57fa\u85a9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Alqu\u00edzar"
     ],
     "name:eng_x_preferred":[
         "Alqu\u00edzar"
     ],
-    "name:fre_x_preferred":[
-        "Alqu\u00edzar"
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06a9\u0648\u06cc\u0632\u0627\u0631"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10d9\u10d8\u10e1\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Alqu\u00edzar"
     ],
     "name:glg_x_preferred":[
@@ -45,14 +36,20 @@
     "name:hat_x_preferred":[
         "Alquizar"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u056f\u056b\u057d\u0561\u0580"
+    ],
     "name:ita_x_preferred":[
         "Alqu\u00edzar"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30ad\u30b5\u30eb"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u06a9\u0648\u06cc\u0632\u0627\u0631"
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d9\u10d8\u10e1\u10d0\u10e0\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Alqu\u00edzar"
     ],
     "name:por_x_preferred":[
         "Alqu\u00edzar"
@@ -77,6 +74,9 @@
     ],
     "name:vie_x_preferred":[
         "Alqu\u00edzar"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u57fa\u85a9"
     ],
     "qs:name":"Alqu\u00edzar",
     "qs:photos_9r":0,
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":890434883,
-    "wof:lastmodified":1527792947,
+    "wof:lastmodified":1561766486,
     "wof:name":"Alqu\u00edzar",
     "wof:parent_id":1091902641,
     "wof:placetype":"locality",

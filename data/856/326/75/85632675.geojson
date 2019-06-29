@@ -138,9 +138,6 @@
     "name:cym_x_variant":[
         "Cuba"
     ],
-    "name:cze_x_preferred":[
-        "Kuba"
-    ],
     "name:dan_x_preferred":[
         "Cuba"
     ],
@@ -765,9 +762,6 @@
     "name:zho_x_preferred":[
         "\u53e4\u5df4"
     ],
-    "name:zho_x_variant":[
-        "\u53e4\u5df4"
-    ],
     "name:zho_yue_x_preferred":[
         "\u53e4\u5df4"
     ],
@@ -921,7 +915,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1544059159,
+    "wof:lastmodified":1561766444,
     "wof:name":"Cuba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -23,9 +23,6 @@
     "name:ast_x_preferred":[
         "Manzanillo"
     ],
-    "name:baq_x_preferred":[
-        "Manzanillo"
-    ],
     "name:bar_x_preferred":[
         "Manzanillo"
     ],
@@ -41,10 +38,10 @@
     "name:cat_x_preferred":[
         "Manzanillo"
     ],
-    "name:chi_x_preferred":[
-        "\u66fc\u85a9\u5c3c\u7d04"
+    "name:ces_x_preferred":[
+        "Manzanillo"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Manzanillo"
     ],
     "name:dan_x_preferred":[
@@ -53,8 +50,8 @@
     "name:deu_x_preferred":[
         "Manzanillo"
     ],
-    "name:dut_x_preferred":[
-        "Manzanillo"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03c4\u03b6\u03b1\u03bd\u03af\u03bb\u03bb\u03bf"
     ],
     "name:eng_x_preferred":[
         "Manzanillo"
@@ -65,23 +62,17 @@
     "name:est_x_preferred":[
         "Manzanillo"
     ],
+    "name:eus_x_preferred":[
+        "Manzanillo"
+    ],
     "name:fin_x_preferred":[
         "Manzanillo"
     ],
-    "name:fre_x_preferred":[
-        "Manzanillo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10dc\u10e1\u10d0\u10dc\u10d8\u10da\u10d8\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Manzanillo"
     ],
     "name:glg_x_preferred":[
         "Manzanillo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd\u03c4\u03b6\u03b1\u03bd\u03af\u03bb\u03bb\u03bf"
     ],
     "name:gsw_x_preferred":[
         "Manzanillo"
@@ -128,13 +119,16 @@
     "name:mar_x_preferred":[
         "\u092e\u0902\u091d\u0928\u0940\u0932\u094d\u0932\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Manzanillo"
     ],
     "name:nau_x_preferred":[
         "Manzanillo"
     ],
     "name:nds_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:nld_x_preferred":[
         "Manzanillo"
     ],
     "name:nno_x_preferred":[
@@ -149,7 +143,7 @@
     "name:por_x_preferred":[
         "Manzanillo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Manzanillo"
     ],
     "name:rus_x_preferred":[
@@ -164,7 +158,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0db1\u0dca\u0dc3\u0db1\u0dd2\u0dbd\u0ddd"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Manzanillo"
     ],
     "name:slv_x_preferred":[
@@ -198,9 +192,6 @@
         "\u0645\u0646\u0632\u0627\u0646\u06cc\u0644\u0648\u060c \u06a9\u06cc\u0648\u0628\u0627"
     ],
     "name:vie_x_preferred":[
-        "Manzanillo"
-    ],
-    "name:wel_x_preferred":[
         "Manzanillo"
     ],
     "name:zho_x_preferred":[
@@ -344,7 +335,7 @@
         }
     ],
     "wof:id":421174741,
-    "wof:lastmodified":1513944577,
+    "wof:lastmodified":1561766480,
     "wof:name":"Manzanillo",
     "wof:parent_id":1091906089,
     "wof:placetype":"locality",

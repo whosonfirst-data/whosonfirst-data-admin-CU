@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
-    "geom:area_square_m":10034046.919316,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.392704,23.134223,-82.392704,23.134223",
     "geom:latitude":23.134223,
     "geom:longitude":-82.392704,
@@ -27,7 +27,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vedado"
     ],
     "name:eng_x_preferred":[
@@ -36,13 +36,7 @@
     "name:epo_x_preferred":[
         "El Vedado"
     ],
-    "name:fre_x_preferred":[
-        "Vedado"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d4\u10d3\u10d0\u10d3\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vedado"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +44,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30c0\u30c9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10d3\u10d0\u10d3\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "Vedado"
     ],
     "name:por_x_preferred":[
         "El Vedado"
@@ -101,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379264,
+    "wof:lastmodified":1561766441,
     "wof:name":"Vedado",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

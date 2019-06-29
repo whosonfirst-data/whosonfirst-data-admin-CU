@@ -30,28 +30,25 @@
     "mps:longitude":-79.713036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u798f\u9580\u6258"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fomento"
     ],
     "name:eng_x_preferred":[
         "Fomento"
     ],
-    "name:fre_x_preferred":[
-        "Fomento"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10dd\u10db\u10d4\u10dc\u10e2\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Fomento"
     ],
     "name:hat_x_preferred":[
         "Fomento"
     ],
     "name:ita_x_preferred":[
+        "Fomento"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10dd\u10db\u10d4\u10dc\u10e2\u10dd"
+    ],
+    "name:nld_x_preferred":[
         "Fomento"
     ],
     "name:por_x_preferred":[
@@ -68,6 +65,9 @@
     ],
     "name:vie_x_preferred":[
         "Fomento"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u9580\u6258"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1091904623,
-    "wof:lastmodified":1553717958,
+    "wof:lastmodified":1561766474,
     "wof:name":"Fomento",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

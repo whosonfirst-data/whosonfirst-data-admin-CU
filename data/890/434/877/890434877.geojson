@@ -21,16 +21,10 @@
     "name:cat_x_preferred":[
         "Baracoa"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62c9\u79d1\u963f"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Baracoa"
     ],
     "name:deu_x_preferred":[
-        "Baracoa"
-    ],
-    "name:dut_x_preferred":[
         "Baracoa"
     ],
     "name:eng_x_preferred":[
@@ -39,16 +33,10 @@
     "name:epo_x_preferred":[
         "Baracoa"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u06a9\u0648\u0622"
+    ],
     "name:fra_x_preferred":[
-        "Baracoa"
-    ],
-    "name:fre_x_preferred":[
-        "Baracoa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e0\u10d0\u10d9\u10dd\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Baracoa"
     ],
     "name:gla_x_preferred":[
@@ -62,6 +50,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30e9\u30b3\u30a2"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10d0\u10d9\u10dd\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ubc14\ub77c\ucf54\uc544"
@@ -81,16 +72,13 @@
     "name:oci_x_preferred":[
         "Baracoa"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0631\u0627\u06a9\u0648\u0622"
-    ],
     "name:pol_x_preferred":[
         "Baracoa"
     ],
     "name:por_x_preferred":[
         "Baracoa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Baracoa"
     ],
     "name:rus_x_preferred":[
@@ -116,6 +104,9 @@
     ],
     "name:war_x_preferred":[
         "Baracoa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u79d1\u963f"
     ],
     "qs:name":"Baracoa",
     "qs:photos_9r":0,
@@ -150,7 +141,7 @@
         }
     ],
     "wof:id":890434877,
-    "wof:lastmodified":1527792947,
+    "wof:lastmodified":1561766486,
     "wof:name":"Baracoa",
     "wof:parent_id":85670425,
     "wof:placetype":"locality",

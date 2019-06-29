@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "Municipio de Jaruco"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u9b6f\u79d1"
-    ],
     "name:deu_x_preferred":[
-        "Jaruco"
-    ],
-    "name:dut_x_preferred":[
         "Jaruco"
     ],
     "name:eng_x_preferred":[
@@ -31,20 +25,14 @@
     "name:fra_x_preferred":[
         "Jaruco"
     ],
-    "name:fre_x_preferred":[
-        "Jaruco"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d0\u10e0\u10e3\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Jaruco"
-    ],
     "name:ita_x_preferred":[
         "Jaruco"
     ],
     "name:kat_x_preferred":[
         "\u10ee\u10d0\u10e0\u10e3\u10d9\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "Jaruco"
     ],
     "name:por_x_preferred":[
         "Jaruco"
@@ -116,7 +104,7 @@
         }
     ],
     "wof:id":421201195,
-    "wof:lastmodified":1527716432,
+    "wof:lastmodified":1561766481,
     "wof:name":"Jaruco",
     "wof:parent_id":1091905233,
     "wof:placetype":"locality",

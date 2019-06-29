@@ -57,8 +57,8 @@
     "name:deu_x_preferred":[
         "Isla de la Juventud"
     ],
-    "name:dut_x_preferred":[
-        "Ciudad de La Habana"
+    "name:deu_x_variant":[
+        "Provinz La Habana"
     ],
     "name:ell_x_preferred":[
         "\u038a\u03c3\u03bb\u03b1 \u03b4\u03b5 \u03bb\u03b1 \u03a7\u03bf\u03c5\u03b2\u03b5\u03bd\u03c4\u03bf\u03cd\u03b4"
@@ -84,11 +84,8 @@
     "name:fra_x_preferred":[
         "\u00cele de la Jeunesse"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Ciudad de La Habana"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz La Habana"
     ],
     "name:glg_x_preferred":[
         "Illa da Juventud"
@@ -134,6 +131,9 @@
     ],
     "name:nld_x_preferred":[
         "Isla de la Juventud"
+    ],
+    "name:nld_x_variant":[
+        "Ciudad de La Habana"
     ],
     "name:nor_x_preferred":[
         "Isla de la Juventud"
@@ -306,7 +306,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550386,
+    "wof:lastmodified":1561766441,
     "wof:name":"Isla de la Juventud",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

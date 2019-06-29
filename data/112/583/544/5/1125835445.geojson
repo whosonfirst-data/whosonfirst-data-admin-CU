@@ -22,29 +22,26 @@
     "name:cat_x_preferred":[
         "Perico"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u91cc\u79d1"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Perico"
     ],
     "name:eng_x_preferred":[
         "Perico"
     ],
-    "name:fre_x_preferred":[
-        "Perico"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e0\u10d8\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Perico"
     ],
     "name:ita_x_preferred":[
         "Perico"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e0\u10d8\u10d9\u10dd"
+    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d46\u0d31\u0d3f\u0d15\u0d4b"
+    ],
+    "name:nld_x_preferred":[
+        "Perico"
     ],
     "name:oci_x_preferred":[
         "Perico"
@@ -63,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Perico"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u91cc\u79d1"
     ],
     "qs_pg:aaroncc":"CU",
     "qs_pg:gn_country":"CU",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125835445,
-    "wof:lastmodified":1513944606,
+    "wof:lastmodified":1561766488,
     "wof:name":"Perico",
     "wof:parent_id":1091906933,
     "wof:placetype":"locality",

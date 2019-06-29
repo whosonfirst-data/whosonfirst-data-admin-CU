@@ -33,12 +33,6 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0634\u0628\u0627\u0628"
     ],
-    "name:arm_x_preferred":[
-        "\u053d\u0578\u0582\u057e\u0565\u0576\u057f\u0578\u0582\u0564"
-    ],
-    "name:baq_x_preferred":[
-        "Isla de la Juventud"
-    ],
     "name:bel_x_preferred":[
         "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0425\u0443\u0432\u0435\u043d\u0442\u0443\u0434"
     ],
@@ -54,17 +48,17 @@
     "name:cat_x_preferred":[
         "Illa de la Juventud"
     ],
-    "name:chi_x_preferred":[
-        "\u9752\u5e74\u5c9b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "ostrov Ml\u00e1de\u017ee"
     ],
     "name:dan_x_preferred":[
         "Isla de la Juventud"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Isla de la Juventud"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03c3\u03bb\u03b1 \u03b4\u03b5 \u03bb\u03b1 \u03a7\u03bf\u03c5\u03b2\u03b5\u03bd\u03c4\u03bf\u03cd\u03b4"
     ],
     "name:eng_x_preferred":[
         "Isla de la Juventud"
@@ -79,23 +73,20 @@
     "name:est_x_preferred":[
         "Juventud"
     ],
+    "name:eus_x_preferred":[
+        "Isla de la Juventud"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u0644\u0627 \u062f \u0644\u0627 \u062e\u0648\u0628\u0646\u062a\u0648\u062f"
+    ],
     "name:fin_x_preferred":[
         "Isla de la Juventud"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00eele de la Jeunesse"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10e3\u10d5\u10d4\u10dc\u10e2\u10e3\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Isla de la Juventud"
     ],
     "name:glg_x_preferred":[
         "Illa da Juventud"
-    ],
-    "name:gre_x_preferred":[
-        "\u038a\u03c3\u03bb\u03b1 \u03b4\u03b5 \u03bb\u03b1 \u03a7\u03bf\u03c5\u03b2\u03b5\u03bd\u03c4\u03bf\u03cd\u03b4"
     ],
     "name:guj_x_preferred":[
         "\u0a88\u0ab8\u0acd\u0ab2\u0abe \u0aa1\u0ac7 \u0ab2\u0abe \u0a9c\u0ac1\u0ab5\u0ac7\u0aa8\u0acd\u0a9f\u0ac1\u0aa1"
@@ -112,6 +103,9 @@
     "name:hun_x_preferred":[
         "Isla de la Juventud"
     ],
+    "name:hye_x_preferred":[
+        "\u053d\u0578\u0582\u057e\u0565\u0576\u057f\u0578\u0582\u0564"
+    ],
     "name:ind_x_preferred":[
         "Isla de la Juventud"
     ],
@@ -123,6 +117,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c87\u0cb8\u0ccd\u0cb2\u0cbe \u0ca1\u0cbf \u0cb2\u0cbe \u0c9c\u0cc1\u0cb5\u0cc6\u0c82\u0ca1\u0cc1\u0ca1\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10e3\u10d5\u10d4\u10dc\u10e2\u10e3\u10d3\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0425\u0443\u0432\u0435\u043d\u0442\u0443\u0434"
@@ -139,23 +136,23 @@
     "name:lit_x_preferred":[
         "Chuventudo sala"
     ],
-    "name:mac_x_preferred":[
-        "\u0418\u0441\u043b\u0430 \u0434\u0435 \u043b\u0430 \u0425\u0443\u0432\u0435\u043d\u0442\u0443\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0907\u0938\u094d\u0932\u093e \u0926\u0947 \u0932\u093e \u091c\u093e\u0935\u0947\u0902\u091f\u094d\u092f\u0942\u0921"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0418\u0441\u043b\u0430 \u0434\u0435 \u043b\u0430 \u0425\u0443\u0432\u0435\u043d\u0442\u0443\u0434"
+    ],
+    "name:msa_x_preferred":[
         "Isla de la Juventud"
     ],
     "name:nan_x_preferred":[
         "Isla de la Juventud S\u00e9ng"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Isla de la Juventud"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0633\u0644\u0627 \u062f \u0644\u0627 \u062e\u0648\u0628\u0646\u062a\u0648\u062f"
+    "name:nob_x_preferred":[
+        "Isla de la Juventud"
     ],
     "name:pol_x_preferred":[
         "Isla de la Juventud"
@@ -202,6 +199,9 @@
     "name:war_x_preferred":[
         "Isla de la Juventud"
     ],
+    "name:zho_x_preferred":[
+        "\u9752\u5e74\u5c9b"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -238,7 +238,7 @@
         }
     ],
     "wof:id":1091906563,
-    "wof:lastmodified":1553717962,
+    "wof:lastmodified":1561766473,
     "wof:name":"Municipio Especial Isla De La Juventud",
     "wof:parent_id":85670405,
     "wof:placetype":"county",

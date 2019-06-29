@@ -19,22 +19,13 @@
     "name:cat_x_preferred":[
         "Col\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u9686"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Col\u00f3n"
     ],
     "name:eng_x_preferred":[
         "Col\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "Col\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10da\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Col\u00f3n"
     ],
     "name:ita_x_preferred":[
@@ -49,6 +40,9 @@
     "name:lit_x_preferred":[
         "Kolonas"
     ],
+    "name:nld_x_preferred":[
+        "Col\u00f3n"
+    ],
     "name:oci_x_preferred":[
         "Col\u00f3n"
     ],
@@ -58,7 +52,7 @@
     "name:por_x_preferred":[
         "Col\u00f3n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Col\u00f3n"
     ],
     "name:rus_x_preferred":[
@@ -213,7 +207,7 @@
         }
     ],
     "wof:id":890444801,
-    "wof:lastmodified":1553816401,
+    "wof:lastmodified":1561766484,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":1091904143,
     "wof:placetype":"locality",

@@ -16,31 +16,16 @@
     "name:ceb_x_preferred":[
         "Municipio de Vi\u00f1ales"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u5c3c\u4e9e\u840a\u65af"
-    ],
     "name:dan_x_preferred":[
         "Vi\u00f1ales"
     ],
     "name:deu_x_preferred":[
         "Vi\u00f1ales"
     ],
-    "name:dut_x_preferred":[
-        "Vi\u00f1ales"
-    ],
     "name:eng_x_preferred":[
         "Vi\u00f1ales"
     ],
     "name:fra_x_preferred":[
-        "Vi\u00f1ales"
-    ],
-    "name:fre_x_preferred":[
-        "Vi\u00f1ales"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10dc\u10d8\u10d0\u10da\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Vi\u00f1ales"
     ],
     "name:hat_x_preferred":[
@@ -72,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Vi\u00f1ales"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u5c3c\u4e9e\u840a\u65af"
     ],
     "qs:gn_country":"CU",
     "qs:gn_fcode":"PPL",
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":421169359,
-    "wof:lastmodified":1527716170,
+    "wof:lastmodified":1561766480,
     "wof:name":"Vi\u00f1ales",
     "wof:parent_id":1091908691,
     "wof:placetype":"locality",

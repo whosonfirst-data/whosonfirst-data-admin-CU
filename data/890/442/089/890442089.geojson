@@ -22,10 +22,7 @@
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b0\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u9686"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mor\u00f3n"
     ],
     "name:dan_x_preferred":[
@@ -34,8 +31,8 @@
     "name:deu_x_preferred":[
         "Mor\u00f3n"
     ],
-    "name:dut_x_preferred":[
-        "Mor\u00f3n"
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c1\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Mor\u00f3n"
@@ -45,18 +42,6 @@
     ],
     "name:fra_x_preferred":[
         "Mor\u00f3n"
-    ],
-    "name:fre_x_preferred":[
-        "Mor\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10e0\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Mor\u00f3n"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c1\u03cc\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab0\u0acb\u0aa8"
@@ -94,8 +79,11 @@
     "name:mar_x_preferred":[
         "\u092e\u0949\u0930\u094b\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Moron"
+    ],
+    "name:nld_x_preferred":[
+        "Mor\u00f3n"
     ],
     "name:nob_x_preferred":[
         "Moron"
@@ -106,7 +94,7 @@
     "name:por_x_preferred":[
         "Mor\u00f3n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mor\u00f3n"
     ],
     "name:rus_x_preferred":[
@@ -278,7 +266,7 @@
         }
     ],
     "wof:id":890442089,
-    "wof:lastmodified":1553816399,
+    "wof:lastmodified":1561766484,
     "wof:name":"Mor\u00f3n",
     "wof:parent_id":1091906525,
     "wof:placetype":"locality",

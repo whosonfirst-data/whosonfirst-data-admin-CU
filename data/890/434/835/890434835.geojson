@@ -18,22 +18,16 @@
     "name:cat_x_preferred":[
         "Mariel"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u91cc\u57c3\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mariel"
     ],
     "name:eng_x_preferred":[
         "Mariel"
     ],
-    "name:fre_x_preferred":[
-        "Mariel"
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0644\u060c \u06a9\u0648\u0628\u0627"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10d8\u10d4\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mariel"
     ],
     "name:ita_x_preferred":[
@@ -42,7 +36,13 @@
     "name:jpn_x_preferred":[
         "\u30de\u30ea\u30a8\u30eb"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d8\u10d4\u10da\u10d8"
+    ],
     "name:nau_x_preferred":[
+        "Mariel"
+    ],
+    "name:nld_x_preferred":[
         "Mariel"
     ],
     "name:nob_x_preferred":[
@@ -50,9 +50,6 @@
     ],
     "name:oci_x_preferred":[
         "Mariel"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0631\u06cc\u0644\u060c \u06a9\u0648\u0628\u0627"
     ],
     "name:por_x_preferred":[
         "Mariel"
@@ -74,6 +71,9 @@
     ],
     "name:vie_x_preferred":[
         "Mariel"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u91cc\u57c3\u723e"
     ],
     "qs:name":"Mariel",
     "qs:photos_9r":0,
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":890434835,
-    "wof:lastmodified":1553816396,
+    "wof:lastmodified":1561766485,
     "wof:name":"Mariel",
     "wof:parent_id":1091906179,
     "wof:placetype":"locality",
