@@ -33,14 +33,14 @@
     "name:cat_x_preferred":[
         "El Cerro"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u7f85"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Cerro"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cerro"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03c1\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Cerro"
@@ -49,26 +49,23 @@
         "Plaza De La Revolucion",
         "Cerro"
     ],
-    "name:fre_x_preferred":[
-        "Cerro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cerro"
     ],
     "name:glg_x_preferred":[
         "El Cerro"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03ad\u03c1\u03c1\u03bf"
     ],
     "name:ita_x_preferred":[
         "Cerro"
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30fb\u30bb\u30ed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10e0\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "Cerro"
     ],
     "name:por_x_preferred":[
         "El Cerro"
@@ -78,6 +75,9 @@
     ],
     "name:swe_x_preferred":[
         "Cerro"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u7f85"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1091903863,
-    "wof:lastmodified":1555037696,
+    "wof:lastmodified":1561766477,
     "wof:name":"Cerro",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

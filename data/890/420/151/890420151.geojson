@@ -18,16 +18,16 @@
     "name:bre_x_preferred":[
         "Soroa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Soroa"
     ],
     "name:eng_x_preferred":[
         "Soroa"
     ],
-    "name:ger_x_preferred":[
+    "name:hat_x_preferred":[
         "Soroa"
     ],
-    "name:hat_x_preferred":[
+    "name:nld_x_preferred":[
         "Soroa"
     ],
     "name:rus_x_preferred":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":890420151,
-    "wof:lastmodified":1553816392,
+    "wof:lastmodified":1561766484,
     "wof:name":"Soroa",
     "wof:parent_id":1091903705,
     "wof:placetype":"locality",

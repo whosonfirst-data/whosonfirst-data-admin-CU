@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0643\u0644\u0627\u0631\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Santa Clara"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0995\u09cd\u09b2\u09be\u09b0\u09be"
     ],
@@ -31,19 +28,13 @@
     "name:cat_x_preferred":[
         "Santa Clara"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u514b\u62c9\u62c9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Santa Clara"
     ],
     "name:dan_x_preferred":[
         "Santa Clara"
     ],
     "name:deu_x_preferred":[
-        "Santa Clara"
-    ],
-    "name:dut_x_preferred":[
         "Santa Clara"
     ],
     "name:ell_x_preferred":[
@@ -55,6 +46,9 @@
     "name:epo_x_preferred":[
         "Santa Clara"
     ],
+    "name:eus_x_preferred":[
+        "Santa Clara"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0644\u0627\u0631\u0627"
     ],
@@ -64,20 +58,8 @@
     "name:fra_x_preferred":[
         "Santa Clara"
     ],
-    "name:fre_x_preferred":[
-        "Santa Clara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d9\u10da\u10d0\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Santa Clara"
-    ],
     "name:glg_x_preferred":[
         "Santa Clara"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039a\u03bb\u03ac\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0abe \u0a95\u0acd\u0ab2\u0abe\u0ab0\u0abe"
@@ -124,7 +106,7 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0902\u091f\u093e \u0915\u094d\u0932\u0947\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Santa Clara"
     ],
     "name:nan_x_preferred":[
@@ -139,16 +121,13 @@
     "name:nob_x_preferred":[
         "Santa Clara"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0644\u0627\u0631\u0627"
-    ],
     "name:pol_x_preferred":[
         "Santa Clara"
     ],
     "name:por_x_preferred":[
         "Santa Clara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Santa Clara"
     ],
     "name:rus_x_preferred":[
@@ -327,7 +306,7 @@
         }
     ],
     "wof:id":890444793,
-    "wof:lastmodified":1527782133,
+    "wof:lastmodified":1561766483,
     "wof:name":"Santa Clara",
     "wof:parent_id":1091908009,
     "wof:placetype":"locality",

@@ -18,26 +18,23 @@
     "name:cat_x_preferred":[
         "Gibara"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u5e0c\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Gibara"
-    ],
     "name:eng_x_preferred":[
         "Gibara"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gibara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d8\u10d1\u10d0\u10e0\u10d0"
     ],
     "name:ita_x_preferred":[
         "Gibara"
     ],
     "name:jpn_x_preferred":[
         "\u30d2\u30d0\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d8\u10d1\u10d0\u10e0\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Gibara"
     ],
     "name:pol_x_preferred":[
         "Gibara"
@@ -56,6 +53,9 @@
     ],
     "name:vie_x_preferred":[
         "Gibara"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u5e0c\u62c9"
     ],
     "qs:name":"Gibara",
     "qs:photos_9r":0,
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":890440889,
-    "wof:lastmodified":1527727102,
+    "wof:lastmodified":1561766482,
     "wof:name":"Gibara",
     "wof:parent_id":1091904693,
     "wof:placetype":"locality",

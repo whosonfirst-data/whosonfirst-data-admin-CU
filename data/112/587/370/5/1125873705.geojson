@@ -22,22 +22,13 @@
     "name:cat_x_preferred":[
         "Bataban\u00f3"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5854\u74e6\u8afe"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bataban\u00f3"
     ],
     "name:eng_x_preferred":[
         "Bataban\u00f3"
     ],
-    "name:fre_x_preferred":[
-        "Bataban\u00f3"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e2\u10d0\u10d1\u10d0\u10dc\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bataban\u00f3"
     ],
     "name:hat_x_preferred":[
@@ -48,6 +39,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30bf\u30d0\u30ce"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e2\u10d0\u10d1\u10d0\u10dc\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "Bataban\u00f3"
     ],
     "name:por_x_preferred":[
         "Bataban\u00f3"
@@ -66,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Bataban\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5854\u74e6\u8afe"
     ],
     "qs_pg:aaroncc":"CU",
     "qs_pg:gn_country":"CU",
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1125873705,
-    "wof:lastmodified":1553816589,
+    "wof:lastmodified":1561766487,
     "wof:name":"Bataban\u00f3",
     "wof:parent_id":1091903035,
     "wof:placetype":"locality",

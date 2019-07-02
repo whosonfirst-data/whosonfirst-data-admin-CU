@@ -16,28 +16,13 @@
     "name:ceb_x_preferred":[
         "Municipio de Consolaci\u00f3n del Sur"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u5b54\u7d22\u62c9\u897f\u7fc1"
-    ],
     "name:deu_x_preferred":[
-        "Consolaci\u00f3n del Sur"
-    ],
-    "name:dut_x_preferred":[
         "Consolaci\u00f3n del Sur"
     ],
     "name:eng_x_preferred":[
         "Consolaci\u00f3n del Sur"
     ],
     "name:fra_x_preferred":[
-        "Consolaci\u00f3n del Sur"
-    ],
-    "name:fre_x_preferred":[
-        "Consolaci\u00f3n del Sur"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10dc\u10e1\u10dd\u10da\u10d0\u10e1\u10d8\u10dd\u10dc-\u10d3\u10d4\u10da-\u10e1\u10e3\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Consolaci\u00f3n del Sur"
     ],
     "name:hat_x_preferred":[
@@ -69,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Consolaci\u00f3n del Sur"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5b54\u7d22\u62c9\u897f\u7fc1"
     ],
     "qs:gn_country":"CU",
     "qs:gn_fcode":"PPL",
@@ -117,7 +105,7 @@
         }
     ],
     "wof:id":421176205,
-    "wof:lastmodified":1527726471,
+    "wof:lastmodified":1561766482,
     "wof:name":"Consolaci\u00f3n del Sur",
     "wof:parent_id":1091904175,
     "wof:placetype":"locality",

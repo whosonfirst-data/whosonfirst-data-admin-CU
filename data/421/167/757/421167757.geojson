@@ -16,28 +16,13 @@
     "name:ceb_x_preferred":[
         "Municipio de Jovellanos"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u97cb\u4e9e\u8afe\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Jovellanos"
-    ],
-    "name:dut_x_preferred":[
         "Jovellanos"
     ],
     "name:eng_x_preferred":[
         "Jovellanos"
     ],
     "name:fra_x_preferred":[
-        "Jovellanos"
-    ],
-    "name:fre_x_preferred":[
-        "Jovellanos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10dd\u10d5\u10d4\u10da\u10d8\u10d0\u10dc\u10dd\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Jovellanos"
     ],
     "name:ita_x_preferred":[
@@ -122,7 +107,7 @@
         }
     ],
     "wof:id":421167757,
-    "wof:lastmodified":1527716158,
+    "wof:lastmodified":1561766480,
     "wof:name":"Jovellanos",
     "wof:parent_id":1091905493,
     "wof:placetype":"locality",

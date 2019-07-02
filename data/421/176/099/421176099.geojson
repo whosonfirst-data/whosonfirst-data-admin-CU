@@ -22,31 +22,16 @@
     "name:ceb_x_preferred":[
         "Municipio de G\u00fcines"
     ],
-    "name:chi_x_preferred":[
-        "\u572d\u5167\u65af"
-    ],
     "name:dan_x_preferred":[
         "G\u00fcines"
     ],
     "name:deu_x_preferred":[
         "G\u00fcines"
     ],
-    "name:dut_x_preferred":[
-        "G\u00fcines"
-    ],
     "name:eng_x_preferred":[
         "G\u00fcines"
     ],
     "name:fra_x_preferred":[
-        "G\u00fcines"
-    ],
-    "name:fre_x_preferred":[
-        "G\u00fcines"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d8\u10dc\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "G\u00fcines"
     ],
     "name:hat_x_preferred":[
@@ -61,6 +46,9 @@
     "name:kat_x_preferred":[
         "\u10d2\u10e3\u10d8\u10dc\u10d4\u10e1\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "G\u00fcines"
+    ],
     "name:nno_x_preferred":[
         "G\u00fcines"
     ],
@@ -73,7 +61,7 @@
     "name:por_x_preferred":[
         "G\u00fcines"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "G\u00fcines"
     ],
     "name:rus_x_preferred":[
@@ -99,6 +87,9 @@
     ],
     "name:vie_x_preferred":[
         "G\u00fcines"
+    ],
+    "name:zho_x_preferred":[
+        "\u572d\u5167\u65af"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -154,7 +145,7 @@
         }
     ],
     "wof:id":421176099,
-    "wof:lastmodified":1527726471,
+    "wof:lastmodified":1561766482,
     "wof:name":"G\u00fcines",
     "wof:parent_id":1091904955,
     "wof:placetype":"locality",

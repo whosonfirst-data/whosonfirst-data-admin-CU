@@ -22,17 +22,14 @@
     "name:ceb_x_preferred":[
         "Moa"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Moa"
     ],
     "name:deu_x_preferred":[
         "Moa"
     ],
-    "name:dut_x_preferred":[
-        "Moa"
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Moa"
@@ -42,18 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Moa"
-    ],
-    "name:fre_x_preferred":[
-        "Moa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Moa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a86"
@@ -88,7 +73,10 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Moa"
+    ],
+    "name:nld_x_preferred":[
         "Moa"
     ],
     "name:nob_x_preferred":[
@@ -198,7 +186,7 @@
         }
     ],
     "wof:id":421204443,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1561766480,
     "wof:name":"Moa",
     "wof:parent_id":1091906483,
     "wof:placetype":"locality",

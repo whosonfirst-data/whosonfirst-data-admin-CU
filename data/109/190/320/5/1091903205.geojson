@@ -33,22 +33,13 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0439\u0435\u0440\u043e\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u8036\u7f85\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Boyeros"
     ],
     "name:eng_x_preferred":[
         "Boyeros"
     ],
-    "name:fre_x_preferred":[
-        "Boyeros"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10d8\u10d4\u10e0\u10dd\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Boyeros"
     ],
     "name:hat_x_preferred":[
@@ -58,6 +49,12 @@
         "Boyeros"
     ],
     "name:ita_x_preferred":[
+        "Boyeros"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d8\u10d4\u10e0\u10dd\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Boyeros"
     ],
     "name:rus_x_preferred":[
@@ -71,6 +68,9 @@
     ],
     "name:vie_x_preferred":[
         "Boyeros"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u8036\u7f85\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1091903205,
-    "wof:lastmodified":1553717956,
+    "wof:lastmodified":1561766476,
     "wof:name":"Boyeros",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

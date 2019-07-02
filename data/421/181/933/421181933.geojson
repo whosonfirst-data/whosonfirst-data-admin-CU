@@ -16,29 +16,20 @@
     "name:ceb_x_preferred":[
         "Cueto"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u57c3\u6258"
-    ],
-    "name:dut_x_preferred":[
-        "Cueto"
-    ],
     "name:eng_x_preferred":[
         "Cueto"
     ],
     "name:fra_x_preferred":[
         "Cueto"
     ],
-    "name:fre_x_preferred":[
-        "Cueto"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10d4\u10e2\u10dd"
-    ],
     "name:ita_x_preferred":[
         "Cueto"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10e3\u10d4\u10e2\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "Cueto"
     ],
     "name:por_x_preferred":[
         "Cueto"
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":421181933,
-    "wof:lastmodified":1527716327,
+    "wof:lastmodified":1561766481,
     "wof:name":"Cueto",
     "wof:parent_id":1091904361,
     "wof:placetype":"locality",

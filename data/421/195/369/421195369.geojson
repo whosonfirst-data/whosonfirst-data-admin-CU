@@ -19,28 +19,16 @@
     "name:ceb_x_preferred":[
         "Municipio de Mayar\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u4e9e\u91cc"
-    ],
-    "name:deu_x_preferred":[
+    "name:cym_x_preferred":[
         "Mayar\u00ed"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mayar\u00ed"
     ],
     "name:eng_x_preferred":[
         "Mayar\u00ed"
     ],
     "name:fra_x_preferred":[
-        "Mayar\u00ed"
-    ],
-    "name:fre_x_preferred":[
-        "Mayar\u00ed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d8\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Mayar\u00ed"
     ],
     "name:ita_x_preferred":[
@@ -88,8 +76,8 @@
     "name:vie_x_preferred":[
         "Mayar\u00ed"
     ],
-    "name:wel_x_preferred":[
-        "Mayar\u00ed"
+    "name:zho_x_preferred":[
+        "\u99ac\u4e9e\u91cc"
     ],
     "qs:gn_country":"CU",
     "qs:gn_fcode":"PPL",
@@ -139,7 +127,7 @@
         }
     ],
     "wof:id":421195369,
-    "wof:lastmodified":1527716122,
+    "wof:lastmodified":1561766479,
     "wof:name":"Mayar\u00ed",
     "wof:parent_id":1091906305,
     "wof:placetype":"locality",

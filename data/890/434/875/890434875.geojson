@@ -18,22 +18,16 @@
     "name:cat_x_preferred":[
         "Bejucal"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u80e1\u5361\u723e"
+    "name:cym_x_preferred":[
+        "Bejucal"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bejucal"
     ],
     "name:eng_x_preferred":[
         "Bejucal"
     ],
-    "name:fre_x_preferred":[
-        "Bejucal"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10ee\u10e3\u10d9\u10d0\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bejucal"
     ],
     "name:glg_x_preferred":[
@@ -50,6 +44,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10ee\u10e3\u10d9\u10d0\u10da\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Bejucal"
     ],
     "name:pol_x_preferred":[
         "Bejucal"
@@ -76,9 +73,6 @@
         "Bejucall"
     ],
     "name:vie_x_preferred":[
-        "Bejucal"
-    ],
-    "name:wel_x_preferred":[
         "Bejucal"
     ],
     "name:zho_x_preferred":[
@@ -117,7 +111,7 @@
         }
     ],
     "wof:id":890434875,
-    "wof:lastmodified":1553816396,
+    "wof:lastmodified":1561766485,
     "wof:name":"Bejucal",
     "wof:parent_id":1091903147,
     "wof:placetype":"locality",

@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u0627\u0646\u0645\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Granmako probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0413\u0440\u0430\u043d\u043c\u0430"
     ],
@@ -47,14 +44,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Granma"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u62c9\u739b\u7701"
-    ],
     "name:dan_x_preferred":[
         "Granma Provinsen"
     ],
-    "name:dut_x_preferred":[
-        "Granma"
+    "name:deu_x_preferred":[
+        "Provinz Granma"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03ac\u03bd\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Granma"
@@ -65,23 +62,20 @@
     "name:est_x_preferred":[
         "Granma provints"
     ],
+    "name:eus_x_preferred":[
+        "Granmako probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0631\u0627\u0646\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Granma"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Granma"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e0\u10d0\u10dc\u10db\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Granma"
     ],
     "name:glg_x_preferred":[
         "Provincia de Granma"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03c1\u03ac\u03bd\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab0\u0abe\u0aa8\u0aae\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -107,6 +101,9 @@
     "name:kan_x_preferred":[
         "\u0c97\u0ccd\u0cb0\u0ccd\u0caf\u0cbe\u0ca8\u0ccd\u0cae\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10dc\u10db\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uadf8\ub780\ub9c8 \uc8fc"
     ],
@@ -119,23 +116,23 @@
     "name:lit_x_preferred":[
         "Granmos provincija"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u0440\u0430\u043d\u043c\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u0945\u0928\u092e\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u043c\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Granma Province"
     ],
     "name:nan_x_preferred":[
         "Granma S\u00e9ng"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Granma"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0631\u0627\u0646\u0645\u0627"
+    "name:nob_x_preferred":[
+        "Granma"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06af\u0631\u0627\u0646\u0645\u0627"
@@ -199,6 +196,9 @@
     ],
     "name:war_x_preferred":[
         "Granma"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u739b\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CUB",
@@ -323,7 +323,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550359,
+    "wof:lastmodified":1561766442,
     "wof:name":"Granma",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u0641\u0648\u064a\u063a\u0648\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Cienfuegosko probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u044c\u0435\u043d\u0444\u0443\u044d\u0433\u0430\u0441"
     ],
@@ -44,38 +41,35 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0435\u043d\u0444\u0443\u0435\u0433\u043e\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u6069\u5bcc\u6208\u65af\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Cienfuegos"
     ],
     "name:dan_x_preferred":[
         "Cienfuegos Provinsen"
     ],
-    "name:dut_x_preferred":[
-        "Cienfuegos"
+    "name:deu_x_preferred":[
+        "Provinz Cienfuegos"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03b5\u03bd\u03c6\u03bf\u03c5\u03ad\u03b3\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Cienfuegos"
     ],
+    "name:eus_x_preferred":[
+        "Cienfuegosko probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u0646\u0641\u06cc\u0648\u06af\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Cienfuegos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Cienfuegos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10d4\u10dc\u10e4\u10e3\u10d4\u10d2\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Cienfuegos"
     ],
     "name:glg_x_preferred":[
         "Provincia de Cienfuegos"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03b5\u03bd\u03c6\u03bf\u03c5\u03ad\u03b3\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0a8f\u0aa8\u0aab\u0acd\u0aaf\u0ac1\u0a97\u0acb\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -101,6 +95,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0ca8\u0ccd\u0cab\u0ccd\u0caf\u0cc2\u0c97\u0cca\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10d4\u10dc\u10e4\u10e3\u10d4\u10d2\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc2dc\uc5d4\ud478\uc5d0\uace0\uc2a4 \uc8fc"
     ],
@@ -113,23 +110,23 @@
     "name:ltz_x_preferred":[
         "Prov\u00ebnz Cienfuegos"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0438\u0435\u043d\u0444\u0443\u0435\u0433\u043e\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u090f\u0928\u092b\u094d\u092f\u0942\u0917\u094b\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u0435\u043d\u0444\u0443\u0435\u0433\u043e\u0441"
+    ],
+    "name:msa_x_preferred":[
         "Cienfuegos Province"
     ],
     "name:nan_x_preferred":[
         "Cienfuegos S\u00e9ng"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Cienfuegos"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u0646\u0641\u06cc\u0648\u06af\u0648\u0633"
+    "name:nob_x_preferred":[
+        "Cienfuegos"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u06cc\u0646\u0641\u06cc\u0648\u06af\u0648\u0633"
@@ -190,6 +187,9 @@
     ],
     "name:war_x_preferred":[
         "Cienfuegos"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u6069\u5bcc\u6208\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CUB",
@@ -314,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550352,
+    "wof:lastmodified":1561766441,
     "wof:name":"Cienfuegos",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

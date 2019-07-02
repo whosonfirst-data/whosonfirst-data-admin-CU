@@ -15,25 +15,22 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6069\u514b\u9b6f\u897f\u54c8\u9054"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Encrucijada"
     ],
     "name:eng_x_preferred":[
         "Encrucijada"
     ],
-    "name:fre_x_preferred":[
-        "Encrucijada"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10dc\u10d9\u10e0\u10e3\u10e1\u10d8\u10ee\u10d0\u10d3\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Encrucijada"
     ],
     "name:ita_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10dc\u10d9\u10e0\u10e3\u10e1\u10d8\u10ee\u10d0\u10d3\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Encrucijada"
     ],
     "name:pol_x_preferred":[
@@ -53,6 +50,9 @@
     ],
     "name:vie_x_preferred":[
         "Encrucijada"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u514b\u9b6f\u897f\u54c8\u9054"
     ],
     "qs:name":"Encrucijada",
     "qs:photos_9r":0,
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":890451713,
-    "wof:lastmodified":1527792938,
+    "wof:lastmodified":1561766485,
     "wof:name":"Encrucijada",
     "wof:parent_id":1091904483,
     "wof:placetype":"locality",

@@ -25,9 +25,6 @@
     "name:afr_x_preferred":[
         "Havana"
     ],
-    "name:alb_x_preferred":[
-        "Havana"
-    ],
     "name:amh_x_preferred":[
         "\u1200\u1296\u12ed"
     ],
@@ -43,9 +40,6 @@
     "name:arg_x_preferred":[
         "LHabana"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u057e\u0561\u0576\u0561"
-    ],
     "name:ast_x_preferred":[
         "LHabana"
     ],
@@ -57,9 +51,6 @@
     ],
     "name:aze_x_preferred":[
         "Havana"
-    ],
-    "name:baq_x_preferred":[
-        "Habana"
     ],
     "name:bcl_x_preferred":[
         "Habana"
@@ -82,9 +73,6 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0432\u0430\u043d\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u101f\u102c\u1017\u102c\u1038\u1014\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "LHavana"
     ],
@@ -97,9 +85,6 @@
     "name:che_x_preferred":[
         "\u0413\u0430\u0432\u0430\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u74e6\u90a3"
-    ],
     "name:chv_x_preferred":[
         "\u0413\u0430\u0432\u0430\u043d\u0430"
     ],
@@ -109,8 +94,8 @@
     "name:cor_x_preferred":[
         "La Habana"
     ],
-    "name:cze_x_preferred":[
-        "Havana"
+    "name:cym_x_preferred":[
+        "La Habana"
     ],
     "name:dan_x_preferred":[
         "Havana"
@@ -119,9 +104,6 @@
         "Havanna"
     ],
     "name:diq_x_preferred":[
-        "Havana"
-    ],
-    "name:dut_x_preferred":[
         "Havana"
     ],
     "name:ell_x_preferred":[
@@ -154,17 +136,8 @@
     "name:fra_x_preferred":[
         "La Havane"
     ],
-    "name:fre_x_preferred":[
-        "La Havane"
-    ],
     "name:fry_x_preferred":[
         "Havana"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10d5\u10d0\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Havanna"
     ],
     "name:gla_x_preferred":[
         "Havana"
@@ -174,9 +147,6 @@
     ],
     "name:glg_x_preferred":[
         "A Habana"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b2\u03ac\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ab5\u0abe\u0aa8\u0abe"
@@ -208,9 +178,6 @@
     "name:hye_x_preferred":[
         "\u0540\u0561\u057e\u0561\u0576\u0561"
     ],
-    "name:ice_x_preferred":[
-        "Havana"
-    ],
     "name:ido_x_preferred":[
         "Havana"
     ],
@@ -218,6 +185,9 @@
         "Havana"
     ],
     "name:ind_x_preferred":[
+        "Havana"
+    ],
+    "name:isl_x_preferred":[
         "Havana"
     ],
     "name:ita_x_preferred":[
@@ -277,17 +247,11 @@
     "name:ltz_x_preferred":[
         "Havanna"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0430\u0432\u0430\u043d\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d39\u0d35\u0d3e\u0d28"
     ],
     "name:mar_x_preferred":[
         "\u0939\u0935\u093e\u0928\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Havana"
     ],
     "name:mhr_x_preferred":[
         "\u0413\u0430\u0432\u0430\u043d\u0435"
@@ -303,6 +267,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0413\u0430\u0432\u0430\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Havana"
     ],
     "name:mya_x_preferred":[
         "\u101f\u102c\u1017\u102c\u1038\u1014\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
@@ -346,9 +313,6 @@
     "name:pap_x_preferred":[
         "Havana"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0648\u0627\u0646\u0627"
-    ],
     "name:pms_x_preferred":[
         "LAvan-a"
     ],
@@ -368,9 +332,6 @@
         "La Habana"
     ],
     "name:ron_x_preferred":[
-        "Havana"
-    ],
-    "name:rum_x_preferred":[
         "Havana"
     ],
     "name:rup_x_preferred":[
@@ -394,9 +355,6 @@
     "name:slk_x_preferred":[
         "Havana"
     ],
-    "name:slo_x_preferred":[
-        "Havana"
-    ],
     "name:slv_x_preferred":[
         "Havana"
     ],
@@ -405,6 +363,9 @@
     ],
     "name:spa_x_preferred":[
         "La Habana"
+    ],
+    "name:sqi_x_preferred":[
+        "Havana"
     ],
     "name:srd_x_preferred":[
         "La Havana"
@@ -445,9 +406,6 @@
     "name:tha_x_preferred":[
         "\u0e2e\u0e32\u0e27\u0e32\u0e19\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f67\u0f0b\u0f5d\u0f53"
-    ],
     "name:tuk_x_preferred":[
         "Gawana"
     ],
@@ -479,9 +437,6 @@
         "La Habana"
     ],
     "name:war_x_preferred":[
-        "La Habana"
-    ],
-    "name:wel_x_preferred":[
         "La Habana"
     ],
     "name:wuu_x_preferred":[
@@ -544,7 +499,7 @@
         }
     ],
     "wof:id":1125939059,
-    "wof:lastmodified":1534379263,
+    "wof:lastmodified":1561766486,
     "wof:name":"Havana",
     "wof:parent_id":1091907125,
     "wof:placetype":"locality",

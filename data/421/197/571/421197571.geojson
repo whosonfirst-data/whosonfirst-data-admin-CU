@@ -19,29 +19,20 @@
     "name:ceb_x_preferred":[
         "Guisa"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u85a9"
-    ],
-    "name:dut_x_preferred":[
-        "Guisa"
-    ],
     "name:eng_x_preferred":[
         "Guisa"
     ],
     "name:fra_x_preferred":[
         "Guisa"
     ],
-    "name:fre_x_preferred":[
-        "Guisa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d8\u10e1\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Guisa"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10e3\u10d8\u10e1\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Guisa"
     ],
     "name:pol_x_preferred":[
         "Guisa"
@@ -108,7 +99,7 @@
         }
     ],
     "wof:id":421197571,
-    "wof:lastmodified":1527716407,
+    "wof:lastmodified":1561766481,
     "wof:name":"Guisa",
     "wof:parent_id":1091905039,
     "wof:placetype":"locality",
