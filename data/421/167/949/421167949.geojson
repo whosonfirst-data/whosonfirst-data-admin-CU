@@ -46,6 +46,9 @@
     "name:por_x_preferred":[
         "Quemado de G\u00fcines"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0430"
+    ],
     "name:sco_x_preferred":[
         "Quemado de G\u00fcines"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421167949,
-    "wof:lastmodified":1561766480,
+    "wof:lastmodified":1563321487,
     "wof:name":"Quemado de G\u00fcines",
     "wof:parent_id":1091907209,
     "wof:placetype":"locality",

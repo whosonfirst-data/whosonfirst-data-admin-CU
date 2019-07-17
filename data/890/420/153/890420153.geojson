@@ -15,8 +15,26 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0430\u043c\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Alamar"
+    ],
+    "name:eng_x_preferred":[
+        "Alamar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30de\u30eb"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0430\u043c\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Alamar"
+    ],
+    "name:swe_x_preferred":[
+        "Alamar"
     ],
     "name:unk_x_variant":[
         "Nueva Villa Real"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":890420153,
-    "wof:lastmodified":1527792810,
+    "wof:lastmodified":1563321545,
     "wof:name":"Alamar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

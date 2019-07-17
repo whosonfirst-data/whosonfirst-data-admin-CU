@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Calimete"
     ],
+    "name:ceb_x_preferred":[
+        "Calimete"
+    ],
     "name:deu_x_preferred":[
         "Calimete"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890434839,
-    "wof:lastmodified":1561766486,
+    "wof:lastmodified":1563321566,
     "wof:name":"Calimete",
     "wof:parent_id":1091903495,
     "wof:placetype":"locality",

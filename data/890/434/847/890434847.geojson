@@ -15,6 +15,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Baragu\u00e1"
+    ],
     "name:deu_x_preferred":[
         "Baragu\u00e1"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890434847,
-    "wof:lastmodified":1561766486,
+    "wof:lastmodified":1563321565,
     "wof:name":"Baragu\u00e1",
     "wof:parent_id":1091908603,
     "wof:placetype":"locality",

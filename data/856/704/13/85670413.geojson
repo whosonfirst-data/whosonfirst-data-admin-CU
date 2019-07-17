@@ -56,6 +56,9 @@
     "name:eng_x_preferred":[
         "Sancti Sp\u00edritus"
     ],
+    "name:eng_x_variant":[
+        "Sancti Sp\u00edritus Province"
+    ],
     "name:epo_x_preferred":[
         "Sancti Sp\u00edritus"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Sancti Sp\u00edritus"
+    ],
+    "name:fra_x_variant":[
+        "Sancti Sp\u00edritus"
     ],
     "name:glg_x_preferred":[
         "Provincia de Sancti Sp\u00edritus"
@@ -109,6 +115,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0c1\ud06c\ud2f0\uc2a4\ud53c\ub9ac\ud22c\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0c1\ud06c\ud2f0\uc2a4\ud53c\ub9ac\ud22c\uc2a4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Sanktispiritusas province"
@@ -179,6 +188,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e41\u0e0b\u0e19\u0e04\u0e4c\u0e15\u0e34 \u0e2a\u0e1b\u0e34\u0e23\u0e34\u0e17\u0e31\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e31\u0e07\u0e01\u0e4c\u0e15\u0e34\u0e40\u0e2d\u0e2a\u0e1b\u0e34\u0e23\u0e34\u0e15\u0e38\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Sancti Sp\u00edritus ili"
@@ -325,7 +337,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561766443,
+    "wof:lastmodified":1563319856,
     "wof:name":"Sancti Spiritus",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

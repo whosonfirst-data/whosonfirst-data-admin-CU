@@ -159,6 +159,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e25 \u0e1a\u0e32\u0e23\u0e4c\u0e42\u0e01 \u0e40\u0e14 \u0e2d\u0e1a\u0e35\u0e25\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e34\u0e40\u0e2d\u0e42\u0e01\u0e40\u0e14\u0e2d\u0e32\u0e1a\u0e34\u0e25\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Ciego de \u00c1vila ili"
     ],
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":1091903947,
-    "wof:lastmodified":1561766475,
+    "wof:lastmodified":1563321335,
     "wof:name":"Ciego De Avila",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

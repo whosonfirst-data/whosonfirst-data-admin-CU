@@ -66,8 +66,14 @@
     "name:eng_x_preferred":[
         "Isla de la Juventud"
     ],
+    "name:eng_x_variant":[
+        "Havana Province"
+    ],
     "name:epo_x_preferred":[
         "Insulo de la Junularo"
+    ],
+    "name:epo_x_variant":[
+        "Provinco Havano"
     ],
     "name:est_x_preferred":[
         "Juventud"
@@ -89,6 +95,9 @@
     ],
     "name:glg_x_preferred":[
         "Illa da Juventud"
+    ],
+    "name:glg_x_variant":[
+        "Provincia da Cidade da Habana"
     ],
     "name:hbs_x_preferred":[
         "Isla de la Juventud"
@@ -306,7 +315,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561766441,
+    "wof:lastmodified":1563319845,
     "wof:name":"Isla de la Juventud",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

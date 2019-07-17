@@ -24,6 +24,9 @@
     "name:fra_x_preferred":[
         "Gibara"
     ],
+    "name:hat_x_preferred":[
+        "Gibara"
+    ],
     "name:ita_x_preferred":[
         "Gibara"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890440889,
-    "wof:lastmodified":1561766482,
+    "wof:lastmodified":1563321528,
     "wof:name":"Gibara",
     "wof:parent_id":1091904693,
     "wof:placetype":"locality",

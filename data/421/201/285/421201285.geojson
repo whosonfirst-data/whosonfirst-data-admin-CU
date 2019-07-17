@@ -49,6 +49,9 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30e9\u30c7\u30fc\u30ed"
     ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30e9\u30c7\u30ed"
+    ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10e0\u10d0\u10d3\u10d4\u10e0\u10dd"
     ],
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421201285,
-    "wof:lastmodified":1561766482,
+    "wof:lastmodified":1563321513,
     "wof:name":"Varadero",
     "wof:parent_id":1091908591,
     "wof:placetype":"locality",

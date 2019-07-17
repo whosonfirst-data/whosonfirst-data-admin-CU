@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u0999\u09cd\u0995\u099f\u09bf \u09b8\u09cd\u09aa\u09bf\u09b0\u09bf\u09a4\u09be\u09b8"
     ],
+    "name:ceb_x_preferred":[
+        "Sancti Sp\u00edritus"
+    ],
     "name:ces_x_preferred":[
         "Sancti Sp\u00edritus"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:eng_x_preferred":[
         "Sancti Sp\u00edritus"
+    ],
+    "name:epo_x_preferred":[
+        "Sankta Spirito"
     ],
     "name:eus_x_preferred":[
         "Sancti Sp\u00edritus"
@@ -57,6 +63,9 @@
     ],
     "name:hat_x_preferred":[
         "Sancti Sp\u00edritus"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05e7\u05d8\u05d9 \u05e1\u05e4\u05d9\u05e8\u05d9\u05d8\u05d5\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0902\u0915\u094d\u091f\u0940 \u0938\u094d\u092a\u093f\u0930\u093f\u091f\u0938"
@@ -142,6 +151,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e31\u0e07\u0e15\u0e34 \u0e2a\u0e1b\u0e35\u0e23\u0e35\u0e15\u0e38\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e31\u0e07\u0e01\u0e4c\u0e15\u0e34\u0e40\u0e2d\u0e2a\u0e1b\u0e34\u0e23\u0e34\u0e15\u0e38\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Sancti Sp\u00edritus"
     ],
@@ -202,7 +214,7 @@
         }
     ],
     "wof:id":1125785267,
-    "wof:lastmodified":1561766487,
+    "wof:lastmodified":1563321581,
     "wof:name":"Sancti Sp\u00edritus",
     "wof:parent_id":1091907919,
     "wof:placetype":"locality",

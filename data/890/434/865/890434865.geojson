@@ -24,6 +24,9 @@
     "name:fra_x_preferred":[
         "Remedios"
     ],
+    "name:hat_x_preferred":[
+        "Remedios"
+    ],
     "name:ita_x_preferred":[
         "Remedios"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890434865,
-    "wof:lastmodified":1561766486,
+    "wof:lastmodified":1563321565,
     "wof:name":"Remedios",
     "wof:parent_id":1091907371,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Arroyo Naranjo"
+    ],
     "name:ceb_x_preferred":[
         "Arroyo Naranjo"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421202821,
-    "wof:lastmodified":1561766480,
+    "wof:lastmodified":1563321491,
     "wof:name":"Arroyo Naranjo",
     "wof:parent_id":1091903205,
     "wof:placetype":"locality",

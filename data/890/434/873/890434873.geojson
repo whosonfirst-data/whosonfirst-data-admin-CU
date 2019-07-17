@@ -18,8 +18,14 @@
     "name:ara_x_preferred":[
         "\u0641\u0644\u0648\u0631\u064a\u062f\u0627\u060c \u0643\u0648\u0628\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0641\u0644\u0648\u0631\u064a\u062f\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b2\u09cb\u09b0\u09bf\u09a1\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09ab\u09cd\u09b2\u09cb\u09b0\u09bf\u09a6\u09be"
     ],
     "name:dan_x_preferred":[
         "Florida"
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":890434873,
-    "wof:lastmodified":1561766485,
+    "wof:lastmodified":1563321556,
     "wof:name":"Florida",
     "wof:parent_id":1091904585,
     "wof:placetype":"locality",

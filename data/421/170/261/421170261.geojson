@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Guanajay"
     ],
+    "name:glg_x_preferred":[
+        "Guanajay"
+    ],
     "name:hat_x_preferred":[
         "Guanajay"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421170261,
-    "wof:lastmodified":1561766482,
+    "wof:lastmodified":1563321516,
     "wof:name":"Guanajay",
     "wof:parent_id":1091904827,
     "wof:placetype":"locality",

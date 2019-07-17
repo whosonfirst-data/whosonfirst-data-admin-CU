@@ -175,6 +175,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e2e\u0e25\u0e01\u0e27\u0e34\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e2d\u0e25\u0e01\u0e34\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Holgu\u00edn"
     ],
@@ -330,7 +333,7 @@
         }
     ],
     "wof:id":890442093,
-    "wof:lastmodified":1561766485,
+    "wof:lastmodified":1563321551,
     "wof:name":"Holgu\u00edn",
     "wof:parent_id":1091905117,
     "wof:placetype":"locality",

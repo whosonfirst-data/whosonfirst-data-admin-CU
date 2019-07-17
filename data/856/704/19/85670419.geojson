@@ -110,6 +110,9 @@
     "name:kor_x_preferred":[
         "\uc2dc\uc5d0\uace0\ub370\uc544\ube4c\ub77c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc2dc\uc5d0\uace0\ub370\uc544\ube4c\ub77c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Sjego de Avilas province"
     ],
@@ -176,6 +179,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e35\u0e22\u0e42\u0e01\u0e40\u0e14\u0e2d\u0e32\u0e1a\u0e35\u0e25\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e34\u0e40\u0e2d\u0e42\u0e01\u0e40\u0e14\u0e2d\u0e32\u0e1a\u0e34\u0e25\u0e32"
     ],
     "name:tur_x_preferred":[
         "Ciego de Avila Province"
@@ -322,7 +328,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561766442,
+    "wof:lastmodified":1563319847,
     "wof:name":"Ciego de \u00c1vila",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

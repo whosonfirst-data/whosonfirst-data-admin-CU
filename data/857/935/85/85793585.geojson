@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12088201.33994,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.291768,23.166792,-82.291768,23.166792",
     "geom:latitude":23.166792,
     "geom:longitude":-82.291768,
@@ -27,7 +27,28 @@
     "name:ces_x_preferred":[
         "Antonio Guiteras"
     ],
+    "name:dan_x_preferred":[
+        "Antonio Guiteras Holmes"
+    ],
+    "name:deu_x_preferred":[
+        "Antonio Guiteras"
+    ],
+    "name:eng_x_preferred":[
+        "Antonio Guiteras"
+    ],
     "name:epo_x_preferred":[
+        "Antonio Guiteras Holmes"
+    ],
+    "name:fra_x_preferred":[
+        "Antonio Guiteras"
+    ],
+    "name:nld_x_preferred":[
+        "Antonio Guiteras"
+    ],
+    "name:nno_x_preferred":[
+        "Antonio Guiteras Holmes"
+    ],
+    "name:nob_x_preferred":[
         "Antonio Guiteras Holmes"
     ],
     "name:pol_x_preferred":[
@@ -36,12 +57,24 @@
     "name:rus_x_preferred":[
         "\u0413\u0438\u0442\u0435\u0440\u0430\u0441"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u043d\u0442\u043e\u043d\u0438\u043e \u0413\u0438\u0442\u0435\u0440\u0430\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "Antonio Guiteras Holmes"
+    ],
     "name:spa_x_preferred":[
         "Antonio Guiteras",
         "Antonio Guiteras Holmes"
     ],
     "name:spa_x_variant":[
         "Guiteras"
+    ],
+    "name:sqi_x_preferred":[
+        "Antonio Guiteras"
+    ],
+    "name:swe_x_preferred":[
+        "Antonio Guiteras Holmes"
     ],
     "name:unk_x_variant":[
         "Antonio Guiteras"
@@ -73,10 +106,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":345,
     "wof:belongsto":[
+        85670445,
         102191575,
         85632675,
-        1091905073,
-        85670445
+        1091905073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +133,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531861390,
+    "wof:lastmodified":1563319840,
     "wof:name":"Antonio Guiteras",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -37,6 +37,9 @@
     "name:por_x_preferred":[
         "Quivic\u00e1n"
     ],
+    "name:por_x_variant":[
+        "Quivican"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0432\u0438\u043a\u0430\u043d"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421199331,
-    "wof:lastmodified":1561766481,
+    "wof:lastmodified":1563321509,
     "wof:name":"Quivic\u00e1n",
     "wof:parent_id":1091907223,
     "wof:placetype":"locality",

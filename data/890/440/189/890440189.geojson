@@ -22,10 +22,16 @@
     "name:bar_x_preferred":[
         "Banes"
     ],
+    "name:dan_x_preferred":[
+        "Banes"
+    ],
     "name:deu_x_preferred":[
         "Banes"
     ],
     "name:eng_x_preferred":[
+        "Banes"
+    ],
+    "name:fin_x_preferred":[
         "Banes"
     ],
     "name:fra_x_preferred":[
@@ -206,7 +212,7 @@
         }
     ],
     "wof:id":890440189,
-    "wof:lastmodified":1561766483,
+    "wof:lastmodified":1563321529,
     "wof:name":"Banes",
     "wof:parent_id":1091902915,
     "wof:placetype":"locality",

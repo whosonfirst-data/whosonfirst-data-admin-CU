@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Guisa"
     ],
+    "name:spa_x_preferred":[
+        "Guisa"
+    ],
     "name:swe_x_preferred":[
         "Guisa"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421197571,
-    "wof:lastmodified":1561766481,
+    "wof:lastmodified":1563321508,
     "wof:name":"Guisa",
     "wof:parent_id":1091905039,
     "wof:placetype":"locality",

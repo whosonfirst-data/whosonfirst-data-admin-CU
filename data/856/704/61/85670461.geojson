@@ -43,6 +43,12 @@
         "Havannassa",
         "Havannasta"
     ],
+    "name:hun_x_preferred":[
+        "Mayabeque"
+    ],
+    "name:ita_x_preferred":[
+        "Mayabeque"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30fb\u30cf\u30d0\u30ca"
     ],
@@ -129,7 +135,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550360,
+    "wof:lastmodified":1563319841,
     "wof:name":"Mayabeque",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

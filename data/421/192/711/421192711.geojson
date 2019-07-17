@@ -22,6 +22,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c5\u03c1\u03bb\u03cc\u03c4"
     ],
+    "name:eng_x_preferred":[
+        "Belote"
+    ],
     "name:fra_x_preferred":[
         "Belote"
     ],
@@ -37,11 +40,20 @@
     "name:lij_x_preferred":[
         "Belota"
     ],
+    "name:lim_x_preferred":[
+        "Klaverjasse"
+    ],
     "name:nld_x_preferred":[
         "Klaverjassen"
     ],
+    "name:nld_x_variant":[
+        "klaverjassen"
+    ],
     "name:ron_x_preferred":[
         "Belot\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0442"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0442"
@@ -70,10 +82,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":3854,
     "wof:belongsto":[
+        85670445,
         102191575,
         85632675,
-        1091907335,
-        85670445
+        1091907335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":421192711,
-    "wof:lastmodified":1531858700,
+    "wof:lastmodified":1563321485,
     "wof:name":"Belot",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

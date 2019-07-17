@@ -27,6 +27,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0627\u0631\u06cc\u0644\u060c \u06a9\u0648\u0628\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0631\u06cc\u0644"
+    ],
     "name:fra_x_preferred":[
         "Mariel"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":890434835,
-    "wof:lastmodified":1561766485,
+    "wof:lastmodified":1563321559,
     "wof:name":"Mariel",
     "wof:parent_id":1091906179,
     "wof:placetype":"locality",

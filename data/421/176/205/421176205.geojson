@@ -40,6 +40,9 @@
     "name:por_x_preferred":[
         "Consolaci\u00f3n del Sur"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u043e\u043b\u0430\u0441\u044c\u043e\u043d-\u0434\u0435\u043b\u044c-\u0421\u0443\u0440"
+    ],
     "name:spa_x_preferred":[
         "Consolaci\u00f3n del Sur"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421176205,
-    "wof:lastmodified":1561766482,
+    "wof:lastmodified":1563321524,
     "wof:name":"Consolaci\u00f3n del Sur",
     "wof:parent_id":1091904175,
     "wof:placetype":"locality",

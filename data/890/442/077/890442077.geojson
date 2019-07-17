@@ -46,6 +46,9 @@
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10d2\u10e3\u10d0-\u10da\u10d0-\u10d2\u10e0\u10d0\u10dc\u10d3\u10d4"
     ],
+    "name:lit_x_preferred":[
+        "Sagva La Grand\u0117"
+    ],
     "name:nau_x_preferred":[
         "Sagua La Grande"
     ],
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":890442077,
-    "wof:lastmodified":1561766484,
+    "wof:lastmodified":1563321546,
     "wof:name":"Sagua la Grande",
     "wof:parent_id":1091907545,
     "wof:placetype":"locality",

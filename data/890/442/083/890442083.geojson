@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "Palma Soriano"
     ],
+    "name:glg_x_preferred":[
+        "Palma Soriano"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0ab2\u0acd\u0aae\u0abe \u0ab8\u0acb\u0ab0\u0abf\u0aaf\u0abe\u0aa8\u0acb"
     ],
@@ -137,6 +140,9 @@
         "Palma Soriano"
     ],
     "name:vol_x_preferred":[
+        "Palma Soriano"
+    ],
+    "name:war_x_preferred":[
         "Palma Soriano"
     ],
     "name:zho_x_preferred":[
@@ -269,7 +275,7 @@
         }
     ],
     "wof:id":890442083,
-    "wof:lastmodified":1561766484,
+    "wof:lastmodified":1563321547,
     "wof:name":"Palma Soriano",
     "wof:parent_id":1091906823,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Nueva Gerona"
     ],
+    "name:ceb_x_preferred":[
+        "Nueva Gerona"
+    ],
     "name:dan_x_preferred":[
         "Nueva Gerona"
     ],
@@ -126,6 +129,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e31\u0e27\u0e27\u0e32\u0e40\u0e04\u0e42\u0e23\u0e19\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e39\u0e40\u0e2d\u0e1a\u0e32\u0e40\u0e2e\u0e42\u0e23\u0e19\u0e32"
     ],
     "name:tur_x_preferred":[
         "Nueva Gerona"
@@ -276,7 +282,7 @@
         }
     ],
     "wof:id":890442087,
-    "wof:lastmodified":1561766484,
+    "wof:lastmodified":1563321550,
     "wof:name":"Nueva Gerona",
     "wof:parent_id":1091906563,
     "wof:placetype":"locality",

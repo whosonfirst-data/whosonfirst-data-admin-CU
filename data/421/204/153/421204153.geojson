@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Tarar\u00e1"
     ],
+    "name:ind_x_preferred":[
+        "Tarar\u00e1"
+    ],
     "name:nld_x_preferred":[
         "Tarar\u00e1"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421204153,
-    "wof:lastmodified":1561766480,
+    "wof:lastmodified":1563321489,
     "wof:name":"Tarar\u00e1",
     "wof:parent_id":1091905073,
     "wof:placetype":"locality",

@@ -37,10 +37,12 @@
         "Remedios"
     ],
     "name:eng_x_variant":[
-        "Remedios",
         "Caibari\u00e9n"
     ],
     "name:fra_x_preferred":[
+        "Remedios"
+    ],
+    "name:hat_x_preferred":[
         "Remedios"
     ],
     "name:ita_x_preferred":[
@@ -57,6 +59,9 @@
     ],
     "name:por_x_preferred":[
         "Remedios"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043c\u0435\u0434\u0438\u043e\u0441"
     ],
     "name:sco_x_preferred":[
         "Remedios"
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":1091907371,
-    "wof:lastmodified":1561766472,
+    "wof:lastmodified":1563321305,
     "wof:name":"Remedios",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

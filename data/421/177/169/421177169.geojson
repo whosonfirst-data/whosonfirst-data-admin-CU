@@ -34,6 +34,9 @@
     "name:slv_x_preferred":[
         "Campechuela"
     ],
+    "name:spa_x_preferred":[
+        "Campechuela"
+    ],
     "name:swe_x_preferred":[
         "Municipio de Campechuela"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421177169,
-    "wof:lastmodified":1561766482,
+    "wof:lastmodified":1563321517,
     "wof:name":"Campechuela",
     "wof:parent_id":1091903673,
     "wof:placetype":"locality",

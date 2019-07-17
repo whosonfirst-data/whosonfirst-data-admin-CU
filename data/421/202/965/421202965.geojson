@@ -34,6 +34,9 @@
     "name:slv_x_preferred":[
         "El Caney"
     ],
+    "name:spa_x_preferred":[
+        "El Caney"
+    ],
     "name:unk_x_variant":[
         "Caney"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421202965,
-    "wof:lastmodified":1561766480,
+    "wof:lastmodified":1563321490,
     "wof:name":"El Caney",
     "wof:parent_id":1091908137,
     "wof:placetype":"locality",

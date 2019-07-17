@@ -40,6 +40,9 @@
     "name:sco_x_preferred":[
         "Sibanic\u00fa"
     ],
+    "name:spa_x_preferred":[
+        "Sibanic\u00fa"
+    ],
     "name:swe_x_preferred":[
         "Sibanic\u00fa"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421194689,
-    "wof:lastmodified":1561766479,
+    "wof:lastmodified":1563321486,
     "wof:name":"Sibanic\u00fa",
     "wof:parent_id":1091908257,
     "wof:placetype":"locality",

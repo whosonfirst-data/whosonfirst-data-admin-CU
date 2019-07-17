@@ -20,6 +20,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Miramar"
+    ],
+    "name:eng_x_preferred":[
+        "Miramar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0627\u0645\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Miramar"
+    ],
+    "name:hat_x_preferred":[
+        "Miramar"
+    ],
+    "name:ita_x_preferred":[
+        "Miramar"
+    ],
+    "name:nld_x_preferred":[
+        "Miramar"
+    ],
+    "name:por_x_preferred":[
+        "Miramar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u043c\u0430\u0440"
+    ],
     "name:spa_x_preferred":[
         "Miramar"
     ],
@@ -29,6 +56,9 @@
     "name:unk_x_variant":[
         "Reparto Miramar",
         "Miramar"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u62c9\u99ac\u723e"
     ],
     "qs_pg:aaroncc":"CU",
     "qs_pg:gn_country":"CU",
@@ -85,7 +115,7 @@
         }
     ],
     "wof:id":1126068059,
-    "wof:lastmodified":1534379265,
+    "wof:lastmodified":1563321579,
     "wof:name":"Miramar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

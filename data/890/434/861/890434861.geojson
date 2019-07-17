@@ -15,6 +15,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "R\u00edo Cauto"
+    ],
     "name:deu_x_preferred":[
         "R\u00edo Cauto"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890434861,
-    "wof:lastmodified":1561766485,
+    "wof:lastmodified":1563321558,
     "wof:name":"R\u00edo Cauto",
     "wof:parent_id":1091907413,
     "wof:placetype":"locality",

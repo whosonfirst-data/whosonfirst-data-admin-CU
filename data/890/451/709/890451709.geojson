@@ -36,6 +36,9 @@
     "name:sco_x_preferred":[
         "Pedro Betancourt"
     ],
+    "name:spa_x_preferred":[
+        "Pedro Betancourt"
+    ],
     "name:swe_x_preferred":[
         "Municipio de Pedro Betancourt"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890451709,
-    "wof:lastmodified":1561766485,
+    "wof:lastmodified":1563321552,
     "wof:name":"Pedro Betancourt",
     "wof:parent_id":1091906893,
     "wof:placetype":"locality",
