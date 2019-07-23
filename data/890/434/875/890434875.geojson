@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Bejucal"
     ],
+    "name:ceb_x_preferred":[
+        "Bejucal"
+    ],
     "name:cym_x_preferred":[
         "Bejucal"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":890434875,
-    "wof:lastmodified":1561766485,
+    "wof:lastmodified":1563321557,
     "wof:name":"Bejucal",
     "wof:parent_id":1091903147,
     "wof:placetype":"locality",

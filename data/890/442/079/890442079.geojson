@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u0627\u0631 \u062f\u064a\u0644 \u0631\u064a\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u043d\u0430\u0440-\u0434\u044d\u043b\u044c-\u0420\u044b\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09a8\u09be\u09b0 \u09a1\u09c7\u09b2 \u09b0\u09bf\u0993"
     ],
@@ -28,7 +31,13 @@
     "name:cat_x_preferred":[
         "Pinar del R\u00edo"
     ],
+    "name:ceb_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
     "name:ces_x_preferred":[
+        "Pinar del R\u00edo"
+    ],
+    "name:cym_x_preferred":[
         "Pinar del R\u00edo"
     ],
     "name:dan_x_preferred":[
@@ -42,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "Pinar del R\u00edo"
+    ],
+    "name:eng_x_variant":[
+        "Pinar del Rio"
     ],
     "name:epo_x_preferred":[
         "Pinar del R\u00edo"
@@ -165,6 +177,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e40\u0e14\u0e25\u0e23\u0e35\u0e42\u0e2d"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e34\u0e19\u0e32\u0e23\u0e4c\u0e40\u0e14\u0e25\u0e23\u0e34\u0e42\u0e2d"
     ],
     "name:tur_x_preferred":[
         "Pinar del Rio"
@@ -320,7 +335,7 @@
         }
     ],
     "wof:id":890442079,
-    "wof:lastmodified":1561766484,
+    "wof:lastmodified":1563321546,
     "wof:name":"Pinar del R\u00edo",
     "wof:parent_id":1091907007,
     "wof:placetype":"locality",

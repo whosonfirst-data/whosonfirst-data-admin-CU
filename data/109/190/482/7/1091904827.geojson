@@ -45,6 +45,9 @@
     "name:fra_x_preferred":[
         "Guanajay"
     ],
+    "name:glg_x_preferred":[
+        "Guanajay"
+    ],
     "name:hat_x_preferred":[
         "Guanajay"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1091904827,
-    "wof:lastmodified":1561766473,
+    "wof:lastmodified":1563321311,
     "wof:name":"Guanajay",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

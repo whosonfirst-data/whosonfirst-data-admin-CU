@@ -79,6 +79,9 @@
     "name:hye_x_preferred":[
         "\u054e\u056b\u056f\u057f\u0578\u0580\u056b\u0561 \u0564\u0565 \u056c\u0561\u057d \u054f\u0578\u0582\u0576\u0561\u057d"
     ],
+    "name:ido_x_preferred":[
+        "Las Tunas"
+    ],
     "name:ind_x_preferred":[
         "Las Tunas"
     ],
@@ -159,6 +162,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e2a\u0e17\u0e39\u0e19\u0e32\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e31\u0e2a\u0e15\u0e39\u0e19\u0e31\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Las Tunas"
@@ -313,7 +319,7 @@
         }
     ],
     "wof:id":890444797,
-    "wof:lastmodified":1561766483,
+    "wof:lastmodified":1563321534,
     "wof:name":"Las Tunas",
     "wof:parent_id":1091905619,
     "wof:placetype":"locality",

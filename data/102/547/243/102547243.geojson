@@ -44,6 +44,9 @@
     "name:pol_x_preferred":[
         "Port lotniczy Vilo Acu\u00f1a"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Vilo Acu\u00f1a"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Vilo Acu\u00f1a"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":102547243,
-    "wof:lastmodified":1561766434,
+    "wof:lastmodified":1563319504,
     "wof:name":"Cayo Largo del sur Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

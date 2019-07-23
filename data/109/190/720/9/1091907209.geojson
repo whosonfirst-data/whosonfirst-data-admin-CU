@@ -74,6 +74,9 @@
     "name:swe_x_preferred":[
         "Municipio de Quemado de G\u00fcines"
     ],
+    "name:swe_x_variant":[
+        "Primero De Enero"
+    ],
     "name:vie_x_preferred":[
         "Quemado de G\u00fcines"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1091907209,
-    "wof:lastmodified":1561766477,
+    "wof:lastmodified":1563321367,
     "wof:name":"Quemado De Guines",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

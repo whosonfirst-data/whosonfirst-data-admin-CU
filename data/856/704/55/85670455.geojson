@@ -47,6 +47,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Matanzas"
     ],
+    "name:ceb_x_preferred":[
+        "Matanzas"
+    ],
     "name:ces_x_preferred":[
         "Matanzas"
     ],
@@ -62,6 +65,9 @@
     "name:eng_x_preferred":[
         "Matanzas"
     ],
+    "name:eng_x_variant":[
+        "Matanzas Province"
+    ],
     "name:epo_x_preferred":[
         "Matanzas"
     ],
@@ -76,6 +82,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Matanzas"
+    ],
+    "name:fra_x_variant":[
+        "Matanzas"
     ],
     "name:glg_x_preferred":[
         "Provincia de Matanzas"
@@ -116,6 +125,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\ud0c4\uc0ac\uc2a4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\ud0c4\uc0ac\uc2a4\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Matansasas province"
     ],
@@ -141,6 +153,9 @@
         "Matanzas"
     ],
     "name:nob_x_preferred":[
+        "Matanzas"
+    ],
+    "name:oci_x_preferred":[
         "Matanzas"
     ],
     "name:pnb_x_preferred":[
@@ -329,7 +344,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561766442,
+    "wof:lastmodified":1563319851,
     "wof:name":"Matanzas",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

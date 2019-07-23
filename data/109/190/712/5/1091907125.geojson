@@ -47,6 +47,9 @@
     "name:epo_x_preferred":[
         "Placo de la Revolucio"
     ],
+    "name:eus_x_preferred":[
+        "Iraultzaren plaza"
+    ],
     "name:fra_x_preferred":[
         "Plaza de la Revoluci\u00f3n"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1091907125,
-    "wof:lastmodified":1561766474,
+    "wof:lastmodified":1563321330,
     "wof:name":"Plaza De La Revolucion",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

@@ -16,10 +16,19 @@
     "name:ceb_x_preferred":[
         "San Miguel del Padr\u00f3n"
     ],
+    "name:deu_x_preferred":[
+        "San Miguel del Padr\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "San Miguel del Padr\u00f3n"
+    ],
     "name:epo_x_preferred":[
         "San Miguel del Padr\u00f3n"
     ],
     "name:fra_x_preferred":[
+        "San Miguel del Padr\u00f3n"
+    ],
+    "name:hat_x_preferred":[
         "San Miguel del Padr\u00f3n"
     ],
     "name:ita_x_preferred":[
@@ -27,6 +36,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10db\u10d8\u10d2\u10d4\u10da-\u10d3\u10d4\u10da-\u10de\u10d0\u10d3\u10e0\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "San Miguel del Padr\u00f3n"
     ],
     "name:spa_x_preferred":[
         "San Miguel del Padr\u00f3n"
@@ -62,10 +74,10 @@
     "src:population":"quattroshapes",
     "wd:wordcount":284,
     "wof:belongsto":[
+        85670445,
         102191575,
         85632675,
-        1091907843,
-        85670445
+        1091907843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":421173005,
-    "wof:lastmodified":1531858390,
+    "wof:lastmodified":1563321495,
     "wof:name":"San Miguel del Padr\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

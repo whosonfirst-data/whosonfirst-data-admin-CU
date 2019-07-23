@@ -40,6 +40,9 @@
     "name:swe_x_preferred":[
         "Sagua de T\u00e1namo"
     ],
+    "name:swe_x_variant":[
+        "Batista"
+    ],
     "name:unk_x_variant":[
         "Sagua de Temamo"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421179079,
-    "wof:lastmodified":1561766482,
+    "wof:lastmodified":1563321519,
     "wof:name":"Sagua de T\u00e1namo",
     "wof:parent_id":1091907503,
     "wof:placetype":"locality",

@@ -107,6 +107,9 @@
     "name:kor_x_preferred":[
         "\uc0b0\ud2f0\uc544\uace0\ub370\ucfe0\ubc14 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc0b0\ud2f0\uc544\uace0\ub370\ucfe0\ubc14\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Santjago de Kubas province"
     ],
@@ -325,7 +328,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561766443,
+    "wof:lastmodified":1563319852,
     "wof:name":"Santiago de Cuba",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

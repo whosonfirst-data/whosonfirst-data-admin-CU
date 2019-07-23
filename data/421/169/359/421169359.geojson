@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Vi\u00f1ales"
+    ],
     "name:ceb_x_preferred":[
         "Municipio de Vi\u00f1ales"
     ],
@@ -29,6 +32,9 @@
         "Vi\u00f1ales"
     ],
     "name:hat_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:ind_x_preferred":[
         "Vi\u00f1ales"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421169359,
-    "wof:lastmodified":1561766480,
+    "wof:lastmodified":1563321488,
     "wof:name":"Vi\u00f1ales",
     "wof:parent_id":1091908691,
     "wof:placetype":"locality",

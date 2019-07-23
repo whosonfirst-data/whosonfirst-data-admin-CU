@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u063a\u0648\u064a\u0646"
     ],
+    "name:aze_x_preferred":[
+        "Olqin"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043b\u044c\u0433\u0456\u043d"
     ],
@@ -47,7 +50,13 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Holgu\u00edn"
     ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'Holgu\u00edn"
+    ],
     "name:ceb_x_preferred":[
+        "Holgu\u00edn"
+    ],
+    "name:ces_x_preferred":[
         "Holgu\u00edn"
     ],
     "name:dan_x_preferred":[
@@ -61,6 +70,9 @@
     ],
     "name:eng_x_preferred":[
         "Holgu\u00edn"
+    ],
+    "name:eng_x_variant":[
+        "Holgu\u00edn Province"
     ],
     "name:epo_x_preferred":[
         "Holgu\u00edn"
@@ -79,6 +91,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Holgu\u00edn"
+    ],
+    "name:fra_x_variant":[
+        "Holgu\u00edn"
     ],
     "name:glg_x_preferred":[
         "Provincia de Holgu\u00edn"
@@ -112,6 +127,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc62c\uae34 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc62c\uae34\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Holginas province"
@@ -182,6 +200,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e2e\u0e25\u0e01\u0e27\u0e34\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e2d\u0e25\u0e01\u0e34\u0e19"
     ],
     "name:tur_x_preferred":[
         "Holgu\u00edn ili"
@@ -327,7 +348,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561766441,
+    "wof:lastmodified":1563319844,
     "wof:name":"Holguin",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

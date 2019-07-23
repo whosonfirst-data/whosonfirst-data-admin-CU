@@ -48,6 +48,9 @@
     "name:por_x_preferred":[
         "Mart\u00ed"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438"
+    ],
     "name:sco_x_preferred":[
         "Mart\u00ed"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890434833,
-    "wof:lastmodified":1561766486,
+    "wof:lastmodified":1563321560,
     "wof:name":"Mart\u00ed",
     "wof:parent_id":1091906225,
     "wof:placetype":"locality",

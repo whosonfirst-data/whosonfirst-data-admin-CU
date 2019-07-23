@@ -65,6 +65,9 @@
     "name:eng_x_preferred":[
         "Pinar del R\u00edo"
     ],
+    "name:eng_x_variant":[
+        "Pinar del R\u00edo Province"
+    ],
     "name:epo_x_preferred":[
         "Pinar del R\u00edo"
     ],
@@ -82,6 +85,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Pinar del R\u00edo"
+    ],
+    "name:fra_x_variant":[
+        "Pinar del R\u00edo"
     ],
     "name:glg_x_preferred":[
         "Provincia de Pinar del R\u00edo"
@@ -118,6 +124,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud53c\ub098\ub974\ub378\ub9ac\uc624 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud53c\ub098\ub974\ub378\ub9ac\uc624\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Pinaras del Rio province"
@@ -187,6 +196,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e40\u0e14\u0e25\u0e23\u0e35\u0e42\u0e2d"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1b\u0e34\u0e19\u0e32\u0e23\u0e4c\u0e40\u0e14\u0e25\u0e23\u0e34\u0e42\u0e2d"
     ],
     "name:tur_x_preferred":[
         "Pinar del R\u00edo"
@@ -333,7 +345,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561766442,
+    "wof:lastmodified":1563319848,
     "wof:name":"Pinar Del Rio",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

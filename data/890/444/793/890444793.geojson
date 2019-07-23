@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0643\u0644\u0627\u0631\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u043b\u0430\u0440\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0995\u09cd\u09b2\u09be\u09b0\u09be"
     ],
@@ -26,6 +29,9 @@
         "\u0421\u0430\u043d\u0442\u0430 \u041a\u043b\u0430\u0440\u0430"
     ],
     "name:cat_x_preferred":[
+        "Santa Clara"
+    ],
+    "name:ceb_x_preferred":[
         "Santa Clara"
     ],
     "name:ces_x_preferred":[
@@ -74,6 +80,9 @@
         "\u0938\u093e\u0902\u0924\u093e \u0915\u094d\u0932\u093e\u0930\u093e"
     ],
     "name:hun_x_preferred":[
+        "Santa Clara"
+    ],
+    "name:ido_x_preferred":[
         "Santa Clara"
     ],
     "name:ind_x_preferred":[
@@ -163,6 +172,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19\u0e15\u0e32\u0e04\u0e25\u0e32\u0e23\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e19\u0e15\u0e32\u0e01\u0e25\u0e32\u0e23\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Santa Clara"
     ],
@@ -172,7 +184,16 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0644\u0627\u0631\u0627\u060c \u06a9\u06cc\u0648\u0628\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0644\u0627\u0631\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Santa-klara"
+    ],
     "name:vie_x_preferred":[
+        "Santa Clara"
+    ],
+    "name:vol_x_preferred":[
         "Santa Clara"
     ],
     "name:war_x_preferred":[
@@ -306,7 +327,7 @@
         }
     ],
     "wof:id":890444793,
-    "wof:lastmodified":1561766483,
+    "wof:lastmodified":1563321540,
     "wof:name":"Santa Clara",
     "wof:parent_id":1091908009,
     "wof:placetype":"locality",

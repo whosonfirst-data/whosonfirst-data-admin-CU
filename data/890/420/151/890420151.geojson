@@ -18,6 +18,9 @@
     "name:bre_x_preferred":[
         "Soroa"
     ],
+    "name:ceb_x_preferred":[
+        "Soroa"
+    ],
     "name:deu_x_preferred":[
         "Soroa"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890420151,
-    "wof:lastmodified":1561766484,
+    "wof:lastmodified":1563321545,
     "wof:name":"Soroa",
     "wof:parent_id":1091903705,
     "wof:placetype":"locality",

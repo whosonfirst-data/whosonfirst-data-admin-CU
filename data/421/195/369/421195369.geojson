@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Mayar\u00ed"
     ],
+    "name:hun_x_preferred":[
+        "Mayar\u00ed"
+    ],
     "name:ita_x_preferred":[
         "Mayar\u00ed"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d8\u10d0\u10e0\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Majari"
     ],
     "name:nld_x_preferred":[
         "Mayar\u00ed"
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421195369,
-    "wof:lastmodified":1561766479,
+    "wof:lastmodified":1563321485,
     "wof:name":"Mayar\u00ed",
     "wof:parent_id":1091906305,
     "wof:placetype":"locality",

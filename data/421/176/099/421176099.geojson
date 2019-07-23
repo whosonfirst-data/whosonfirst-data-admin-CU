@@ -46,6 +46,9 @@
     "name:kat_x_preferred":[
         "\u10d2\u10e3\u10d8\u10dc\u10d4\u10e1\u10d8"
     ],
+    "name:lit_x_preferred":[
+        "Gvinesas"
+    ],
     "name:nld_x_preferred":[
         "G\u00fcines"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:por_x_preferred":[
         "G\u00fcines"
+    ],
+    "name:por_x_variant":[
+        "Guines"
     ],
     "name:ron_x_preferred":[
         "G\u00fcines"
@@ -84,6 +90,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0457\u043d\u0435\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u06cc\u0646\u06cc\u0633"
     ],
     "name:vie_x_preferred":[
         "G\u00fcines"
@@ -145,7 +154,7 @@
         }
     ],
     "wof:id":421176099,
-    "wof:lastmodified":1561766482,
+    "wof:lastmodified":1563321524,
     "wof:name":"G\u00fcines",
     "wof:parent_id":1091904955,
     "wof:placetype":"locality",

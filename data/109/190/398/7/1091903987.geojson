@@ -42,13 +42,16 @@
     "name:eng_x_variant":[
         "Cienaga De Zapata",
         "Ci\u00e9naga de Zapata",
-        "Ci\u00e9naga de Zapata"
+        "Zapata Swamp"
     ],
     "name:epo_x_preferred":[
         "Zapata Mar\u0109o"
     ],
     "name:fra_x_preferred":[
         "Marais de Zapata"
+    ],
+    "name:ind_x_preferred":[
+        "Rawa Zapata"
     ],
     "name:ita_x_preferred":[
         "Ci\u00e9naga de Zapata"
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1091903987,
-    "wof:lastmodified":1561766472,
+    "wof:lastmodified":1563321304,
     "wof:name":"Cienaga De Zapata",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

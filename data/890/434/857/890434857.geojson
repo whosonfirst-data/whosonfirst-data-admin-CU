@@ -72,6 +72,9 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u06a9\u0631\u0633\u0679\u0648\u0628\u0644\u060c \u06a9\u06cc\u0648\u0628\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0646 \u06a9\u0631\u0633\u0679\u0648\u0628\u0644"
+    ],
     "name:vie_x_preferred":[
         "San Crist\u00f3bal"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":890434857,
-    "wof:lastmodified":1561766485,
+    "wof:lastmodified":1563321558,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":1091907679,
     "wof:placetype":"locality",

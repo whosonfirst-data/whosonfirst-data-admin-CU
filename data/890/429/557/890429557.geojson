@@ -15,6 +15,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Guane"
+    ],
     "name:deu_x_preferred":[
         "Guane"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890429557,
-    "wof:lastmodified":1561766484,
+    "wof:lastmodified":1563321543,
     "wof:name":"Guane",
     "wof:parent_id":1091904873,
     "wof:placetype":"locality",

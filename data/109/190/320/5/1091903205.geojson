@@ -33,6 +33,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0439\u0435\u0440\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Boyeros"
+    ],
     "name:deu_x_preferred":[
         "Boyeros"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1091903205,
-    "wof:lastmodified":1561766476,
+    "wof:lastmodified":1563321359,
     "wof:name":"Boyeros",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

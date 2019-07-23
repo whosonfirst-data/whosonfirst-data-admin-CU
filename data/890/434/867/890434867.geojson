@@ -60,6 +60,9 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e19\u0e0a\u0e27\u0e22\u0e42\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e19\u0e0a\u0e39\u0e40\u0e2d\u0e42\u0e25"
+    ],
     "name:vie_x_preferred":[
         "Ranchuelo"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890434867,
-    "wof:lastmodified":1561766486,
+    "wof:lastmodified":1563321560,
     "wof:name":"Ranchuelo",
     "wof:parent_id":1091907311,
     "wof:placetype":"locality",

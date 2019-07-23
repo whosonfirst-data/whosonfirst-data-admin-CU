@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u0440\u0442\u0438\u0435\u043d\u0442\u0435\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Vertientes"
+    ],
     "name:deu_x_preferred":[
         "Vertientes"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890429305,
-    "wof:lastmodified":1561766484,
+    "wof:lastmodified":1563321544,
     "wof:name":"Vertientes",
     "wof:parent_id":1091908663,
     "wof:placetype":"locality",

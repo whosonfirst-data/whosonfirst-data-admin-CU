@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Diezmero"
+    ],
     "qs:gn_country":"CU",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":3562426,
@@ -34,10 +37,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":165,
     "wof:belongsto":[
+        85670445,
         102191575,
         85632675,
-        1091907843,
-        85670445
+        1091907843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421185137,
-    "wof:lastmodified":1531858568,
+    "wof:lastmodified":1563321527,
     "wof:name":"Diezmero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

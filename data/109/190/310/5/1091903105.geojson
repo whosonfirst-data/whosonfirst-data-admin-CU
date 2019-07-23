@@ -45,6 +45,9 @@
     "name:cat_x_preferred":[
         "Bayamo"
     ],
+    "name:ceb_x_preferred":[
+        "Bayamo"
+    ],
     "name:ces_x_preferred":[
         "Bayamo"
     ],
@@ -165,6 +168,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e22\u0e32\u0e21\u0e2d"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e22\u0e32\u0e42\u0e21"
+    ],
     "name:tur_x_preferred":[
         "Bayamo"
     ],
@@ -225,7 +231,7 @@
         }
     ],
     "wof:id":1091903105,
-    "wof:lastmodified":1561766477,
+    "wof:lastmodified":1563321365,
     "wof:name":"Bayamo",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

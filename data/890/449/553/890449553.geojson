@@ -15,6 +15,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cayo Largo"
+    ],
     "name:deu_x_preferred":[
         "Cayo Largo del Sur"
     ],
@@ -39,6 +42,9 @@
     "name:kor_x_preferred":[
         "\uce74\uc694\ub77c\ub974\uace0\ub378\uc218\ub974 \uc12c"
     ],
+    "name:kor_x_variant":[
+        "\uce74\uc694\ub77c\ub974\uace0\ub378\uc218\ub974\uc12c"
+    ],
     "name:lit_x_preferred":[
         "Kajo Largo del Suras"
     ],
@@ -50,6 +56,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0430\u0440\u0433\u043e-\u0434\u0435\u043b\u044c-\u0421\u0443\u0440"
     ],
     "name:spa_x_preferred":[
         "Cayo Largo del Sur"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":890449553,
-    "wof:lastmodified":1561766483,
+    "wof:lastmodified":1563321529,
     "wof:name":"Marina Cayo Largo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

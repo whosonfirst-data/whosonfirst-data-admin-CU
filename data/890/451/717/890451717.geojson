@@ -15,6 +15,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Camajuan\u00ed"
+    ],
     "name:deu_x_preferred":[
         "Camajuan\u00ed"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:por_x_preferred":[
         "Camajuan\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u0445\u0443\u0430\u043d\u0438"
     ],
     "name:sco_x_preferred":[
         "Camajuan\u00ed"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890451717,
-    "wof:lastmodified":1561766485,
+    "wof:lastmodified":1563321553,
     "wof:name":"Camajuan\u00ed",
     "wof:parent_id":1091903633,
     "wof:placetype":"locality",

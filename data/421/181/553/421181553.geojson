@@ -25,6 +25,9 @@
     "name:spa_x_preferred":[
         "Australia"
     ],
+    "name:zho_x_preferred":[
+        "\u660c\u5df4\u65af"
+    ],
     "qs:gn_country":"CU",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3749701,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421181553,
-    "wof:lastmodified":1561766481,
+    "wof:lastmodified":1563321504,
     "wof:name":"Australia",
     "wof:parent_id":1091905195,
     "wof:placetype":"locality",

@@ -33,10 +33,16 @@
     "name:cat_x_preferred":[
         "Cumanayagua"
     ],
+    "name:ceb_x_preferred":[
+        "Cumanayagua"
+    ],
     "name:deu_x_preferred":[
         "Cumanayagua"
     ],
     "name:eng_x_preferred":[
+        "Cumanayagua"
+    ],
+    "name:epo_x_preferred":[
         "Cumanayagua"
     ],
     "name:fra_x_preferred":[
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1091904385,
-    "wof:lastmodified":1561766474,
+    "wof:lastmodified":1563321326,
     "wof:name":"Cumanayagua",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

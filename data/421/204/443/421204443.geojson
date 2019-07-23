@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Moa"
     ],
+    "name:epo_x_preferred":[
+        "Moa"
+    ],
     "name:fin_x_preferred":[
         "Moa"
     ],
@@ -130,6 +133,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u0627\u060c \u06a9\u06cc\u0648\u0628\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u0627"
+    ],
     "name:vie_x_preferred":[
         "Moa"
     ],
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":421204443,
-    "wof:lastmodified":1561766480,
+    "wof:lastmodified":1563321490,
     "wof:name":"Moa",
     "wof:parent_id":1091906483,
     "wof:placetype":"locality",

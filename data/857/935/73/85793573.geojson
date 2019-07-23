@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7513859.239173,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.374466,23.138589,-82.374466,23.138589",
     "geom:latitude":23.138589,
     "geom:longitude":-82.374466,
@@ -36,6 +36,9 @@
     "name:deu_x_preferred":[
         "Centro Habana"
     ],
+    "name:eng_x_preferred":[
+        "Centro Habana"
+    ],
     "name:epo_x_preferred":[
         "Centra Havano"
     ],
@@ -45,8 +48,14 @@
     "name:ita_x_preferred":[
         "Centro Habana"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30ed\u30fb\u30a2\u30d0\u30ca"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10dc\u10e2\u10e0\u10dd-\u10f0\u10d0\u10d1\u10d0\u10dc\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Centro Habana"
     ],
     "name:spa_x_preferred":[
         "Centro Habana"
@@ -146,7 +155,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379264,
+    "wof:lastmodified":1563319838,
     "wof:name":"Centro Habana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

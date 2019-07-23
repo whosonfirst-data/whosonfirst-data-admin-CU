@@ -24,6 +24,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0628\u0631\u0648\u0633\u060c \u06a9\u0648\u0628\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0628\u0631\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
         "Abreus"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890444819,
-    "wof:lastmodified":1561766483,
+    "wof:lastmodified":1563321538,
     "wof:name":"Abreus",
     "wof:parent_id":1091902555,
     "wof:placetype":"locality",
