@@ -30,10 +30,31 @@
     "mps:longitude":-79.985097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:ceb_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:deu_x_preferred":[
+        "Cifuentes"
+    ],
     "name:eng_x_preferred":[
         "Cifuentes"
     ],
     "name:eng_x_variant":[
+        "Cifuentes"
+    ],
+    "name:fra_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:nld_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:por_x_preferred":[
+        "Cifuentes"
+    ],
+    "name:spa_x_preferred":[
         "Cifuentes"
     ],
     "src:geom":"meso",
@@ -71,7 +92,7 @@
         }
     ],
     "wof:id":1091904069,
-    "wof:lastmodified":1553717958,
+    "wof:lastmodified":1564327943,
     "wof:name":"Cifuentes",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

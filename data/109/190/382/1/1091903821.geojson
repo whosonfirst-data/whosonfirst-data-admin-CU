@@ -30,11 +30,35 @@
     "mps:longitude":-76.512443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cauto Cristo"
+    ],
     "name:eng_x_preferred":[
         "Cauto Cristo"
     ],
     "name:eng_x_variant":[
         "Cauto Cristo"
+    ],
+    "name:fra_x_preferred":[
+        "Cauto Cristo"
+    ],
+    "name:ita_x_preferred":[
+        "Cauto Cristo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e3\u10e2\u10dd-\u10d9\u10e0\u10d8\u10e1\u10e2\u10dd"
+    ],
+    "name:spa_x_preferred":[
+        "Cauto Cristo"
+    ],
+    "name:swe_x_preferred":[
+        "Cauto Cristo"
+    ],
+    "name:vie_x_preferred":[
+        "Cauto Cristo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u6258\u514b\u91cc\u65af\u6258"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +95,7 @@
         }
     ],
     "wof:id":1091903821,
-    "wof:lastmodified":1553717957,
+    "wof:lastmodified":1564327947,
     "wof:name":"Cauto Cristo",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

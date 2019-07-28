@@ -25,8 +25,50 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0641\u0627\u0626\u064a\u0644 \u0631\u064a\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Rafael Reyes Prieto"
+    ],
+    "name:deu_x_preferred":[
+        "Rafael Reyes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0641\u0627\u0626\u0644 \u0631\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Rafael Reyes Prieto"
+    ],
+    "name:gla_x_preferred":[
+        "Rafael Reyes"
+    ],
+    "name:ita_x_preferred":[
+        "Rafael Reyes"
+    ],
+    "name:lat_x_preferred":[
+        "Raphael Reyes"
+    ],
+    "name:pol_x_preferred":[
+        "Rafael Reyes"
+    ],
+    "name:por_x_preferred":[
+        "Rafael Reyes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0439\u0435\u0441 \u041f\u0440\u0438\u0435\u0442\u043e"
+    ],
     "name:spa_x_preferred":[
         "Rafael Reyes"
+    ],
+    "name:spa_x_variant":[
+        "Rafael Reyes Prieto"
+    ],
+    "name:yor_x_preferred":[
+        "Rafael Reyes"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6590\u5c14\u00b7\u96f7\u8036\u65af\u00b7\u666e\u5217\u6258"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +93,7 @@
         }
     ],
     "wof:id":1243537449,
-    "wof:lastmodified":1537619223,
+    "wof:lastmodified":1564328164,
     "wof:name":"Rafael Reyes",
     "wof:parent_id":1091907795,
     "wof:placetype":"locality",

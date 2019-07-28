@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Matias"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632675
@@ -34,7 +37,7 @@
         "gn:id":3547374
     },
     "wof:country":"CU",
-    "wof:geomhash":"d924c9c5448e8214c721591fcecdea31",
+    "wof:geomhash":"a0e3c0690ee087a867eae4696963d938",
     "wof:hierarchy":[
         {
             "country_id":85632675,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209036065,
-    "wof:lastmodified":1536299696,
+    "wof:lastmodified":1564327210,
     "wof:name":"Matias",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",
@@ -53,9 +56,9 @@
 },
   "bbox": [
     -83.26666999999998,
-    22.866670000000006,
+    22.86667000000001,
     -83.26666999999998,
-    22.866670000000006
+    22.86667000000001
 ],
   "geometry": {"coordinates":[-83.26666999999998,22.86667000000001],"type":"Point"}
 }

@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Narcisa"
+    ],
+    "name:slv_x_preferred":[
+        "Narcisa"
+    ],
     "name:spa_x_preferred":[
         "Narcisa"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1242648301,
-    "wof:lastmodified":1537618952,
+    "wof:lastmodified":1564328408,
     "wof:name":"Narcisa",
     "wof:parent_id":1091908735,
     "wof:placetype":"locality",

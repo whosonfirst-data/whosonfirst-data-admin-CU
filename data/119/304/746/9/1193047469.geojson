@@ -25,7 +25,19 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:ceb_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:deu_x_preferred":[
+        "Los Naranjos"
+    ],
     "name:spa_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:swe_x_preferred":[
         "Los Naranjos"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1193047469,
-    "wof:lastmodified":1537619147,
+    "wof:lastmodified":1564327399,
     "wof:name":"Los Naranjos",
     "wof:parent_id":1091903451,
     "wof:placetype":"locality",

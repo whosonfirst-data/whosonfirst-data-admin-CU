@@ -25,6 +25,15 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jagua"
+    ],
+    "name:ita_x_preferred":[
+        "Jagua"
+    ],
+    "name:swe_x_preferred":[
+        "Jagua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343942295,
-    "wof:lastmodified":1537044448,
+    "wof:lastmodified":1564326224,
     "wof:name":"Jagua",
     "wof:parent_id":1091906677,
     "wof:placetype":"locality",

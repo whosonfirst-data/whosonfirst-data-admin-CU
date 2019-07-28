@@ -26,6 +26,30 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pilon"
+    ],
+    "name:deu_x_preferred":[
+        "Pilon"
+    ],
+    "name:fra_x_preferred":[
+        "Pilon"
+    ],
+    "name:hun_x_preferred":[
+        "Pilon"
+    ],
+    "name:nds_x_preferred":[
+        "Pilon"
+    ],
+    "name:pol_x_preferred":[
+        "Pilon"
+    ],
+    "name:slv_x_preferred":[
+        "Pilon"
+    ],
+    "name:swe_x_preferred":[
+        "Pilon"
+    ],
     "name:und_x_variant":[
         "Pedregal",
         "Pil\u00f3n"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1209792881,
-    "wof:lastmodified":1537618940,
+    "wof:lastmodified":1564327114,
     "wof:name":"Pilon",
     "wof:parent_id":1091902915,
     "wof:placetype":"locality",

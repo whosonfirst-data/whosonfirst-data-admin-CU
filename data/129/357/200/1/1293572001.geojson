@@ -25,7 +25,13 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Coloradas"
+    ],
     "name:spa_x_preferred":[
+        "Las Coloradas"
+    ],
+    "name:swe_x_preferred":[
         "Las Coloradas"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293572001,
-    "wof:lastmodified":1537619224,
+    "wof:lastmodified":1564326547,
     "wof:name":"Las Coloradas",
     "wof:parent_id":1091904765,
     "wof:placetype":"locality",

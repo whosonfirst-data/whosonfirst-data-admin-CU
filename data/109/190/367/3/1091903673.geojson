@@ -36,6 +36,24 @@
     "name:eng_x_variant":[
         "Campechuela"
     ],
+    "name:fra_x_preferred":[
+        "Campechuela"
+    ],
+    "name:ita_x_preferred":[
+        "Campechuela"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10db\u10de\u10d4\u10e9\u10e3\u10d4\u10da\u10d0"
+    ],
+    "name:spa_x_preferred":[
+        "Campechuela"
+    ],
+    "name:vie_x_preferred":[
+        "Campechuela"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u4f69\u4e18\u57c3\u62c9"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +89,7 @@
         }
     ],
     "wof:id":1091903673,
-    "wof:lastmodified":1553717957,
+    "wof:lastmodified":1564327950,
     "wof:name":"Campechuela",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

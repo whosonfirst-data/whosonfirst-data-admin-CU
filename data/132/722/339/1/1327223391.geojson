@@ -25,6 +25,21 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cabo Cruz"
+    ],
+    "name:fra_x_preferred":[
+        "Cap Cruz"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10e3\u10e1\u10d8\u10e1 \u10d9\u10dd\u10dc\u10ea\u10ee\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Cabo Cruz"
+    ],
+    "name:spa_x_preferred":[
+        "Cabo Cruz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1327223391,
-    "wof:lastmodified":1537503956,
+    "wof:lastmodified":1564325794,
     "wof:name":"Cabo Cruz",
     "wof:parent_id":1091906677,
     "wof:placetype":"locality",

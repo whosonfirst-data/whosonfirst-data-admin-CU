@@ -30,11 +30,41 @@
     "mps:longitude":-76.189279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Urbano Noris"
+    ],
     "name:eng_x_preferred":[
         "Urbano Noris"
     ],
     "name:eng_x_variant":[
         "Urbano Noris"
+    ],
+    "name:fra_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:hat_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:ita_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e0\u10d1\u10d0\u10dc\u10dd-\u10dc\u10dd\u10e0\u10d8\u10e1\u10d8"
+    ],
+    "name:sco_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:spa_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:swe_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:vie_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u723e\u74e6\u8afe\u8afe\u91cc\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +101,7 @@
         }
     ],
     "wof:id":1091908561,
-    "wof:lastmodified":1553717964,
+    "wof:lastmodified":1564327944,
     "wof:name":"Urbano Noris",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

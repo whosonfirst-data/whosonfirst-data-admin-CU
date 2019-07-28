@@ -25,6 +25,24 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Almirante"
+    ],
+    "name:deu_x_preferred":[
+        "Almirante"
+    ],
+    "name:fra_x_preferred":[
+        "Almirante"
+    ],
+    "name:glg_x_preferred":[
+        "Almirante"
+    ],
+    "name:ita_x_preferred":[
+        "Almirante"
+    ],
+    "name:por_x_preferred":[
+        "Almirante"
+    ],
     "name:und_x_variant":[
         "El Almirante",
         "Almirante"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276206557,
-    "wof:lastmodified":1537619119,
+    "wof:lastmodified":1564326798,
     "wof:name":"Almirante",
     "wof:parent_id":1091905117,
     "wof:placetype":"locality",

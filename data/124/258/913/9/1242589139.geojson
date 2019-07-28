@@ -25,6 +25,24 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pozo"
+    ],
+    "name:deu_x_preferred":[
+        "Pozo"
+    ],
+    "name:ita_x_preferred":[
+        "Pozo"
+    ],
+    "name:pol_x_preferred":[
+        "Pozo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Pozo"
+    ],
     "name:und_x_variant":[
         "Poso",
         "Pozo"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1242589139,
-    "wof:lastmodified":1537618935,
+    "wof:lastmodified":1564328263,
     "wof:name":"Pozo",
     "wof:parent_id":1091905195,
     "wof:placetype":"locality",

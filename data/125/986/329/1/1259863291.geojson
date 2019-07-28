@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mameyal"
+    ],
     "name:und_x_variant":[
         "Mameya"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259863291,
-    "wof:lastmodified":1537618966,
+    "wof:lastmodified":1564328702,
     "wof:name":"Mameyal",
     "wof:parent_id":1091907633,
     "wof:placetype":"locality",

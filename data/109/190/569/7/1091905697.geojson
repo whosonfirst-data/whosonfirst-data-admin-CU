@@ -36,6 +36,33 @@
     "name:eng_x_variant":[
         "Los Arabos"
     ],
+    "name:fra_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10d0\u10e0\u10d0\u10d1\u10dd\u10e1\u10d8"
+    ],
+    "name:oci_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:por_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:sco_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:vie_x_preferred":[
+        "Los Arabos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u963f\u62c9\u6c83\u65af"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +98,7 @@
         }
     ],
     "wof:id":1091905697,
-    "wof:lastmodified":1553717960,
+    "wof:lastmodified":1564327933,
     "wof:name":"Los Arabos",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

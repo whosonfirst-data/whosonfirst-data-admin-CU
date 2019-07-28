@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tejar"
+    ],
+    "name:swe_x_preferred":[
+        "Tejar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632675
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209594869,
-    "wof:lastmodified":1536282357,
+    "wof:lastmodified":1564327200,
     "wof:name":"Tejar",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

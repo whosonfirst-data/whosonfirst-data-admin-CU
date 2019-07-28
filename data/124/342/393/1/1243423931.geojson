@@ -25,6 +25,18 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Antonio Blanco"
+    ],
+    "name:fra_x_preferred":[
+        "Antonio Blanco"
+    ],
+    "name:glg_x_preferred":[
+        "Antonio Blanco"
+    ],
+    "name:spa_x_preferred":[
+        "Antonio Blanco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1243423931,
-    "wof:lastmodified":1536836999,
+    "wof:lastmodified":1564328450,
     "wof:name":"Antonio Blanco",
     "wof:parent_id":1091907371,
     "wof:placetype":"locality",

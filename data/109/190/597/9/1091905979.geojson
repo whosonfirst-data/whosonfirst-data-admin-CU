@@ -30,11 +30,44 @@
     "mps:longitude":-79.951696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Manicaragua"
+    ],
     "name:eng_x_preferred":[
         "Manicaragua"
     ],
     "name:eng_x_variant":[
         "Manicaragua"
+    ],
+    "name:fra_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:ita_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d8\u10d9\u10d0\u10e0\u10d0\u10d2\u10e3\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:por_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:sco_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:spa_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:swe_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:vie_x_preferred":[
+        "Manicaragua"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5c3c\u5361\u62c9\u74dc"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +104,7 @@
         }
     ],
     "wof:id":1091905979,
-    "wof:lastmodified":1553717960,
+    "wof:lastmodified":1564327949,
     "wof:name":"Manicaragua",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

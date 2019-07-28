@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Caobilla"
+    ],
     "name:spa_x_preferred":[
         "Caobilla"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243453457,
-    "wof:lastmodified":1537619093,
+    "wof:lastmodified":1564328454,
     "wof:name":"Caobilla",
     "wof:parent_id":1091904585,
     "wof:placetype":"locality",

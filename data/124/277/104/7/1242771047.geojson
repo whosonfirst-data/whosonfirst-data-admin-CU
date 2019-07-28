@@ -25,7 +25,13 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "El Marino"
+    ],
     "name:spa_x_preferred":[
+        "El Marino"
+    ],
+    "name:swe_x_preferred":[
         "El Marino"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1242771047,
-    "wof:lastmodified":1537619163,
+    "wof:lastmodified":1564328369,
     "wof:name":"El Marino",
     "wof:parent_id":1091904385,
     "wof:placetype":"locality",

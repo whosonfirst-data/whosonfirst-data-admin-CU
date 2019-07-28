@@ -25,6 +25,21 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Colorada"
+    ],
+    "name:deu_x_preferred":[
+        "La Colorada"
+    ],
+    "name:ita_x_preferred":[
+        "La Colorada"
+    ],
+    "name:spa_x_preferred":[
+        "La Colorada"
+    ],
+    "name:swe_x_preferred":[
+        "La Colorada"
+    ],
     "name:und_x_variant":[
         "La-Kolorada",
         "La Colorada"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1242671375,
-    "wof:lastmodified":1537619011,
+    "wof:lastmodified":1564328257,
     "wof:name":"La Colorada",
     "wof:parent_id":1091907633,
     "wof:placetype":"locality",

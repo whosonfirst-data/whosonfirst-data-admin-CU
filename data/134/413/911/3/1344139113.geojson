@@ -25,8 +25,14 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sin nombre"
+    ],
     "name:spa_x_preferred":[
         "Sin Nombre"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u043d \u041d\u043e\u043c\u0431\u0440\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1344139113,
-    "wof:lastmodified":1537618893,
+    "wof:lastmodified":1564326074,
     "wof:name":"Sin Nombre",
     "wof:parent_id":1091904069,
     "wof:placetype":"locality",

@@ -25,7 +25,40 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Julio Antonio Mella"
+    ],
+    "name:dan_x_preferred":[
+        "Julio Autonio Mella"
+    ],
+    "name:deu_x_preferred":[
+        "Julio Antonio Mella"
+    ],
+    "name:epo_x_preferred":[
+        "Julio Antonio Mella"
+    ],
+    "name:ita_x_preferred":[
+        "Julio Antonio Mella"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0443\u043b\u0438\u043e \u0410\u043d\u0442\u043e\u043d\u0438\u043e \u041c\u0435\u043b\u044c\u044f"
+    ],
+    "name:nld_x_preferred":[
+        "Julio Antonio Mella"
+    ],
+    "name:pol_x_preferred":[
+        "Julio Antonio Mella"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u044c\u044f"
+    ],
     "name:spa_x_preferred":[
+        "Julio Antonio Mella"
+    ],
+    "name:swe_x_preferred":[
+        "Julio Antonio Mella"
+    ],
+    "name:tur_x_preferred":[
         "Julio Antonio Mella"
     ],
     "name:und_x_variant":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1343828239,
-    "wof:lastmodified":1537618956,
+    "wof:lastmodified":1564326169,
     "wof:name":"Julio Antonio Mella",
     "wof:parent_id":1091906371,
     "wof:placetype":"locality",

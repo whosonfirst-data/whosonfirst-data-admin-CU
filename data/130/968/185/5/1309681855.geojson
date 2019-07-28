@@ -25,6 +25,105 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u064a\u0631\u064a\u0644\u064a\u0631\u0648 \u0647\u064a\u0631\u0648\u0648\u064a\u0643\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09c7\u09b0\u09bf\u09b2\u09c7\u09b0\u09cb \u09b9\u09c7\u09b0\u09cb\u0987\u0995\u09cb"
+    ],
+    "name:ces_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:cym_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:deu_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b5 \u0393\u03ba\u03b5\u03b2\u03ac\u03c1\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:fin_x_preferred":[
+        "Che Guevaran valokuva"
+    ],
+    "name:fra_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05de\u05d5\u05e0\u05ea\u05d5 \u05e9\u05dc \u05e6'\u05d4 \u05d2\u05d5\u05d5\u05d0\u05e8\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Guerrillero heroico"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0565\u0580\u0578\u057d\u0561\u056f\u0561\u0576 \u057a\u0561\u0580\u057f\u056b\u0566\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:ita_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:jpn_x_preferred":[
+        "\u82f1\u96c4\u7684\u30b2\u30ea\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:kor_x_preferred":[
+        "\uc601\uc6c5\uc801 \uac8c\ub9b4\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:pol_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:por_x_preferred":[
+        "Guerrilheiro Heroico"
+    ],
+    "name:ron_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u043e\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u0442\u0438\u0437\u0430\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:spa_x_preferred":[
+        "Che Guevara"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0443\u043d\u0430\u0447\u043a\u0438 \u0433\u0435\u0440\u0438\u043b\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e23\u0e4c\u0e23\u0e35\u0e40\u0e22\u0e42\u0e23 \u0e40\u0e2d\u0e42\u0e23\u0e22\u0e42\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0440\u043e\u0457\u0447\u043d\u0438\u0439 \u043f\u0430\u0440\u0442\u0438\u0437\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Du k\u00edch anh h\u00f9ng"
+    ],
+    "name:xmf_x_preferred":[
+        "Guerrillero Heroico"
+    ],
+    "name:zho_x_preferred":[
+        "\u82f1\u52c7\u7684\u6e38\u64ca\u968a\u54e1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +147,7 @@
         }
     ],
     "wof:id":1309681855,
-    "wof:lastmodified":1536610324,
+    "wof:lastmodified":1564328051,
     "wof:name":"Guerrillero Heroico",
     "wof:parent_id":1091904251,
     "wof:placetype":"locality",

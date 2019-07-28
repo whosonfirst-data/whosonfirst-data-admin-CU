@@ -25,6 +25,18 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Amelia"
+    ],
+    "name:ita_x_preferred":[
+        "La Amelia"
+    ],
+    "name:spa_x_preferred":[
+        "La Amelia"
+    ],
+    "name:swe_x_preferred":[
+        "La Amelia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1260200901,
-    "wof:lastmodified":1536823193,
+    "wof:lastmodified":1564327507,
     "wof:name":"La Amelia",
     "wof:parent_id":1091904175,
     "wof:placetype":"locality",

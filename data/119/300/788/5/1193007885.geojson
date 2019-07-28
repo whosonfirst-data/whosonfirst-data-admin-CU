@@ -25,6 +25,21 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tejas"
+    ],
+    "name:fra_x_preferred":[
+        "Tejas"
+    ],
+    "name:ita_x_preferred":[
+        "Tejas"
+    ],
+    "name:spa_x_preferred":[
+        "Tejas"
+    ],
+    "name:swe_x_preferred":[
+        "Tejas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1193007885,
-    "wof:lastmodified":1536364664,
+    "wof:lastmodified":1564327364,
     "wof:name":"Tejas",
     "wof:parent_id":1091905355,
     "wof:placetype":"locality",

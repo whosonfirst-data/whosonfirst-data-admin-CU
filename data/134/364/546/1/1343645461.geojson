@@ -25,6 +25,42 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Caimanera"
+    ],
+    "name:deu_x_preferred":[
+        "Caimanera"
+    ],
+    "name:fra_x_preferred":[
+        "Caimanera"
+    ],
+    "name:ita_x_preferred":[
+        "Caimanera"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d8\u10db\u10d0\u10dc\u10d4\u10e0\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Caimanera"
+    ],
+    "name:por_x_preferred":[
+        "Caimanera"
+    ],
+    "name:spa_x_preferred":[
+        "Caimanera"
+    ],
+    "name:swe_x_preferred":[
+        "Caimanera"
+    ],
+    "name:vie_x_preferred":[
+        "Caimanera"
+    ],
+    "name:war_x_preferred":[
+        "Caimanera"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u99ac\u5167\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1343645461,
-    "wof:lastmodified":1537503956,
+    "wof:lastmodified":1564326057,
     "wof:name":"Caimanera",
     "wof:parent_id":1091903413,
     "wof:placetype":"locality",

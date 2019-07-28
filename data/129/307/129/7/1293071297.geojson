@@ -25,7 +25,16 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aguacate"
+    ],
+    "name:nds_x_preferred":[
+        "Aguacate"
+    ],
     "name:spa_x_preferred":[
+        "Aguacate"
+    ],
+    "name:swe_x_preferred":[
         "Aguacate"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293071297,
-    "wof:lastmodified":1537619122,
+    "wof:lastmodified":1564326355,
     "wof:name":"Aguacate",
     "wof:parent_id":1091906823,
     "wof:placetype":"locality",

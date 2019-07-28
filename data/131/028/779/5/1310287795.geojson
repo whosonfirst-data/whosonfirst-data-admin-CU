@@ -26,6 +26,18 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sabana"
+    ],
+    "name:lat_x_preferred":[
+        "Sabana"
+    ],
+    "name:spa_x_preferred":[
+        "Sabana"
+    ],
+    "name:swe_x_preferred":[
+        "Sabana"
+    ],
     "name:und_x_variant":[
         "Los Mangos de Baraqua",
         "Sabana"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1310287795,
-    "wof:lastmodified":1537618923,
+    "wof:lastmodified":1564327734,
     "wof:name":"Sabana",
     "wof:parent_id":1091906371,
     "wof:placetype":"locality",

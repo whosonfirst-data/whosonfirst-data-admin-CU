@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La tumba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343795631,
-    "wof:lastmodified":1536760469,
+    "wof:lastmodified":1564326122,
     "wof:name":"La Tumba",
     "wof:parent_id":1091902795,
     "wof:placetype":"locality",

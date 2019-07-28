@@ -25,6 +25,15 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Limones"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043c\u043e\u043d\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Limones"
+    ],
     "name:und_x_variant":[
         "Salto de Limones",
         "Limones"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293119797,
-    "wof:lastmodified":1537618976,
+    "wof:lastmodified":1564326629,
     "wof:name":"Limones",
     "wof:parent_id":1091906677,
     "wof:placetype":"locality",

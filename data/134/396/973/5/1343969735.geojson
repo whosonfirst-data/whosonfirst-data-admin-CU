@@ -25,6 +25,24 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Iliana"
+    ],
+    "name:nor_x_preferred":[
+        "Iliana"
+    ],
+    "name:ron_x_preferred":[
+        "Iliana"
+    ],
+    "name:swe_x_preferred":[
+        "Iliana"
+    ],
+    "name:vie_x_preferred":[
+        "Iliana"
+    ],
+    "name:war_x_preferred":[
+        "Iliana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1343969735,
-    "wof:lastmodified":1537005838,
+    "wof:lastmodified":1564326008,
     "wof:name":"Iliana",
     "wof:parent_id":1091908169,
     "wof:placetype":"locality",

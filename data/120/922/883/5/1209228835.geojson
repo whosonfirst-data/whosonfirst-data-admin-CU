@@ -25,8 +25,14 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Fe"
+    ],
     "name:spa_x_preferred":[
         "La Fe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0641\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209228835,
-    "wof:lastmodified":1537619007,
+    "wof:lastmodified":1564327164,
     "wof:name":"La Fe",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

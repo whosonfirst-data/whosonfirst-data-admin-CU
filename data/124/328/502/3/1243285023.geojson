@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Garenne"
+    ],
+    "name:gle_x_preferred":[
+        "Coinic\u00e9ar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243285023,
-    "wof:lastmodified":1537036727,
+    "wof:lastmodified":1564328455,
     "wof:name":"Warren",
     "wof:parent_id":1091908603,
     "wof:placetype":"locality",

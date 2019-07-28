@@ -26,9 +26,36 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Guam\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Guam\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Guam\u00e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10db\u10d0"
+    ],
+    "name:por_x_preferred":[
+        "Guam\u00e1"
+    ],
+    "name:sco_x_preferred":[
+        "Guam\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Guam\u00e1"
+    ],
     "name:und_x_variant":[
         "Guamajal",
         "Guam\u00e1"
+    ],
+    "name:vie_x_preferred":[
+        "Guam\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u99ac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1242750455,
-    "wof:lastmodified":1537619034,
+    "wof:lastmodified":1564328216,
     "wof:name":"Guama",
     "wof:parent_id":1091904069,
     "wof:placetype":"locality",

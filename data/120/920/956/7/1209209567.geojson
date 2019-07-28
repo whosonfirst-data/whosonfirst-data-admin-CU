@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Cube\u00f1a"
     ],
+    "name:vie_x_preferred":[
+        "Cubena"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632675
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209209567,
-    "wof:lastmodified":1537619182,
+    "wof:lastmodified":1564327265,
     "wof:name":"Cubena",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

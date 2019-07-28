@@ -30,11 +30,41 @@
     "mps:longitude":-81.267038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Jovellanos"
+    ],
     "name:eng_x_preferred":[
         "Jovellanos"
     ],
     "name:eng_x_variant":[
         "Jovellanos"
+    ],
+    "name:fra_x_preferred":[
+        "Jovellanos"
+    ],
+    "name:ita_x_preferred":[
+        "Jovellanos"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10d5\u10d4\u10da\u10d8\u10d0\u10dc\u10dd\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Jovellanos"
+    ],
+    "name:por_x_preferred":[
+        "Jovellanos"
+    ],
+    "name:sco_x_preferred":[
+        "Jovellanos"
+    ],
+    "name:spa_x_preferred":[
+        "Jovellanos"
+    ],
+    "name:vie_x_preferred":[
+        "Jovellanos"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u97cb\u4e9e\u8afe\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +101,7 @@
         }
     ],
     "wof:id":1091905493,
-    "wof:lastmodified":1553717960,
+    "wof:lastmodified":1564327970,
     "wof:name":"Jovellanos",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

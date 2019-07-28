@@ -25,11 +25,20 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Minas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Minas"
+    ],
     "name:spa_x_preferred":[
         "Las Minas"
     ],
     "name:spa_x_variant":[
         "Los Minos"
+    ],
+    "name:swe_x_preferred":[
+        "Las Minas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1327206525,
-    "wof:lastmodified":1537618985,
+    "wof:lastmodified":1564325987,
     "wof:name":"Las Minas",
     "wof:parent_id":1091908009,
     "wof:placetype":"locality",

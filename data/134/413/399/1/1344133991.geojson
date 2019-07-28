@@ -25,9 +25,39 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:fra_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:hat_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:ita_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e0\u10d1\u10d0\u10dc\u10dd-\u10dc\u10dd\u10e0\u10d8\u10e1\u10d8"
+    ],
+    "name:sco_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:spa_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:swe_x_preferred":[
+        "Urbano Noris"
+    ],
     "name:und_x_variant":[
         "San Germ\u00e1n",
         "Urbano Noris"
+    ],
+    "name:vie_x_preferred":[
+        "Urbano Noris"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u723e\u74e6\u8afe\u8afe\u91cc\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1344133991,
-    "wof:lastmodified":1537618886,
+    "wof:lastmodified":1564326069,
     "wof:name":"San German",
     "wof:parent_id":1091908561,
     "wof:placetype":"locality",

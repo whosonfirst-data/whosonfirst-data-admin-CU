@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Isidora"
+    ],
+    "name:spa_x_preferred":[
+        "Isidora"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243556277,
-    "wof:lastmodified":1536646807,
+    "wof:lastmodified":1564328188,
     "wof:name":"Isidora",
     "wof:parent_id":1091902603,
     "wof:placetype":"locality",

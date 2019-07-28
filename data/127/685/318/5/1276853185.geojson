@@ -25,6 +25,21 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Parr\u00f2quia"
+    ],
+    "name:deu_x_preferred":[
+        "Parroquia"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c1\u03bf\u03ba\u03af\u03b1"
+    ],
+    "name:eus_x_preferred":[
+        "Parrokia"
+    ],
+    "name:por_x_preferred":[
+        "Parroquia"
+    ],
     "name:spa_x_preferred":[
         "Parroquia"
     ],
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276853185,
-    "wof:lastmodified":1537618943,
+    "wof:lastmodified":1564326900,
     "wof:name":"Parroquia",
     "wof:parent_id":1091908009,
     "wof:placetype":"locality",

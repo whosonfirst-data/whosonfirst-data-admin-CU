@@ -26,6 +26,36 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Melena del Sur"
+    ],
+    "name:fra_x_preferred":[
+        "Melena del Sur"
+    ],
+    "name:ita_x_preferred":[
+        "Melena del Sur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10da\u10d4\u10dc\u10d0-\u10d3\u10d4\u10da-\u10e1\u10e3\u10e0\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Melena del Sur"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0435\u043d\u0430-\u0434\u0435\u043b\u044c-\u0421\u0443\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Melena del Sur"
+    ],
+    "name:spa_x_preferred":[
+        "Melena del Sur"
+    ],
+    "name:vie_x_preferred":[
+        "Melena del Sur"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6885\u840a\u7d0d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1343976807,
-    "wof:lastmodified":1537503923,
+    "wof:lastmodified":1564326043,
     "wof:name":"Melena del Sur",
     "wof:parent_id":890445471,
     "wof:placetype":"locality",

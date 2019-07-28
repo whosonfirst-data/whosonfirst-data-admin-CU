@@ -38,6 +38,15 @@
         "Mayar\u00ed",
         "Mayar\u00ed"
     ],
+    "name:fra_x_preferred":[
+        "Mayari"
+    ],
+    "name:por_x_preferred":[
+        "Mayari"
+    ],
+    "name:swe_x_preferred":[
+        "Mayari"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1091906305,
-    "wof:lastmodified":1553717961,
+    "wof:lastmodified":1564327967,
     "wof:name":"Mayari",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

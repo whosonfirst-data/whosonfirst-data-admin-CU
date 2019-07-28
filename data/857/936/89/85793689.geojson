@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16001660.512172,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.477606,23.089476,-82.477606,23.089476",
     "geom:latitude":23.089476,
     "geom:longitude":-82.477606,
@@ -35,6 +35,9 @@
         "Siboney"
     ],
     "name:fra_x_preferred":[
+        "Siboney"
+    ],
+    "name:hun_x_preferred":[
         "Siboney"
     ],
     "name:spa_x_preferred":[
@@ -124,7 +127,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379264,
+    "wof:lastmodified":1564326347,
     "wof:name":"Siboney",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

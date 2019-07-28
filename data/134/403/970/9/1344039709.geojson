@@ -25,7 +25,16 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jova"
+    ],
+    "name:por_x_preferred":[
+        "Jova"
+    ],
     "name:spa_x_preferred":[
+        "Jova"
+    ],
+    "name:swe_x_preferred":[
         "Jova"
     ],
     "name:und_x_variant":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1344039709,
-    "wof:lastmodified":1537619019,
+    "wof:lastmodified":1564326266,
     "wof:name":"Jova",
     "wof:parent_id":1091904329,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "La Flora"
     ],
+    "name:swe_x_preferred":[
+        "La Flora"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276948801,
-    "wof:lastmodified":1537619006,
+    "wof:lastmodified":1564326818,
     "wof:name":"La Flora",
     "wof:parent_id":1091908735,
     "wof:placetype":"locality",

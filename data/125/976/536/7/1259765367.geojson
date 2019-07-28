@@ -25,6 +25,18 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u0627\u0632\u064a\u064a\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Graziella"
+    ],
+    "name:ind_x_preferred":[
+        "Graziella"
+    ],
+    "name:ita_x_preferred":[
+        "Graziella"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259765367,
-    "wof:lastmodified":1536949563,
+    "wof:lastmodified":1564328599,
     "wof:name":"Graziella",
     "wof:parent_id":1091904251,
     "wof:placetype":"locality",

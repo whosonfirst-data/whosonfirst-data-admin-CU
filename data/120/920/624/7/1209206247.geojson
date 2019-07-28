@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Ruano"
     ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0430\u043d\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632675
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209206247,
-    "wof:lastmodified":1537619173,
+    "wof:lastmodified":1564327266,
     "wof:name":"Ruano",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

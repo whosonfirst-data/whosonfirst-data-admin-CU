@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Caleta"
+    ],
     "name:spa_x_preferred":[
         "Caleta"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1292989843,
-    "wof:lastmodified":1537619225,
+    "wof:lastmodified":1564326588,
     "wof:name":"Caleta",
     "wof:parent_id":1091905819,
     "wof:placetype":"locality",

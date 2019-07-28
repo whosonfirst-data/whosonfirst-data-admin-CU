@@ -25,8 +25,14 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maximo"
+    ],
     "name:spa_x_preferred":[
         "M\u00e1ximo"
+    ],
+    "name:swe_x_preferred":[
+        "Maximo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326900223,
-    "wof:lastmodified":1537618960,
+    "wof:lastmodified":1564325916,
     "wof:name":"Maximo",
     "wof:parent_id":1091907053,
     "wof:placetype":"locality",

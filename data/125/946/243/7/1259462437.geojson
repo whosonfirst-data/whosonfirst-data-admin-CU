@@ -26,11 +26,20 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Los Asientos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Asientos"
+    ],
     "name:und_x_variant":[
         "Asiento Majiboca",
         "Sitios Majibacoa",
         "Asiento de Majibacoa",
         "Los Asientos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u963f\u5148\u6258\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1259462437,
-    "wof:lastmodified":1537618974,
+    "wof:lastmodified":1564328552,
     "wof:name":"Los Asientos",
     "wof:parent_id":1091905901,
     "wof:placetype":"locality",

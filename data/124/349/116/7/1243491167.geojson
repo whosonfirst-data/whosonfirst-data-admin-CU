@@ -25,8 +25,74 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Armenteros"
+    ],
+    "name:ast_x_preferred":[
+        "Armenteros"
+    ],
+    "name:cat_x_preferred":[
+        "Armenteros"
+    ],
+    "name:ceb_x_preferred":[
+        "Armenteros"
+    ],
+    "name:deu_x_preferred":[
+        "Armenteros"
+    ],
+    "name:eus_x_preferred":[
+        "Armenteros"
+    ],
+    "name:fra_x_preferred":[
+        "Armenteros"
+    ],
+    "name:haw_x_preferred":[
+        "Armenteros"
+    ],
+    "name:hun_x_preferred":[
+        "Armenteros"
+    ],
+    "name:ina_x_preferred":[
+        "Armenteros"
+    ],
+    "name:ita_x_preferred":[
+        "Armenteros"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0440\u043c\u0435\u043d\u0442\u0435\u0440\u043e\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Armenteros"
+    ],
+    "name:oci_x_preferred":[
+        "Armenteros"
+    ],
+    "name:pol_x_preferred":[
+        "Armenteros"
+    ],
+    "name:por_x_preferred":[
+        "Armenteros"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043c\u0435\u043d\u0442\u0435\u0440\u043e\u0441"
+    ],
     "name:spa_x_preferred":[
         "Armenteros"
+    ],
+    "name:swe_x_preferred":[
+        "Armenteros"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u043c\u0435\u043d\u0442\u0435\u0440\u043e\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Armenteros"
+    ],
+    "name:war_x_preferred":[
+        "Armenteros"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14\u95e8\u7279\u7f57\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +117,7 @@
         }
     ],
     "wof:id":1243491167,
-    "wof:lastmodified":1537619150,
+    "wof:lastmodified":1564328296,
     "wof:name":"Armenteros",
     "wof:parent_id":1091905779,
     "wof:placetype":"locality",

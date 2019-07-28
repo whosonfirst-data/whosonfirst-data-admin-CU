@@ -25,6 +25,21 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Pelayo"
+    ],
+    "name:cat_x_preferred":[
+        "Pelayo"
+    ],
+    "name:deu_x_preferred":[
+        "Pelayo"
+    ],
+    "name:fra_x_preferred":[
+        "Pelayo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043b\u0430\u0439\u043e"
+    ],
     "name:spa_x_preferred":[
         "Pelayo"
     ],
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276656163,
-    "wof:lastmodified":1537618942,
+    "wof:lastmodified":1564326991,
     "wof:name":"Pelayo",
     "wof:parent_id":1091908085,
     "wof:placetype":"locality",

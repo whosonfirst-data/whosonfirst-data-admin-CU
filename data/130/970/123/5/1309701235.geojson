@@ -25,6 +25,18 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pedrera"
+    ],
+    "name:ceb_x_preferred":[
+        "Pedrera"
+    ],
+    "name:eus_x_preferred":[
+        "Pedrera"
+    ],
+    "name:swe_x_preferred":[
+        "Pedrera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1309701235,
-    "wof:lastmodified":1537078761,
+    "wof:lastmodified":1564328020,
     "wof:name":"Pedrera",
     "wof:parent_id":1091902961,
     "wof:placetype":"locality",

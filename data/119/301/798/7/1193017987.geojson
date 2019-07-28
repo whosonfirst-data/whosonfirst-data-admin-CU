@@ -25,6 +25,36 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pinon"
+    ],
+    "name:ceb_x_preferred":[
+        "Pinon"
+    ],
+    "name:ces_x_preferred":[
+        "Pinon"
+    ],
+    "name:deu_x_preferred":[
+        "Pinon"
+    ],
+    "name:fra_x_preferred":[
+        "Pinon"
+    ],
+    "name:nld_x_preferred":[
+        "Pinon"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043d\u043e\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u043d\u0458\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Pinon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u043d\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "Batey Pi\u00f1\u00f3n",
         "Pi\u00f1\u00f3n"
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1193017987,
-    "wof:lastmodified":1537618939,
+    "wof:lastmodified":1564327366,
     "wof:name":"Pinon",
     "wof:parent_id":1091904143,
     "wof:placetype":"locality",

@@ -25,11 +25,35 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Natividad"
+    ],
+    "name:deu_x_preferred":[
+        "Natividad"
+    ],
+    "name:fra_x_preferred":[
+        "Natividad"
+    ],
+    "name:sco_x_preferred":[
+        "Natividad"
+    ],
     "name:spa_x_preferred":[
         "7 de Noviembre"
     ],
+    "name:spa_x_variant":[
+        "Natividad"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0442\u0438\u0432\u0438\u0434\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Natividad"
+    ],
     "name:und_x_variant":[
         "Siete de Noviembre"
+    ],
+    "name:vie_x_preferred":[
+        "Natividad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1259953675,
-    "wof:lastmodified":1537618894,
+    "wof:lastmodified":1564328614,
     "wof:name":"Natividad",
     "wof:parent_id":1091905615,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mujica"
+    ],
+    "name:fra_x_preferred":[
+        "Mujica"
+    ],
+    "name:hrv_x_preferred":[
+        "Mujica"
+    ],
+    "name:por_x_preferred":[
+        "Mujica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u0438\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Mujica"
+    ],
+    "name:spa_x_preferred":[
+        "Mujica"
+    ],
     "name:und_x_variant":[
         "Sucesores de Mujica",
         "Mujica"
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1310474353,
-    "wof:lastmodified":1537618954,
+    "wof:lastmodified":1564327632,
     "wof:name":"Mujica",
     "wof:parent_id":1091907371,
     "wof:placetype":"locality",

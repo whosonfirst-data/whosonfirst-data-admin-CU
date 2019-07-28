@@ -25,6 +25,24 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Playa Guardalavaca"
+    ],
+    "name:epo_x_preferred":[
+        "Guardalavaca"
+    ],
+    "name:fin_x_preferred":[
+        "Guardalavaca"
+    ],
+    "name:fra_x_preferred":[
+        "Guardalavaca"
+    ],
+    "name:hat_x_preferred":[
+        "Guardalavaca"
+    ],
+    "name:spa_x_preferred":[
+        "Guardalavaca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1209903325,
-    "wof:lastmodified":1537503961,
+    "wof:lastmodified":1564327091,
     "wof:name":"Guardalavaca",
     "wof:parent_id":1091902915,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Villamil"
+    ],
+    "name:deu_x_preferred":[
+        "Villamil"
+    ],
+    "name:fra_x_preferred":[
+        "Villamil"
+    ],
+    "name:spa_x_preferred":[
+        "Villamil"
+    ],
+    "name:swe_x_preferred":[
+        "Villamil"
+    ],
     "name:und_x_variant":[
         "Las Gu\u00e1simas",
         "Villamil"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1293014411,
-    "wof:lastmodified":1537618882,
+    "wof:lastmodified":1564326411,
     "wof:name":"Villamil",
     "wof:parent_id":1091907755,
     "wof:placetype":"locality",

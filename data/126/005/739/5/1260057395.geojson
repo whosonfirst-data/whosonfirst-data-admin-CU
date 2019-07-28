@@ -25,8 +25,20 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bazan"
+    ],
+    "name:ita_x_preferred":[
+        "Bazan"
+    ],
+    "name:slv_x_preferred":[
+        "Bazan"
+    ],
     "name:spa_x_preferred":[
         "Baz\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Bazan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1260057395,
-    "wof:lastmodified":1537619220,
+    "wof:lastmodified":1564327580,
     "wof:name":"Bazan",
     "wof:parent_id":1091907503,
     "wof:placetype":"locality",

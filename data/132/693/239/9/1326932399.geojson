@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cubillas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326932399,
-    "wof:lastmodified":1536904687,
+    "wof:lastmodified":1564325767,
     "wof:name":"Cubillas",
     "wof:parent_id":1091905697,
     "wof:placetype":"locality",

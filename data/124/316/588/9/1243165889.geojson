@@ -25,7 +25,13 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Lagunita"
+    ],
     "name:spa_x_preferred":[
+        "Lagunita"
+    ],
+    "name:swe_x_preferred":[
         "Lagunita"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243165889,
-    "wof:lastmodified":1537619227,
+    "wof:lastmodified":1564328445,
     "wof:name":"Lagunita",
     "wof:parent_id":1091902961,
     "wof:placetype":"locality",

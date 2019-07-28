@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pedro Camejo"
+    ],
+    "name:pol_x_preferred":[
+        "Pedro Camejo"
+    ],
     "name:spa_x_preferred":[
         "Pedro Camejo"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343793061,
-    "wof:lastmodified":1537619145,
+    "wof:lastmodified":1564326120,
     "wof:name":"Pedro Camejo",
     "wof:parent_id":1091907679,
     "wof:placetype":"locality",

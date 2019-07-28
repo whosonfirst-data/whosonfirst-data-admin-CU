@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cuatro caminos"
+    ],
     "name:und_x_variant":[
         "Cuatros Caminos",
         "Cuatro Caminos"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293709237,
-    "wof:lastmodified":1537619074,
+    "wof:lastmodified":1564326463,
     "wof:name":"Cuatro Caminos",
     "wof:parent_id":1091902603,
     "wof:placetype":"locality",

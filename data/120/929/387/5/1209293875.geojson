@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pozo Salado"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632675
@@ -34,7 +37,7 @@
         "gn:id":3543559
     },
     "wof:country":"CU",
-    "wof:geomhash":"ef9ab8e2f73e0cfc4f3c8d39b81f741e",
+    "wof:geomhash":"a372c13f384cedb8f3a5922157fde380",
     "wof:hierarchy":[
         {
             "country_id":85632675,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209293875,
-    "wof:lastmodified":1536291599,
+    "wof:lastmodified":1564327264,
     "wof:name":"Pozo Salado",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",
@@ -53,9 +56,9 @@
 },
   "bbox": [
     -77.03333,
-    20.866670000000006,
+    20.86667000000001,
     -77.03333,
-    20.866670000000006
+    20.86667000000001
 ],
   "geometry": {"coordinates":[-77.03333000000001,20.86667000000001],"type":"Point"}
 }

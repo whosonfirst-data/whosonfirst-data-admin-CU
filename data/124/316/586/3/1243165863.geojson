@@ -25,8 +25,41 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Maravi"
+    ],
+    "name:ast_x_preferred":[
+        "Reinos Maravi"
+    ],
+    "name:cym_x_preferred":[
+        "Maravi"
+    ],
+    "name:deu_x_preferred":[
+        "Maravi"
+    ],
+    "name:fin_x_preferred":[
+        "Maravi"
+    ],
+    "name:fra_x_preferred":[
+        "Maravi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e9\u30d3\u5e1d\u56fd"
+    ],
+    "name:lit_x_preferred":[
+        "Maravis"
+    ],
+    "name:por_x_preferred":[
+        "Reinos Maravi"
+    ],
     "name:spa_x_preferred":[
         "Marav\u00ed"
+    ],
+    "name:spa_x_variant":[
+        "Reinos Maravi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u0432\u0456"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1243165863,
-    "wof:lastmodified":1537618962,
+    "wof:lastmodified":1564328445,
     "wof:name":"Maravi",
     "wof:parent_id":1091902961,
     "wof:placetype":"locality",

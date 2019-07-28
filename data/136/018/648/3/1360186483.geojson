@@ -26,6 +26,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aguas Nuevas"
+    ],
     "name:und_x_variant":[
         "Finca Aguas Nuevas",
         "Aguas Nuevas"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1360186483,
-    "wof:lastmodified":1537619122,
+    "wof:lastmodified":1564327885,
     "wof:name":"Aguas Nuevas",
     "wof:parent_id":1091905493,
     "wof:placetype":"locality",

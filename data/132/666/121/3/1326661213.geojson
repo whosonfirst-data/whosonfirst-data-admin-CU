@@ -25,6 +25,21 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Palafox"
+    ],
+    "name:fra_x_preferred":[
+        "Palafox"
+    ],
+    "name:ita_x_preferred":[
+        "Palafox"
+    ],
+    "name:nds_x_preferred":[
+        "Palafox"
+    ],
+    "name:spa_x_preferred":[
+        "Palafox"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1326661213,
-    "wof:lastmodified":1536798234,
+    "wof:lastmodified":1564325782,
     "wof:name":"Palafox",
     "wof:parent_id":1091907587,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "La Resistencia"
     ],
+    "name:spa_x_variant":[
+        "La resistencia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1343857409,
-    "wof:lastmodified":1537618992,
+    "wof:lastmodified":1564326160,
     "wof:name":"La Resistencia",
     "wof:parent_id":1091908257,
     "wof:placetype":"locality",

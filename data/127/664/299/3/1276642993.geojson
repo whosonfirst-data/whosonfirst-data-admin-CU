@@ -25,9 +25,33 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "B\u00e1guanos"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00e1guanos"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e1guanos"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d2\u10e3\u10d0\u10dc\u10dd\u10e1\u10d8"
+    ],
+    "name:sco_x_preferred":[
+        "B\u00e1guanos"
+    ],
+    "name:spa_x_preferred":[
+        "B\u00e1guanos"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00e1guanos"
+    ],
     "name:und_x_variant":[
         "L\u00f3pez Pe\u00f1a",
         "B\u00e1guano",
+        "B\u00e1guanos"
+    ],
+    "name:vie_x_preferred":[
         "B\u00e1guanos"
     ],
     "src:geom":"geonames",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1276642993,
-    "wof:lastmodified":1537619111,
+    "wof:lastmodified":1564326962,
     "wof:name":"Baguanos",
     "wof:parent_id":1091902841,
     "wof:placetype":"locality",

@@ -25,6 +25,33 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Vicente"
+    ],
+    "name:ceb_x_preferred":[
+        "Vicente"
+    ],
+    "name:fra_x_preferred":[
+        "Vicente"
+    ],
+    "name:ita_x_preferred":[
+        "Vicente"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30bb\u30f3\u30c6"
+    ],
+    "name:por_x_preferred":[
+        "Vicente"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0441\u0435\u043d\u0442\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Vicente"
+    ],
+    "name:swe_x_preferred":[
+        "Vicente"
+    ],
     "name:und_x_variant":[
         "Vicenta",
         "Vicente"
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1209506627,
-    "wof:lastmodified":1537618883,
+    "wof:lastmodified":1564327171,
     "wof:name":"Vicente",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

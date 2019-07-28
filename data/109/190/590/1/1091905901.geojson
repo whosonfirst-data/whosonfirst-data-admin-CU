@@ -36,6 +36,27 @@
     "name:eng_x_variant":[
         "Majibacoa"
     ],
+    "name:fra_x_preferred":[
+        "Majibacoa"
+    ],
+    "name:ita_x_preferred":[
+        "Majibacoa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10ee\u10d8\u10d1\u10d0\u10d9\u10dd\u10d0"
+    ],
+    "name:sco_x_preferred":[
+        "Majibacoa"
+    ],
+    "name:spa_x_preferred":[
+        "Majibacoa"
+    ],
+    "name:vie_x_preferred":[
+        "Majibacoa"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5e0c\u74e6\u79d1\u963f"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +92,7 @@
         }
     ],
     "wof:id":1091905901,
-    "wof:lastmodified":1553717960,
+    "wof:lastmodified":1564327949,
     "wof:name":"Majibacoa",
     "wof:parent_id":85670439,
     "wof:placetype":"county",

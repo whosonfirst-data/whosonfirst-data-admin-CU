@@ -25,6 +25,21 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Teresita"
+    ],
+    "name:ceb_x_preferred":[
+        "Teresita"
+    ],
+    "name:deu_x_preferred":[
+        "Teresita"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u0441\u0438\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Teresita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632675
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209228787,
-    "wof:lastmodified":1536293706,
+    "wof:lastmodified":1564327165,
     "wof:name":"Teresita",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

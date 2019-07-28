@@ -25,6 +25,33 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:ita_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10dc\u10d9\u10e0\u10e3\u10e1\u10d8\u10ee\u10d0\u10d3\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:por_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:sco_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:spa_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:vie_x_preferred":[
+        "Encrucijada"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u514b\u9b6f\u897f\u54c8\u9054"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632675
@@ -34,7 +61,7 @@
         "gn:id":3559417
     },
     "wof:country":"CU",
-    "wof:geomhash":"d55d0bb512f01864a1918aa836277d0e",
+    "wof:geomhash":"a196c6b8b797fd1552c6c93b5cc0f0dc",
     "wof:hierarchy":[
         {
             "country_id":85632675,
@@ -42,7 +69,7 @@
         }
     ],
     "wof:id":1209400319,
-    "wof:lastmodified":1536288169,
+    "wof:lastmodified":1564327142,
     "wof:name":"Encrucijada",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",
@@ -53,9 +80,9 @@
 },
   "bbox": [
     -80.55,
-    22.116670000000006,
+    22.11667000000001,
     -80.55,
-    22.116670000000006
+    22.11667000000001
 ],
   "geometry": {"coordinates":[-80.55,22.11667000000001],"type":"Point"}
 }

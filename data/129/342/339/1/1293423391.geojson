@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Angosta"
+    ],
+    "name:spa_x_preferred":[
+        "Angosta"
+    ],
     "name:und_x_variant":[
         "Batey Angosta",
         "Angosta"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293423391,
-    "wof:lastmodified":1537619117,
+    "wof:lastmodified":1564326635,
     "wof:name":"Angosta",
     "wof:parent_id":1091906179,
     "wof:placetype":"locality",

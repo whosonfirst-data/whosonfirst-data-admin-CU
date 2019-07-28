@@ -38,6 +38,12 @@
         "Guam\u00e1",
         "Guam\u00e1"
     ],
+    "name:fra_x_preferred":[
+        "Guama"
+    ],
+    "name:spa_x_preferred":[
+        "Guama"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1091904765,
-    "wof:lastmodified":1553717959,
+    "wof:lastmodified":1564327938,
     "wof:name":"Guama",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

@@ -38,6 +38,15 @@
         "G\u00fcines",
         "G\u00fcines"
     ],
+    "name:fra_x_preferred":[
+        "Guines"
+    ],
+    "name:ita_x_preferred":[
+        "Guines"
+    ],
+    "name:nld_x_preferred":[
+        "Gu\u00eenes"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1091904955,
-    "wof:lastmodified":1553717959,
+    "wof:lastmodified":1564327969,
     "wof:name":"Guines",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

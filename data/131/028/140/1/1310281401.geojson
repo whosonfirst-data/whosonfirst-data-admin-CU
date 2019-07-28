@@ -25,7 +25,16 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Mercedes"
+    ],
+    "name:deu_x_preferred":[
+        "Las Mercedes"
+    ],
     "name:spa_x_preferred":[
+        "Las Mercedes"
+    ],
+    "name:swe_x_preferred":[
         "Las Mercedes"
     ],
     "name:und_x_variant":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310281401,
-    "wof:lastmodified":1537618958,
+    "wof:lastmodified":1564327739,
     "wof:name":"Las Mercedes",
     "wof:parent_id":1091905945,
     "wof:placetype":"locality",

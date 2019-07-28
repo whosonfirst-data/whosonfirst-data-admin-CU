@@ -25,9 +25,132 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0645\u064a\u0644\u0648 \u0633\u064a\u064a\u0646\u0641\u064a\u063a\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043c\u0456\u043b\u0430 \u0421\u044c\u0435\u043d\u0444\u0443\u044d\u0433\u0430\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09cb \u09b8\u09bf\u09af\u09bc\u09c7\u09a8\u09ab\u09c1\u09af\u09bc\u09c7\u0997\u09cb\u09b8"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u0438\u043b\u043e \u0421\u0438\u0435\u043d\u0444\u0443\u0435\u0433\u043e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:ces_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:dan_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:deu_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03af\u03bb\u03bf \u03a3\u03b9\u03b5\u03bd\u03c6\u03bf\u03c5\u03ad\u03b3\u03bf\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:eus_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0645\u06cc\u0644\u0648 \u0633\u06cc\u0646\u0641\u0648\u0626\u06af\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:fra_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:glg_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05de\u05d9\u05dc\u05d5 \u05e1\u05d9\u05d9\u05e0\u05e4\u05d5\u05d0\u05d2\u05d5\u05e1"
+    ],
+    "name:ind_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:ita_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30df\u30ed\u30fb\u30b7\u30a8\u30f3\u30d5\u30a7\u30b4\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ubc00\ub85c \uc2dc\uc5d4\ud478\uc5d0\uace0\uc2a4"
+    ],
+    "name:kur_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:nah_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:nld_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:nor_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:pms_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:pol_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:por_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044c\u0435\u043d\u0444\u0443\u044d\u0433\u043e\u0441"
+    ],
+    "name:scn_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:sco_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:slk_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:spa_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:sqi_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0438\u043b\u043e \u0421\u0458\u0435\u043d\u0444\u0443\u0435\u0433\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:tur_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0456\u043b\u043e \u0421\u044c\u0454\u043d\u0444\u0443\u0435\u0433\u043e\u0441"
+    ],
     "name:und_x_variant":[
         "Hershey",
         "Camilo Cienfuegos"
+    ],
+    "name:vie_x_preferred":[
+        "Camilo Cienfuegos Gorriar\u00e1n"
+    ],
+    "name:wln_x_preferred":[
+        "Camilo Cienfuegos"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7c73\u6d1b\u00b7\u897f\u6069\u5bcc\u6208\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +175,7 @@
         }
     ],
     "wof:id":1276800923,
-    "wof:lastmodified":1537619027,
+    "wof:lastmodified":1564326779,
     "wof:name":"Camilo Cienfuegos",
     "wof:parent_id":1091908039,
     "wof:placetype":"locality",

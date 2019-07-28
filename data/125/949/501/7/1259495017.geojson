@@ -25,6 +25,24 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ramos"
+    ],
+    "name:fin_x_preferred":[
+        "Ramos"
+    ],
+    "name:lav_x_preferred":[
+        "Ramos"
+    ],
+    "name:pol_x_preferred":[
+        "Ramos"
+    ],
+    "name:spa_x_preferred":[
+        "Ramos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043c\u043e\u0441"
+    ],
     "name:und_x_variant":[
         "Ramo",
         "Ramos"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1259495017,
-    "wof:lastmodified":1537618930,
+    "wof:lastmodified":1564328595,
     "wof:name":"Ramos",
     "wof:parent_id":1091903749,
     "wof:placetype":"locality",

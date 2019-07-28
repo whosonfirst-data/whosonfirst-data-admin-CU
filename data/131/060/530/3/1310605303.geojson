@@ -25,6 +25,192 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Ramones"
+    ],
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0645\u0648\u0646\u0632"
+    ],
+    "name:arg_x_preferred":[
+        "The Ramones"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u0627\u0645\u0648\u0646\u0632"
+    ],
+    "name:bar_x_preferred":[
+        "Ramones"
+    ],
+    "name:bre_x_preferred":[
+        "Ramones"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043c\u043e\u0443\u043d\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "The Ramones"
+    ],
+    "name:ces_x_preferred":[
+        "Ramones"
+    ],
+    "name:crh_x_preferred":[
+        "The Ramones"
+    ],
+    "name:cym_x_preferred":[
+        "Ramones"
+    ],
+    "name:dan_x_preferred":[
+        "Ramones"
+    ],
+    "name:deu_x_preferred":[
+        "Ramones"
+    ],
+    "name:ell_x_preferred":[
+        "Ramones"
+    ],
+    "name:eml_x_preferred":[
+        "Ramones"
+    ],
+    "name:epo_x_preferred":[
+        "The Ramones"
+    ],
+    "name:est_x_preferred":[
+        "Ramones"
+    ],
+    "name:eus_x_preferred":[
+        "The Ramones"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0645\u0648\u0646\u0632"
+    ],
+    "name:fin_x_preferred":[
+        "Ramones"
+    ],
+    "name:fra_x_preferred":[
+        "Ramones"
+    ],
+    "name:gle_x_preferred":[
+        "Ramones"
+    ],
+    "name:glg_x_preferred":[
+        "Ramones"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8\u05d0\u05de\u05d5\u05e0\u05e1"
+    ],
+    "name:hrv_x_preferred":[
+        "Ramones"
+    ],
+    "name:hun_x_preferred":[
+        "Ramones"
+    ],
+    "name:hye_x_preferred":[
+        "Ramones"
+    ],
+    "name:ido_x_preferred":[
+        "The Ramones"
+    ],
+    "name:ile_x_preferred":[
+        "The Ramones"
+    ],
+    "name:ind_x_preferred":[
+        "Ramones"
+    ],
+    "name:ita_x_preferred":[
+        "Ramones"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30e2\u30fc\u30f3\u30ba"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ubaac\uc2a4"
+    ],
+    "name:lat_x_preferred":[
+        "Ramones"
+    ],
+    "name:lav_x_preferred":[
+        "Ramones"
+    ],
+    "name:lit_x_preferred":[
+        "The Ramones"
+    ],
+    "name:lmo_x_preferred":[
+        "Ramones"
+    ],
+    "name:mkd_x_preferred":[
+        "The Ramones"
+    ],
+    "name:nld_x_preferred":[
+        "Ramones"
+    ],
+    "name:nno_x_preferred":[
+        "The Ramones"
+    ],
+    "name:nor_x_preferred":[
+        "Ramones"
+    ],
+    "name:oci_x_preferred":[
+        "The Ramones"
+    ],
+    "name:olo_x_preferred":[
+        "Ramones"
+    ],
+    "name:pol_x_preferred":[
+        "Ramones"
+    ],
+    "name:por_x_preferred":[
+        "Ramones"
+    ],
+    "name:ron_x_preferred":[
+        "Ramones"
+    ],
+    "name:rus_x_preferred":[
+        "Ramones"
+    ],
+    "name:scn_x_preferred":[
+        "Ramones"
+    ],
+    "name:sco_x_preferred":[
+        "Ramones"
+    ],
+    "name:slk_x_preferred":[
+        "The Ramones"
+    ],
+    "name:slv_x_preferred":[
+        "Ramones"
+    ],
+    "name:spa_x_preferred":[
+        "Ramones"
+    ],
+    "name:sqi_x_preferred":[
+        "Ramones"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043c\u043e\u043d\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Ramones"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e32\u0e42\u0e21\u0e19\u0e2a\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Ramones"
+    ],
+    "name:ukr_x_preferred":[
+        "Ramones"
+    ],
+    "name:uzb_x_preferred":[
+        "Ramones"
+    ],
+    "name:vie_x_preferred":[
+        "Ramones"
+    ],
+    "name:vls_x_preferred":[
+        "The Ramones"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u8499\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +234,7 @@
         }
     ],
     "wof:id":1310605303,
-    "wof:lastmodified":1536773564,
+    "wof:lastmodified":1564327824,
     "wof:name":"Ramones",
     "wof:parent_id":1091905737,
     "wof:placetype":"locality",

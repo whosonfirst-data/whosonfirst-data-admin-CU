@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Seoane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043e\u0430\u043d\u0435"
+    ],
     "name:spa_x_preferred":[
         "Seoane"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360008547,
-    "wof:lastmodified":1537619181,
+    "wof:lastmodified":1564327848,
     "wof:name":"Seoane",
     "wof:parent_id":1091903793,
     "wof:placetype":"locality",

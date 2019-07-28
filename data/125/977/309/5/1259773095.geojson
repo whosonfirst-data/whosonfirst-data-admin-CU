@@ -25,8 +25,38 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bartolom\u00e9 Mas\u00f3"
+    ],
+    "name:deu_x_preferred":[
+        "Bartolom\u00e9 Mas\u00f3"
+    ],
+    "name:fra_x_preferred":[
+        "Bartolom\u00e9 Mas\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Bartolom\u00e9 Mas\u00f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10e2\u10dd\u10da\u10dd\u10db\u10d4-\u10db\u10d0\u10e1\u10dd"
+    ],
+    "name:pol_x_preferred":[
+        "Bartolom\u00e9 Mas\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "Bartolom\u00e9 Mas\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "Bartolom\u00e9 Mas\u00f3"
+    ],
     "name:und_x_variant":[
         "Bartolom\u00e9 Mas\u00f3"
+    ],
+    "name:vie_x_preferred":[
+        "Bartolom\u00e9 Mas\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u6258\u6d1b\u6885\u99ac\u7d22"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1259773095,
-    "wof:lastmodified":1537619109,
+    "wof:lastmodified":1564328540,
     "wof:name":"Bartolome Maso",
     "wof:parent_id":1091902987,
     "wof:placetype":"locality",

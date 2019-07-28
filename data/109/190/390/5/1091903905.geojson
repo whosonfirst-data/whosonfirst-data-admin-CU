@@ -30,12 +30,42 @@
     "mps:longitude":-78.848408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Chambas"
+    ],
+    "name:deu_x_preferred":[
+        "Chambas"
+    ],
     "name:eng_x_preferred":[
         "Florencia"
     ],
     "name:eng_x_variant":[
         "Chambas",
         "Florencia"
+    ],
+    "name:fra_x_preferred":[
+        "Chambas"
+    ],
+    "name:ita_x_preferred":[
+        "Chambas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10db\u10d1\u10d0\u10e1\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Chambas"
+    ],
+    "name:spa_x_preferred":[
+        "Chambas"
+    ],
+    "name:swe_x_preferred":[
+        "Chambas"
+    ],
+    "name:vie_x_preferred":[
+        "Chambas"
+    ],
+    "name:zho_x_preferred":[
+        "\u660c\u5df4\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +102,7 @@
         }
     ],
     "wof:id":1091903905,
-    "wof:lastmodified":1553717958,
+    "wof:lastmodified":1564327936,
     "wof:name":"Chambas",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

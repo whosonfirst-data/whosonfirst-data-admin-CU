@@ -25,8 +25,14 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Frias"
+    ],
     "name:spa_x_preferred":[
         "Fr\u00edas"
+    ],
+    "name:swe_x_preferred":[
+        "Frias"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293231601,
-    "wof:lastmodified":1537619146,
+    "wof:lastmodified":1564326465,
     "wof:name":"Frias",
     "wof:parent_id":1091902873,
     "wof:placetype":"locality",

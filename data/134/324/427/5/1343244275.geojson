@@ -31,6 +31,9 @@
     "name:spa_x_variant":[
         "La Fe"
     ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0424\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343244275,
-    "wof:lastmodified":1537619170,
+    "wof:lastmodified":1564326148,
     "wof:name":"La Fe",
     "wof:parent_id":1091907371,
     "wof:placetype":"locality",
