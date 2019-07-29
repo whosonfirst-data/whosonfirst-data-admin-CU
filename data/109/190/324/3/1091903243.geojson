@@ -36,6 +36,24 @@
     "name:eng_x_variant":[
         "Buey Arriba"
     ],
+    "name:fra_x_preferred":[
+        "Buey Arriba"
+    ],
+    "name:ita_x_preferred":[
+        "Buey Arriba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10d4\u10d8-\u10d0\u10e0\u10d8\u10d1\u10d0"
+    ],
+    "name:spa_x_preferred":[
+        "Buey Arriba"
+    ],
+    "name:vie_x_preferred":[
+        "Buey Arriba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u57c3\u4f0a\u963f\u91cc\u74e6"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +89,7 @@
         }
     ],
     "wof:id":1091903243,
-    "wof:lastmodified":1553717956,
+    "wof:lastmodified":1564327946,
     "wof:name":"Buey Arriba",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Calabaza"
     ],
+    "name:tgl_x_preferred":[
+        "Kalabasa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632675
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209112143,
-    "wof:lastmodified":1537619098,
+    "wof:lastmodified":1564327258,
     "wof:name":"Calabaza",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

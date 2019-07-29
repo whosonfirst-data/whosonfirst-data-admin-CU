@@ -25,9 +25,39 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Songo - La Maya"
+    ],
+    "name:fra_x_preferred":[
+        "Songo-La Maya"
+    ],
+    "name:glg_x_preferred":[
+        "Songo - La Maya"
+    ],
+    "name:ita_x_preferred":[
+        "Songo-La Maya"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10dc\u10d2\u10dd-\u10da\u10d0-\u10db\u10d0\u10d8\u10d0"
+    ],
+    "name:por_x_preferred":[
+        "Songo - La Maya"
+    ],
+    "name:sco_x_preferred":[
+        "Songo \u2013 La Maya"
+    ],
+    "name:spa_x_preferred":[
+        "Songo-La Maya"
+    ],
     "name:und_x_variant":[
         "Songo",
         "Alto Songo"
+    ],
+    "name:vie_x_preferred":[
+        "Songo - La Maya"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u6208-\u62c9\u99ac\u4e9e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1260359755,
-    "wof:lastmodified":1537619118,
+    "wof:lastmodified":1564327580,
     "wof:name":"Alto Songo",
     "wof:parent_id":1091908347,
     "wof:placetype":"locality",

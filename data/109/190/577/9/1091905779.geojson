@@ -30,11 +30,44 @@
     "mps:longitude":-81.815623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Madruga"
+    ],
     "name:eng_x_preferred":[
         "Madruga"
     ],
     "name:eng_x_variant":[
         "Madruga"
+    ],
+    "name:fra_x_preferred":[
+        "Madruga"
+    ],
+    "name:ita_x_preferred":[
+        "Madruga"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d3\u10e0\u10e3\u10d2\u10d0"
+    ],
+    "name:por_x_preferred":[
+        "Madruga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u0440\u0443\u0433\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Madruga"
+    ],
+    "name:spa_x_preferred":[
+        "Madruga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u0631\u0648\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Madruga"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5fb7\u9b6f\u52a0"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +104,7 @@
         }
     ],
     "wof:id":1091905779,
-    "wof:lastmodified":1553717960,
+    "wof:lastmodified":1564327975,
     "wof:name":"Madruga",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

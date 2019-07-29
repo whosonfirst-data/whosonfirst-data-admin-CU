@@ -25,6 +25,51 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0646\u0628\u0627\u0642"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09ae\u09b0\u09be\u0999\u09be"
+    ],
+    "name:ces_x_preferred":[
+        "Karambola"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03bc\u03c0\u03cc\u03bb\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Karambolfrukto"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0648\u0647 \u0633\u062a\u0627\u0631\u0647\u200c\u0633\u0627\u0646"
+    ],
+    "name:isl_x_preferred":[
+        "Stj\u00f6rnu\u00e1v\u00f6xtur"
+    ],
+    "name:ita_x_preferred":[
+        "Carambola"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u0928\u094d\u0924\u0930"
+    ],
+    "name:ron_x_preferred":[
+        "Carambola"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dcf\u0db8\u0dbb\u0d82\u0d9c\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Karambola"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0bb3\u0bbf\u0bae\u0bcd\u0baa\u0bbf\u0baa\u0bcd\u0baa\u0bb4\u0bae\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Y\u0131ld\u0131z meyvesi"
+    ],
+    "name:vie_x_preferred":[
+        "Kh\u1ebf"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1327263029,
-    "wof:lastmodified":1536926154,
+    "wof:lastmodified":1564325959,
     "wof:name":"Carambola",
     "wof:parent_id":1091907679,
     "wof:placetype":"locality",

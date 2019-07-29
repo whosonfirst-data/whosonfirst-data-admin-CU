@@ -25,8 +25,26 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cintra"
+    ],
+    "name:deu_x_preferred":[
+        "Cintra"
+    ],
+    "name:eus_x_preferred":[
+        "Cintra"
+    ],
+    "name:fra_x_preferred":[
+        "Cintra"
+    ],
+    "name:ita_x_preferred":[
+        "Cintra"
+    ],
     "name:spa_x_preferred":[
         "Cintra"
+    ],
+    "name:spa_x_variant":[
+        "Cintra Infraestructuras"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1310584035,
-    "wof:lastmodified":1537619221,
+    "wof:lastmodified":1564327821,
     "wof:name":"Cintra",
     "wof:parent_id":1091908213,
     "wof:placetype":"locality",

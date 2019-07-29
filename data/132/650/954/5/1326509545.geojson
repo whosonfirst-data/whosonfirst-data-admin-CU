@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bartle"
+    ],
+    "name:nds_x_preferred":[
+        "Bartle"
+    ],
     "name:spa_x_preferred":[
         "Bartle"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326509545,
-    "wof:lastmodified":1537619109,
+    "wof:lastmodified":1564325791,
     "wof:name":"Bartle",
     "wof:parent_id":1091905619,
     "wof:placetype":"locality",

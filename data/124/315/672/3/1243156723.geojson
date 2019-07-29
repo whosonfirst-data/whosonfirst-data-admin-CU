@@ -25,6 +25,15 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Patr\u00edcio"
+    ],
+    "name:por_x_preferred":[
+        "Patr\u00edcio"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0442\u0440\u0438\u0441\u0438\u0443"
+    ],
     "name:spa_x_preferred":[
         "Patricio"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1243156723,
-    "wof:lastmodified":1537619196,
+    "wof:lastmodified":1564328289,
     "wof:name":"Patricio",
     "wof:parent_id":1091906965,
     "wof:placetype":"locality",

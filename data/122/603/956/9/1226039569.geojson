@@ -25,7 +25,13 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Gloriosa"
+    ],
     "name:spa_x_preferred":[
+        "La Gloriosa"
+    ],
+    "name:swe_x_preferred":[
         "La Gloriosa"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226039569,
-    "wof:lastmodified":1537619178,
+    "wof:lastmodified":1564328836,
     "wof:name":"La Gloriosa",
     "wof:parent_id":1091908603,
     "wof:placetype":"locality",

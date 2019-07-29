@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "La Carretera"
+    ],
+    "name:rus_x_preferred":[
+        "La carretera"
+    ],
     "name:und_x_variant":[
         "La Carettera",
         "La Carretera"
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209285881,
-    "wof:lastmodified":1537619013,
+    "wof:lastmodified":1564327315,
     "wof:name":"La Carretera",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

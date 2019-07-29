@@ -25,6 +25,15 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guayos"
+    ],
+    "name:spa_x_preferred":[
+        "Guayos"
+    ],
+    "name:swe_x_preferred":[
+        "Guayos"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1242660889,
-    "wof:lastmodified":1537503940,
+    "wof:lastmodified":1564328236,
     "wof:name":"Guayos",
     "wof:parent_id":1091903285,
     "wof:placetype":"locality",

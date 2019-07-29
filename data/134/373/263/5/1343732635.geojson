@@ -25,7 +25,19 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Emilia"
+    ],
+    "name:pol_x_preferred":[
+        "La Emilia San Nicolas"
+    ],
+    "name:sco_x_preferred":[
+        "La Emilia"
+    ],
     "name:spa_x_preferred":[
+        "La Emilia"
+    ],
+    "name:swe_x_preferred":[
         "La Emilia"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343732635,
-    "wof:lastmodified":1537619009,
+    "wof:lastmodified":1564326302,
     "wof:name":"La Emilia",
     "wof:parent_id":1091906823,
     "wof:placetype":"locality",

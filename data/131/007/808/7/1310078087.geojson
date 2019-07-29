@@ -25,6 +25,30 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Independiente"
+    ],
+    "name:ita_x_preferred":[
+        "Independiente"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f3\u30c7\u30da\u30f3\u30c7\u30a3\u30a8\u30f3\u30c6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc778\ub370\ud39c\ub514\uc5d4\ud14c"
+    ],
+    "name:por_x_preferred":[
+        "Independiente"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0434\u0435\u043f\u0435\u043d\u0434\u044c\u0435\u043d\u0442\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Independiente"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0434\u0435\u043f\u0435\u043d\u0434\u044c\u0454\u043d\u0442\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1310078087,
-    "wof:lastmodified":1537034644,
+    "wof:lastmodified":1564327649,
     "wof:name":"Independiente",
     "wof:parent_id":1091904483,
     "wof:placetype":"locality",

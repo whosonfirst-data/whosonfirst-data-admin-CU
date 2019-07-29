@@ -25,7 +25,16 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Fraile"
+    ],
     "name:spa_x_preferred":[
+        "El Fraile"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0424\u0440\u0430\u0438\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
         "El Fraile"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1344092453,
-    "wof:lastmodified":1537619058,
+    "wof:lastmodified":1564326109,
     "wof:name":"El Fraile",
     "wof:parent_id":1091908039,
     "wof:placetype":"locality",

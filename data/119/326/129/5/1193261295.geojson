@@ -26,6 +26,33 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tercer Frente"
+    ],
+    "name:fra_x_preferred":[
+        "Tercer Frente"
+    ],
+    "name:ita_x_preferred":[
+        "Tercer Frente"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d4\u10e0\u10e1\u10d4\u10e0-\u10e4\u10e0\u10d4\u10dc\u10e2\u10d4"
+    ],
+    "name:por_x_preferred":[
+        "Tercer Frente"
+    ],
+    "name:sco_x_preferred":[
+        "Tercer Frente"
+    ],
+    "name:spa_x_preferred":[
+        "Tercer Frente"
+    ],
+    "name:vie_x_preferred":[
+        "Tercer Frente"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u723e\u585e\u723e\u5f17\u502b\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1193261295,
-    "wof:lastmodified":1537503989,
+    "wof:lastmodified":1564327430,
     "wof:name":"Tercer Frente",
     "wof:parent_id":1091908439,
     "wof:placetype":"locality",

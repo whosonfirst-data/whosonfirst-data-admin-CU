@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Flora"
+    ],
+    "name:swe_x_preferred":[
+        "La Flora"
+    ],
     "name:und_x_variant":[
         "Flora",
         "La Flora"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1225881349,
-    "wof:lastmodified":1537619006,
+    "wof:lastmodified":1564328870,
     "wof:name":"La Flora",
     "wof:parent_id":1091903705,
     "wof:placetype":"locality",

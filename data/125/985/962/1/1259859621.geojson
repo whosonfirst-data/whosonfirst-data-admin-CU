@@ -25,9 +25,36 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cacocum"
+    ],
+    "name:fra_x_preferred":[
+        "Cacocum"
+    ],
+    "name:ita_x_preferred":[
+        "Cacocum"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d9\u10dd\u10d9\u10e3\u10db\u10d8"
+    ],
+    "name:sco_x_preferred":[
+        "Cacocum"
+    ],
+    "name:spa_x_preferred":[
+        "Cacocum"
+    ],
+    "name:swe_x_preferred":[
+        "Cacocum"
+    ],
     "name:und_x_variant":[
         "San Pedro de Cacocum",
         "Cacocum"
+    ],
+    "name:vie_x_preferred":[
+        "Cacocum"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u79d1\u5eab\u59c6"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1259859621,
-    "wof:lastmodified":1537619100,
+    "wof:lastmodified":1564328583,
     "wof:name":"Cacocum",
     "wof:parent_id":1091903321,
     "wof:placetype":"locality",

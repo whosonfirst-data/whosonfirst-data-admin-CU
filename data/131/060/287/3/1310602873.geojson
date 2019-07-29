@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Voladoras"
+    ],
     "name:und_x_variant":[
         "Voladora",
         "Voladores",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1310602873,
-    "wof:lastmodified":1537618880,
+    "wof:lastmodified":1564327822,
     "wof:name":"Voladoras",
     "wof:parent_id":1091905697,
     "wof:placetype":"locality",

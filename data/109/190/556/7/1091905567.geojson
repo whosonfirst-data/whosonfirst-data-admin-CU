@@ -37,6 +37,24 @@
         "Bauta",
         "La Lisa"
     ],
+    "name:fra_x_preferred":[
+        "La Lisa"
+    ],
+    "name:ita_x_preferred":[
+        "La Lisa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10da\u10d8\u10e1\u10d0"
+    ],
+    "name:spa_x_preferred":[
+        "La Lisa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0644\u06cc\u0633\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u9e97\u85a9"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1091905567,
-    "wof:lastmodified":1553717959,
+    "wof:lastmodified":1564327932,
     "wof:name":"La Lisa",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

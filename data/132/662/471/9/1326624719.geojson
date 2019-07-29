@@ -25,11 +25,23 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Cuevas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Cuevas"
+    ],
+    "name:nds_x_preferred":[
+        "Las Cuevas"
+    ],
     "name:spa_x_preferred":[
         "Las Cuevas"
     ],
     "name:spa_x_variant":[
         "Las Puertas de las Cuevas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Cuevas"
     ],
     "name:und_x_variant":[
         "Las Cruces"
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1326624719,
-    "wof:lastmodified":1537618983,
+    "wof:lastmodified":1564325924,
     "wof:name":"Las Cuevas",
     "wof:parent_id":1091904557,
     "wof:placetype":"locality",

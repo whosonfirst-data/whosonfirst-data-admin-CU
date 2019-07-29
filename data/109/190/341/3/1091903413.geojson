@@ -30,11 +30,47 @@
     "mps:longitude":-75.070871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Caimanera"
+    ],
+    "name:deu_x_preferred":[
+        "Caimanera"
+    ],
     "name:eng_x_preferred":[
         "Caimanera"
     ],
     "name:eng_x_variant":[
         "Caimanera"
+    ],
+    "name:fra_x_preferred":[
+        "Caimanera"
+    ],
+    "name:ita_x_preferred":[
+        "Caimanera"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d8\u10db\u10d0\u10dc\u10d4\u10e0\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Caimanera"
+    ],
+    "name:por_x_preferred":[
+        "Caimanera"
+    ],
+    "name:spa_x_preferred":[
+        "Caimanera"
+    ],
+    "name:swe_x_preferred":[
+        "Caimanera"
+    ],
+    "name:vie_x_preferred":[
+        "Caimanera"
+    ],
+    "name:war_x_preferred":[
+        "Caimanera"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u99ac\u5167\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +107,7 @@
         }
     ],
     "wof:id":1091903413,
-    "wof:lastmodified":1553717957,
+    "wof:lastmodified":1564327945,
     "wof:name":"Caimanera",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

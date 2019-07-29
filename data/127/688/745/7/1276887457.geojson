@@ -26,6 +26,15 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cuchara"
+    ],
+    "name:spa_x_preferred":[
+        "Cuchara"
+    ],
+    "name:swe_x_preferred":[
+        "Cuchara"
+    ],
     "name:und_x_variant":[
         "Puchata",
         "Cuchara"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276887457,
-    "wof:lastmodified":1537619073,
+    "wof:lastmodified":1564326742,
     "wof:name":"Cuchara",
     "wof:parent_id":1091907007,
     "wof:placetype":"locality",

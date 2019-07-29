@@ -25,8 +25,41 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Camajuan\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Camajuan\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Camajuan\u00ed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10db\u10d0\u10ee\u10e3\u10d0\u10dc\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Camajuan\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Camajuan\u00ed"
+    ],
+    "name:sco_x_preferred":[
+        "Camajuan\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Camajuan\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Camajuan\u00ed"
+    ],
     "name:und_x_variant":[
         "Camajuan\u00ed"
+    ],
+    "name:vie_x_preferred":[
+        "Camajuan\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u99ac\u83ef\u5c3c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1276195369,
-    "wof:lastmodified":1537619097,
+    "wof:lastmodified":1564326753,
     "wof:name":"Camajuani",
     "wof:parent_id":1091903633,
     "wof:placetype":"locality",

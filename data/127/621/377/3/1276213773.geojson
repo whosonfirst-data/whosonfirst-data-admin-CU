@@ -25,9 +25,18 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Cocal"
+    ],
+    "name:spa_x_preferred":[
+        "El Cocal"
+    ],
     "name:und_x_variant":[
         "Cocal",
         "El Cocal"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u79d1\u5361\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276213773,
-    "wof:lastmodified":1537619061,
+    "wof:lastmodified":1564326746,
     "wof:name":"El Cocal",
     "wof:parent_id":1091906305,
     "wof:placetype":"locality",

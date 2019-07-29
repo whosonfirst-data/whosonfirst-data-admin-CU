@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30d6\u30e9\u30bd"
+    ],
     "name:spa_x_preferred":[
         "El Brazo"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293686025,
-    "wof:lastmodified":1537619065,
+    "wof:lastmodified":1564326537,
     "wof:name":"El Brazo",
     "wof:parent_id":1091906599,
     "wof:placetype":"locality",

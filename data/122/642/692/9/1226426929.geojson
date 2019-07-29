@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pedro Guerrero"
+    ],
     "name:spa_x_preferred":[
         "Pedro Guerrero"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226426929,
-    "wof:lastmodified":1537619133,
+    "wof:lastmodified":1564328766,
     "wof:name":"Pedro Guerrero",
     "wof:parent_id":1091907413,
     "wof:placetype":"locality",

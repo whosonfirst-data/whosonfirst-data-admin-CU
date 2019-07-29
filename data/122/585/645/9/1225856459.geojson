@@ -25,6 +25,33 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Algorta"
+    ],
+    "name:ceb_x_preferred":[
+        "Algorta"
+    ],
+    "name:eus_x_preferred":[
+        "Algorta"
+    ],
+    "name:fra_x_preferred":[
+        "Algorta"
+    ],
+    "name:glg_x_preferred":[
+        "Algorta"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0580\u0578\u0576\u0564\u0578"
+    ],
+    "name:mlg_x_preferred":[
+        "Algorta"
+    ],
+    "name:spa_x_preferred":[
+        "Algorta"
+    ],
+    "name:swe_x_preferred":[
+        "Algorta"
+    ],
     "name:und_x_variant":[
         "Batey Algorita",
         "Algorta"
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1225856459,
-    "wof:lastmodified":1537619120,
+    "wof:lastmodified":1564329046,
     "wof:name":"Algorta",
     "wof:parent_id":1091906933,
     "wof:placetype":"locality",

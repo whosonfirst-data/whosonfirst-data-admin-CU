@@ -36,6 +36,30 @@
     "name:eng_x_variant":[
         "Pedro Betancourt"
     ],
+    "name:fra_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "name:ita_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10d3\u10e0\u10dd-\u10d1\u10d4\u10e2\u10d0\u10dc\u10d9\u10e3\u10e0\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "name:sco_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "name:spa_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "name:vie_x_preferred":[
+        "Pedro Betancourt"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5fb7\u7f85\u8c9d\u5766\u5eab\u7279"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +95,7 @@
         }
     ],
     "wof:id":1091906893,
-    "wof:lastmodified":1553717961,
+    "wof:lastmodified":1564327940,
     "wof:name":"Pedro Betancourt",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

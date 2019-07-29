@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Camalote"
+    ],
+    "name:swe_x_preferred":[
+        "Camalote"
+    ],
     "name:und_x_variant":[
         "Camelote",
         "Camalote"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1225949091,
-    "wof:lastmodified":1537619097,
+    "wof:lastmodified":1564328705,
     "wof:name":"Camalote",
     "wof:parent_id":1091904725,
     "wof:placetype":"locality",

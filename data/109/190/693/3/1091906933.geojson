@@ -30,12 +30,36 @@
     "mps:longitude":-81.014055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Perico"
+    ],
+    "name:deu_x_preferred":[
+        "Perico"
+    ],
     "name:eng_x_preferred":[
         "Perico"
     ],
     "name:eng_x_variant":[
         "Cardenas",
         "C\u00e1rdenas"
+    ],
+    "name:fra_x_preferred":[
+        "Perico"
+    ],
+    "name:pol_x_preferred":[
+        "Perico"
+    ],
+    "name:por_x_preferred":[
+        "Perico"
+    ],
+    "name:sco_x_preferred":[
+        "Perico"
+    ],
+    "name:spa_x_preferred":[
+        "Perico"
+    ],
+    "name:swe_x_preferred":[
+        "Perico"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +96,7 @@
         }
     ],
     "wof:id":1091906933,
-    "wof:lastmodified":1553717961,
+    "wof:lastmodified":1564327944,
     "wof:name":"Perico",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

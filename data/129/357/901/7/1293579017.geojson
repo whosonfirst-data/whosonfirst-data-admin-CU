@@ -25,6 +25,18 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jibacoa"
+    ],
+    "name:epo_x_preferred":[
+        "Jibacoa"
+    ],
+    "name:fra_x_preferred":[
+        "Jibacoa"
+    ],
+    "name:sco_x_preferred":[
+        "Jibacoa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293579017,
-    "wof:lastmodified":1536655195,
+    "wof:lastmodified":1564326539,
     "wof:name":"Jibacoa",
     "wof:parent_id":1091906089,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lavadero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242563089,
-    "wof:lastmodified":1537081446,
+    "wof:lastmodified":1564328266,
     "wof:name":"Lavadero",
     "wof:parent_id":1091902603,
     "wof:placetype":"locality",

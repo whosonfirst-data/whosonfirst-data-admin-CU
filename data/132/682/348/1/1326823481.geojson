@@ -25,8 +25,14 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gavina"
+    ],
     "name:spa_x_preferred":[
         "Gavi\u00f1a"
+    ],
+    "name:spa_x_variant":[
+        "Gavina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326823481,
-    "wof:lastmodified":1537619036,
+    "wof:lastmodified":1564325870,
     "wof:name":"Gavina",
     "wof:parent_id":1091904385,
     "wof:placetype":"locality",

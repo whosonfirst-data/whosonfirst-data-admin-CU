@@ -26,6 +26,18 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pintado"
+    ],
+    "name:deu_x_preferred":[
+        "Pintado"
+    ],
+    "name:fra_x_preferred":[
+        "Pintado"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30f3\u30bf\u30fc\u30c9"
+    ],
     "name:und_x_variant":[
         "La Escondida",
         "Pintado"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1310184505,
-    "wof:lastmodified":1537618939,
+    "wof:lastmodified":1564327710,
     "wof:name":"Pintado",
     "wof:parent_id":1091905315,
     "wof:placetype":"locality",

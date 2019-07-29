@@ -25,6 +25,21 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dos R\u00edos"
+    ],
+    "name:deu_x_preferred":[
+        "Dos Rios"
+    ],
+    "name:spa_x_preferred":[
+        "Dos R\u00edos"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0441 \u0420\u0438\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Dos Rios"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1259553749,
-    "wof:lastmodified":1536757949,
+    "wof:lastmodified":1564328535,
     "wof:name":"Dos Rios",
     "wof:parent_id":1091906823,
     "wof:placetype":"locality",

@@ -26,9 +26,84 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Suris"
+    ],
+    "name:ceb_x_preferred":[
+        "Suris"
+    ],
+    "name:deu_x_preferred":[
+        "Suris"
+    ],
+    "name:eus_x_preferred":[
+        "Suris"
+    ],
+    "name:fra_x_preferred":[
+        "Suris"
+    ],
+    "name:hun_x_preferred":[
+        "Suris"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0575\u0578\u0582\u0580\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Suris"
+    ],
+    "name:lat_x_preferred":[
+        "Suris"
+    ],
+    "name:msa_x_preferred":[
+        "Suris"
+    ],
+    "name:nld_x_preferred":[
+        "Suris"
+    ],
+    "name:oci_x_preferred":[
+        "Suris"
+    ],
+    "name:pms_x_preferred":[
+        "Suris"
+    ],
+    "name:pol_x_preferred":[
+        "Suris"
+    ],
+    "name:por_x_preferred":[
+        "Suris"
+    ],
+    "name:ron_x_preferred":[
+        "Suris"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044e\u0440\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Suris"
+    ],
+    "name:spa_x_preferred":[
+        "Suris"
+    ],
+    "name:swe_x_preferred":[
+        "Suris"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u044e\u0440\u0456"
+    ],
     "name:und_x_variant":[
         "Batey Suris",
         "Sur\u00eds"
+    ],
+    "name:vie_x_preferred":[
+        "Suris"
+    ],
+    "name:vol_x_preferred":[
+        "Suris"
+    ],
+    "name:war_x_preferred":[
+        "Suris"
+    ],
+    "name:zho_x_preferred":[
+        "\u53d9\u91cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +128,7 @@
         }
     ],
     "wof:id":1259881905,
-    "wof:lastmodified":1537618891,
+    "wof:lastmodified":1564328687,
     "wof:name":"Suris",
     "wof:parent_id":1091905493,
     "wof:placetype":"locality",

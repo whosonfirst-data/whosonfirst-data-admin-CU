@@ -25,6 +25,21 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baez"
+    ],
+    "name:deu_x_preferred":[
+        "Baez"
+    ],
+    "name:fra_x_preferred":[
+        "Baez"
+    ],
+    "name:ita_x_preferred":[
+        "Baez"
+    ],
+    "name:swe_x_preferred":[
+        "Baez"
+    ],
     "name:und_x_variant":[
         "Poblado Baez",
         "B\u00e1es",
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1209296627,
-    "wof:lastmodified":1537619111,
+    "wof:lastmodified":1564327262,
     "wof:name":"Baez",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

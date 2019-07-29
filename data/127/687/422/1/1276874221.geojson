@@ -25,8 +25,17 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30ed\u30b9\u30fb\u30b8\u30e3\u30eb\u30c7\u30a3\u30f3\u8af8\u5cf6"
+    ],
     "name:spa_x_preferred":[
         "Los Jardines"
+    ],
+    "name:spa_x_variant":[
+        "Islas Los Jardines"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u6e23\u7538\u7fa4\u5cf6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1276874221,
-    "wof:lastmodified":1537619135,
+    "wof:lastmodified":1564326794,
     "wof:name":"Los Jardines",
     "wof:parent_id":1091905195,
     "wof:placetype":"locality",

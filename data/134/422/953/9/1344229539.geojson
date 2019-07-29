@@ -25,8 +25,20 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Salvadora"
+    ],
+    "name:nld_x_preferred":[
+        "Salvadora"
+    ],
+    "name:swe_x_preferred":[
+        "Salvadora"
+    ],
     "name:und_x_variant":[
         "Salvadora Vieja",
+        "Salvadora"
+    ],
+    "name:vie_x_preferred":[
         "Salvadora"
     ],
     "src:geom":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1344229539,
-    "wof:lastmodified":1537618920,
+    "wof:lastmodified":1564326058,
     "wof:name":"Salvadora",
     "wof:parent_id":1091908169,
     "wof:placetype":"locality",

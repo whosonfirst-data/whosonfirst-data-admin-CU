@@ -25,6 +25,15 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Fraile"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0424\u0440\u0430\u0438\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "El Fraile"
+    ],
     "name:und_x_variant":[
         "Fraile",
         "El Fraile"
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1209228405,
-    "wof:lastmodified":1537619058,
+    "wof:lastmodified":1564327165,
     "wof:name":"El Fraile",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

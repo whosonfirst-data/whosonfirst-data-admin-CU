@@ -25,7 +25,16 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Socorro"
+    ],
+    "name:fra_x_preferred":[
+        "El Socorro"
+    ],
     "name:spa_x_preferred":[
+        "El Socorro"
+    ],
+    "name:swe_x_preferred":[
         "El Socorro"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259775139,
-    "wof:lastmodified":1537619045,
+    "wof:lastmodified":1564328544,
     "wof:name":"El Socorro",
     "wof:parent_id":1091906525,
     "wof:placetype":"locality",

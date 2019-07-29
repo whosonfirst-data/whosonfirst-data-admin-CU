@@ -25,6 +25,15 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30dd\u30ea\u30a7\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3f4\ub808\ub77c"
+    ],
+    "name:que_x_preferred":[
+        "Pullira"
+    ],
     "name:spa_x_preferred":[
         "Pollera"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1243179641,
-    "wof:lastmodified":1537619156,
+    "wof:lastmodified":1564328458,
     "wof:name":"Pollera",
     "wof:parent_id":1091903495,
     "wof:placetype":"locality",

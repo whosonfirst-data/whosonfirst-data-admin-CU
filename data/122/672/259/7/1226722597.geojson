@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Pedro Salas"
+    ],
     "name:spa_x_preferred":[
         "Santa Teresa"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226722597,
-    "wof:lastmodified":1537618896,
+    "wof:lastmodified":1564328732,
     "wof:name":"Pedro Salas",
     "wof:parent_id":1091907209,
     "wof:placetype":"locality",

@@ -36,6 +36,15 @@
     "name:eng_x_variant":[
         "Media Luna"
     ],
+    "name:ina_x_preferred":[
+        "Media Luna"
+    ],
+    "name:por_x_preferred":[
+        "Media Luna"
+    ],
+    "name:spa_x_preferred":[
+        "Media Luna"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1091906341,
-    "wof:lastmodified":1553717961,
+    "wof:lastmodified":1564327942,
     "wof:name":"Media Luna",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

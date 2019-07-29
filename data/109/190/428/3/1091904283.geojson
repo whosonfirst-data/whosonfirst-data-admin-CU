@@ -37,6 +37,30 @@
         "Cotorro",
         "Guanabacoa"
     ],
+    "name:epo_x_preferred":[
+        "Cotorro"
+    ],
+    "name:fin_x_preferred":[
+        "Cotorro"
+    ],
+    "name:fra_x_preferred":[
+        "Cotorro"
+    ],
+    "name:hat_x_preferred":[
+        "Cotorro"
+    ],
+    "name:ita_x_preferred":[
+        "Cotorro"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e2\u10dd\u10e0\u10dd"
+    ],
+    "name:spa_x_preferred":[
+        "Cotorro"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u6258\u7f85"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +96,7 @@
         }
     ],
     "wof:id":1091904283,
-    "wof:lastmodified":1553717958,
+    "wof:lastmodified":1564327951,
     "wof:name":"Cotorro",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

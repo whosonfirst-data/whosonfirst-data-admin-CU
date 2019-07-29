@@ -25,6 +25,72 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043b\u043e\u0442\u0438\u043b\u0434\u0430 \u0411\u0443\u0440\u0433\u0443\u043d\u0434\u0441\u043a\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Chrodechilda"
+    ],
+    "name:cym_x_preferred":[
+        "Clotilde"
+    ],
+    "name:deu_x_preferred":[
+        "Chrodechild"
+    ],
+    "name:fin_x_preferred":[
+        "Klotilde"
+    ],
+    "name:fry_x_preferred":[
+        "Klotildis"
+    ],
+    "name:glg_x_preferred":[
+        "Clotilde"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05d5\u05ea\u05d9\u05dc\u05d3\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Sveta Klotilda"
+    ],
+    "name:ind_x_preferred":[
+        "Clotilda"
+    ],
+    "name:ita_x_preferred":[
+        "Clotilde"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ed\u30c6\u30a3\u30eb\u30c0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud074\ub85c\ud2f8\ub514\uc2a4"
+    ],
+    "name:lat_x_preferred":[
+        "Clotildis"
+    ],
+    "name:nor_x_preferred":[
+        "Klotilde"
+    ],
+    "name:pol_x_preferred":[
+        "\u015awi\u0119ta Klotylda"
+    ],
+    "name:ron_x_preferred":[
+        "Sf\u00e2nta Clotilda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0442\u0438\u043b\u044c\u0434\u0430 \u0411\u0443\u0440\u0433\u0443\u043d\u0434\u0441\u043a\u0430\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Clotilde"
+    ],
+    "name:swe_x_preferred":[
+        "Clotilda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u043e\u0442\u0456\u043b\u044c\u0434\u0430 \u0411\u0443\u0440\u0433\u0443\u043d\u0434\u0441\u044c\u043a\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Clotilde"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +114,7 @@
         }
     ],
     "wof:id":1326853157,
-    "wof:lastmodified":1537017885,
+    "wof:lastmodified":1564325877,
     "wof:name":"Clotilde",
     "wof:parent_id":1091905417,
     "wof:placetype":"locality",

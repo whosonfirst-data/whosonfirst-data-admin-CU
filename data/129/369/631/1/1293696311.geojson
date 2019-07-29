@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041b\u043e\u0441 \u041a\u0430\u0438\u0435\u043b\u043e\u0441"
+    ],
     "name:spa_x_preferred":[
         "Los Cayuelos"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293696311,
-    "wof:lastmodified":1537619128,
+    "wof:lastmodified":1564326565,
     "wof:name":"Los Cayuelos",
     "wof:parent_id":1091907969,
     "wof:placetype":"locality",

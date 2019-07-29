@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Jabaco"
+    ],
     "name:spa_x_preferred":[
         "Jabaco"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293773471,
-    "wof:lastmodified":1537619024,
+    "wof:lastmodified":1564326455,
     "wof:name":"Jabaco",
     "wof:parent_id":1091903105,
     "wof:placetype":"locality",

@@ -25,8 +25,65 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u0995\u09cb\u09ae\u09ac\u09bf\u09a8\u09be\u09a1\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Combinado"
+    ],
+    "name:epo_x_preferred":[
+        "Combinado"
+    ],
+    "name:eus_x_preferred":[
+        "Combinado"
+    ],
+    "name:fra_x_preferred":[
+        "Combinado"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0574\u0562\u056b\u0576\u0561\u0564\u0578\u0582"
+    ],
+    "name:ita_x_preferred":[
+        "Combinado"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043c\u0431\u0438\u043d\u0430\u0434\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Combinado"
+    ],
+    "name:nor_x_preferred":[
+        "Combinado"
+    ],
+    "name:por_x_preferred":[
+        "Combinado"
+    ],
+    "name:ron_x_preferred":[
+        "Combinado"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0431\u0438\u043d\u0430\u0434\u0443"
+    ],
     "name:spa_x_preferred":[
         "Combinado"
+    ],
+    "name:swe_x_preferred":[
+        "Combinado"
+    ],
+    "name:tur_x_preferred":[
+        "Combinado"
+    ],
+    "name:vie_x_preferred":[
+        "Combinado"
+    ],
+    "name:vol_x_preferred":[
+        "Combinado"
+    ],
+    "name:war_x_preferred":[
+        "Combinado"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u6bd4\u7eb3\u675c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +108,7 @@
         }
     ],
     "wof:id":1326930733,
-    "wof:lastmodified":1537619147,
+    "wof:lastmodified":1564325767,
     "wof:name":"Combinado",
     "wof:parent_id":1091906563,
     "wof:placetype":"locality",

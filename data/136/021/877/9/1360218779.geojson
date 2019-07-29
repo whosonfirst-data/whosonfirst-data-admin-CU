@@ -25,7 +25,19 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Mudo"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041c\u0443\u0434\u043e"
+    ],
     "name:spa_x_preferred":[
+        "El Mudo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u041c\u0443\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
         "El Mudo"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1360218779,
-    "wof:lastmodified":1537619052,
+    "wof:lastmodified":1564327925,
     "wof:name":"El Mudo",
     "wof:parent_id":1091905779,
     "wof:placetype":"locality",

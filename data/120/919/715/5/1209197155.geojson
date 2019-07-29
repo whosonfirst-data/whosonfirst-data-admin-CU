@@ -25,6 +25,18 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Gladys"
+    ],
+    "name:deu_x_preferred":[
+        "Gladys"
+    ],
+    "name:fra_x_preferred":[
+        "Gladys"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30c7\u30a3\u30b9"
+    ],
     "name:spa_x_preferred":[
         "Gladys"
     ],
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1209197155,
-    "wof:lastmodified":1537619036,
+    "wof:lastmodified":1564327299,
     "wof:name":"Gladys",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

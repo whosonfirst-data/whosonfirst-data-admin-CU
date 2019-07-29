@@ -26,6 +26,30 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Santa Susana"
+    ],
+    "name:glg_x_preferred":[
+        "Santa Susana"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Susana"
+    ],
+    "name:por_x_preferred":[
+        "Santa Susana"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Susana"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Susana"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u0421\u0443\u0441\u0430\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Susana"
+    ],
     "name:und_x_variant":[
         "Santa Susana Batey",
         "Santa Susana"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1226344025,
-    "wof:lastmodified":1537618897,
+    "wof:lastmodified":1564328802,
     "wof:name":"Santa Susana",
     "wof:parent_id":1091906933,
     "wof:placetype":"locality",

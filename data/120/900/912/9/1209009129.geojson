@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Arroyo Hondo"
+    ],
+    "name:swe_x_preferred":[
+        "Arroyo Hondo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632675
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209009129,
-    "wof:lastmodified":1536300505,
+    "wof:lastmodified":1564327037,
     "wof:name":"Arroyo Hondo",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

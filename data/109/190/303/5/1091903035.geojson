@@ -38,6 +38,9 @@
         "Bataban\u00f3",
         "Bataban\u00f3"
     ],
+    "name:por_x_preferred":[
+        "Batabano"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091903035,
-    "wof:lastmodified":1553717956,
+    "wof:lastmodified":1564327949,
     "wof:name":"Batabano",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

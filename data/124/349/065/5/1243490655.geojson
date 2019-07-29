@@ -25,6 +25,21 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Valenciano"
+    ],
+    "name:fra_x_preferred":[
+        "Valenciano"
+    ],
+    "name:por_x_preferred":[
+        "Valenciano"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u043d\u0441\u0438\u0430\u043d\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Valenciano"
+    ],
     "name:und_x_variant":[
         "El Valenciano"
     ],
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1243490655,
-    "wof:lastmodified":1537619044,
+    "wof:lastmodified":1564328295,
     "wof:name":"Valenciano",
     "wof:parent_id":1091903451,
     "wof:placetype":"locality",

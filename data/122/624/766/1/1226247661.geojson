@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "La Tumba"
     ],
+    "name:spa_x_variant":[
+        "La tumba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226247661,
-    "wof:lastmodified":1537619200,
+    "wof:lastmodified":1564328943,
     "wof:name":"La Tumba",
     "wof:parent_id":1091908301,
     "wof:placetype":"locality",

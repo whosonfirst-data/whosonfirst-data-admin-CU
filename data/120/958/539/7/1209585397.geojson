@@ -25,7 +25,34 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Copa"
+    ],
+    "name:ceb_x_preferred":[
+        "Copa"
+    ],
+    "name:cym_x_preferred":[
+        "Copa"
+    ],
+    "name:deu_x_preferred":[
+        "Copa"
+    ],
+    "name:hun_x_preferred":[
+        "Copa"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0580\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Copa"
+    ],
+    "name:por_x_preferred":[
+        "Copa"
+    ],
     "name:spa_x_preferred":[
+        "Copa"
+    ],
+    "name:swe_x_preferred":[
         "Copa"
     ],
     "src:geom":"geonames",
@@ -45,7 +72,7 @@
         }
     ],
     "wof:id":1209585397,
-    "wof:lastmodified":1537619160,
+    "wof:lastmodified":1564327221,
     "wof:name":"Copa",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

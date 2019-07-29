@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0414\u0435\u0441\u0442\u0438\u043d\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632675
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209394355,
-    "wof:lastmodified":1536288353,
+    "wof:lastmodified":1564327074,
     "wof:name":"El Destino",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

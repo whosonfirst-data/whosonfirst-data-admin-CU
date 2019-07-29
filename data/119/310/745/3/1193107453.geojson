@@ -29,6 +29,9 @@
     "name:rus_x_preferred":[
         "Bel\u2019yesa"
     ],
+    "name:spa_x_preferred":[
+        "Belleza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1193107453,
-    "wof:lastmodified":1537619107,
+    "wof:lastmodified":1564327428,
     "wof:name":"Belleza",
     "wof:parent_id":1091908347,
     "wof:placetype":"locality",

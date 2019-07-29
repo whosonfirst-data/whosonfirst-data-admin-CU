@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Maria Luisa"
+    ],
+    "name:ita_x_preferred":[
+        "Maria Luisa"
+    ],
     "name:und_x_variant":[
         "Central Maria Luisa",
         "Mar\u00eda Luisa"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310670497,
-    "wof:lastmodified":1537618961,
+    "wof:lastmodified":1564327807,
     "wof:name":"Maria Luisa",
     "wof:parent_id":1091907371,
     "wof:placetype":"locality",

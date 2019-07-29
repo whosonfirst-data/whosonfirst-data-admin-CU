@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palmarito"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343675975,
-    "wof:lastmodified":1536933372,
+    "wof:lastmodified":1564326216,
     "wof:name":"Palmarito",
     "wof:parent_id":1091907969,
     "wof:placetype":"locality",

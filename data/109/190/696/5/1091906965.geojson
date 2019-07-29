@@ -30,6 +30,12 @@
     "mps:longitude":-77.168284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pilon"
+    ],
+    "name:deu_x_preferred":[
+        "Pilon"
+    ],
     "name:eng_x_preferred":[
         "Pil\u00f3n"
     ],
@@ -37,6 +43,24 @@
         "Pilon",
         "Pil\u00f3n",
         "Pil\u00f3n"
+    ],
+    "name:fra_x_preferred":[
+        "Pilon"
+    ],
+    "name:hun_x_preferred":[
+        "Pilon"
+    ],
+    "name:nds_x_preferred":[
+        "Pilon"
+    ],
+    "name:pol_x_preferred":[
+        "Pilon"
+    ],
+    "name:slv_x_preferred":[
+        "Pilon"
+    ],
+    "name:swe_x_preferred":[
+        "Pilon"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +97,7 @@
         }
     ],
     "wof:id":1091906965,
-    "wof:lastmodified":1553717962,
+    "wof:lastmodified":1564327969,
     "wof:name":"Pilon",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

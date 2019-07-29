@@ -25,6 +25,48 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Lucila"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0438\u044f \u041b\u0443\u0446\u0438\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "\u00c0nnia Lucil\u00b7la"
+    ],
+    "name:deu_x_preferred":[
+        "Lucilla"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03ba\u03af\u03bb\u03bb\u03b1"
+    ],
+    "name:fin_x_preferred":[
+        "Lucilla"
+    ],
+    "name:fra_x_preferred":[
+        "Lucilla"
+    ],
+    "name:pol_x_preferred":[
+        "Lucilla"
+    ],
+    "name:por_x_preferred":[
+        "Lucila"
+    ],
+    "name:ron_x_preferred":[
+        "Lucilla"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0446\u0438\u043b\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Lucila"
+    ],
+    "name:swe_x_preferred":[
+        "Lucilla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u043d\u0456\u044f \u041b\u0443\u0446\u0456\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +90,7 @@
         }
     ],
     "wof:id":1243468497,
-    "wof:lastmodified":1536774306,
+    "wof:lastmodified":1564328276,
     "wof:name":"Lucilla",
     "wof:parent_id":1091906027,
     "wof:placetype":"locality",

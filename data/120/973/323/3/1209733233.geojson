@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aniceto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209733233,
-    "wof:lastmodified":1536376452,
+    "wof:lastmodified":1564327277,
     "wof:name":"Aniceto",
     "wof:parent_id":1091907755,
     "wof:placetype":"locality",

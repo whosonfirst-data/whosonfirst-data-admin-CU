@@ -30,12 +30,57 @@
     "mps:longitude":-80.09878,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Sagua la Grande"
+    ],
     "name:eng_x_preferred":[
         "Sagua la Grande"
     ],
     "name:eng_x_variant":[
         "Sagua La Grande",
         "Sagua la Grande"
+    ],
+    "name:fra_x_preferred":[
+        "Sagua La Grande"
+    ],
+    "name:hat_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:ita_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d2\u10e3\u10d0-\u10da\u10d0-\u10d2\u10e0\u10d0\u10dc\u10d3\u10d4"
+    ],
+    "name:lit_x_preferred":[
+        "Sagva La Grand\u0117"
+    ],
+    "name:nau_x_preferred":[
+        "Sagua La Grande"
+    ],
+    "name:pol_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:por_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:ron_x_preferred":[
+        "Sagua La Grande"
+    ],
+    "name:sco_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0433\u0432\u0430 \u043b\u0430 \u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06af\u0627 \u0644\u0627 \u06af\u0631\u0627\u0646\u062f\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u85a9\u74dc"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +117,7 @@
         }
     ],
     "wof:id":1091907545,
-    "wof:lastmodified":1553717964,
+    "wof:lastmodified":1564327934,
     "wof:name":"Sagua La Grande",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

@@ -25,6 +25,30 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Delirio"
+    ],
+    "name:deu_x_preferred":[
+        "Delirio"
+    ],
+    "name:eus_x_preferred":[
+        "Delirio"
+    ],
+    "name:ita_x_preferred":[
+        "Delirio"
+    ],
+    "name:por_x_preferred":[
+        "Del\u00edrio"
+    ],
+    "name:spa_x_preferred":[
+        "Delirio"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u043b\u0438\u0440\u0438\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Delirio"
+    ],
     "name:und_x_variant":[
         "El Delirio",
         "Delirio"
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1242789339,
-    "wof:lastmodified":1537619071,
+    "wof:lastmodified":1564328379,
     "wof:name":"Delirio",
     "wof:parent_id":1091903749,
     "wof:placetype":"locality",

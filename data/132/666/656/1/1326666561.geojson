@@ -25,8 +25,509 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:als_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:amh_x_preferred":[
+        "\u12a0\u1265\u122d\u1200\u121d \u120a\u1295\u12a8\u1295"
+    ],
+    "name:ang_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0627\u0647\u0627\u0645 \u0644\u064a\u0646\u0643\u0648\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u0647\u0627\u0645 \u0644\u064a\u0646\u0643\u0648\u0644\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:aym_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0628\u0631\u0627\u0647\u0627\u0645 \u0644\u06cc\u0646\u06a9\u0644\u0648\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Avraam Linkoln"
+    ],
+    "name:bak_x_preferred":[
+        "\u0410\u0432\u0440\u0430\u0430\u043c \u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:bar_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:bcl_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u045e\u0440\u0430\u0430\u043c \u041b\u0456\u043d\u043a\u0430\u043b\u044c\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ac\u09cd\u09b0\u09be\u09b9\u09be\u09ae \u09b2\u09bf\u0982\u0995\u09a8"
+    ],
+    "name:bih_x_preferred":[
+        "\u0905\u092c\u094d\u0930\u093e\u0939\u092e \u0932\u093f\u0902\u0915\u0928"
+    ],
+    "name:bis_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:bos_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:bre_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0439\u0431\u0440\u0430\u0445\u0430\u043c \u041b\u0438\u043d\u043a\u044a\u043b\u043d"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0410\u0432\u0440\u0430\u0430\u043c \u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:cdo_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:ceb_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:ces_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u0432\u0440\u0430\u0430\u043c \u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0628\u0631\u0627\u06be\u0627\u0645 \u0644\u06cc\u0646\u06a9\u06c6\u06b5\u0646"
+    ],
+    "name:cor_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:cos_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:cym_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:dan_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:deu_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:diq_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:div_x_preferred":[
+        "\u0787\u07a6\u0784\u07b0\u0783\u07a6\u0780\u07a6\u0789\u07b0 \u078d\u07a8\u0782\u07b0\u0786\u07a6\u0782\u07b0"
+    ],
+    "name:dsb_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:dty_x_preferred":[
+        "\u0905\u092c\u094d\u0930\u093e\u0939\u092e \u0932\u093f\u0919\u094d\u0915\u0928"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b2\u03c1\u03b1\u03ac\u03bc \u039b\u03af\u03bd\u03ba\u03bf\u03bb\u03bd"
+    ],
+    "name:epo_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:est_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:eus_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:fao_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u0631\u0627\u0647\u0627\u0645 \u0644\u06cc\u0646\u06a9\u0644\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:fra_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:fry_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:gan_x_preferred":[
+        "\u4e9e\u4f2f\u62c9\u7f55\u00b7\u6797\u80af"
+    ],
+    "name:gla_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:gle_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:glg_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:glk_x_preferred":[
+        "\u0622\u0628\u0631\u0627\u0647\u0627\u0645 \u0644\u06cc\u0646\u06a9\u0624\u0646"
+    ],
+    "name:glv_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:gom_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:grn_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:hak_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:hat_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:hau_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05e8\u05d4\u05dd \u05dc\u05d9\u05e0\u05e7\u05d5\u05dc\u05df"
+    ],
+    "name:hif_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u092c\u094d\u0930\u093e\u0939\u092e \u0932\u093f\u0902\u0915\u0928"
+    ],
+    "name:hrv_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:hsb_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:hun_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0562\u0580\u0561\u0570\u0561\u0574 \u053c\u056b\u0576\u0584\u0578\u056c\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u057a\u0580\u0561\u0570\u0561\u0574 \u053c\u056b\u0576\u0584\u0578\u056c\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:ile_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:ilo_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:ina_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:ind_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:isl_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:ita_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:jam_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:jav_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30a4\u30d6\u30e9\u30cf\u30e0\u30fb\u30ea\u30f3\u30ab\u30fc\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0cac\u0ccd\u0cb0\u0cb9\u0cae\u0ccd \u0cb2\u0cbf\u0c82\u0c95\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d1\u10e0\u10d0\u10d0\u10db \u10da\u10d8\u10dc\u10d9\u10dd\u10da\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0432\u0440\u0430\u0430\u043c \u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:kbp_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a2\u17b6\u1794\u17d2\u179a\u17b6\u17a0\u17b6\u1798 \u179b\u17b8\u1793\u1781\u17bc\u1793"
+    ],
+    "name:kin_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u0432\u0440\u0430\u0430\u043c \u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\uc774\ube0c\ub7ec\ud584 \ub9c1\ucee8"
+    ],
+    "name:kur_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:lad_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ead\u0eb1\u0e9a\u0ea3\u0eb2\u0eae\u0eb2\u0ea1 \u0ea5\u0eb4\u0e99\u0e84\u0ead\u0e99"
+    ],
+    "name:lat_x_preferred":[
+        "Abrahamus Lincoln"
+    ],
+    "name:lav_x_preferred":[
+        "Abrahams Linkolns"
+    ],
+    "name:lez_x_preferred":[
+        "\u0410\u0432\u0440\u0430\u0430\u043c \u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:lfn_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:lim_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:lin_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:lit_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:lmo_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:ltz_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u092c\u094d\u0930\u093e\u0939\u092e \u0932\u093f\u0919\u094d\u0915\u0928"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d0e\u0d2c\u0d4d\u0d30\u0d39\u0d3e\u0d02 \u0d32\u0d3f\u0d19\u0d4d\u0d15\u0d7a"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u092c\u094d\u0930\u093e\u0939\u092e \u0932\u093f\u0902\u0915\u0928"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0431\u0440\u0430\u0445\u0430\u043c \u041b\u0438\u043d\u043a\u043e\u043b\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u0431\u0440\u0430\u0445\u0430\u043c \u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:mri_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:msa_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u1031\u1018\u101b\u102c\u101f\u1019\u103a \u101c\u1004\u103a\u1000\u103d\u1014\u103a\u1038"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0622\u0628\u0631\u0627\u0647\u0627\u0645 \u0644\u06cc\u0646\u06a9\u0644\u0646"
+    ],
+    "name:nap_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:nau_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:nds_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:nep_x_preferred":[
+        "\u0905\u092c\u094d\u0930\u093e\u0939\u092e \u0932\u093f\u0919\u094d\u0915\u0928"
+    ],
+    "name:new_x_preferred":[
+        "\u0905\u092c\u094d\u0930\u093e\u0939\u092e \u0932\u093f\u0928\u094d\u0915\u0928"
+    ],
+    "name:nld_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:nno_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:nor_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:nya_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:oci_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:olo_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:orm_x_preferred":[
+        "Abrahaam Liinken"
+    ],
+    "name:oss_x_preferred":[
+        "\u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:pam_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a2c\u0a30\u0a3e\u0a39\u0a2e \u0a32\u0a3f\u0a70\u0a15\u0a28"
+    ],
+    "name:pap_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:pms_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u06c1\u0627\u0645 \u0644\u0646\u06a9\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:por_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:que_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:roh_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:ron_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:rue_x_preferred":[
+        "\u0410\u0431\u0440\u0430\u0433\u0430\u043c \u041b\u0456\u043d\u043a\u043e\u043b\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:sah_x_preferred":[
+        "\u0410\u0432\u0440\u0430\u0430\u043c \u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:san_x_preferred":[
+        "\u0905\u092c\u094d\u0930\u093e\u0939\u092e \u0932\u093f\u0928\u094d\u0915\u0928"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5f\u1c75\u1c7d\u1c68\u1c5f\u1c66\u1c5f\u1c62 \u1c5e\u1c64\u1c5d\u1c60\u1c5a\u1c71"
+    ],
+    "name:scn_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:sco_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d92\u0db6\u0dca\u200d\u0dbb\u0dc4\u0db8\u0dca \u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0db1\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:slv_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:smo_x_preferred":[
+        "Aperaamo Linikone"
+    ],
     "name:spa_x_preferred":[
         "Abraham Lincoln"
+    ],
+    "name:sqi_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:srd_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0431\u0440\u0430\u0445\u0430\u043c \u041b\u0438\u043d\u043a\u043e\u043b\u043d"
+    ],
+    "name:stq_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:swa_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:swe_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bae\u0bcd \u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0432\u0440\u0430\u0430\u043c \u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c2c\u0c4d\u0c30\u0c39\u0c02 \u0c32\u0c3f\u0c02\u0c15\u0c28\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0431\u0440\u0430\u04b3\u0430\u043c \u041b\u0438\u043d\u043a\u043e\u043b\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e1a\u0e23\u0e32\u0e2e\u0e31\u0e21 \u0e25\u0e34\u0e19\u0e04\u0e2d\u0e25\u0e4c\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0432\u0440\u0430\u0430\u043c \u041b\u0456\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u06c1\u0645 \u0644\u0646\u06a9\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:vep_x_preferred":[
+        "Linkol'n Avraam"
+    ],
+    "name:vie_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:vol_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:war_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e9a\u4f2f\u62c9\u7f55\u00b7\u6797\u80af"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10d1\u10e0\u10d0\u10d0\u10db \u10da\u10d8\u10dc\u10d9\u10dd\u10da\u10dc\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05d1\u05e8\u05d4\u05dd \u05dc\u05d9\u05e0\u05e7\u05d0\u05dc\u05df"
+    ],
+    "name:yor_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:zea_x_preferred":[
+        "Abraham Lincoln"
+    ],
+    "name:zha_x_preferred":[
+        "Linzgenj"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9a\u4f2f\u62c9\u7f55\u00b7\u6797\u80af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +552,7 @@
         }
     ],
     "wof:id":1326666561,
-    "wof:lastmodified":1537619134,
+    "wof:lastmodified":1564325781,
     "wof:name":"Abraham Lincoln",
     "wof:parent_id":1091902795,
     "wof:placetype":"locality",

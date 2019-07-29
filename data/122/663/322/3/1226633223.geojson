@@ -25,6 +25,120 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Oenas"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0646\u0627\u0633"
+    ],
+    "name:arz_x_preferred":[
+        "\u0648\u0646\u064a\u0633"
+    ],
+    "name:bre_x_preferred":[
+        "Ounis"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u043d\u0430\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Unas"
+    ],
+    "name:ces_x_preferred":[
+        "Venis"
+    ],
+    "name:deu_x_preferred":[
+        "Unas"
+    ],
+    "name:epo_x_preferred":[
+        "Unis"
+    ],
+    "name:est_x_preferred":[
+        "Unas"
+    ],
+    "name:eus_x_preferred":[
+        "Unis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0646\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Unas"
+    ],
+    "name:fra_x_preferred":[
+        "Ounas"
+    ],
+    "name:hrv_x_preferred":[
+        "Unas"
+    ],
+    "name:hun_x_preferred":[
+        "Unisz"
+    ],
+    "name:ind_x_preferred":[
+        "Unas"
+    ],
+    "name:ita_x_preferred":[
+        "Unis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30ca\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10dc\u10d8\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\ub098\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Unas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0423\u043d\u0430\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "Oenas"
+    ],
+    "name:oci_x_preferred":[
+        "On\u00eds"
+    ],
+    "name:pol_x_preferred":[
+        "Unis"
+    ],
+    "name:por_x_preferred":[
+        "Unas"
+    ],
+    "name:ron_x_preferred":[
+        "Unas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u0438\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "Unas"
+    ],
+    "name:spa_x_preferred":[
+        "Unis"
+    ],
+    "name:swe_x_preferred":[
+        "Unas"
+    ],
+    "name:tgl_x_preferred":[
+        "Unas"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1f\u0e32\u0e42\u0e23\u0e2b\u0e4c\u0e2d\u0e39\u0e19\u0e31\u0e2a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043d\u0456\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Unas"
+    ],
+    "name:yor_x_preferred":[
+        "Unas"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5c3c\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +162,7 @@
         }
     ],
     "wof:id":1226633223,
-    "wof:lastmodified":1536876663,
+    "wof:lastmodified":1564328989,
     "wof:name":"Unas",
     "wof:parent_id":1091904693,
     "wof:placetype":"locality",

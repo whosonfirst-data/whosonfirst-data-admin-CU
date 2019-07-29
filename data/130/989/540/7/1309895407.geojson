@@ -26,6 +26,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sedano"
+    ],
+    "name:spa_x_preferred":[
+        "Sedano"
+    ],
     "name:und_x_variant":[
         "Sebano",
         "Sedano"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1309895407,
-    "wof:lastmodified":1537618895,
+    "wof:lastmodified":1564328088,
     "wof:name":"Sedano",
     "wof:parent_id":1091908741,
     "wof:placetype":"locality",

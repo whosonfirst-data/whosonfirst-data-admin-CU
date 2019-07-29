@@ -25,6 +25,45 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Coronel"
+    ],
+    "name:deu_x_preferred":[
+        "Coronel"
+    ],
+    "name:fra_x_preferred":[
+        "Coronel"
+    ],
+    "name:glg_x_preferred":[
+        "Coronel"
+    ],
+    "name:ita_x_preferred":[
+        "Coronel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30ed\u30cd\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ub85c\ub12c"
+    ],
+    "name:nld_x_preferred":[
+        "Coronel"
+    ],
+    "name:pol_x_preferred":[
+        "Coronel"
+    ],
+    "name:ron_x_preferred":[
+        "Coronel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Coronel"
+    ],
+    "name:swe_x_preferred":[
+        "Coronel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632675
@@ -42,7 +81,7 @@
         }
     ],
     "wof:id":1209617139,
-    "wof:lastmodified":1536281649,
+    "wof:lastmodified":1564327183,
     "wof:name":"Coronel",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

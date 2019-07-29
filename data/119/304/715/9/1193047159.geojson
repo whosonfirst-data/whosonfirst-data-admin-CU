@@ -25,9 +25,69 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u062a\u0627\u064a\u0644\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Portilla"
+    ],
+    "name:cat_x_preferred":[
+        "Portilla"
+    ],
+    "name:ceb_x_preferred":[
+        "Portilla"
+    ],
+    "name:epo_x_preferred":[
+        "Portilla"
+    ],
+    "name:eus_x_preferred":[
+        "Portilla"
+    ],
+    "name:fra_x_preferred":[
+        "Portilla"
+    ],
+    "name:hun_x_preferred":[
+        "Portilla"
+    ],
+    "name:ita_x_preferred":[
+        "Portilla"
+    ],
+    "name:msa_x_preferred":[
+        "Portilla"
+    ],
+    "name:nld_x_preferred":[
+        "Portilla"
+    ],
+    "name:oci_x_preferred":[
+        "Portilla"
+    ],
+    "name:pol_x_preferred":[
+        "Portilla"
+    ],
+    "name:por_x_preferred":[
+        "Portilla"
+    ],
+    "name:spa_x_preferred":[
+        "Portilla"
+    ],
+    "name:swe_x_preferred":[
+        "Portilla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0456\u043b\u044c\u044f"
+    ],
     "name:und_x_variant":[
         "Cabrera",
         "Portilla"
+    ],
+    "name:vie_x_preferred":[
+        "Portilla"
+    ],
+    "name:war_x_preferred":[
+        "Portilla"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5c14\u8482\u5229\u4e9a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +112,7 @@
         }
     ],
     "wof:id":1193047159,
-    "wof:lastmodified":1537618935,
+    "wof:lastmodified":1564327398,
     "wof:name":"Portilla",
     "wof:parent_id":1091907725,
     "wof:placetype":"locality",

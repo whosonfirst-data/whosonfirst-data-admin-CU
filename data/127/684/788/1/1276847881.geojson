@@ -25,6 +25,30 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Gustavo"
+    ],
+    "name:deu_x_preferred":[
+        "Gustavo"
+    ],
+    "name:epo_x_preferred":[
+        "Gustavo"
+    ],
+    "name:ita_x_preferred":[
+        "Gustavo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30b9\u30bf\u30dc"
+    ],
+    "name:por_x_preferred":[
+        "Gustavo"
+    ],
+    "name:spa_x_preferred":[
+        "Gustavo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0441\u0442\u0430\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1276847881,
-    "wof:lastmodified":1537080866,
+    "wof:lastmodified":1564326941,
     "wof:name":"Gustavo",
     "wof:parent_id":1091905117,
     "wof:placetype":"locality",

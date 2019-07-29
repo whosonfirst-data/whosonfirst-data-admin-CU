@@ -25,6 +25,21 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Tejar"
+    ],
+    "name:fra_x_preferred":[
+        "El Tejar"
+    ],
+    "name:ita_x_preferred":[
+        "El Tejar"
+    ],
+    "name:spa_x_preferred":[
+        "El Tejar"
+    ],
+    "name:swe_x_preferred":[
+        "El Tejar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1259396737,
-    "wof:lastmodified":1536982448,
+    "wof:lastmodified":1564328519,
     "wof:name":"El Tejar",
     "wof:parent_id":1091905737,
     "wof:placetype":"locality",

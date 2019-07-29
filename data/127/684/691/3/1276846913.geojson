@@ -25,8 +25,32 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0627\u064a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "El Maine"
+    ],
+    "name:ita_x_preferred":[
+        "El Maine"
+    ],
+    "name:msa_x_preferred":[
+        "El Maine"
+    ],
+    "name:por_x_preferred":[
+        "El Maine"
+    ],
+    "name:ron_x_preferred":[
+        "El Maine"
+    ],
     "name:spa_x_preferred":[
         "El Maine"
+    ],
+    "name:vie_x_preferred":[
+        "El Maine"
+    ],
+    "name:zho_x_preferred":[
+        "\u9081\u56e0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1276846913,
-    "wof:lastmodified":1537619205,
+    "wof:lastmodified":1564326941,
     "wof:name":"El Maine",
     "wof:parent_id":1091905315,
     "wof:placetype":"locality",

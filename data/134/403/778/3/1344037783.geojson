@@ -25,6 +25,18 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Guaro"
+    ],
+    "name:ceb_x_preferred":[
+        "Guaro"
+    ],
+    "name:spa_x_preferred":[
+        "Guaro"
+    ],
+    "name:swe_x_preferred":[
+        "Guaro"
+    ],
     "name:und_x_variant":[
         "Guara",
         "Guayos"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1344037783,
-    "wof:lastmodified":1537619032,
+    "wof:lastmodified":1564326266,
     "wof:name":"Guaro",
     "wof:parent_id":1091906305,
     "wof:placetype":"locality",

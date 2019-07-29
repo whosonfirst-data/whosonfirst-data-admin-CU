@@ -25,6 +25,15 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30a8\u30b9"
+    ],
+    "name:spa_x_preferred":[
+        "Saez"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326816613,
-    "wof:lastmodified":1537068344,
+    "wof:lastmodified":1564325732,
     "wof:name":"Saez",
     "wof:parent_id":1091905315,
     "wof:placetype":"locality",

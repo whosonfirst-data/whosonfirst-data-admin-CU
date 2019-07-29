@@ -25,8 +25,14 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Los Asientos"
+    ],
     "name:spa_x_preferred":[
         "Los Asientos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u963f\u5148\u6258\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293084913,
-    "wof:lastmodified":1537619227,
+    "wof:lastmodified":1564326404,
     "wof:name":"Los Asientos",
     "wof:parent_id":1091905153,
     "wof:placetype":"locality",

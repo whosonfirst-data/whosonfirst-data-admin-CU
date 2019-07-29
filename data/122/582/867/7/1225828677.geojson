@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0645\u064a\u0644\u0648 \u0645\u0627\u0631\u064a\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30df\u30fc\u30ed\u30fb\u30de\u30ea\u30f3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225828677,
-    "wof:lastmodified":1537036724,
+    "wof:lastmodified":1564329040,
     "wof:name":"Camilo Marin",
     "wof:parent_id":1091907919,
     "wof:placetype":"locality",

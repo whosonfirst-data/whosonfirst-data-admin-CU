@@ -25,7 +25,31 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Charles"
+    ],
+    "name:ces_x_preferred":[
+        "Karel"
+    ],
+    "name:deu_x_preferred":[
+        "Charles"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30eb\u30eb"
+    ],
+    "name:nno_x_preferred":[
+        "Charles"
+    ],
+    "name:nor_x_preferred":[
+        "Charles"
+    ],
     "name:spa_x_preferred":[
+        "Charles"
+    ],
+    "name:swe_x_preferred":[
+        "Charles"
+    ],
+    "name:tur_x_preferred":[
         "Charles"
     ],
     "src:geom":"geonames",
@@ -45,7 +69,7 @@
         }
     ],
     "wof:id":1243524925,
-    "wof:lastmodified":1537619193,
+    "wof:lastmodified":1564328187,
     "wof:name":"Charles",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -25,7 +25,25 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Beba"
+    ],
+    "name:deu_x_preferred":[
+        "Beba"
+    ],
+    "name:fra_x_preferred":[
+        "Beba"
+    ],
+    "name:glg_x_preferred":[
+        "Beba"
+    ],
     "name:spa_x_preferred":[
+        "Beba"
+    ],
+    "name:swe_x_preferred":[
+        "Beba"
+    ],
+    "name:vie_x_preferred":[
         "Beba"
     ],
     "src:geom":"geonames",
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1226618689,
-    "wof:lastmodified":1537619169,
+    "wof:lastmodified":1564328851,
     "wof:name":"Beba",
     "wof:parent_id":1091903633,
     "wof:placetype":"locality",

@@ -30,6 +30,12 @@
     "mps:longitude":-82.229374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Guanabacoa"
+    ],
+    "name:deu_x_preferred":[
+        "Guanabacoa"
+    ],
     "name:eng_x_preferred":[
         "Guanabacoa"
     ],
@@ -38,6 +44,30 @@
         "San Miguel del Padr\u00f3n",
         "San Miguel del Padr\u00f3n",
         "San Miguel del Padr\u00f3n"
+    ],
+    "name:epo_x_preferred":[
+        "Guanabacoa"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0627\u0646\u0627\u0628\u0627\u06a9\u0648\u0626\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Guanabacoa"
+    ],
+    "name:ita_x_preferred":[
+        "Guanabacoa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10dc\u10d0\u10d1\u10d0\u10d9\u10dd\u10d0"
+    ],
+    "name:por_x_preferred":[
+        "Guanabacoa"
+    ],
+    "name:spa_x_preferred":[
+        "Guanabacoa"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u7d0d\u74e6\u79d1\u963f"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -74,7 +104,7 @@
         }
     ],
     "wof:id":1091904803,
-    "wof:lastmodified":1553717958,
+    "wof:lastmodified":1564327957,
     "wof:name":"Guanabacoa",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

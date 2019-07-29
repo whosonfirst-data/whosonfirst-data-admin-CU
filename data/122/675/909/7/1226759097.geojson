@@ -25,6 +25,18 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tinguaro"
+    ],
+    "name:ita_x_preferred":[
+        "Tinguaro"
+    ],
+    "name:por_x_preferred":[
+        "Tinguaro"
+    ],
+    "name:spa_x_preferred":[
+        "Tinguaro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226759097,
-    "wof:lastmodified":1536696494,
+    "wof:lastmodified":1564328736,
     "wof:name":"Tinguaro",
     "wof:parent_id":1091904143,
     "wof:placetype":"locality",

@@ -26,9 +26,510 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:abk_x_preferred":[
+        "\u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:afr_x_preferred":[
+        "George Washington"
+    ],
+    "name:als_x_preferred":[
+        "George Washington"
+    ],
+    "name:amh_x_preferred":[
+        "\u1306\u122d\u1305 \u12cb\u123d\u1295\u130d\u1270\u1295"
+    ],
+    "name:ang_x_preferred":[
+        "George Washington"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0631\u062c \u0648\u0627\u0634\u0646\u0637\u0646"
+    ],
+    "name:arc_x_preferred":[
+        "\u0713\u0718\u072a\u0713 \u0718\u0710\u072b\u071d\u0722\u0713\u071b\u0718\u0722"
+    ],
+    "name:arg_x_preferred":[
+        "George Washington"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u0631\u062c \u0648\u0627\u0634\u064a\u0646\u0637\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "George Washington"
+    ],
+    "name:aym_x_preferred":[
+        "George Washington"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0648\u0631\u062c \u0648\u0627\u0634\u06cc\u0646\u0642\u062a\u0648\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Corc Va\u015finqton"
+    ],
+    "name:bak_x_preferred":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:bar_x_preferred":[
+        "George Washington"
+    ],
+    "name:bcl_x_preferred":[
+        "George Washington"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436 \u0412\u0430\u0448\u044b\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09b0\u09cd\u099c \u0993\u09af\u09bc\u09be\u09b6\u09bf\u0982\u099f\u09a8"
+    ],
+    "name:bih_x_preferred":[
+        "\u091c\u0949\u0930\u094d\u091c \u0935\u093e\u0936\u093f\u0902\u0917\u091f\u0928"
+    ],
+    "name:bis_x_preferred":[
+        "George Washington"
+    ],
+    "name:bos_x_preferred":[
+        "George Washington"
+    ],
+    "name:bre_x_preferred":[
+        "George Washington"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "George Washington"
+    ],
+    "name:cdo_x_preferred":[
+        "George Washington"
+    ],
+    "name:ceb_x_preferred":[
+        "George Washington"
+    ],
+    "name:ces_x_preferred":[
+        "George Washington"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:chr_x_preferred":[
+        "\u13e3\u13e5 \u13e9\u13d2\u13d3\u13be"
+    ],
+    "name:chv_x_preferred":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062c\u06c6\u0631\u062c \u0648\u0627\u0634\u06cc\u0646\u06af\u062a\u0646"
+    ],
+    "name:cor_x_preferred":[
+        "George Washington"
+    ],
+    "name:cos_x_preferred":[
+        "George Washington"
+    ],
+    "name:cym_x_preferred":[
+        "George Washington"
+    ],
+    "name:dan_x_preferred":[
+        "George Washington"
+    ],
+    "name:deu_x_preferred":[
+        "George Washington"
+    ],
+    "name:div_x_preferred":[
+        "\u0796\u07af\u0796\u07b0 \u0788\u07ae\u079d\u07a8\u0782\u07b0\u078e\u0793\u07a6\u0782\u07b0"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03bf\u03c1\u03c4\u03b6 \u039f\u03c5\u03ac\u03c3\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03bd"
+    ],
+    "name:eml_x_preferred":[
+        "George Washington"
+    ],
+    "name:epo_x_preferred":[
+        "George Washington"
+    ],
+    "name:est_x_preferred":[
+        "George Washington"
+    ],
+    "name:eus_x_preferred":[
+        "George Washington"
+    ],
+    "name:fao_x_preferred":[
+        "George Washington"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0631\u062c \u0648\u0627\u0634\u06cc\u0646\u06af\u062a\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "George Washington"
+    ],
+    "name:fra_x_preferred":[
+        "George Washington"
+    ],
+    "name:frr_x_preferred":[
+        "George Washington"
+    ],
+    "name:fry_x_preferred":[
+        "George Washington"
+    ],
+    "name:gan_x_preferred":[
+        "\u55ac\u6cbb\u00b7\u83ef\u76db\u9813"
+    ],
+    "name:gla_x_preferred":[
+        "George Washington"
+    ],
+    "name:gle_x_preferred":[
+        "George Washington"
+    ],
+    "name:glg_x_preferred":[
+        "George Washington"
+    ],
+    "name:gor_x_preferred":[
+        "George Washington"
+    ],
+    "name:grn_x_preferred":[
+        "George Washington"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c \u0ab5\u0acb\u0ab6\u0abf\u0a82\u0a97\u0acd\u0a9f\u0aa8"
+    ],
+    "name:hak_x_preferred":[
+        "George Washington"
+    ],
+    "name:hat_x_preferred":[
+        "J\u00f2j Wachintonn"
+    ],
+    "name:hau_x_preferred":[
+        "George Washington"
+    ],
+    "name:haw_x_preferred":[
+        "Keoki Wakinekona"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d5\u05e8\u05d2' \u05d5\u05d5\u05e9\u05d9\u05e0\u05d2\u05d8\u05d5\u05df"
+    ],
+    "name:hif_x_preferred":[
+        "George Washington"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0949\u0930\u094d\u091c \u0935\u0949\u0936\u093f\u0902\u0917\u091f\u0928"
+    ],
+    "name:hrv_x_preferred":[
+        "George Washington"
+    ],
+    "name:hsb_x_preferred":[
+        "George Washington"
+    ],
+    "name:hun_x_preferred":[
+        "George Washington"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0578\u0580\u057b \u054e\u0561\u0577\u056b\u0576\u0563\u057f\u0578\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0543\u0578\u0580\u0573 \u0548\u0582\u0561\u0577\u056b\u0576\u056f\u0569\u0568\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "George Washington"
+    ],
+    "name:iku_x_preferred":[
+        "\u152b\u1550\u148b \u155a\u14ef\u1595\u1450\u14d0"
+    ],
+    "name:ilo_x_preferred":[
+        "George Washington"
+    ],
+    "name:ina_x_preferred":[
+        "George Washington"
+    ],
+    "name:ind_x_preferred":[
+        "George Washington"
+    ],
+    "name:isl_x_preferred":[
+        "George Washington"
+    ],
+    "name:ita_x_preferred":[
+        "George Washington"
+    ],
+    "name:jam_x_preferred":[
+        "George Washington"
+    ],
+    "name:jav_x_preferred":[
+        "George Washington"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e7\u30fc\u30b8\u30fb\u30ef\u30b7\u30f3\u30c8\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cbe\u0cb0\u0ccd\u0c9c\u0ccd \u0cb5\u0cbe\u0cb7\u0cbf\u0c82\u0c97\u0ccd\u0c9f\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10dd\u10e0\u10ef \u10d5\u10d0\u10e8\u10d8\u10dc\u10d2\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436 \u0423\u043e\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:kbp_x_preferred":[
+        "George Washington"
+    ],
+    "name:kin_x_preferred":[
+        "George Washington"
+    ],
+    "name:kir_x_preferred":[
+        "\u0416\u043e\u0440\u0436 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\uc870\uc9c0 \uc6cc\uc2f1\ud134"
+    ],
+    "name:ksh_x_preferred":[
+        "George Washington"
+    ],
+    "name:kur_x_preferred":[
+        "George Washington"
+    ],
+    "name:lat_x_preferred":[
+        "Georgius Washingtonius"
+    ],
+    "name:lav_x_preferred":[
+        "D\u017eord\u017es Va\u0161ingtons"
+    ],
+    "name:lfn_x_preferred":[
+        "George Washington"
+    ],
+    "name:lij_x_preferred":[
+        "Zorzo Washington"
+    ],
+    "name:lin_x_preferred":[
+        "George Washington"
+    ],
+    "name:lit_x_preferred":[
+        "George Washington"
+    ],
+    "name:lmo_x_preferred":[
+        "George Washington"
+    ],
+    "name:ltz_x_preferred":[
+        "George Washington"
+    ],
+    "name:mai_x_preferred":[
+        "\u091c\u0930\u094d\u091c \u0935\u093e\u0938\u093f\u0919\u094d\u091f\u0928"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d4b\u0d7c\u0d1c\u0d4d \u0d35\u0d3e\u0d37\u0d3f\u0d02\u0d17\u0d4d\u0d1f\u0d7a"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u0949\u0930\u094d\u091c \u0935\u0949\u0936\u093f\u0902\u0917\u094d\u091f\u0928"
+    ],
+    "name:min_x_preferred":[
+        "George Washington"
+    ],
+    "name:mkd_x_preferred":[
+        "\u040f\u043e\u0440\u045f \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "George Washington"
+    ],
+    "name:mon_x_preferred":[
+        "\u0416\u043e\u0440\u0436 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:mri_x_preferred":[
+        "George Washington"
+    ],
+    "name:msa_x_preferred":[
+        "George Washington"
+    ],
+    "name:mya_x_preferred":[
+        "\u1002\u103b\u1031\u102c\u1037\u1001\u103b\u103a \u101d\u102b\u101b\u103e\u1004\u103a\u1010\u1014\u103a"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062c\u0648\u0631\u062c \u0648\u0627\u0634\u0646\u06af\u062a\u0646"
+    ],
+    "name:nah_x_preferred":[
+        "George Washington"
+    ],
+    "name:nau_x_preferred":[
+        "George Washington"
+    ],
+    "name:nds_x_preferred":[
+        "George Washington"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u0930\u094d\u091c \u0935\u093e\u0938\u093f\u0919\u094d\u091f\u0928"
+    ],
+    "name:new_x_preferred":[
+        "\u091c\u0930\u094d\u091c \u0935\u093e\u0936\u093f\u0919\u094d\u0924\u0928"
+    ],
+    "name:nld_x_preferred":[
+        "George Washington"
+    ],
+    "name:nno_x_preferred":[
+        "George Washington"
+    ],
+    "name:nor_x_preferred":[
+        "George Washington"
+    ],
+    "name:nya_x_preferred":[
+        "George Washington"
+    ],
+    "name:oci_x_preferred":[
+        "George Washington"
+    ],
+    "name:olo_x_preferred":[
+        "George Washington"
+    ],
+    "name:pam_x_preferred":[
+        "George Washington"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1c\u0a3e\u0a30\u0a1c \u0a35\u0a3e\u0a38\u0a3c\u0a3f\u0a70\u0a17\u0a1f\u0a28"
+    ],
+    "name:pap_x_preferred":[
+        "George Washington"
+    ],
+    "name:pms_x_preferred":[
+        "George Washington"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0627\u0631\u062c \u0648\u0627\u0634\u0646\u06af\u0679\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "George Washington"
+    ],
+    "name:por_x_preferred":[
+        "George Washington"
+    ],
+    "name:que_x_preferred":[
+        "George Washington"
+    ],
+    "name:ron_x_preferred":[
+        "George Washington"
+    ],
+    "name:rue_x_preferred":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436 \u0412\u0430\u0448\u0456\u043d\u0491\u0442\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:sah_x_preferred":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:san_x_preferred":[
+        "\u091c\u093e\u0930\u094d\u091c \u0935\u093e\u0936\u093f\u0902\u0917\u091f\u0928"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c61\u1c5a\u1c68\u1c61\u1c7d \u1c5a\u1c63\u1c5f\u1c65\u1c64\u1c5d\u1c74\u1c5a\u1c71"
+    ],
+    "name:scn_x_preferred":[
+        "George Washington"
+    ],
+    "name:sco_x_preferred":[
+        "George Washington"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0ddd\u0dbb\u0dca\u0da2\u0dca \u0dc0\u0ddc\u0dc2\u0dd2\u0d82\u0da7\u0db1\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "George Washington"
+    ],
+    "name:slv_x_preferred":[
+        "George Washington"
+    ],
+    "name:som_x_preferred":[
+        "George Washington"
+    ],
+    "name:spa_x_preferred":[
+        "George Washington"
+    ],
+    "name:sqi_x_preferred":[
+        "George Washington"
+    ],
+    "name:srd_x_preferred":[
+        "George Washington"
+    ],
+    "name:srn_x_preferred":[
+        "George Washington"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u043e\u0440\u045f \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "George Washington"
+    ],
+    "name:swe_x_preferred":[
+        "George Washington"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0baf\u0bbe\u0bb0\u0bcd\u0b9a\u0bcd \u0bb5\u0bbe\u0b9a\u0bbf\u0b99\u0bcd\u0b9f\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c3e\u0c30\u0c4d\u0c1c\u0c3f \u0c35\u0c3e\u0c37\u0c3f\u0c02\u0c17\u0c4d\u0c1f\u0c28\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u043e\u0440\u04b7 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "George Washington"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e2d\u0e23\u0e4c\u0e08 \u0e27\u0e2d\u0e0a\u0e34\u0e07\u0e15\u0e31\u0e19"
+    ],
+    "name:tuk_x_preferred":[
+        "Jorj Wa\u015fi\u0148ton"
+    ],
+    "name:tur_x_preferred":[
+        "George Washington"
+    ],
+    "name:udm_x_preferred":[
+        "\u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:uig_x_preferred":[
+        "\u06af\u06d0\u0626\u0648\u0631\u06af\u0649 \u06cb\u0627\u0634\u0649\u0646\u06af\u062a\u0648\u0646"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "Washington",
         "George Washington"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0631\u062c \u0648\u0627\u0634\u0646\u06af\u0679\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "George Washington"
+    ],
+    "name:vec_x_preferred":[
+        "George Washington"
+    ],
+    "name:vep_x_preferred":[
+        "Va\u0161ington D\u017eord\u017e"
+    ],
+    "name:vie_x_preferred":[
+        "George Washington"
+    ],
+    "name:vol_x_preferred":[
+        "George Washington"
+    ],
+    "name:war_x_preferred":[
+        "George Washington"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e54\u6cbb\u00b7\u534e\u76db\u987f"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ef\u10dd\u10e0\u10ef \u10d5\u10d0\u10e8\u10d8\u10dc\u10d2\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d3\u05d6\u05e9\u05d0\u05e8\u05d6\u05e9 \u05d5\u05d5\u05d0\u05e9\u05d9\u05e0\u05d2\u05d8\u05d0\u05df"
+    ],
+    "name:yor_x_preferred":[
+        "George Washington"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e54\u6cbb\u00b7\u534e\u76db\u987f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +554,7 @@
         }
     ],
     "wof:id":1293362943,
-    "wof:lastmodified":1537619036,
+    "wof:lastmodified":1564326370,
     "wof:name":"George Washington",
     "wof:parent_id":1091908169,
     "wof:placetype":"locality",

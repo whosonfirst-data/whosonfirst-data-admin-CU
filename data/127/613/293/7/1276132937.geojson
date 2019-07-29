@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Cuatro Caminos"
     ],
+    "name:spa_x_variant":[
+        "Cuatro caminos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276132937,
-    "wof:lastmodified":1537619143,
+    "wof:lastmodified":1564326879,
     "wof:name":"Cuatro Caminos",
     "wof:parent_id":1091907795,
     "wof:placetype":"locality",

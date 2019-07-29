@@ -19,8 +19,14 @@
     "name:cat_x_preferred":[
         "Mart\u00ed"
     ],
+    "name:ceb_x_preferred":[
+        "Marti"
+    ],
     "name:deu_x_preferred":[
         "Marti"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
         "Marti"
@@ -28,14 +34,23 @@
     "name:ita_x_preferred":[
         "Mart\u00ed"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30c6\u30a3"
+    ],
     "name:por_x_preferred":[
         "Mart\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438"
     ],
     "name:scn_x_preferred":[
         "Marti"
     ],
     "name:spa_x_preferred":[
         "Mart\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Marti"
     ],
     "qs:gn_country":"CU",
     "qs:gn_fcode":"PPLX",
@@ -58,10 +73,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":222,
     "wof:belongsto":[
+        85670445,
         102191575,
         85632675,
-        1091903863,
-        85670445
+        1091903863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +98,7 @@
         }
     ],
     "wof:id":421192033,
-    "wof:lastmodified":1531858672,
+    "wof:lastmodified":1564328103,
     "wof:name":"Mart\u00ed",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

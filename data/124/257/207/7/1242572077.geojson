@@ -25,8 +25,20 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Cejas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Cejas"
+    ],
     "name:spa_x_preferred":[
         "Las Cejas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Cejas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u06a9\u06cc\u062c\u0627\u0633"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1242572077,
-    "wof:lastmodified":1537618989,
+    "wof:lastmodified":1564328228,
     "wof:name":"Las Cejas",
     "wof:parent_id":1091904085,
     "wof:placetype":"locality",

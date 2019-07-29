@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Josefa"
+    ],
+    "name:spa_x_preferred":[
+        "Josefa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1310000529,
-    "wof:lastmodified":1536650285,
+    "wof:lastmodified":1564327651,
     "wof:name":"Josefa",
     "wof:parent_id":1091904085,
     "wof:placetype":"locality",
