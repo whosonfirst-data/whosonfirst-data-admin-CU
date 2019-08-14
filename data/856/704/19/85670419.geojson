@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CA"
+    ],
     "lbl:latitude":21.956946,
     "lbl:longitude":-78.641383,
     "meso:name_loc":"Ciego de \u00c1vila",
@@ -319,16 +322,13 @@
         }
     ],
     "wof:id":85670419,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319847,
+    "wof:lastmodified":1565670836,
     "wof:name":"Ciego de \u00c1vila",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

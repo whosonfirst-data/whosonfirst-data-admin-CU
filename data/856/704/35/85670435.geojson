@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HO"
+    ],
     "lbl:latitude":20.818409,
     "lbl:longitude":-76.199587,
     "meso:name_loc":"Holguin",
@@ -339,16 +342,13 @@
         }
     ],
     "wof:id":85670435,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319844,
+    "wof:lastmodified":1565670836,
     "wof:name":"Holguin",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

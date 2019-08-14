@@ -15,6 +15,9 @@
     "itu:country_code":[
         "53"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CU"
+    ],
     "lbl:latitude":21.329612,
     "lbl:longitude":-77.967722,
     "mps:latitude":21.329612,
@@ -996,16 +999,13 @@
         }
     ],
     "wof:id":85632675,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319861,
+    "wof:lastmodified":1565670838,
     "wof:name":"Cuba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

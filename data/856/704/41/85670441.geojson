@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SC"
+    ],
     "lbl:latitude":20.183437,
     "lbl:longitude":-76.036634,
     "meso:name_loc":"Santiago De Cuba",
@@ -319,16 +322,13 @@
         }
     ],
     "wof:id":85670441,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319852,
+    "wof:lastmodified":1565670837,
     "wof:name":"Santiago de Cuba",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

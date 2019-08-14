@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "special municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IJ"
+    ],
     "lbl:latitude":21.687866,
     "lbl:longitude":-82.812849,
     "meso:name_loc":"Isla De La Juventud",
@@ -306,16 +309,13 @@
         }
     ],
     "wof:id":85670405,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319845,
+    "wof:lastmodified":1565670836,
     "wof:name":"Isla de la Juventud",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

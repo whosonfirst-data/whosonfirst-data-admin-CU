@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CF"
+    ],
     "lbl:latitude":22.289163,
     "lbl:longitude":-80.451492,
     "meso:name_loc":"Cienfuegos",
@@ -323,16 +326,13 @@
         }
     ],
     "wof:id":85670403,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319843,
+    "wof:lastmodified":1565670835,
     "wof:name":"Cienfuegos",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

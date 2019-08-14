@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":23.063543,
     "lbl:longitude":-82.322559,
     "meso:name_loc":"Ciudad De La Habana",
@@ -240,16 +243,13 @@
         }
     ],
     "wof:id":85670445,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319846,
+    "wof:lastmodified":1565670836,
     "wof:name":"Ciudad De La Habana",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

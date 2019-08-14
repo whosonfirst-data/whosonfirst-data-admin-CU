@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LT"
+    ],
     "lbl:latitude":21.021796,
     "lbl:longitude":-76.917241,
     "meso:name_loc":"Las Tunas",
@@ -326,16 +329,13 @@
         }
     ],
     "wof:id":85670439,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319850,
+    "wof:lastmodified":1565670837,
     "wof:name":"Las Tunas",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

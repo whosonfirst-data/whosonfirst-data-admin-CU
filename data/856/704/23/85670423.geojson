@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CM"
+    ],
     "lbl:latitude":21.369142,
     "lbl:longitude":-77.878907,
     "meso:name_loc":"Camag\u00fcey",
@@ -332,16 +335,13 @@
         }
     ],
     "wof:id":85670423,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319854,
+    "wof:lastmodified":1565670837,
     "wof:name":"Camag\u00fcey",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

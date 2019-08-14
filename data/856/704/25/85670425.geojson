@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GU"
+    ],
     "lbl:latitude":20.200057,
     "lbl:longitude":-74.966123,
     "meso:name_loc":"Guantanamo",
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85670425,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319857,
+    "wof:lastmodified":1565670838,
     "wof:name":"Guantanamo",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

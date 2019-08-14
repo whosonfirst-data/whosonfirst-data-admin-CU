@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SS"
+    ],
     "lbl:latitude":21.894594,
     "lbl:longitude":-79.382993,
     "meso:name_loc":"Sancti Spiritus",
@@ -328,16 +331,13 @@
         }
     ],
     "wof:id":85670413,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319856,
+    "wof:lastmodified":1565670838,
     "wof:name":"Sancti Spiritus",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

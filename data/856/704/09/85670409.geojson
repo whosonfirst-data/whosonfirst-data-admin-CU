@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PD"
+    ],
     "lbl:latitude":22.471663,
     "lbl:longitude":-83.737715,
     "meso:name_loc":"Pinar Del Rio",
@@ -336,16 +339,13 @@
         }
     ],
     "wof:id":85670409,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319848,
+    "wof:lastmodified":1565670836,
     "wof:name":"Pinar Del Rio",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":22.860933,
     "lbl:longitude":-82.649635,
     "meso:name_loc":"Artemisa",
@@ -248,7 +251,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319855,
+    "wof:lastmodified":1565670837,
     "wof:name":"Artemisa",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

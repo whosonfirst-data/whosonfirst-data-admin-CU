@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":22.66512,
     "lbl:longitude":-81.221255,
     "meso:name_loc":"Matanzas",
@@ -335,16 +338,13 @@
         }
     ],
     "wof:id":85670455,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563319851,
+    "wof:lastmodified":1565670837,
     "wof:name":"Matanzas",
     "wof:parent_id":85632675,
     "wof:placetype":"region",
