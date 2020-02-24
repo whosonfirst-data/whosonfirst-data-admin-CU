@@ -66,10 +66,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85670445,
         102191575,
         85632675,
-        1091907083,
-        85670445
+        1091907083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +78,9 @@
         "qs:id":211058
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ee405aada5c2601b1d0d08de988f77b1",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531861388,
+    "wof:lastmodified":1582379454,
     "wof:name":"Cubanac\u00e1n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

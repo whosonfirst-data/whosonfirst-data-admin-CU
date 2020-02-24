@@ -313,6 +313,9 @@
         "wk:page":"Ciego de \u00c1vila Province"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cc4a170bf41534536a4e66b163b8d26e",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670836,
+    "wof:lastmodified":1582379456,
     "wof:name":"Ciego de \u00c1vila",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

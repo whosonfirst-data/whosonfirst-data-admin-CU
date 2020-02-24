@@ -72,6 +72,9 @@
         "qs:id":898504
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53a655c0bd6713554eb910992ef25291",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379265,
+    "wof:lastmodified":1582379453,
     "wof:name":"Reparto Veguita de Galo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

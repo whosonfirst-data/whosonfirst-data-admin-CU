@@ -936,6 +936,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
+        "naturalearth",
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
@@ -991,6 +992,11 @@
     },
     "wof:country":"CU",
     "wof:country_alpha3":"CUB",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"417fb94c933f635fde8e0badf7f84f0c",
     "wof:hierarchy":[
         {
@@ -1005,7 +1011,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670838,
+    "wof:lastmodified":1582379459,
     "wof:name":"Cuba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

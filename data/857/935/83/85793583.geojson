@@ -129,6 +129,9 @@
         "qs_pg:id":889974
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ffe802a3930815f10141d7d371274c87",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379265,
+    "wof:lastmodified":1582379454,
     "wof:name":"Distrito Jos\u00e9 Mart\u00ed",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

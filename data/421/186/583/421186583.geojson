@@ -461,6 +461,9 @@
     ],
     "wof:country":"CU",
     "wof:created":1459009485,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bf1ca4ad5c4714b88decd1c49366a4bd",
     "wof:hierarchy":[
         {
@@ -472,7 +475,7 @@
         }
     ],
     "wof:id":421186583,
-    "wof:lastmodified":1564328109,
+    "wof:lastmodified":1582379477,
     "wof:name":"Havana",
     "wof:parent_id":85670445,
     "wof:placetype":"locality",

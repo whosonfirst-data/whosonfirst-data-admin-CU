@@ -330,6 +330,9 @@
         "wk:page":"Pinar del R\u00edo Province"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dd4df99d0b4340c5d240dfb64dfd29ed",
     "wof:hierarchy":[
         {
@@ -345,7 +348,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670836,
+    "wof:lastmodified":1582379456,
     "wof:name":"Pinar Del Rio",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

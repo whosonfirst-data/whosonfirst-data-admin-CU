@@ -94,6 +94,9 @@
         "qs_pg:id":240930
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b0dd8bb3e65cb7df370a634f7b83b26",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379265,
+    "wof:lastmodified":1582379454,
     "wof:name":"Nuevo Santiago",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

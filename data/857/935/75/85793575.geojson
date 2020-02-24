@@ -147,6 +147,9 @@
         "wk:page":"Cerro, Havana"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3978b46a369edce20d638d018767b713",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563319839,
+    "wof:lastmodified":1582379454,
     "wof:name":"Cerro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

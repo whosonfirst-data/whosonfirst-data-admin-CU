@@ -209,6 +209,9 @@
     },
     "wof:country":"CU",
     "wof:created":1469052350,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e945433cb0372a1e5f40fbddc0309c98",
     "wof:hierarchy":[
         {
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":890442095,
-    "wof:lastmodified":1563321550,
+    "wof:lastmodified":1582379479,
     "wof:name":"Caibari\u00e9n",
     "wof:parent_id":1091903367,
     "wof:placetype":"locality",

@@ -77,6 +77,9 @@
         "qs:id":908654
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"41b1f36077cbaafc1e67530ddf5be0da",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379265,
+    "wof:lastmodified":1582379454,
     "wof:name":"Santos Su\u00e1rez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

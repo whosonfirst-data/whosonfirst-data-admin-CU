@@ -142,6 +142,9 @@
         "wd:id":"Q2066278"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f7766899b985848e30926d5d32e6eea5",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563319837,
+    "wof:lastmodified":1582379454,
     "wof:name":"Regla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -324,6 +324,9 @@
     },
     "wof:country":"CU",
     "wof:created":1469052349,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2a18bc3246f687be4ec906d854d1cb94",
     "wof:hierarchy":[
         {
@@ -335,7 +338,7 @@
         }
     ],
     "wof:id":890442079,
-    "wof:lastmodified":1563321546,
+    "wof:lastmodified":1582379478,
     "wof:name":"Pinar del R\u00edo",
     "wof:parent_id":1091907007,
     "wof:placetype":"locality",

@@ -95,6 +95,9 @@
         "qs_pg:id":423358
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5bb503ba2b95d9009f1fc902fc13f063",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379264,
+    "wof:lastmodified":1582379454,
     "wof:name":"Alturas de Miramar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

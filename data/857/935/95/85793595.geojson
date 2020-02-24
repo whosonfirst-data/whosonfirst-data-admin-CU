@@ -87,16 +87,19 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85670445,
         102191575,
         85632675,
-        1091904421,
-        85670445
+        1091904421
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":63124
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c5a09b4b66bd6a323cf29f97e66bfd8",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531861391,
+    "wof:lastmodified":1582379454,
     "wof:name":"Jes\u00fas del Monte",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

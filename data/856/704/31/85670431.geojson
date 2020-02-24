@@ -326,6 +326,9 @@
         "wk:page":"Granma Province"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"31f0df09129c61a0db6f56d545c64389",
     "wof:hierarchy":[
         {
@@ -341,7 +344,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670836,
+    "wof:lastmodified":1582379457,
     "wof:name":"Granma",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

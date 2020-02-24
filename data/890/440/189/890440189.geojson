@@ -201,6 +201,9 @@
     },
     "wof:country":"CU",
     "wof:created":1469052266,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b586acdfae4c6bc4427aa5d76ed00d2c",
     "wof:hierarchy":[
         {
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":890440189,
-    "wof:lastmodified":1563321529,
+    "wof:lastmodified":1582379478,
     "wof:name":"Banes",
     "wof:parent_id":1091902915,
     "wof:placetype":"locality",

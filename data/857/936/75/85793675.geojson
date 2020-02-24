@@ -573,6 +573,9 @@
         "qs_pg:id":898505
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e3c13becd99b93129bb37c7b6e7888d5",
     "wof:hierarchy":[
         {
@@ -588,7 +591,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564326350,
+    "wof:lastmodified":1582379454,
     "wof:name":"San Francisco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

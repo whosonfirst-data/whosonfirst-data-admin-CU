@@ -236,6 +236,9 @@
         "wd:id":"Q115006"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1badd9023b155b46efde6710acd1c5d0",
     "wof:hierarchy":[
         {
@@ -251,7 +254,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670837,
+    "wof:lastmodified":1582379458,
     "wof:name":"Artemisa",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

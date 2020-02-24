@@ -322,6 +322,9 @@
         "wk:page":"Sancti Sp\u00edritus Province"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"985871f23d26167be8670707d392955b",
     "wof:hierarchy":[
         {
@@ -337,7 +340,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670838,
+    "wof:lastmodified":1582379458,
     "wof:name":"Sancti Spiritus",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

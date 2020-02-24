@@ -320,6 +320,9 @@
         "wk:page":"Las Tunas Province"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9868c6380a8e3a2b2e1cc160368223b4",
     "wof:hierarchy":[
         {
@@ -335,7 +338,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670837,
+    "wof:lastmodified":1582379457,
     "wof:name":"Las Tunas",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

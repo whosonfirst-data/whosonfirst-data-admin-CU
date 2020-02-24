@@ -176,6 +176,9 @@
         "wk:page":"Old Havana"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ad4c8850d46117d985428301e6cbd664",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563319833,
+    "wof:lastmodified":1582379452,
     "wof:name":"La Habana Vieja",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -58,10 +58,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85670441,
         102191575,
         85632675,
-        1091908137,
-        85670441
+        1091908137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,6 +70,9 @@
         "qs:id":982556
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5a17e1e5a6c928e7ff34c66ee98dc215",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531861400,
+    "wof:lastmodified":1582379453,
     "wof:name":"Reparto Belmare",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

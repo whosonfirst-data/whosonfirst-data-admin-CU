@@ -73,6 +73,9 @@
         "qs:id":1082590
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66415f6f03c9334aee7241de88b200a8",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379264,
+    "wof:lastmodified":1582379454,
     "wof:name":"Aldecoa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

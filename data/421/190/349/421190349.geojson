@@ -100,6 +100,9 @@
     },
     "wof:country":"CU",
     "wof:created":1459009655,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"47d0297930aaee451df8010d7b362e33",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421190349,
-    "wof:lastmodified":1561766481,
+    "wof:lastmodified":1582379478,
     "wof:name":"San Luis",
     "wof:parent_id":1360667253,
     "wof:placetype":"locality",

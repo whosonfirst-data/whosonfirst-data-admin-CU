@@ -162,6 +162,9 @@
         "gp:id":63520
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"29f119c019d4dce495cb3e96dbf4e202",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564326352,
+    "wof:lastmodified":1582379454,
     "wof:name":"La Ceiba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

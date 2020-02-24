@@ -305,6 +305,9 @@
     },
     "wof:country":"CU",
     "wof:created":1469051846,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e960a5404c7e3dda58e9057aabf7549b",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
         }
     ],
     "wof:id":890430271,
-    "wof:lastmodified":1563321532,
+    "wof:lastmodified":1582379478,
     "wof:name":"Bayamo",
     "wof:parent_id":1091903105,
     "wof:placetype":"locality",

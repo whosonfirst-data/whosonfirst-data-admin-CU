@@ -234,6 +234,9 @@
         421186583
     ],
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bf1ca4ad5c4714b88decd1c49366a4bd",
     "wof:hierarchy":[
         {
@@ -249,7 +252,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670836,
+    "wof:lastmodified":1582379456,
     "wof:name":"Ciudad De La Habana",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

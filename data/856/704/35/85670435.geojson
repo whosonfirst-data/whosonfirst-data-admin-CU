@@ -333,6 +333,9 @@
         "wk:page":"Holgu\u00edn Province"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5db6a85b6cde37894efb5690de5efabb",
     "wof:hierarchy":[
         {
@@ -348,7 +351,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670836,
+    "wof:lastmodified":1582379456,
     "wof:name":"Holguin",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

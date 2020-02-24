@@ -79,6 +79,9 @@
         "wk:page":"Miramar, Havana"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"27209a08be7c79a338f0f99529382a21",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379265,
+    "wof:lastmodified":1582379454,
     "wof:name":"Miramar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

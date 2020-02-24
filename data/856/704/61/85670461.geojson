@@ -123,6 +123,9 @@
         "wd:id":"Q1914389"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"acb30ccd4998a865c5b5e70787c51918",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670835,
+    "wof:lastmodified":1582379455,
     "wof:name":"Mayabeque",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

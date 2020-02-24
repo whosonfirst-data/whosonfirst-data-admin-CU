@@ -329,6 +329,9 @@
         "wk:page":"Matanzas Province"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f15fa8a52aa8c8d8c68684d7c9af929b",
     "wof:hierarchy":[
         {
@@ -344,7 +347,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670837,
+    "wof:lastmodified":1582379457,
     "wof:name":"Matanzas",
     "wof:parent_id":85632675,
     "wof:placetype":"region",
