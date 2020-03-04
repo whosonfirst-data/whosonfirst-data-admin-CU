@@ -143,6 +143,9 @@
     },
     "wof:country":"CU",
     "wof:created":1459009095,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c004218c26455de557800ac21988fb91",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":421176099,
-    "wof:lastmodified":1563321524,
+    "wof:lastmodified":1582379478,
     "wof:name":"G\u00fcines",
     "wof:parent_id":1091904955,
     "wof:placetype":"locality",

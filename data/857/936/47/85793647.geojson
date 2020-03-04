@@ -72,6 +72,9 @@
         "qs:id":211059
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"485d068285716111164d7c2864539292",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379265,
+    "wof:lastmodified":1582379454,
     "wof:name":"Reparto Altamira",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

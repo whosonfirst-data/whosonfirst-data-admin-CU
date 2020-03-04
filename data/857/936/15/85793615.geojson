@@ -98,6 +98,9 @@
         "qs_pg:id":982546
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66fd883f54a46bbb243ec25ef94e816c",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379264,
+    "wof:lastmodified":1582379454,
     "wof:name":"La Risue\u00f1a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -118,6 +118,9 @@
         "wd:id":"Q2595454"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c7e2d752ed100795479c39c2fa685215",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563319840,
+    "wof:lastmodified":1582379454,
     "wof:name":"Antonio Guiteras",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

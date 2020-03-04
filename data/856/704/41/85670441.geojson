@@ -313,6 +313,9 @@
         "wk:page":"Santiago de Cuba Province"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ffea9481e69685b5e060d71bd858184f",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670837,
+    "wof:lastmodified":1582379457,
     "wof:name":"Santiago de Cuba",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

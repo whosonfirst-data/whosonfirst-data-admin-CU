@@ -305,6 +305,9 @@
         "wk:page":"Villa Clara Province"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a80db67b15285ba25e669218b1521716",
     "wof:hierarchy":[
         {
@@ -320,7 +323,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670835,
+    "wof:lastmodified":1582379455,
     "wof:name":"Villa Clara",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

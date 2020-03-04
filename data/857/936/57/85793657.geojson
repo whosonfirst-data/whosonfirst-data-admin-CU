@@ -94,6 +94,9 @@
         "qs_pg:id":898502
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d3ed5ec7d4b9ba28a1eaf736e062d2ef",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379264,
+    "wof:lastmodified":1582379452,
     "wof:name":"Reparto Fomento",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -59,10 +59,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85670445,
         102191575,
         85632675,
-        1091907083,
-        85670445
+        1091907083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,6 +70,9 @@
         "qs:id":367834
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fc3e4e13ab26107215118e3b13e75165",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531871115,
+    "wof:lastmodified":1582379463,
     "wof:name":"Monte Barreto",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

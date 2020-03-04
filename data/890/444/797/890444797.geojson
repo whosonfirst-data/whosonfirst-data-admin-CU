@@ -308,6 +308,9 @@
     },
     "wof:country":"CU",
     "wof:created":1469052482,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ca28ef199ad589a433c191b416f2bac",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":890444797,
-    "wof:lastmodified":1563321534,
+    "wof:lastmodified":1582379478,
     "wof:name":"Las Tunas",
     "wof:parent_id":1091905619,
     "wof:placetype":"locality",

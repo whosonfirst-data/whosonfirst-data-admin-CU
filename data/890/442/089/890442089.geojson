@@ -255,6 +255,9 @@
     },
     "wof:country":"CU",
     "wof:created":1469052349,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3d3462554ccf452b5e9b08364882cc3",
     "wof:hierarchy":[
         {
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":890442089,
-    "wof:lastmodified":1561766484,
+    "wof:lastmodified":1582379479,
     "wof:name":"Mor\u00f3n",
     "wof:parent_id":1091906525,
     "wof:placetype":"locality",

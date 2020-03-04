@@ -300,6 +300,9 @@
         "wd:id":"Q12588"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ba979cff090434ea41ac829bb5aad0f0",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670836,
+    "wof:lastmodified":1582379456,
     "wof:name":"Isla de la Juventud",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

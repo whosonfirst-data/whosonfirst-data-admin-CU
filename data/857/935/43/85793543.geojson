@@ -81,6 +81,9 @@
         "qs:id":228194
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"668d7e829fd143c80e009a7f48ad12fe",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379264,
+    "wof:lastmodified":1582379454,
     "wof:name":"Bel\u00e9n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

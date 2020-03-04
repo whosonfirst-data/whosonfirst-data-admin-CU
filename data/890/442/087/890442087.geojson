@@ -271,6 +271,9 @@
     },
     "wof:country":"CU",
     "wof:created":1469052349,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"95aa28e9781b48a63cb7ab1516f946e6",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":890442087,
-    "wof:lastmodified":1563321550,
+    "wof:lastmodified":1582379479,
     "wof:name":"Nueva Gerona",
     "wof:parent_id":1091906563,
     "wof:placetype":"locality",

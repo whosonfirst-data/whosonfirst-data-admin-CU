@@ -143,6 +143,9 @@
         "wk:page":"Habana del Este"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4385fa6b14e2359421d435e94f062a27",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563319839,
+    "wof:lastmodified":1582379454,
     "wof:name":"Habana del Este",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -140,6 +140,9 @@
         "wk:page":"Centro Habana"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ba3a8e72ca2a5e9832174112a3bdddd",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563319838,
+    "wof:lastmodified":1582379454,
     "wof:name":"Centro Habana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

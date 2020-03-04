@@ -73,6 +73,9 @@
         "qs:id":1340775
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"691400865c8058f7883ee31501158d01",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379264,
+    "wof:lastmodified":1582379454,
     "wof:name":"La Sierra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

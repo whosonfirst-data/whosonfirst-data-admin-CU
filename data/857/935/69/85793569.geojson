@@ -143,6 +143,9 @@
         "qs:id":1165054
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d378ab7fe55d8cfbcd2204a4cf6b6c08",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564326352,
+    "wof:lastmodified":1582379454,
     "wof:name":"Belvedere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

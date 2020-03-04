@@ -326,6 +326,9 @@
         "wk:page":"Camag\u00fcey Province"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"615cc4701b89de97d87b8ddbd0652f40",
     "wof:hierarchy":[
         {
@@ -341,7 +344,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670837,
+    "wof:lastmodified":1582379458,
     "wof:name":"Camag\u00fcey",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

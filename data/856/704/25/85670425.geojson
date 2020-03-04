@@ -285,6 +285,9 @@
         "wk:page":"Guant\u00e1namo Province"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0b73bd7d21f2d32d99c66551d47010ff",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670838,
+    "wof:lastmodified":1582379458,
     "wof:name":"Guantanamo",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

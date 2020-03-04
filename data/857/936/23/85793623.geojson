@@ -73,10 +73,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":169,
     "wof:belongsto":[
+        85670445,
         102191575,
         85632675,
-        1091904421,
-        85670445
+        1091904421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,6 +84,9 @@
         "qs:id":1043422
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"06ba88bf6f785f2f4d28c399079ae8ec",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531861396,
+    "wof:lastmodified":1582379454,
     "wof:name":"La V\u00edbora",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

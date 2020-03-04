@@ -290,6 +290,9 @@
         "qs:id":238563
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b91863267310039045328338a3e14f94",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379265,
+    "wof:lastmodified":1582379454,
     "wof:name":"Tamarindo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

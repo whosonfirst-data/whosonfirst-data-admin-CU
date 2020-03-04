@@ -104,6 +104,9 @@
         "qs_pg:id":887547
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e29401863949a3a24dec12bebf306979",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564326347,
+    "wof:lastmodified":1582379454,
     "wof:name":"La Reforma",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

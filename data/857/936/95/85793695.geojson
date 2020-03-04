@@ -86,6 +86,9 @@
         "wk:page":"Vedado"
     },
     "wof:country":"CU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3479571b434aa29e0a1e3929d06d430c",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561766441,
+    "wof:lastmodified":1582379451,
     "wof:name":"Vedado",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
