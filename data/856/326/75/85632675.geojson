@@ -936,7 +936,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "naturalearth",
         "meso"
     ],
     "src:lbl:centroid":"mapshaper",
@@ -1011,7 +1010,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1582379459,
+    "wof:lastmodified":1583259959,
     "wof:name":"Cuba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
