@@ -967,9 +967,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Cuba",
-        "digitalenvoy:country_code":[
-            192
-        ],
+        "digitalenvoy:country_code":192,
         "fb:id":"en.cuba",
         "fifa:id":"CUB",
         "fips:code":"CU",
@@ -1013,7 +1011,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583529113,
+    "wof:lastmodified":1583797318,
     "wof:name":"Cuba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
