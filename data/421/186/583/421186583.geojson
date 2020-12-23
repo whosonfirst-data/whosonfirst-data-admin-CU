@@ -15,6 +15,7 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "Havana"
@@ -455,8 +456,11 @@
         85632675
     ],
     "wof:concordances":{
+        "gn:id":3553478,
         "gp:id":62569,
-        "qs:id":1074057
+        "ne:id":1159151347,
+        "qs:id":1074057,
+        "wd:id":"Q1563"
     },
     "wof:coterminous":[
         85670445
@@ -477,7 +481,8 @@
         }
     ],
     "wof:id":421186583,
-    "wof:lastmodified":1607390883,
+    "wof:lastmodified":1608688184,
+    "wof:megacity":1,
     "wof:name":"Havana",
     "wof:parent_id":85670445,
     "wof:placetype":"locality",
