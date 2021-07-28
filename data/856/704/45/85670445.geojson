@@ -53,6 +53,9 @@
     "name:fin_x_preferred":[
         "Havanna"
     ],
+    "name:fra_x_preferred":[
+        "La Havane"
+    ],
     "name:hrv_x_preferred":[
         "La Habana"
     ],
@@ -253,7 +256,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614893694,
+    "wof:lastmodified":1627507747,
     "wof:name":"Ciudad De La Habana",
     "wof:parent_id":85632675,
     "wof:placetype":"region",
