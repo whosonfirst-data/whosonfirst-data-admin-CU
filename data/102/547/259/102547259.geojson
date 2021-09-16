@@ -6,12 +6,15 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.5094444444,22.8716666667,-82.5094444444,22.8716666667",
+    "geom:bbox":"-82.509444,22.871667,-82.509444,22.871667",
     "geom:latitude":22.871667,
     "geom:longitude":-82.509444,
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_variant":[
+        "MUSA"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646 \u0622\u0646\u062a\u0648\u0646\u06cc\u0648 \u062f \u0644\u0648\u0633 \u0628\u0627\u0646\u06cc\u0648\u0633"
     ],
@@ -43,7 +46,7 @@
         "wd:id":"Q287371"
     },
     "wof:country":"CU",
-    "wof:geomhash":"ffd8807f1aa2b105912903f8c4572af5",
+    "wof:geomhash":"e4c5ecb261a713112a61e1b65dcce043",
     "wof:hierarchy":[
         {
             "campus_id":102547259,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":102547259,
-    "wof:lastmodified":1563319504,
+    "wof:lastmodified":1631755309,
     "wof:name":"San Antonio de Los Banos Airport",
     "wof:parent_id":85670449,
     "wof:placetype":"campus",
@@ -64,10 +67,10 @@
     ]
 },
   "bbox": [
-    -82.509444444444,
-    22.871666666667,
-    -82.509444444444,
-    22.871666666667
+    -82.509444,
+    22.871667,
+    -82.509444,
+    22.871667
 ],
-  "geometry": {"coordinates":[-82.509444444444,22.871666666667],"type":"Point"}
+  "geometry": {"coordinates":[-82.509444,22.871667],"type":"Point"}
 }
