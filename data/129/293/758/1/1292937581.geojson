@@ -37,6 +37,12 @@
     "name:fra_x_preferred":[
         "Palma Soriano"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05de\u05d4 \u05e1\u05d5\u05e8\u05d9\u05d0\u05e0\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Palma Soriano"
+    ],
     "name:ita_x_preferred":[
         "Palma Soriano"
     ],
@@ -94,7 +100,7 @@
         "gn:id":3545063
     },
     "wof:country":"CU",
-    "wof:geomhash":"78bb82c62d2cd9375cab62865bc3874e",
+    "wof:geomhash":"429ad2f4d8cfb6f6cef462e2edbb1e02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1292937581,
-    "wof:lastmodified":1564326439,
+    "wof:lastmodified":1636504745,
     "wof:name":"Palma Soriano",
     "wof:parent_id":1091908663,
     "wof:placetype":"locality",
@@ -115,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.01583000000002,
+    -78.01583,
     21.02972,
-    -78.01583000000002,
+    -78.01583,
     21.02972
 ],
-  "geometry": {"coordinates":[-78.01583000000002,21.02972],"type":"Point"}
+  "geometry": {"coordinates":[-78.01582999999999,21.02972],"type":"Point"}
 }

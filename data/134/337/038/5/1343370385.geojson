@@ -55,6 +55,9 @@
     "name:heb_x_preferred":[
         "\u05d4\u05e8\u05e8\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Herrera"
+    ],
     "name:ita_x_preferred":[
         "Herrera"
     ],
@@ -103,7 +106,7 @@
         "gn:id":3557047
     },
     "wof:country":"CU",
-    "wof:geomhash":"449acedc2ea824587f624cfe1b1cfbd4",
+    "wof:geomhash":"2d8c86a1198718935f21576a83cfc17f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1343370385,
-    "wof:lastmodified":1564326025,
+    "wof:lastmodified":1636504714,
     "wof:name":"Herrera",
     "wof:parent_id":1091905493,
     "wof:placetype":"locality",
@@ -124,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.14305999999998,
+    -81.14306,
     22.87167,
-    -81.14305999999998,
+    -81.14306,
     22.87167
 ],
-  "geometry": {"coordinates":[-81.14305999999998,22.87167],"type":"Point"}
+  "geometry": {"coordinates":[-81.14306000000001,22.87167],"type":"Point"}
 }

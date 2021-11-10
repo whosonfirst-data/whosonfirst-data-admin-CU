@@ -51,8 +51,14 @@
     "name:guj_x_preferred":[
         "\u0aab\u0acd\u0ab2\u0acb\u0ab0\u0abf\u0aa1\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d5\u05e8\u05d9\u05d3\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092b\u094d\u0932\u094b\u0930\u093f\u0921\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Florida"
     ],
     "name:ind_x_preferred":[
         "Florida"
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890434873,
-    "wof:lastmodified":1563321556,
+    "wof:lastmodified":1636504865,
     "wof:name":"Florida",
     "wof:parent_id":1091904585,
     "wof:placetype":"locality",

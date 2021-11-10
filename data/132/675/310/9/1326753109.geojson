@@ -28,6 +28,9 @@
     "name:ast_x_preferred":[
         "Las Cruces"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09b8 \u0995\u09cd\u09b0\u09c1\u09b8\u09c7\u09b8"
+    ],
     "name:bre_x_preferred":[
         "Cruces"
     ],
@@ -35,6 +38,12 @@
         "Las Cruces"
     ],
     "name:fra_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0915\u094d\u0930\u0942\u0938\u0947\u0938"
+    ],
+    "name:ind_x_preferred":[
         "Las Cruces"
     ],
     "name:ita_x_preferred":[
@@ -64,7 +73,7 @@
         "gn:id":11033410
     },
     "wof:country":"CU",
-    "wof:geomhash":"9206f752f970a0abc9cd98f1d4e11d3a",
+    "wof:geomhash":"2e15398dd3a98322f40f6f8cd3a05eca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1326753109,
-    "wof:lastmodified":1564325730,
+    "wof:lastmodified":1636504694,
     "wof:name":"Las Cruces",
     "wof:parent_id":1091905417,
     "wof:placetype":"locality",
@@ -85,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.83731999999998,
+    -77.83732,
     21.33661,
-    -77.83731999999998,
+    -77.83732,
     21.33661
 ],
-  "geometry": {"coordinates":[-77.83731999999998,21.33661],"type":"Point"}
+  "geometry": {"coordinates":[-77.83732000000001,21.33661],"type":"Point"}
 }

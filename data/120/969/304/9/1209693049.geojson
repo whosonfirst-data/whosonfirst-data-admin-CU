@@ -37,6 +37,9 @@
     "name:epo_x_preferred":[
         "Progreso"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u06af\u0631\u0633\u0648"
+    ],
     "name:fra_x_preferred":[
         "Progreso"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1209693049,
-    "wof:lastmodified":1564327231,
+    "wof:lastmodified":1636504798,
     "wof:name":"Progreso",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

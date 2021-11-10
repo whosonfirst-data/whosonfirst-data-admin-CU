@@ -58,6 +58,9 @@
     "name:glg_x_preferred":[
         "Granma"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05d0\u05e0\u05de\u05d4"
+    ],
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30f3\u30de"
     ],
@@ -100,7 +103,7 @@
         "gn:id":10948952
     },
     "wof:country":"CU",
-    "wof:geomhash":"38292c57da96be5a5ff31dc8708e98fc",
+    "wof:geomhash":"d4b9240ab4292af402fd81ba38d60d81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1344268547,
-    "wof:lastmodified":1564326245,
+    "wof:lastmodified":1636504730,
     "wof:name":"Granma",
     "wof:parent_id":1091905493,
     "wof:placetype":"locality",
@@ -121,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.27736999999998,
+    -81.27737,
     22.91307,
-    -81.27736999999998,
+    -81.27737,
     22.91307
 ],
-  "geometry": {"coordinates":[-81.27736999999998,22.91307],"type":"Point"}
+  "geometry": {"coordinates":[-81.27737,22.91307],"type":"Point"}
 }

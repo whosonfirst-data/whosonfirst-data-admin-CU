@@ -49,6 +49,12 @@
     "name:fra_x_preferred":[
         "Montero"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d8\u05e8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Montero"
+    ],
     "name:ita_x_preferred":[
         "Montero"
     ],
@@ -112,7 +118,7 @@
         "gn:id":3546571
     },
     "wof:country":"CU",
-    "wof:geomhash":"244960f10c9c597f05844cae10f50a6e",
+    "wof:geomhash":"10fd765399863513d0345aad56f72959",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1293573811,
-    "wof:lastmodified":1564326548,
+    "wof:lastmodified":1636504754,
     "wof:name":"Montero",
     "wof:parent_id":1091906677,
     "wof:placetype":"locality",
@@ -133,10 +139,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.48333000000002,
+    -77.48333,
     20.05,
-    -77.48333000000002,
+    -77.48333,
     20.05
 ],
-  "geometry": {"coordinates":[-77.48333000000002,20.05],"type":"Point"}
+  "geometry": {"coordinates":[-77.48333,20.05],"type":"Point"}
 }

@@ -40,6 +40,12 @@
     "name:fra_x_preferred":[
         "Sabaneta"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d1\u05e0\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Sabaneta"
+    ],
     "name:ita_x_preferred":[
         "Sabaneta"
     ],
@@ -85,7 +91,7 @@
         "gn:id":3541563
     },
     "wof:country":"CU",
-    "wof:geomhash":"4c395e7334e56c0ecc29d56448ca0e6a",
+    "wof:geomhash":"f9d7c206f7fba9c68e3865bce4facb29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1293578499,
-    "wof:lastmodified":1564326547,
+    "wof:lastmodified":1636504754,
     "wof:name":"Sabaneta",
     "wof:parent_id":1091904459,
     "wof:placetype":"locality",
@@ -106,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.33315999999998,
+    -75.33316,
     20.41479,
-    -75.33315999999998,
+    -75.33316,
     20.41479
 ],
-  "geometry": {"coordinates":[-75.33315999999998,20.41479],"type":"Point"}
+  "geometry": {"coordinates":[-75.33316000000001,20.41479],"type":"Point"}
 }

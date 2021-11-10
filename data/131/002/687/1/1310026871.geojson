@@ -55,6 +55,9 @@
     "name:fra_x_preferred":[
         "Valle"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05dc\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Valle"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1310026871,
-    "wof:lastmodified":1564327790,
+    "wof:lastmodified":1636504838,
     "wof:name":"Valle",
     "wof:parent_id":1091905859,
     "wof:placetype":"locality",

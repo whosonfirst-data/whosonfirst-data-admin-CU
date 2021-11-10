@@ -28,6 +28,12 @@
     "name:ces_x_preferred":[
         "Rojas"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d7\u05d0\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Rojas"
+    ],
     "name:nld_x_preferred":[
         "Rojas"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1259518139,
-    "wof:lastmodified":1564328663,
+    "wof:lastmodified":1636504907,
     "wof:name":"Rojas",
     "wof:parent_id":1091903035,
     "wof:placetype":"locality",

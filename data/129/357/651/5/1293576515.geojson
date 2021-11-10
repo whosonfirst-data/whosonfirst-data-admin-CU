@@ -251,6 +251,9 @@
         "Virginia"
     ],
     "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30b8\u30cb\u30a2"
+    ],
+    "name:jpn_x_variant":[
         "\u30d0\u30fc\u30b8\u30cb\u30a2\u5dde"
     ],
     "name:kab_x_preferred":[
@@ -539,7 +542,7 @@
         "gn:id":3534055
     },
     "wof:country":"CU",
-    "wof:geomhash":"5906414c94947dd20ac248b29c6d39df",
+    "wof:geomhash":"2be450cf068f3715d06c0c20a4cc2f69",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -550,7 +553,7 @@
         }
     ],
     "wof:id":1293576515,
-    "wof:lastmodified":1564326544,
+    "wof:lastmodified":1636504754,
     "wof:name":"Virginia",
     "wof:parent_id":1091908561,
     "wof:placetype":"locality",
@@ -560,10 +563,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.16606999999998,
+    -76.16607,
     20.5701,
-    -76.16606999999998,
+    -76.16607,
     20.5701
 ],
-  "geometry": {"coordinates":[-76.16606999999998,20.5701],"type":"Point"}
+  "geometry": {"coordinates":[-76.16607,20.5701],"type":"Point"}
 }

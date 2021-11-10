@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Ponce"
     ],
+    "name:hun_x_preferred":[
+        "Ponce"
+    ],
     "name:ita_x_preferred":[
         "Ponce"
     ],
@@ -70,7 +73,7 @@
         "gn:id":3543796
     },
     "wof:country":"CU",
-    "wof:geomhash":"f2d3fe4c172e4ab6d64e68d6b887b56c",
+    "wof:geomhash":"c13d92f5e165318fa5f14861a05bbb41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1360086817,
-    "wof:lastmodified":1564327857,
+    "wof:lastmodified":1636504844,
     "wof:name":"Ponce",
     "wof:parent_id":1091905493,
     "wof:placetype":"locality",
@@ -91,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.28083000000002,
+    -81.28083,
     22.98167,
-    -81.28083000000002,
+    -81.28083,
     22.98167
 ],
-  "geometry": {"coordinates":[-81.28083000000002,22.98167],"type":"Point"}
+  "geometry": {"coordinates":[-81.28082999999999,22.98167],"type":"Point"}
 }

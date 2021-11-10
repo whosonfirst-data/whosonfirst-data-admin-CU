@@ -52,8 +52,14 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0aa4\u0ac2\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d8\u05d5\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u093e\u0924\u0942\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Latur"
     ],
     "name:ita_x_preferred":[
         "Latur"
@@ -136,7 +142,7 @@
         "gn:id":11023036
     },
     "wof:country":"CU",
-    "wof:geomhash":"e03bb15436f32d0e739fc1deadd4fac8",
+    "wof:geomhash":"2d73e7eb97f000c8e22e5e20f966baf4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":1310688347,
-    "wof:lastmodified":1564327780,
+    "wof:lastmodified":1636504837,
     "wof:name":"Latur",
     "wof:parent_id":1091903321,
     "wof:placetype":"locality",
@@ -157,10 +163,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.51536999999998,
+    -76.51537,
     20.72906,
-    -76.51536999999998,
+    -76.51537,
     20.72906
 ],
-  "geometry": {"coordinates":[-76.51536999999998,20.72906],"type":"Point"}
+  "geometry": {"coordinates":[-76.51537,20.72906],"type":"Point"}
 }

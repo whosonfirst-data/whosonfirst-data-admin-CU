@@ -68,6 +68,9 @@
         "Las Tunas"
     ],
     "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1 \u05d8\u05d5\u05e0\u05d0\u05e1"
+    ],
+    "name:heb_x_variant":[
         "\u05d5\u05d9\u05e7\u05d8\u05d5\u05e8\u05d9\u05d4 \u05d3\u05d4 \u05dc\u05d0\u05e1 \u05d8\u05d5\u05e0\u05d0\u05e1"
     ],
     "name:hin_x_preferred":[
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":890444797,
-    "wof:lastmodified":1582379478,
+    "wof:lastmodified":1636504864,
     "wof:name":"Las Tunas",
     "wof:parent_id":1091905619,
     "wof:placetype":"locality",

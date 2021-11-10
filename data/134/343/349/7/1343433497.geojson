@@ -25,6 +25,18 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "San Felipe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u06cc\u0644\u06cc\u067e\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e4\u05dc\u05d9\u05e4\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "San Felipe"
+    ],
     "name:spa_x_preferred":[
         "San Felipe"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343433497,
-    "wof:lastmodified":1537618916,
+    "wof:lastmodified":1636504737,
     "wof:name":"San Felipe",
     "wof:parent_id":1091907053,
     "wof:placetype":"locality",

@@ -62,6 +62,9 @@
         "\u05d8\u05e8\u05d9\u05e0\u05d9\u05d3\u05d3"
     ],
     "name:hin_x_preferred":[
+        "\u091f\u094d\u0930\u093f\u0928\u093f\u0921\u0948\u0921"
+    ],
+    "name:hin_x_variant":[
         "\u0924\u094d\u0930\u093f\u0928\u093f\u0926\u093e\u0926"
     ],
     "name:hrv_x_preferred":[
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":421201289,
-    "wof:lastmodified":1563321512,
+    "wof:lastmodified":1636504863,
     "wof:name":"Trinidad",
     "wof:parent_id":1091908473,
     "wof:placetype":"locality",

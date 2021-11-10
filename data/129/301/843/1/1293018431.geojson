@@ -74,6 +74,9 @@
         "Flores"
     ],
     "name:fas_x_preferred":[
+        "\u0641\u0644\u0648\u0631\u0632"
+    ],
+    "name:fas_x_variant":[
         "\u0641\u0644\u0648\u0631\u0633"
     ],
     "name:fin_x_preferred":[
@@ -84,6 +87,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05dc\u05d5\u05e8\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u095e\u094d\u0932\u094b\u0930\u0947\u0938"
     ],
     "name:hrv_x_preferred":[
         "Flores"
@@ -202,7 +208,7 @@
         "gn:id":3558784
     },
     "wof:country":"CU",
-    "wof:geomhash":"3ce00f24bc24f5200d51dd6b3fbc3961",
+    "wof:geomhash":"fa1868b7571fb07c030956356b844bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -213,7 +219,7 @@
         }
     ],
     "wof:id":1293018431,
-    "wof:lastmodified":1564326412,
+    "wof:lastmodified":1636504743,
     "wof:name":"Flores",
     "wof:parent_id":1091902873,
     "wof:placetype":"locality",
@@ -224,9 +230,9 @@
 },
   "bbox": [
     -83.35,
-    22.86667000000001,
+    22.86667,
     -83.35,
-    22.86667000000001
+    22.86667
 ],
-  "geometry": {"coordinates":[-83.34999999999999,22.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-83.34999999999999,22.86667],"type":"Point"}
 }

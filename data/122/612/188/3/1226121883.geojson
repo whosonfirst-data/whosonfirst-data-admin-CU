@@ -109,6 +109,9 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043d\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u0627"
+    ],
     "name:vie_x_preferred":[
         "Lena"
     ],
@@ -127,7 +130,7 @@
         "gn:id":3549955
     },
     "wof:country":"CU",
-    "wof:geomhash":"5eeb98ee9d79e82c527012f29448548f",
+    "wof:geomhash":"fb7b2250d3bf321d703fa20b9414c3f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1226121883,
-    "wof:lastmodified":1564328947,
+    "wof:lastmodified":1636504928,
     "wof:name":"Lena",
     "wof:parent_id":1091905315,
     "wof:placetype":"locality",
@@ -148,10 +151,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.35221999999997,
+    -76.35222,
     21.15028,
-    -76.35221999999997,
+    -76.35222,
     21.15028
 ],
-  "geometry": {"coordinates":[-76.35221999999997,21.15028],"type":"Point"}
+  "geometry": {"coordinates":[-76.35222,21.15028],"type":"Point"}
 }

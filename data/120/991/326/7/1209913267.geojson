@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Gracias a Dios"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05d0\u05e1\u05d9\u05d0\u05e1 \u05d0 \u05d3\u05d9\u05d5\u05e1"
+    ],
     "name:nld_x_preferred":[
         "Gracias a Dios"
     ],
@@ -55,7 +58,7 @@
         "gn:id":3558147
     },
     "wof:country":"CU",
-    "wof:geomhash":"9f09aae19873b491be87fde7c6cc303f",
+    "wof:geomhash":"20a703128f5029fbdf2b2c79d2875ce1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1209913267,
-    "wof:lastmodified":1564327061,
+    "wof:lastmodified":1636504786,
     "wof:name":"Gracias a Dios",
     "wof:parent_id":1091904725,
     "wof:placetype":"locality",
@@ -76,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.23333000000002,
+    -77.23333,
     21.28333,
-    -77.23333000000002,
+    -77.23333,
     21.28333
 ],
-  "geometry": {"coordinates":[-77.23333000000002,21.28333],"type":"Point"}
+  "geometry": {"coordinates":[-77.23333,21.28333],"type":"Point"}
 }

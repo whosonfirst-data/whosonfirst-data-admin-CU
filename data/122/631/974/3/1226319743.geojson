@@ -55,6 +55,9 @@
     "name:heb_x_preferred":[
         "\u05d4\u05e8\u05e8\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Herrera"
+    ],
     "name:ita_x_preferred":[
         "Herrera"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1226319743,
-    "wof:lastmodified":1564329032,
+    "wof:lastmodified":1636504933,
     "wof:name":"Herrera",
     "wof:parent_id":1091906305,
     "wof:placetype":"locality",

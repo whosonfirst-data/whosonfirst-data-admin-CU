@@ -25,6 +25,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0644\u064a\u062f\u0627\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cb\u09b2\u09c7\u09a6\u09be\u09a6"
+    ],
     "name:bre_x_preferred":[
         "Soledad"
     ],
@@ -40,8 +46,23 @@
     "name:fra_x_preferred":[
         "Soledad"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05dc\u05d3\u05d0\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u0932\u0921\u0948\u0921"
+    ],
+    "name:hun_x_preferred":[
+        "Soledad"
+    ],
+    "name:ind_x_preferred":[
+        "Soledad"
+    ],
     "name:ita_x_preferred":[
         "Soledad"
+    ],
+    "name:kor_x_preferred":[
+        "\uc194\ub808\ub2e4\ub4dc"
     ],
     "name:lit_x_preferred":[
         "Soledad"
@@ -64,6 +85,9 @@
     "name:swe_x_preferred":[
         "Soledad"
     ],
+    "name:vie_x_preferred":[
+        "Soledad"
+    ],
     "name:vol_x_preferred":[
         "Soledad"
     ],
@@ -79,7 +103,7 @@
         "gn:id":3535839
     },
     "wof:country":"CU",
-    "wof:geomhash":"9fc578cd7f0983149db2f0437a96b85c",
+    "wof:geomhash":"c4315f019787e7e0e03638b1c2e0f0ac",
     "wof:hierarchy":[
         {
             "country_id":85632675,
@@ -87,7 +111,7 @@
         }
     ],
     "wof:id":1209025181,
-    "wof:lastmodified":1564327243,
+    "wof:lastmodified":1636504800,
     "wof:name":"Soledad",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",
@@ -97,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.73333000000002,
+    -76.73333,
     20.38333,
-    -76.73333000000002,
+    -76.73333,
     20.38333
 ],
-  "geometry": {"coordinates":[-76.73333000000002,20.38333],"type":"Point"}
+  "geometry": {"coordinates":[-76.73333,20.38333],"type":"Point"}
 }

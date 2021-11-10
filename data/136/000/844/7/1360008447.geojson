@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u099c\u09c7\u09a8\u09cb\u09ad\u09be"
+    ],
     "name:spa_x_preferred":[
         "G\u00e9nova"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1360008447,
-    "wof:lastmodified":1537619197,
+    "wof:lastmodified":1636504844,
     "wof:name":"Genova",
     "wof:parent_id":1091906599,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:hat_x_preferred":[
         "La Uni\u00f3n"
     ],
+    "name:hun_x_preferred":[
+        "La Union"
+    ],
     "name:und_x_variant":[
         "La Uni\u00f3n"
     ],
@@ -44,7 +47,7 @@
         "wk:page":"La_Uni%C3%B3n%2C_Cienfuegos"
     },
     "wof:country":"CU",
-    "wof:geomhash":"62b568fe588a325dcb230ba4211249f1",
+    "wof:geomhash":"cacb4d59a3967f290dddcf4381d89c73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326550047,
-    "wof:lastmodified":1564325906,
+    "wof:lastmodified":1636504706,
     "wof:name":"La Union",
     "wof:parent_id":1091907455,
     "wof:placetype":"locality",
@@ -65,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.48333000000002,
+    -80.48333,
     22.3,
-    -80.48333000000002,
+    -80.48333,
     22.3
 ],
-  "geometry": {"coordinates":[-80.48333000000002,22.3],"type":"Point"}
+  "geometry": {"coordinates":[-80.48333,22.3],"type":"Point"}
 }

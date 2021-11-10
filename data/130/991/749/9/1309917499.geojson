@@ -176,7 +176,13 @@
         "Ceres"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u0435\u0440\u0435\u0441"
+    ],
+    "name:ukr_x_variant":[
         "\u0426\u0435\u0440\u0435\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0631\u0633"
     ],
     "name:vie_x_preferred":[
         "Ceres"
@@ -199,7 +205,7 @@
         "gn:id":3564446
     },
     "wof:country":"CU",
-    "wof:geomhash":"ce2da2521eff6070e660fabea449faa9",
+    "wof:geomhash":"ca177a49ea7504d022753e65b1669dde",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -210,7 +216,7 @@
         }
     ],
     "wof:id":1309917499,
-    "wof:lastmodified":1564327983,
+    "wof:lastmodified":1636504854,
     "wof:name":"Ceres",
     "wof:parent_id":1091905493,
     "wof:placetype":"locality",
@@ -221,9 +227,9 @@
 },
   "bbox": [
     -81.19889,
-    22.88722000000001,
+    22.88722,
     -81.19889,
-    22.88722000000001
+    22.88722
 ],
-  "geometry": {"coordinates":[-81.19889000000001,22.88722000000001],"type":"Point"}
+  "geometry": {"coordinates":[-81.19889000000001,22.88722],"type":"Point"}
 }

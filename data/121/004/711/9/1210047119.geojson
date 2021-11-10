@@ -25,11 +25,38 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09a8\u09b8"
+    ],
     "name:deu_x_preferred":[
         "Banes"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bd\u03b5\u03c2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0928\u094d\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Banes"
+    ],
+    "name:ind_x_preferred":[
+        "Banes"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\uc778\uc988"
+    ],
     "name:spa_x_preferred":[
         "Banes"
+    ],
+    "name:tur_x_preferred":[
+        "Banes"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0646\u0632"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1210047119,
-    "wof:lastmodified":1564327352,
+    "wof:lastmodified":1636504806,
     "wof:name":"Banes",
     "wof:parent_id":1091903451,
     "wof:placetype":"locality",

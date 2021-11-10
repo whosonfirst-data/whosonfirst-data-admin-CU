@@ -25,6 +25,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d9\u05d1\u05e8"
+    ],
     "name:und_x_variant":[
         "Bol\u00edvar",
         "Ciudad Bol\u00edvar"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293603341,
-    "wof:lastmodified":1537619104,
+    "wof:lastmodified":1636504757,
     "wof:name":"Bolivar",
     "wof:parent_id":1091907969,
     "wof:placetype":"locality",

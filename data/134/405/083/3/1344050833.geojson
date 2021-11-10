@@ -56,7 +56,13 @@
         "Maya"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d9\u05d0\u05d1\u05e7"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d0\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u092f\u093e"
     ],
     "name:ind_x_preferred":[
         "Maya"
@@ -101,6 +107,9 @@
         "Maya"
     ],
     "name:swe_x_preferred":[
+        "Mayafloden"
+    ],
+    "name:swe_x_variant":[
         "Maya"
     ],
     "name:tat_x_preferred":[
@@ -115,7 +124,13 @@
     "name:und_x_variant":[
         "La Maya"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u06cc\u0627"
+    ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Maya"
+    ],
+    "name:vie_x_variant":[
         "Maya"
     ],
     "src:geom":"geonames",
@@ -141,7 +156,7 @@
         }
     ],
     "wof:id":1344050833,
-    "wof:lastmodified":1564326257,
+    "wof:lastmodified":1636504731,
     "wof:name":"Maya",
     "wof:parent_id":1091907633,
     "wof:placetype":"locality",

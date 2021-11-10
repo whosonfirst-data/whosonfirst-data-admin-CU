@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "La Esperanza"
     ],
+    "name:hun_x_preferred":[
+        "La Esperanza"
+    ],
     "name:ita_x_preferred":[
         "La Esperanza"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1326627263,
-    "wof:lastmodified":1564325927,
+    "wof:lastmodified":1636504708,
     "wof:name":"La Esperanza",
     "wof:parent_id":1091902603,
     "wof:placetype":"locality",

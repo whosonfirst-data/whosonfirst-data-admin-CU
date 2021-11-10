@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u063a\u0648\u0627 \u0644\u0627 \u063a\u0631\u0627\u0646\u062f\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u0997\u09c1\u09df\u09be \u09b2\u09be \u0997\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a6\u09c7"
+    ],
     "name:cat_x_preferred":[
         "Sagua La Grande"
     ],
@@ -24,6 +30,9 @@
     ],
     "name:deu_x_preferred":[
         "Sagua la Grande"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03b3\u03bf\u03c5\u03b1 \u03bb\u03b1 \u0393\u03ba\u03c1\u03ac\u03bd\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Sagua La Grande"
@@ -34,7 +43,13 @@
     "name:hat_x_preferred":[
         "Sagua la Grande"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0917\u0941\u0906 \u0932\u093e \u0917\u094d\u0930\u0948\u0902\u0921\u0947"
+    ],
     "name:hun_x_preferred":[
+        "Sagua la Grande"
+    ],
+    "name:ind_x_preferred":[
         "Sagua la Grande"
     ],
     "name:ita_x_preferred":[
@@ -45,6 +60,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10d2\u10e3\u10d0-\u10da\u10d0-\u10d2\u10e0\u10d0\u10dc\u10d3\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\uad6c\uc544 \ub77c \uadf8\ub780\ub370"
     ],
     "name:lit_x_preferred":[
         "Sagva La Grand\u0117"
@@ -85,6 +103,9 @@
     "name:swe_x_preferred":[
         "Municipio de Sagua la Grande"
     ],
+    "name:tur_x_preferred":[
+        "Sagua la Grande"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0433\u0443\u0430-\u043b\u0430-\u0413\u0440\u0430\u043d\u0434\u0435"
     ],
@@ -93,6 +114,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06af\u0627 \u0644\u0627 \u06af\u0631\u0627\u0646\u062f\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Sagua la Grande"
     ],
     "name:zho_x_preferred":[
         "\u5927\u85a9\u74dc"
@@ -224,7 +248,7 @@
         }
     ],
     "wof:id":890442077,
-    "wof:lastmodified":1563321546,
+    "wof:lastmodified":1636504865,
     "wof:name":"Sagua la Grande",
     "wof:parent_id":1091907545,
     "wof:placetype":"locality",

@@ -37,6 +37,12 @@
     "name:fra_x_preferred":[
         "Punto Fijo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d8\u05d5 \u05e4\u05d9\u05d7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Punto Fijo"
+    ],
     "name:ita_x_preferred":[
         "Punto Fijo"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1225921395,
-    "wof:lastmodified":1564328724,
+    "wof:lastmodified":1636504912,
     "wof:name":"Punto Fijo",
     "wof:parent_id":1091905117,
     "wof:placetype":"locality",

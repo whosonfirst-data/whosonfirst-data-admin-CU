@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Dolores"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05dc\u05d5\u05e8\u05e1"
+    ],
     "name:hun_x_preferred":[
         "Dolores"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1326902843,
-    "wof:lastmodified":1564325918,
+    "wof:lastmodified":1636504708,
     "wof:name":"Dolores",
     "wof:parent_id":1091903633,
     "wof:placetype":"locality",

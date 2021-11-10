@@ -43,6 +43,9 @@
     "name:glg_x_preferred":[
         "San Mateo"
     ],
+    "name:hun_x_preferred":[
+        "San Mateo"
+    ],
     "name:ilo_x_preferred":[
         "San Mateo"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1327467997,
-    "wof:lastmodified":1564325828,
+    "wof:lastmodified":1636504700,
     "wof:name":"San Mateo",
     "wof:parent_id":1091908039,
     "wof:placetype":"locality",

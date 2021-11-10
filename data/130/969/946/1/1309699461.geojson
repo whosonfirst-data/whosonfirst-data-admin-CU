@@ -34,8 +34,14 @@
     "name:glg_x_preferred":[
         "Canela"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u0948\u0928\u0947\u0932\u093e"
+    ],
     "name:ita_x_preferred":[
         "Canela"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30cd\u30e9"
     ],
     "name:kor_x_preferred":[
         "\uce74\ub12c\ub77c"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1309699461,
-    "wof:lastmodified":1564328065,
+    "wof:lastmodified":1636504859,
     "wof:name":"Canela",
     "wof:parent_id":1091907267,
     "wof:placetype":"locality",

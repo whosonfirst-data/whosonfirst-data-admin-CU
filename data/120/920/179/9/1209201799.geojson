@@ -34,6 +34,9 @@
     "name:eng_x_variant":[
         "Guatemala"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d0\u05d8\u05de\u05dc\u05d4"
+    ],
     "name:und_x_variant":[
         "Preston"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209201799,
-    "wof:lastmodified":1537619031,
+    "wof:lastmodified":1636504802,
     "wof:name":"Guatemala",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",

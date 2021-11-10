@@ -251,6 +251,9 @@
         "Jama\u00edka"
     ],
     "name:ita_x_preferred":[
+        "Giamaica "
+    ],
+    "name:ita_x_variant":[
         "Giamaica"
     ],
     "name:jam_x_preferred":[
@@ -649,7 +652,7 @@
         }
     ],
     "wof:id":421179081,
-    "wof:lastmodified":1564328117,
+    "wof:lastmodified":1636504864,
     "wof:name":"Jamaica",
     "wof:parent_id":1091907725,
     "wof:placetype":"locality",

@@ -58,6 +58,9 @@
     "name:hin_x_preferred":[
         "\u0928\u0941\u090f\u0935\u093e \u091c\u0947\u0930\u094b\u0928\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Nueva Gerona"
+    ],
     "name:ind_x_preferred":[
         "Nueva Gerona"
     ],
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":890442087,
-    "wof:lastmodified":1582379479,
+    "wof:lastmodified":1636504865,
     "wof:name":"Nueva Gerona",
     "wof:parent_id":1091906563,
     "wof:placetype":"locality",

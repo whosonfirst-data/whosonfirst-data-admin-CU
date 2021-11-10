@@ -44,6 +44,9 @@
         "Ascension"
     ],
     "name:jpn_x_preferred":[
+        "\u30a2\u30b5\u30f3\u30b7\u30aa\u30f3"
+    ],
+    "name:jpn_x_variant":[
         "\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3"
     ],
     "name:kor_x_preferred":[
@@ -56,6 +59,9 @@
         "Ascension"
     ],
     "name:pol_x_preferred":[
+        "Ascensi\u00f3n"
+    ],
+    "name:pol_x_variant":[
         "Ascension"
     ],
     "name:por_x_preferred":[
@@ -73,8 +79,17 @@
     "name:swe_x_preferred":[
         "Ascension"
     ],
+    "name:tur_x_preferred":[
+        "Ascension"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0441\u0441\u0435\u043d\u0441\u044c\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "La Asunci\u00f3n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u06cc\u0646\u0634\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -88,7 +103,7 @@
         "gn:id":3555434
     },
     "wof:country":"CU",
-    "wof:geomhash":"2f83ffd3dfb5e964803eeb92b7d1873b",
+    "wof:geomhash":"e95f7d1de3dab0f0bbd20e4904663b6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +114,7 @@
         }
     ],
     "wof:id":1259916211,
-    "wof:lastmodified":1564328510,
+    "wof:lastmodified":1636504897,
     "wof:name":"Ascension",
     "wof:parent_id":1091902795,
     "wof:placetype":"locality",
@@ -109,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.94388000000002,
+    -82.94388,
     22.81311,
-    -82.94388000000002,
+    -82.94388,
     22.81311
 ],
-  "geometry": {"coordinates":[-82.94388000000002,22.81311],"type":"Point"}
+  "geometry": {"coordinates":[-82.94387999999999,22.81311],"type":"Point"}
 }

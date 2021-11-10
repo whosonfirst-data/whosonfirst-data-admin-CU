@@ -71,6 +71,9 @@
         "Cienfuegos"
     ],
     "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d9\u05e0\u05e4\u05d5\u05d2\u05d5\u05e1"
+    ],
+    "name:heb_x_variant":[
         "\u05e1\u05d9\u05d9\u05e0\u05e4\u05d5\u05d0\u05d2\u05d5\u05e1"
     ],
     "name:hrv_x_preferred":[
@@ -178,7 +181,7 @@
         "gn:id":3564119
     },
     "wof:country":"CU",
-    "wof:geomhash":"ad580221e4460158e7862cfda9b25e5a",
+    "wof:geomhash":"d4a7c8ae798c6482a8d1cf0fd6e3b08a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1326521683,
-    "wof:lastmodified":1564325909,
+    "wof:lastmodified":1636504707,
     "wof:name":"Cienfuegos",
     "wof:parent_id":1091903905,
     "wof:placetype":"locality",
@@ -199,10 +202,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.92003000000003,
+    -78.92003,
     22.23432,
-    -78.92003000000003,
+    -78.92003,
     22.23432
 ],
-  "geometry": {"coordinates":[-78.92003000000003,22.23432],"type":"Point"}
+  "geometry": {"coordinates":[-78.92003,22.23432],"type":"Point"}
 }
