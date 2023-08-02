@@ -19,10 +19,22 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Mor\u00f3n"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b0\u09a8"
     ],
+    "name:cat_x_preferred":[
+        "Mor\u00f3n"
+    ],
     "name:ces_x_preferred":[
+        "Mor\u00f3n"
+    ],
+    "name:cym_x_preferred":[
         "Mor\u00f3n"
     ],
     "name:dan_x_preferred":[
@@ -37,10 +49,16 @@
     "name:eng_x_preferred":[
         "Mor\u00f3n"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Mor\u00f3n"
     ],
     "name:fra_x_preferred":[
+        "Mor\u00f3n"
+    ],
+    "name:gle_x_preferred":[
         "Mor\u00f3n"
     ],
     "name:guj_x_preferred":[
@@ -48,6 +66,9 @@
     ],
     "name:hat_x_preferred":[
         "Moron"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05d5\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0930\u094b\u0928"
@@ -129,6 +150,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Moron"
     ],
     "name:vie_x_preferred":[
         "Mor\u00f3n"
@@ -269,7 +293,7 @@
         }
     ],
     "wof:id":890442089,
-    "wof:lastmodified":1582379479,
+    "wof:lastmodified":1690868543,
     "wof:name":"Mor\u00f3n",
     "wof:parent_id":1091906525,
     "wof:placetype":"locality",

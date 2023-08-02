@@ -19,11 +19,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u062a\u0627\u0646\u0632\u0627\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u062a\u0627\u0646\u0632\u0627\u0633"
+    ],
     "name:ast_x_preferred":[
         "Matanzas"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0442\u0430\u043d\u0441\u0430\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u0442\u0430\u043d\u0441\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u099f\u09be\u09a8\u099c\u09be\u09b8"
@@ -73,6 +79,9 @@
     "name:fry_x_preferred":[
         "Matanzas"
     ],
+    "name:gle_x_preferred":[
+        "Matanzas"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0a9f\u0a82\u0a9d\u0ab8"
     ],
@@ -82,11 +91,17 @@
     "name:heb_x_preferred":[
         "\u05de\u05d8\u05e0\u05d6\u05d0\u05e1"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d8\u05d0\u05e0\u05e1\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u091f\u093e\u0928\u091c\u093c\u093e\u0938"
     ],
     "name:hun_x_preferred":[
         "Matanzas"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057f\u0561\u0576\u057d\u0561\u057d"
     ],
     "name:ind_x_preferred":[
         "Matanzas"
@@ -112,11 +127,17 @@
     "name:lit_x_preferred":[
         "Matansasas"
     ],
+    "name:ltz_x_preferred":[
+        "Matanzas"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u091f\u0928\u093e\u091d"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0442\u0430\u043d\u0441\u0430\u0441"
+    ],
+    "name:mlt_x_preferred":[
+        "Matanzas"
     ],
     "name:msa_x_preferred":[
         "Matanzas"
@@ -143,6 +164,9 @@
         "Matanzas"
     ],
     "name:por_x_preferred":[
+        "Matanzas"
+    ],
+    "name:que_x_preferred":[
         "Matanzas"
     ],
     "name:ron_x_preferred":[
@@ -178,6 +202,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbe\u0b9f\u0bbe\u0ba9\u0bcd\u0b9a\u0bbe\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u043d\u0441\u0430\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c1f\u0c3e\u0c02\u0c1c\u0c38\u0c4d"
     ],
@@ -195,6 +222,9 @@
     ],
     "name:uzb_x_preferred":[
         "Matansas"
+    ],
+    "name:vec_x_preferred":[
+        "Matanzas"
     ],
     "name:vie_x_preferred":[
         "Matanzas"
@@ -343,7 +373,7 @@
         }
     ],
     "wof:id":890442091,
-    "wof:lastmodified":1582379478,
+    "wof:lastmodified":1690868543,
     "wof:name":"Matanzas",
     "wof:parent_id":1091906273,
     "wof:placetype":"locality",

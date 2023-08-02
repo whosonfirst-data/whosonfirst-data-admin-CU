@@ -36,6 +36,9 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u0440\u043e\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Soroa"
+    ],
     "name:swe_x_preferred":[
         "Soroa"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890420151,
-    "wof:lastmodified":1563321545,
+    "wof:lastmodified":1690868542,
     "wof:name":"Soroa",
     "wof:parent_id":1091903705,
     "wof:placetype":"locality",

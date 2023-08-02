@@ -44,6 +44,9 @@
     "name:ben_x_preferred":[
         "\u0993\u09b2\u0997\u09c1\u0987\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u0993\u09b2\u0997\u09bf\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bre_x_preferred":[
         "Provi\u00f1s Holgu\u00edn"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:ces_x_preferred":[
         "Holgu\u00edn"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Holgu\u00edn"
     ],
     "name:dan_x_preferred":[
         "Holgu\u00edn Provinsen"
@@ -96,6 +102,9 @@
         "province de Holgu\u00edn"
     ],
     "name:fra_x_variant":[
+        "Holgu\u00edn"
+    ],
+    "name:frr_x_preferred":[
         "Holgu\u00edn"
     ],
     "name:glg_x_preferred":[
@@ -197,6 +206,9 @@
     "name:tam_x_preferred":[
         "\u0bb9\u0bca\u0bb2\u0bcd\u0b95\u0bc1\u0baf\u0bbf\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb9\u0bca\u0bb2\u0bcd\u0b95\u0bc1\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c4b\u0c32\u0c4d\u0c17\u0c4d\u0c35\u0c3f\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -226,6 +238,9 @@
     ],
     "name:war_x_preferred":[
         "Holgu\u00edn"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5965\u5c14\u91d1\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5965\u5c14\u91d1\u7701"
@@ -353,7 +368,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614893694,
+    "wof:lastmodified":1690868497,
     "wof:name":"Holguin",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

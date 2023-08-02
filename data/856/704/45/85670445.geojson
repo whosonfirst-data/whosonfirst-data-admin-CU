@@ -29,11 +29,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:aze_x_preferred":[
+        "Havana vilay\u0259ti"
+    ],
     "name:bre_x_preferred":[
         "Provi\u00f1s La Habana"
     ],
     "name:ceb_x_preferred":[
         "La Habana"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Havana"
     ],
     "name:dan_x_preferred":[
         "La Habana Provinsen"
@@ -256,7 +262,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1690868498,
     "wof:name":"Ciudad De La Habana",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

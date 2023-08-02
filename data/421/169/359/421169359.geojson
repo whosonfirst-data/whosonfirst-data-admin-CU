@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Municipio de Vi\u00f1ales"
     ],
+    "name:cym_x_preferred":[
+        "Vi\u00f1ales"
+    ],
     "name:dan_x_preferred":[
         "Vi\u00f1ales"
     ],
@@ -28,7 +31,13 @@
     "name:eng_x_preferred":[
         "Vi\u00f1ales"
     ],
+    "name:epo_x_preferred":[
+        "Vi\u00f1ales"
+    ],
     "name:fra_x_preferred":[
+        "Vi\u00f1ales"
+    ],
+    "name:gle_x_preferred":[
         "Vi\u00f1ales"
     ],
     "name:hat_x_preferred":[
@@ -39,6 +48,9 @@
     ],
     "name:ita_x_preferred":[
         "Vi\u00f1ales"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30cb\u30e3\u30fc\u30ec\u30b9"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10dc\u10d8\u10d0\u10da\u10d4\u10e1\u10d8"
@@ -60,6 +72,12 @@
     ],
     "name:swe_x_preferred":[
         "Municipio de Vi\u00f1ales"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043d\u044c\u044f\u043b\u0435\u0441"
+    ],
+    "name:uzb_x_preferred":[
+        "Vi\u00f1ales"
     ],
     "name:vie_x_preferred":[
         "Vi\u00f1ales"
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":421169359,
-    "wof:lastmodified":1563321488,
+    "wof:lastmodified":1690868525,
     "wof:name":"Vi\u00f1ales",
     "wof:parent_id":1091908691,
     "wof:placetype":"locality",

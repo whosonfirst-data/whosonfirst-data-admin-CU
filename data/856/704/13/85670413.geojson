@@ -44,8 +44,17 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442\u0438 \u0421\u043f\u0438\u0440\u0438\u0442\u0443\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Sancti Sp\u00edritus"
+    ],
     "name:ceb_x_preferred":[
         "Sancti Sp\u00edritus"
+    ],
+    "name:ces_x_preferred":[
+        "Sancti Sp\u00edritus"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Sancti Sp\u00edritus"
     ],
     "name:dan_x_preferred":[
         "Sancti Sp\u00edritus Provinsen"
@@ -65,6 +74,9 @@
     "name:epo_x_preferred":[
         "Sancti Sp\u00edritus"
     ],
+    "name:est_x_preferred":[
+        "Sancti Sp\u00edrituse provints"
+    ],
     "name:eus_x_preferred":[
         "Sancti Sp\u00edritusko probintzia"
     ],
@@ -81,6 +93,9 @@
         "province de Sancti Sp\u00edritus"
     ],
     "name:fra_x_variant":[
+        "Sancti Sp\u00edritus"
+    ],
+    "name:frr_x_preferred":[
         "Sancti Sp\u00edritus"
     ],
     "name:glg_x_preferred":[
@@ -100,6 +115,9 @@
     ],
     "name:hun_x_preferred":[
         "Sancti Sp\u00edritus"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u056f\u057f\u056b \u054d\u057a\u056b\u0580\u056b\u057f\u0578\u0582\u057d"
     ],
     "name:ind_x_preferred":[
         "Provinsi Sancti Sp\u00edritus"
@@ -185,6 +203,9 @@
     "name:tam_x_preferred":[
         "\u0bb8\u0ba8\u0bcd\u0b95\u0bcd\u0ba4\u0bbf  \u0bb8\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0bb8\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb8\u0ba8\u0bcd\u0b95\u0bcd\u0ba4\u0bbf \u0bb8\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0bb8\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c02\u0c15\u0c4d\u0c1f\u0c3f \u0c38\u0c4d\u0c2a\u0c3f\u0c30\u0c3f\u0c1f\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -196,6 +217,9 @@
     ],
     "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e31\u0e07\u0e01\u0e4c\u0e15\u0e34\u0e40\u0e2d\u0e2a\u0e1b\u0e34\u0e23\u0e34\u0e15\u0e38\u0e2a"
+    ],
+    "name:tum_x_preferred":[
+        "Chiga\u0175a cha Sancti Sp\u00edritus"
     ],
     "name:tur_x_preferred":[
         "Sancti Sp\u00edritus ili"
@@ -214,6 +238,9 @@
     ],
     "name:war_x_preferred":[
         "Sancti Sp\u00edritus"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u65af\u76ae\u91cc\u56fe\u65af\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5723\u65af\u76ae\u91cc\u56fe\u65af\u7701"
@@ -342,7 +369,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614893695,
+    "wof:lastmodified":1690868501,
     "wof:name":"Sancti Spiritus",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

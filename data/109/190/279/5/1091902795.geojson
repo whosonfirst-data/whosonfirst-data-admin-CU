@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0622\u0631\u062a\u0645\u064a\u0633\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0622\u0631\u062a\u0645\u064a\u0633\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Artemisa"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u099f\u09c7\u09ae\u09bf\u09b8\u09be"
     ],
@@ -40,6 +46,9 @@
         "Artemisa"
     ],
     "name:ceb_x_preferred":[
+        "Artemisa"
+    ],
+    "name:cym_x_preferred":[
         "Artemisa"
     ],
     "name:dan_x_preferred":[
@@ -54,10 +63,19 @@
     "name:eng_x_preferred":[
         "Artemisa"
     ],
+    "name:eus_x_preferred":[
+        "Artemisa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u062a\u0645\u06cc\u0633\u0627"
+    ],
     "name:fin_x_preferred":[
         "Artemisa"
     ],
     "name:fra_x_preferred":[
+        "Artemisa"
+    ],
+    "name:gle_x_preferred":[
         "Artemisa"
     ],
     "name:glg_x_preferred":[
@@ -74,6 +92,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0906\u0930\u094d\u091f\u0947\u092e\u093f\u0938\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Artemisa"
     ],
     "name:ind_x_preferred":[
         "Artemisa"
@@ -108,6 +129,9 @@
     "name:nld_x_preferred":[
         "Artemisa"
     ],
+    "name:nno_x_preferred":[
+        "Artemisa"
+    ],
     "name:nob_x_preferred":[
         "Artemisa"
     ],
@@ -116,6 +140,9 @@
     ],
     "name:por_x_preferred":[
         "Artemisa"
+    ],
+    "name:que_x_preferred":[
+        "Artemisa llaqta"
     ],
     "name:ron_x_preferred":[
         "Artemisa"
@@ -129,7 +156,13 @@
     "name:sin_x_preferred":[
         "\u0d85\u0dbb\u0dca\u0da7\u0dd9\u0db8\u0dd2\u0dc3\u0dcf"
     ],
+    "name:sme_x_preferred":[
+        "Artemisa"
+    ],
     "name:spa_x_preferred":[
+        "Artemisa"
+    ],
+    "name:sqi_x_preferred":[
         "Artemisa"
     ],
     "name:srp_x_preferred":[
@@ -137,6 +170,9 @@
     ],
     "name:swe_x_preferred":[
         "Municipio de Artemisa"
+    ],
+    "name:swe_x_variant":[
+        "Artemisa"
     ],
     "name:tam_x_preferred":[
         "\u0b86\u0bb0\u0bcd\u0b9f\u0bc7\u0bae\u0bbf\u0b9a\u0bbe"
@@ -159,6 +195,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0631\u0679\u06cc\u0645\u06cc\u0633\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Artemisa"
+    ],
     "name:vie_x_preferred":[
         "Artemisa"
     ],
@@ -167,6 +206,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u723e\u7279\u7c73\u85a9"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u7279\u7c73\u85a9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -204,7 +246,7 @@
         }
     ],
     "wof:id":1091902795,
-    "wof:lastmodified":1636504852,
+    "wof:lastmodified":1690868518,
     "wof:name":"Artemisa",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

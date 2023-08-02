@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.0280269793,22.8361371043,-82.0280269793,22.8361371043",
+    "geom:bbox":"-82.028027,22.836137,-82.028027,22.836137",
     "geom:latitude":22.836137,
     "geom:longitude":-82.028027,
     "iso:country":"CU",
@@ -17,7 +17,19 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062c\u0648\u064a\u0646\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u062c\u0648\u064a\u0646\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "G\u00fcines"
+    ],
     "name:bre_x_preferred":[
+        "G\u00fcines"
+    ],
+    "name:cat_x_preferred":[
+        "G\u00fcines"
+    ],
+    "name:cym_x_preferred":[
         "G\u00fcines"
     ],
     "name:dan_x_preferred":[
@@ -29,7 +41,13 @@
     "name:eng_x_preferred":[
         "G\u00fcines"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u06cc\u0646\u0632"
+    ],
     "name:fra_x_preferred":[
+        "G\u00fcines"
+    ],
+    "name:gle_x_preferred":[
         "G\u00fcines"
     ],
     "name:hat_x_preferred":[
@@ -88,6 +106,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u0648\u06cc\u0646\u06cc\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Guines"
     ],
     "name:vie_x_preferred":[
         "G\u00fcines"
@@ -203,7 +224,7 @@
     },
     "wof:country":"CU",
     "wof:created":1499130606,
-    "wof:geomhash":"d8032d0f670ffc159c73b2c3471217b8",
+    "wof:geomhash":"d3a2f6e9a77dad2bb8716fcee96ad28f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -214,7 +235,7 @@
         }
     ],
     "wof:id":1141906531,
-    "wof:lastmodified":1563322439,
+    "wof:lastmodified":1690868558,
     "wof:name":"Guines",
     "wof:parent_id":1091904955,
     "wof:placetype":"locality",
@@ -224,10 +245,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.02802697928183,
-    22.83613710427437,
-    -82.02802697928183,
-    22.83613710427437
+    -82.028027,
+    22.836137,
+    -82.028027,
+    22.836137
 ],
-  "geometry": {"coordinates":[-82.02802697928183,22.83613710427437],"type":"Point"}
+  "geometry": {"coordinates":[-82.02802699999999,22.836137],"type":"Point"}
 }

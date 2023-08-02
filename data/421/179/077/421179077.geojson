@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Yaguajay"
+    ],
     "name:cat_x_preferred":[
         "Yaguajay"
     ],
@@ -67,11 +70,17 @@
     "name:urd_x_variant":[
         "\u06cc\u06af\u0627\u062c\u06d2"
     ],
+    "name:uzb_x_preferred":[
+        "Yaguajay"
+    ],
     "name:vie_x_preferred":[
         "Yaguajay"
     ],
     "name:zho_x_preferred":[
         "\u4e9e\u74dc\u6d77"
+    ],
+    "name:zho_x_variant":[
+        "\u4e9e\u74dc\u54c8\u4f0a"
     ],
     "qs:gn_country":"CU",
     "qs:gn_fcode":"PPL",
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":421179077,
-    "wof:lastmodified":1563321519,
+    "wof:lastmodified":1690868535,
     "wof:name":"Yaguajay",
     "wof:parent_id":1091908735,
     "wof:placetype":"locality",

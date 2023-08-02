@@ -15,10 +15,19 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:arz_x_preferred":[
+        "\u0634\u0637 \u062c\u064a\u0631\u0648\u0646"
+    ],
     "name:aze_x_preferred":[
         "Playa Giron"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u043b\u0430\u044f-\u0425\u0456\u0440\u043e\u043d"
+    ],
     "name:cat_x_preferred":[
+        "Playa Gir\u00f3n"
+    ],
+    "name:ceb_x_preferred":[
         "Playa Gir\u00f3n"
     ],
     "name:deu_x_preferred":[
@@ -28,6 +37,9 @@
         "Playa Gir\u00f3n"
     ],
     "name:epo_x_preferred":[
+        "Playa Gir\u00f3n"
+    ],
+    "name:eus_x_preferred":[
         "Playa Gir\u00f3n"
     ],
     "name:fra_x_preferred":[
@@ -50,6 +62,12 @@
     ],
     "name:spa_x_preferred":[
         "Playa Gir\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Playa Gir\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u9686\u6ee9"
     ],
     "qs:name":"Playa Gir\u00f3n",
     "qs:photos_9r":0,
@@ -86,7 +104,7 @@
         }
     ],
     "wof:id":890431409,
-    "wof:lastmodified":1563321532,
+    "wof:lastmodified":1690868538,
     "wof:name":"Playa Gir\u00f3n",
     "wof:parent_id":1091903987,
     "wof:placetype":"locality",

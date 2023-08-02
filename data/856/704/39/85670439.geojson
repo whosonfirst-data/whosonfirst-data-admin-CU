@@ -56,6 +56,12 @@
     "name:ceb_x_preferred":[
         "Las Tunas"
     ],
+    "name:ces_x_preferred":[
+        "Las Tunas"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Las Tunas"
+    ],
     "name:dan_x_preferred":[
         "Las Tunas Provinsen"
     ],
@@ -74,6 +80,9 @@
     "name:epo_x_preferred":[
         "Las Tunas"
     ],
+    "name:est_x_preferred":[
+        "Las Tunase provints"
+    ],
     "name:eus_x_preferred":[
         "Las Tunasko probintzia"
     ],
@@ -87,6 +96,9 @@
         "province de Las Tunas"
     ],
     "name:fra_x_variant":[
+        "Las Tunas"
+    ],
+    "name:frr_x_preferred":[
         "Las Tunas"
     ],
     "name:glg_x_preferred":[
@@ -188,6 +200,9 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bbe\u0bb8\u0bcd  \u0b9f\u0bc1\u0ba9\u0bbe\u0bb8\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb2\u0bbe\u0bb8\u0bcd \u0b9f\u0bc1\u0ba9\u0bbe\u0bb8\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c38\u0c4d \u0c1f\u0c42\u0c28\u0c3e\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -199,6 +214,9 @@
     ],
     "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e25\u0e31\u0e2a\u0e15\u0e39\u0e19\u0e31\u0e2a"
+    ],
+    "name:tum_x_preferred":[
+        "Chiga\u0175a cha Las Tunas"
     ],
     "name:tur_x_preferred":[
         "Las Tunas ili"
@@ -341,7 +359,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636504738,
+    "wof:lastmodified":1690868499,
     "wof:name":"Las Tunas",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

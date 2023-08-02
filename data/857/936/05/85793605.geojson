@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:cym_x_preferred":[
+        "Playa"
+    ],
     "name:deu_x_preferred":[
         "Playa"
     ],
@@ -32,6 +35,9 @@
         "Playa"
     ],
     "name:fra_x_preferred":[
+        "Playa"
+    ],
+    "name:gle_x_preferred":[
         "Playa"
     ],
     "name:hat_x_preferred":[
@@ -56,6 +62,12 @@
         "Playa",
         "Playa de Marianao",
         "Reparto la Playa"
+    ],
+    "name:swe_x_preferred":[
+        "Playa"
+    ],
+    "name:tum_x_preferred":[
+        "Playa"
     ],
     "name:tur_x_preferred":[
         "Playa"
@@ -125,7 +137,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582379454,
+    "wof:lastmodified":1690868495,
     "wof:name":"La Playa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -22,7 +22,13 @@
     "name:ara_x_preferred":[
         "\u0641\u0646\u0632\u0648\u064a\u0644\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09c7\u09a8\u09c7\u099c\u09c1\u09af\u09bc\u09c7\u09b2\u09be"
+    ],
     "name:ceb_x_preferred":[
+        "Venezuela"
+    ],
+    "name:cym_x_preferred":[
         "Venezuela"
     ],
     "name:deu_x_preferred":[
@@ -40,8 +46,14 @@
     "name:fra_x_preferred":[
         "Venezuela"
     ],
+    "name:gle_x_preferred":[
+        "Venezuela"
+    ],
     "name:ita_x_preferred":[
         "Venezuela"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30cd\u30b9\u30a8\u30e9"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d4\u10dc\u10d4\u10e1\u10e3\u10d4\u10da\u10d0"
@@ -60,6 +72,9 @@
     ],
     "name:unk_x_variant":[
         "Stewart"
+    ],
+    "name:uzb_x_preferred":[
+        "Venezuela"
     ],
     "name:vie_x_preferred":[
         "Venezuela"
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":1125835431,
-    "wof:lastmodified":1563321586,
+    "wof:lastmodified":1690868554,
     "wof:name":"Venezuela",
     "wof:parent_id":1091908603,
     "wof:placetype":"locality",

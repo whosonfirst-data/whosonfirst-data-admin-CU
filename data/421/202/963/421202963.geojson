@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Municipio de Fomento"
     ],
+    "name:cym_x_preferred":[
+        "Fomento"
+    ],
     "name:deu_x_preferred":[
         "Fomento"
     ],
@@ -25,11 +28,17 @@
     "name:fra_x_preferred":[
         "Fomento"
     ],
+    "name:gle_x_preferred":[
+        "Fomento"
+    ],
     "name:hat_x_preferred":[
         "Fomento"
     ],
     "name:ita_x_preferred":[
         "Fomento"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30e1\u30f3\u30c8"
     ],
     "name:kat_x_preferred":[
         "\u10e4\u10dd\u10db\u10d4\u10dc\u10e2\u10dd"
@@ -48,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Municipio de Fomento"
+    ],
+    "name:uzb_x_preferred":[
+        "Fomento"
     ],
     "name:vie_x_preferred":[
         "Fomento"
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":421202963,
-    "wof:lastmodified":1561766480,
+    "wof:lastmodified":1690868526,
     "wof:name":"Fomento",
     "wof:parent_id":1091904623,
     "wof:placetype":"locality",

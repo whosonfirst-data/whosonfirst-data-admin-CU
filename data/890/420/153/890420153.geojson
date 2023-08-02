@@ -21,6 +21,9 @@
     "name:ceb_x_preferred":[
         "Alamar"
     ],
+    "name:deu_x_preferred":[
+        "Alamar"
+    ],
     "name:eng_x_preferred":[
         "Alamar"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890420153,
-    "wof:lastmodified":1563321545,
+    "wof:lastmodified":1690868542,
     "wof:name":"Alamar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

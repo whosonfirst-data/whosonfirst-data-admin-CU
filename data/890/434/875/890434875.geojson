@@ -15,6 +15,9 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Bejucal"
+    ],
     "name:cat_x_preferred":[
         "Bejucal"
     ],
@@ -30,7 +33,13 @@
     "name:eng_x_preferred":[
         "Bejucal"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0698\u0648\u06a9\u0627\u0644"
+    ],
     "name:fra_x_preferred":[
+        "Bejucal"
+    ],
+    "name:gle_x_preferred":[
         "Bejucal"
     ],
     "name:glg_x_preferred":[
@@ -38,6 +47,9 @@
     ],
     "name:hat_x_preferred":[
         "Bejucal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d7\u05d5\u05e7\u05dc"
     ],
     "name:ita_x_preferred":[
         "Bejucal"
@@ -74,6 +86,9 @@
     ],
     "name:unk_x_variant":[
         "Bejucall"
+    ],
+    "name:uzb_x_preferred":[
+        "Bejukal"
     ],
     "name:vie_x_preferred":[
         "Bejucal"
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":890434875,
-    "wof:lastmodified":1563321557,
+    "wof:lastmodified":1690868546,
     "wof:name":"Bejucal",
     "wof:parent_id":1091903147,
     "wof:placetype":"locality",

@@ -47,6 +47,15 @@
     "name:fra_x_variant":[
         "Habana del Este"
     ],
+    "name:gle_x_preferred":[
+        "Habana del Este"
+    ],
+    "name:hat_x_preferred":[
+        "Habana del Este"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05d5\u05d0\u05e0\u05d4 \u05d3\u05dc \u05d0\u05e1\u05d8\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Habana del Este"
     ],
@@ -67,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Habana del Este"
+    ],
+    "name:tum_x_preferred":[
+        "La Habana del Este"
     ],
     "name:unk_x_variant":[
         "La Habana del Este",
@@ -161,7 +173,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582379454,
+    "wof:lastmodified":1690868496,
     "wof:name":"Habana del Este",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

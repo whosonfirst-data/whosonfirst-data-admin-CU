@@ -21,6 +21,9 @@
     "name:ceb_x_preferred":[
         "Boyeros"
     ],
+    "name:cym_x_preferred":[
+        "Boyeros"
+    ],
     "name:deu_x_preferred":[
         "Boyeros"
     ],
@@ -30,11 +33,17 @@
     "name:fra_x_preferred":[
         "Boyeros"
     ],
+    "name:gle_x_preferred":[
+        "Boyeros"
+    ],
     "name:hat_x_preferred":[
         "Boyeros"
     ],
     "name:hun_x_preferred":[
         "Boyeros"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0575\u0565\u0580\u0578\u057d"
     ],
     "name:ita_x_preferred":[
         "Boyeros"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":890424167,
-    "wof:lastmodified":1563321530,
+    "wof:lastmodified":1690868537,
     "wof:name":"Boyeros",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

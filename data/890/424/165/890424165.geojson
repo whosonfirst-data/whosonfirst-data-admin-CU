@@ -30,6 +30,9 @@
     "name:fra_x_preferred":[
         "Arroyo Naranjo"
     ],
+    "name:gle_x_preferred":[
+        "Arroyo Naranjo"
+    ],
     "name:ita_x_preferred":[
         "Arroyo Naranjo"
     ],
@@ -43,6 +46,9 @@
         "Arroyo Naranjo"
     ],
     "name:spa_x_preferred":[
+        "Arroyo Naranjo"
+    ],
+    "name:swe_x_preferred":[
         "Arroyo Naranjo"
     ],
     "name:vie_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890424165,
-    "wof:lastmodified":1563321531,
+    "wof:lastmodified":1690868537,
     "wof:name":"Arroyo Naranjo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

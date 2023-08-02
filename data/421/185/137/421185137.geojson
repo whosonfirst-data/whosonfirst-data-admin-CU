@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Diezmero"
     ],
+    "name:spa_x_preferred":[
+        "Diezmero"
+    ],
     "qs:gn_country":"CU",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":3562426,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421185137,
-    "wof:lastmodified":1563321527,
+    "wof:lastmodified":1690868536,
     "wof:name":"Diezmero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

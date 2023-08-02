@@ -13,13 +13,31 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "B\u00e1guanos"
+    ],
+    "name:cat_x_preferred":[
+        "Baguanos"
+    ],
     "name:ceb_x_preferred":[
+        "B\u00e1guanos"
+    ],
+    "name:cym_x_preferred":[
         "B\u00e1guanos"
     ],
     "name:eng_x_preferred":[
         "B\u00e1guanos"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06af\u0648\u0627\u0646\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
+        "B\u00e1guanos"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e1guanos"
+    ],
+    "name:hat_x_preferred":[
         "B\u00e1guanos"
     ],
     "name:ita_x_preferred":[
@@ -39,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "B\u00e1guanos"
+    ],
+    "name:uzb_x_preferred":[
+        "Baguanos"
     ],
     "name:vie_x_preferred":[
         "B\u00e1guanos"
@@ -96,7 +117,7 @@
         }
     ],
     "wof:id":421198423,
-    "wof:lastmodified":1561766481,
+    "wof:lastmodified":1690868530,
     "wof:name":"B\u00e1guanos",
     "wof:parent_id":1091902841,
     "wof:placetype":"locality",

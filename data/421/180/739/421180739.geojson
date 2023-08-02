@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Santa Cruz del Norte"
     ],
+    "name:gle_x_preferred":[
+        "Santa Cruz del Norte"
+    ],
     "name:hat_x_preferred":[
         "Santa Cruz del Norte"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Santa Cruz del Norte"
     ],
     "name:vie_x_preferred":[
         "Santa Cruz del Norte"
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421180739,
-    "wof:lastmodified":1563321494,
+    "wof:lastmodified":1690868528,
     "wof:name":"Santa Cruz del Norte",
     "wof:parent_id":1091908039,
     "wof:placetype":"locality",
