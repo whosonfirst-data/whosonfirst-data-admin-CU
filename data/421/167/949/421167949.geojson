@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Quemado de G\u00fcines"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u062f\u0648 \u062f \u06af\u0648\u06cc\u0646\u0632"
+    ],
     "name:fra_x_preferred":[
         "Quemado de G\u00fcines"
     ],
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421167949,
-    "wof:lastmodified":1563321487,
+    "wof:lastmodified":1690868525,
     "wof:name":"Quemado de G\u00fcines",
     "wof:parent_id":1091907209,
     "wof:placetype":"locality",

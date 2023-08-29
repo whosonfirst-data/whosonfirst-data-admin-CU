@@ -15,6 +15,12 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Abreus"
+    ],
+    "name:cym_x_preferred":[
+        "Abreus"
+    ],
     "name:deu_x_preferred":[
         "Abreus"
     ],
@@ -28,6 +34,9 @@
         "\u0627\u0628\u0631\u0648\u0633"
     ],
     "name:fra_x_preferred":[
+        "Abreus"
+    ],
+    "name:gle_x_preferred":[
         "Abreus"
     ],
     "name:hat_x_preferred":[
@@ -60,8 +69,14 @@
     "name:swe_x_preferred":[
         "Municipio de Abreus"
     ],
+    "name:tum_x_preferred":[
+        "Abreus"
+    ],
     "name:unk_x_variant":[
         "Abreu"
+    ],
+    "name:uzb_x_preferred":[
+        "Abreus"
     ],
     "name:vie_x_preferred":[
         "Abreus"
@@ -105,7 +120,7 @@
         }
     ],
     "wof:id":890444819,
-    "wof:lastmodified":1563321538,
+    "wof:lastmodified":1690868539,
     "wof:name":"Abreus",
     "wof:parent_id":1091902555,
     "wof:placetype":"locality",

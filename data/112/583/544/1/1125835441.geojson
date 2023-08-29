@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Primero de Enero"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0645\u0631\u0648 \u062f \u0627\u0646\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
         "Primero de Enero"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ita_x_preferred":[
         "Primero de Enero"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30e1\u30ed\u30fb\u30c7\u30fb\u30a8\u30cd\u30ed"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10e0\u10d8\u10db\u10d4\u10e0\u10dd-\u10d3\u10d4-\u10d4\u10dc\u10d4\u10e0\u10dd"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125835441,
-    "wof:lastmodified":1561766487,
+    "wof:lastmodified":1690868554,
     "wof:name":"Primero de Enero",
     "wof:parent_id":1091907167,
     "wof:placetype":"locality",

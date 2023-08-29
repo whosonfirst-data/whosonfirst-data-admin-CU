@@ -15,13 +15,22 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Santa Cruz del Sur"
+    ],
     "name:deu_x_preferred":[
         "Santa Cruz del Sur"
     ],
     "name:eng_x_preferred":[
         "Santa Cruz del Sur"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632 \u062f\u0644 \u0633\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
+        "Santa Cruz del Sur"
+    ],
+    "name:gle_x_preferred":[
         "Santa Cruz del Sur"
     ],
     "name:ita_x_preferred":[
@@ -56,6 +65,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632 \u062c\u0646\u0648\u0628\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Santa Cruz del Sur"
     ],
     "name:vie_x_preferred":[
         "Santa Cruz del Sur"
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":890434853,
-    "wof:lastmodified":1563321566,
+    "wof:lastmodified":1690868550,
     "wof:name":"Santa Cruz del Sur",
     "wof:parent_id":1091908085,
     "wof:placetype":"locality",

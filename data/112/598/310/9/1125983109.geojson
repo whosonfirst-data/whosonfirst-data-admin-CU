@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0627\u063a\u0648\u0627\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0645\u0627\u062c\u0648\u0627\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Camag\u00fcey"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043c\u0430\u0433\u0443\u044d\u0439"
     ],
@@ -169,6 +175,9 @@
     "name:oci_x_preferred":[
         "Camag\u00fcey"
     ],
+    "name:oss_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u0433\u0443\u044d\u0439"
+    ],
     "name:pol_x_preferred":[
         "Camag\u00fcey"
     ],
@@ -202,6 +211,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bc7\u0bae\u0bbe\u0b95\u0bc1\u0baf\u0bc6\u0baf\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u0433\u0432\u0435\u0439"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c2e\u0c47\u0c17\u0c41\u0c2f\u0c3f"
     ],
@@ -210,6 +222,9 @@
     ],
     "name:tha_x_variant":[
         "\u0e01\u0e32\u0e21\u0e32\u0e40\u0e01\u0e27\u0e22\u0e4c"
+    ],
+    "name:tum_x_preferred":[
+        "Camag\u00fcey"
     ],
     "name:tur_x_preferred":[
         "Camag\u00fcey"
@@ -225,6 +240,9 @@
     ],
     "name:uzb_x_preferred":[
         "Kamaguey"
+    ],
+    "name:vec_x_preferred":[
+        "Camag\u00fcey"
     ],
     "name:vie_x_preferred":[
         "Camag\u00fcey"
@@ -280,7 +298,7 @@
         }
     ],
     "wof:id":1125983109,
-    "wof:lastmodified":1563321578,
+    "wof:lastmodified":1690868553,
     "wof:name":"Camag\u00fcey",
     "wof:parent_id":1091903577,
     "wof:placetype":"locality",

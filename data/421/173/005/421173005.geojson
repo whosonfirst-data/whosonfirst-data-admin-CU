@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "San Miguel del Padr\u00f3n"
     ],
+    "name:gle_x_preferred":[
+        "San Miguel del Padr\u00f3n"
+    ],
     "name:hat_x_preferred":[
         "San Miguel del Padr\u00f3n"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421173005,
-    "wof:lastmodified":1563321495,
+    "wof:lastmodified":1690868529,
     "wof:name":"San Miguel del Padr\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

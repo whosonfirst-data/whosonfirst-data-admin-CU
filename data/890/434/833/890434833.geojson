@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Mart\u00ed"
     ],
+    "name:cym_x_preferred":[
+        "Mart\u00ed"
+    ],
     "name:deu_x_preferred":[
         "Mart\u00ed"
     ],
@@ -25,6 +28,9 @@
         "Mart\u00ed"
     ],
     "name:fra_x_preferred":[
+        "Mart\u00ed"
+    ],
+    "name:gle_x_preferred":[
         "Mart\u00ed"
     ],
     "name:ita_x_preferred":[
@@ -62,6 +68,9 @@
     ],
     "name:unk_x_variant":[
         "Hato Nuevo"
+    ],
+    "name:uzb_x_preferred":[
+        "Marti"
     ],
     "name:vie_x_preferred":[
         "Mart\u00ed"
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":890434833,
-    "wof:lastmodified":1563321560,
+    "wof:lastmodified":1690868548,
     "wof:name":"Mart\u00ed",
     "wof:parent_id":1091906225,
     "wof:placetype":"locality",

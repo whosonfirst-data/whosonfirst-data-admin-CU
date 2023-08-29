@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-78.7619472674,21.8399963572,-78.7619472674,21.8399963572",
+    "geom:bbox":"-78.761947,21.839996,-78.761947,21.839996",
     "geom:latitude":21.839996,
     "geom:longitude":-78.761947,
     "iso:country":"CU",
@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0633\u064a\u064a\u063a\u0648 \u062f\u064a \u0627\u0641\u064a\u0644\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u064a\u062c\u0648 \u062f\u0649 \u0627\u0641\u064a\u0644\u0627"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09af\u09bc\u09c7\u0997\u09cb \u09a6\u09c7 \u0986\u09ad\u09bf\u09b2\u09be"
@@ -58,6 +61,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u090f\u0917\u094b  \u0921\u0940 \u0905\u0935\u093f\u0932\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u0938\u093f\u090f\u0917\u094b \u0921\u0940 \u0905\u0935\u093f\u0932\u093e"
     ],
     "name:ind_x_preferred":[
         "Ciego de \u00c1vila"
@@ -131,6 +137,12 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0b8e\u0b95\u0bcb  \u0b9f\u0bc7  \u0b85\u0bb5\u0bbf\u0bb2\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bbf\u0b8e\u0b95\u0bcb \u0b9f\u0bc7 \u0b85\u0bb5\u0bbf\u0bb2\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u044c\u0435\u0433\u043e-\u0434\u0435-\u0410\u0432\u0438\u043b\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3f\u0c2f\u0c46\u0c17\u0c4b \u0c21\u0c3f \u0c06\u0c35\u0c3f\u0c32\u0c3e"
     ],
@@ -157,6 +169,9 @@
     ],
     "name:war_x_preferred":[
         "Ciego de \u00c1vila"
+    ],
+    "name:yue_x_preferred":[
+        "\u820d\u5495\u57e0"
     ],
     "name:zho_x_preferred":[
         "\u8b1d\u6208\u5fb7\u963f\u7dad\u62c9"
@@ -269,7 +284,7 @@
     },
     "wof:country":"CU",
     "wof:created":1499130605,
-    "wof:geomhash":"cae418d1a3112c98983a95583ea8231d",
+    "wof:geomhash":"cd167fe51b918e2b6cbbc938cc4c1185",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -280,7 +295,7 @@
         }
     ],
     "wof:id":1141906521,
-    "wof:lastmodified":1563322438,
+    "wof:lastmodified":1690868558,
     "wof:name":"Ciego de Avila",
     "wof:parent_id":1091903947,
     "wof:placetype":"locality",
@@ -290,10 +305,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.76194726735469,
-    21.83999635720016,
-    -78.76194726735469,
-    21.83999635720016
+    -78.761947,
+    21.839996,
+    -78.761947,
+    21.839996
 ],
-  "geometry": {"coordinates":[-78.76194726735469,21.83999635720016],"type":"Point"}
+  "geometry": {"coordinates":[-78.76194700000001,21.839996],"type":"Point"}
 }

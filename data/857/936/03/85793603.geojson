@@ -47,6 +47,9 @@
     "name:deu_x_preferred":[
         "La Habana Vieja"
     ],
+    "name:deu_x_variant":[
+        "Alt-Havanna"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03bb\u03b9\u03ac \u0391\u03b2\u03ac\u03bd\u03b1"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:epo_x_preferred":[
         "Malnova Havano"
+    ],
+    "name:est_x_preferred":[
+        "Havanna vanalinn"
     ],
     "name:eus_x_preferred":[
         "Habana Zaharra"
@@ -65,11 +71,26 @@
     "name:fra_x_preferred":[
         "La Habana Vieja"
     ],
+    "name:gle_x_preferred":[
+        "Sean-Hav\u00e1na"
+    ],
+    "name:glg_x_preferred":[
+        "A Habana vella"
+    ],
+    "name:hat_x_preferred":[
+        "La Habana Vieja"
+    ],
+    "name:hau_x_preferred":[
+        "Tsohuwar Havana"
+    ],
     "name:hrv_x_preferred":[
         "Stara Havana"
     ],
     "name:hun_x_preferred":[
         "Torrelavega"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u056b\u0576 \u0540\u0561\u057e\u0561\u0576\u0561"
     ],
     "name:ind_x_preferred":[
         "Havana Lama"
@@ -92,6 +113,9 @@
     "name:mal_x_preferred":[
         "\u0d13\u0d7e\u0d21\u0d4d \u0d39\u0d35\u0d3e\u0d28"
     ],
+    "name:mlt_x_preferred":[
+        "\u0126avana Antika"
+    ],
     "name:mya_x_preferred":[
         "\u101f\u102c\u1017\u102c\u1038\u1014\u102c\u1038\u1019\u103c\u102d\u102f\u1037\u101f\u1031\u102c\u1004\u103a\u1038"
     ],
@@ -112,6 +136,9 @@
     ],
     "name:spa_x_preferred":[
         "La Habana Vieja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0445\u0430\u0432\u0430\u043d\u0430"
     ],
     "name:swe_x_preferred":[
         "Gamla Havanna"
@@ -194,7 +221,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582379452,
+    "wof:lastmodified":1690868495,
     "wof:name":"La Habana Vieja",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

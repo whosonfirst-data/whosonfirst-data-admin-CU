@@ -38,6 +38,9 @@
     "name:ita_x_preferred":[
         "Miramar"
     ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e9\u30de\u30fc\u30eb"
+    ],
     "name:nld_x_preferred":[
         "Miramar"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1126068059,
-    "wof:lastmodified":1563321579,
+    "wof:lastmodified":1690868553,
     "wof:name":"Miramar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

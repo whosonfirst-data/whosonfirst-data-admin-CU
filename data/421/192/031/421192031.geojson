@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Municipio de Marianao"
     ],
+    "name:cym_x_preferred":[
+        "Marianao"
+    ],
     "name:deu_x_preferred":[
         "Marianao"
     ],
@@ -28,7 +31,16 @@
     "name:epo_x_preferred":[
         "Marianao"
     ],
+    "name:eus_x_preferred":[
+        "Marianao"
+    ],
     "name:fra_x_preferred":[
+        "Marianao"
+    ],
+    "name:gle_x_preferred":[
+        "Marianao"
+    ],
+    "name:hat_x_preferred":[
         "Marianao"
     ],
     "name:heb_x_preferred":[
@@ -61,6 +73,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0430\u043d\u0430\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u0440\u044c\u044f\u043d\u0430\u043e"
+    ],
     "name:sco_x_preferred":[
         "Marianao"
     ],
@@ -70,8 +85,14 @@
     "name:swe_x_preferred":[
         "Municipio de Marianao"
     ],
+    "name:tum_x_preferred":[
+        "Marianao"
+    ],
     "name:tur_x_preferred":[
         "Marianao"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0456\u0430\u043d\u0430\u043e"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u91cc\u4e9e\u7459"
@@ -123,7 +144,7 @@
         }
     ],
     "wof:id":421192031,
-    "wof:lastmodified":1563321483,
+    "wof:lastmodified":1690868524,
     "wof:name":"Marianao",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

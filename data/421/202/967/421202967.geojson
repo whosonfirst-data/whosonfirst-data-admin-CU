@@ -16,8 +16,17 @@
     "name:cat_x_preferred":[
         "Guanabacoa"
     ],
+    "name:ces_x_preferred":[
+        "Guanabacoa"
+    ],
+    "name:cym_x_preferred":[
+        "Guanabacoa"
+    ],
     "name:deu_x_preferred":[
         "Guanabacoa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03b1\u03bd\u03b1\u03bc\u03c0\u03b1\u03ba\u03cc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Guanabacoa"
@@ -29,6 +38,12 @@
         "\u06af\u0648\u0627\u0646\u0627\u0628\u0627\u06a9\u0648\u0626\u0627"
     ],
     "name:fra_x_preferred":[
+        "Guanabacoa"
+    ],
+    "name:gle_x_preferred":[
+        "Guanabacoa"
+    ],
+    "name:hat_x_preferred":[
         "Guanabacoa"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +59,12 @@
         "Guanabacoa"
     ],
     "name:por_x_preferred":[
+        "Guanabacoa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u0430\u0431\u0430\u043a\u043e\u0430"
+    ],
+    "name:slk_x_preferred":[
         "Guanabacoa"
     ],
     "name:spa_x_preferred":[
@@ -100,7 +121,7 @@
         }
     ],
     "wof:id":421202967,
-    "wof:lastmodified":1563321492,
+    "wof:lastmodified":1690868527,
     "wof:name":"Guanabacoa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

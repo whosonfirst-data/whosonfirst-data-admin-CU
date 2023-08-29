@@ -19,10 +19,19 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u064a\u0641\u064a\u062a\u0627\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Nuevitas"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u09df\u09c7\u09ad\u09bf\u09a4\u09be\u09b8"
     ],
     "name:cat_x_preferred":[
+        "Nuevitas"
+    ],
+    "name:ces_x_preferred":[
+        "Neuvitas"
+    ],
+    "name:cym_x_preferred":[
         "Nuevitas"
     ],
     "name:deu_x_preferred":[
@@ -37,7 +46,13 @@
     "name:epo_x_preferred":[
         "Nuevitas"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u06cc\u062a\u0627\u0632"
+    ],
     "name:fra_x_preferred":[
+        "Nuevitas"
+    ],
+    "name:gle_x_preferred":[
         "Nuevitas"
     ],
     "name:heb_x_preferred":[
@@ -48,6 +63,9 @@
     ],
     "name:hun_x_preferred":[
         "Nuevitas"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0582\u0587\u056b\u057f\u0561\u057d"
     ],
     "name:ind_x_preferred":[
         "Nuevitas"
@@ -88,6 +106,9 @@
     "name:swe_x_preferred":[
         "Municipio de Nuevitas"
     ],
+    "name:tum_x_preferred":[
+        "Nuevitas"
+    ],
     "name:tur_x_preferred":[
         "Nuevitas"
     ],
@@ -96,6 +117,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0648\u0648\u062a\u0627\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Nuevitas"
     ],
     "name:vie_x_preferred":[
         "Nuevitas"
@@ -230,7 +254,7 @@
         }
     ],
     "wof:id":890442085,
-    "wof:lastmodified":1636504865,
+    "wof:lastmodified":1690868543,
     "wof:name":"Nuevitas",
     "wof:parent_id":1091906765,
     "wof:placetype":"locality",

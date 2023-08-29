@@ -21,11 +21,20 @@
     "name:ara_x_variant":[
         "\u0641\u0644\u0648\u0631\u064a\u062f\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0644\u0648\u0631\u064a\u062f\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Florida"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b2\u09cb\u09b0\u09bf\u09a1\u09be"
     ],
     "name:ben_x_variant":[
         "\u09ab\u09cd\u09b2\u09cb\u09b0\u09bf\u09a6\u09be"
+    ],
+    "name:cym_x_preferred":[
+        "Florida"
     ],
     "name:dan_x_preferred":[
         "Florida"
@@ -36,16 +45,25 @@
     "name:ell_x_preferred":[
         "\u03a6\u03bb\u03cc\u03c1\u03b9\u03bd\u03c4\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u03a6\u03bb\u03cc\u03c1\u03b9\u03b4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Florida"
     ],
     "name:epo_x_preferred":[
         "Florida"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0644\u0648\u0631\u06cc\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Florida"
     ],
     "name:fra_x_preferred":[
+        "Florida"
+    ],
+    "name:gle_x_preferred":[
         "Florida"
     ],
     "name:guj_x_preferred":[
@@ -117,6 +135,9 @@
     "name:swe_x_preferred":[
         "Municipio de Florida"
     ],
+    "name:szl_x_preferred":[
+        "Florida"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0bb3\u0bcb\u0bb0\u0bbf\u0b9f\u0bbe"
     ],
@@ -125,6 +146,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1f\u0e25\u0e2d\u0e23\u0e34\u0e14\u0e32"
+    ],
+    "name:tum_x_preferred":[
+        "Florida"
     ],
     "name:tur_x_preferred":[
         "Florida"
@@ -137,6 +161,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0641\u0644\u0648\u0631\u06cc\u0688\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Florida"
     ],
     "name:vie_x_preferred":[
         "Florida"
@@ -177,7 +204,7 @@
         }
     ],
     "wof:id":890434873,
-    "wof:lastmodified":1636504865,
+    "wof:lastmodified":1690868546,
     "wof:name":"Florida",
     "wof:parent_id":1091904585,
     "wof:placetype":"locality",

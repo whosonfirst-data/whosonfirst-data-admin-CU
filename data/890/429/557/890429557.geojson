@@ -15,7 +15,13 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Guane"
+    ],
     "name:cat_x_preferred":[
+        "Guane"
+    ],
+    "name:cym_x_preferred":[
         "Guane"
     ],
     "name:deu_x_preferred":[
@@ -25,6 +31,9 @@
         "Guane"
     ],
     "name:fra_x_preferred":[
+        "Guane"
+    ],
+    "name:gle_x_preferred":[
         "Guane"
     ],
     "name:hat_x_preferred":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":890429557,
-    "wof:lastmodified":1563321543,
+    "wof:lastmodified":1690868541,
     "wof:name":"Guane",
     "wof:parent_id":1091904873,
     "wof:placetype":"locality",

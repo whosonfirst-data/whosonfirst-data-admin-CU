@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Consolaci\u00f3n del Sur"
     ],
+    "name:gle_x_preferred":[
+        "Consolaci\u00f3n del Sur"
+    ],
     "name:hat_x_preferred":[
         "Consolaci\u00f3n del Sur"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:unk_x_variant":[
         "Consolaci\u00f3n"
+    ],
+    "name:uzb_x_preferred":[
+        "Consolaci\u00f3n del Sur"
     ],
     "name:vie_x_preferred":[
         "Consolaci\u00f3n del Sur"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421176205,
-    "wof:lastmodified":1563321524,
+    "wof:lastmodified":1690868535,
     "wof:name":"Consolaci\u00f3n del Sur",
     "wof:parent_id":1091904175,
     "wof:placetype":"locality",

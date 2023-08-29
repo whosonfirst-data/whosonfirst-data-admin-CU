@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-79.4425000424,21.9301458933,-79.4425000424,21.9301458933",
+    "geom:bbox":"-79.4425,21.930146,-79.4425,21.930146",
     "geom:latitude":21.930146,
     "geom:longitude":-79.4425,
     "iso:country":"CU",
@@ -17,8 +17,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u0643\u062a\u064a \u0633\u0628\u0631\u064a\u062a\u0648\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646\u0643\u062a\u0649 \u0633\u0628\u0631\u064a\u062a\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Sancti Sp\u00edritus"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u0999\u09cd\u0995\u099f\u09bf \u09b8\u09cd\u09aa\u09bf\u09b0\u09bf\u09a4\u09be\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Sancti Sp\u00edritus"
     ],
     "name:ceb_x_preferred":[
         "Sancti Sp\u00edritus"
@@ -51,6 +60,9 @@
         "Sancti Sp\u00edritus"
     ],
     "name:fra_x_preferred":[
+        "Sancti Sp\u00edritus"
+    ],
+    "name:gle_x_preferred":[
         "Sancti Sp\u00edritus"
     ],
     "name:guj_x_preferred":[
@@ -116,6 +128,9 @@
     "name:por_x_preferred":[
         "Sancti Sp\u00edritus"
     ],
+    "name:que_x_preferred":[
+        "Sancti Sp\u00edritus"
+    ],
     "name:ron_x_preferred":[
         "Sancti Sp\u00edritus"
     ],
@@ -140,6 +155,12 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0b99\u0bcd\u0b9f\u0bbf  \u0bb8\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bb8\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0b99\u0bcd\u0b9f\u0bbf \u0bb8\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442\u0438-\u0421\u043f\u0438\u0440\u0438\u0442\u0443\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c02\u0c15\u0c4d\u0c1f\u0c3f \u0c38\u0c4d\u0c2a\u0c3f\u0c30\u0c3f\u0c1f\u0c38\u0c4d"
     ],
@@ -157,6 +178,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u06a9\u062a\u06cc \u0633\u067e\u06cc\u0631\u06cc\u062a\u0648\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Sancti Sp\u00edritus"
+    ],
+    "name:vec_x_preferred":[
+        "Sancti Sp\u00edritus"
     ],
     "name:vie_x_preferred":[
         "Sancti Sp\u00edritus"
@@ -278,7 +305,7 @@
     },
     "wof:country":"CU",
     "wof:created":1499130745,
-    "wof:geomhash":"581a0335311cceacdd735be3e9cbf11f",
+    "wof:geomhash":"edb9bb8a4e2eb8e00a2e5aa3952f826f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -289,7 +316,7 @@
         }
     ],
     "wof:id":1141907587,
-    "wof:lastmodified":1563322438,
+    "wof:lastmodified":1690868557,
     "wof:name":"Sancti Spiritus",
     "wof:parent_id":1091907919,
     "wof:placetype":"locality",
@@ -299,10 +326,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.44250004242252,
-    21.9301458933333,
-    -79.44250004242252,
-    21.9301458933333
+    -79.4425,
+    21.930146,
+    -79.4425,
+    21.930146
 ],
-  "geometry": {"coordinates":[-79.44250004242252,21.9301458933333],"type":"Point"}
+  "geometry": {"coordinates":[-79.4425,21.930146],"type":"Point"}
 }

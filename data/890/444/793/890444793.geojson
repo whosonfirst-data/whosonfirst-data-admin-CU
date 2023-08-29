@@ -19,6 +19,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0643\u0644\u0627\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0643\u0644\u0627\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Santa Clara"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u043b\u0430\u0440\u0430"
     ],
@@ -64,6 +70,9 @@
     "name:fra_x_preferred":[
         "Santa Clara"
     ],
+    "name:gle_x_preferred":[
+        "Santa Clara"
+    ],
     "name:glg_x_preferred":[
         "Santa Clara"
     ],
@@ -81,6 +90,9 @@
     ],
     "name:hun_x_preferred":[
         "Santa Clara"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u053f\u056c\u0561\u0580\u0561"
     ],
     "name:ido_x_preferred":[
         "Santa Clara"
@@ -136,6 +148,9 @@
     "name:por_x_preferred":[
         "Santa Clara"
     ],
+    "name:que_x_preferred":[
+        "Santa Clara"
+    ],
     "name:ron_x_preferred":[
         "Santa Clara"
     ],
@@ -166,6 +181,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe \u0b95\u0bbf\u0bb3\u0bbe\u0bb0\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u043b\u0430\u0440\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c36\u0c3e\u0c02\u0c1f\u0c3e \u0c15\u0c4d\u0c32\u0c3e\u0c30\u0c3e"
     ],
@@ -174,6 +192,9 @@
     ],
     "name:tha_x_variant":[
         "\u0e0b\u0e32\u0e19\u0e15\u0e32\u0e01\u0e25\u0e32\u0e23\u0e32"
+    ],
+    "name:tum_x_preferred":[
+        "Santa Clara"
     ],
     "name:tur_x_preferred":[
         "Santa Clara"
@@ -189,6 +210,9 @@
     ],
     "name:uzb_x_preferred":[
         "Santa-klara"
+    ],
+    "name:vec_x_preferred":[
+        "Santa Clara"
     ],
     "name:vie_x_preferred":[
         "Santa Clara"
@@ -327,7 +351,7 @@
         }
     ],
     "wof:id":890444793,
-    "wof:lastmodified":1563321540,
+    "wof:lastmodified":1690868540,
     "wof:name":"Santa Clara",
     "wof:parent_id":1091908009,
     "wof:placetype":"locality",

@@ -53,6 +53,12 @@
     "name:ceb_x_preferred":[
         "Guant\u00e1namo"
     ],
+    "name:ces_x_preferred":[
+        "Guant\u00e1namo"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Guant\u00e1namo"
+    ],
     "name:dan_x_preferred":[
         "Guantanamo-provinsen"
     ],
@@ -65,16 +71,28 @@
     "name:eng_x_variant":[
         "Guant\u00e1namo Province"
     ],
+    "name:epo_x_preferred":[
+        "Provinco Guantanamo"
+    ],
+    "name:est_x_preferred":[
+        "Guant\u00e1namo provints"
+    ],
     "name:eus_x_preferred":[
         "Guant\u00e1namoko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u06af\u0648\u0627\u0646\u062a\u0627\u0646\u0627\u0645\u0648"
     ],
+    "name:fin_x_preferred":[
+        "Guant\u00e1namo"
+    ],
     "name:fra_x_preferred":[
         "province de Guant\u00e1namo"
     ],
     "name:fra_x_variant":[
+        "Guant\u00e1namo"
+    ],
+    "name:frr_x_preferred":[
         "Guant\u00e1namo"
     ],
     "name:glg_x_preferred":[
@@ -305,7 +323,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614893695,
+    "wof:lastmodified":1690868501,
     "wof:name":"Guantanamo",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

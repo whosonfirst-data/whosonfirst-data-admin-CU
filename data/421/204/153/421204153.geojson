@@ -25,11 +25,17 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0440\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Tarar\u00e1"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0440\u0430"
     ],
     "name:unk_x_variant":[
         "Campamento Jos\u00e9 Marti"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u62c9\u62c9"
     ],
     "qs:gn_country":"CU",
     "qs:gn_fcode":"PPL",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421204153,
-    "wof:lastmodified":1563321489,
+    "wof:lastmodified":1690868526,
     "wof:name":"Tarar\u00e1",
     "wof:parent_id":1091905073,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:ces_x_preferred":[
         "Cienfuegos"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Cienfuegos"
+    ],
     "name:dan_x_preferred":[
         "Cienfuegos Provinsen"
     ],
@@ -68,6 +71,12 @@
     "name:eng_x_variant":[
         "Cienfuegos Province"
     ],
+    "name:epo_x_preferred":[
+        "Provinco Cienfuegos"
+    ],
+    "name:est_x_preferred":[
+        "Cienfuegose provints"
+    ],
     "name:eus_x_preferred":[
         "Cienfuegosko probintzia"
     ],
@@ -81,6 +90,9 @@
         "province de Cienfuegos"
     ],
     "name:fra_x_variant":[
+        "Cienfuegos"
+    ],
+    "name:frr_x_preferred":[
         "Cienfuegos"
     ],
     "name:glg_x_preferred":[
@@ -181,6 +193,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0b8f\u0baa\u0bbf\u0baf\u0bc2\u0baf\u0b95\u0bcb\u0bb8\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bbf\u0b8f\u0baa\u0bbf\u0baf\u0bc2\u0baf\u0b95\u0bcb\u0bb8\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c28\u0c4d\u0c2b\u0c4d\u0c2f\u0c42\u0c17\u0c4b\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -338,7 +353,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636504738,
+    "wof:lastmodified":1690868497,
     "wof:name":"Cienfuegos",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

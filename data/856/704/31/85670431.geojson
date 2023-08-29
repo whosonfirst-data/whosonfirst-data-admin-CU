@@ -53,6 +53,12 @@
     "name:ceb_x_preferred":[
         "Granma"
     ],
+    "name:ces_x_preferred":[
+        "Granma"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Granma"
+    ],
     "name:dan_x_preferred":[
         "Granma Provinsen"
     ],
@@ -87,6 +93,9 @@
         "province de Granma"
     ],
     "name:fra_x_variant":[
+        "Granma"
+    ],
+    "name:frr_x_preferred":[
         "Granma"
     ],
     "name:glg_x_preferred":[
@@ -191,6 +200,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bae\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bae\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c3e\u0c28\u0c4d\u0c2e\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -202,6 +214,9 @@
     ],
     "name:tha_x_variant":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e23\u0e31\u0e19\u0e21\u0e32"
+    ],
+    "name:tum_x_preferred":[
+        "Granma"
     ],
     "name:tur_x_preferred":[
         "Granma ili"
@@ -347,7 +362,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636504738,
+    "wof:lastmodified":1690868499,
     "wof:name":"Granma",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

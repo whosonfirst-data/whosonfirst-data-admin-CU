@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u0648\u062a"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u0438\u0434\u0436-\u0431\u0435\u043b\u043e\u0442"
+    ],
+    "name:bul_x_variant":[
+        "\u0431\u0440\u0438\u0434\u0436-\u0431\u0435\u043b\u043e\u0442"
     ],
     "name:deu_x_preferred":[
         "Belote"
@@ -22,44 +28,99 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c5\u03c1\u03bb\u03cc\u03c4"
     ],
+    "name:ell_x_variant":[
+        "\u03bc\u03c0\u03bf\u03c5\u03c1\u03bb\u03cc\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Belote"
+    ],
+    "name:eng_x_variant":[
+        "belote"
+    ],
+    "name:epo_x_preferred":[
+        "beloto"
     ],
     "name:fra_x_preferred":[
         "Belote"
     ],
+    "name:fra_x_variant":[
+        "belote"
+    ],
     "name:hrv_x_preferred":[
         "Belot"
+    ],
+    "name:hrv_x_variant":[
+        "belot"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056c\u0578\u057f"
     ],
     "name:ita_x_preferred":[
         "Belot"
     ],
+    "name:ita_x_variant":[
+        "belot"
+    ],
     "name:jpn_x_preferred":[
         "\u30d6\u30ed\u30c3\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube14\ub85c\ud2b8"
     ],
     "name:lij_x_preferred":[
         "Belota"
     ],
+    "name:lij_x_variant":[
+        "belota"
+    ],
     "name:lim_x_preferred":[
         "Klaverjasse"
+    ],
+    "name:lim_x_variant":[
+        "belote"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0459\u043e\u0442"
     ],
     "name:nld_x_preferred":[
         "Klaverjassen"
     ],
     "name:nld_x_variant":[
-        "klaverjassen"
+        "klaverjassen",
+        "belote"
     ],
     "name:ron_x_preferred":[
         "Belot\u0103"
     ],
+    "name:ron_x_variant":[
+        "belot\u0103"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u0431\u0435\u043b\u043e\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Belote"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0442"
     ],
+    "name:srp_x_variant":[
+        "\u0431\u0435\u043b\u043e\u0442"
+    ],
     "name:swe_x_preferred":[
         "Belot"
+    ],
+    "name:swe_x_variant":[
+        "belot"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0431\u0435\u043b\u043e\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u6d1b\u7279"
     ],
     "qs:gn_country":"CU",
     "qs:gn_fcode":"PPLX",
@@ -108,7 +169,7 @@
         }
     ],
     "wof:id":421192711,
-    "wof:lastmodified":1563321485,
+    "wof:lastmodified":1690868524,
     "wof:name":"Belot",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

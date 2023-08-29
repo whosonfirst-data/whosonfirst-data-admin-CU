@@ -19,7 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Bataban\u00f3"
+    ],
     "name:cat_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "name:ceb_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "name:cym_x_preferred":[
         "Bataban\u00f3"
     ],
     "name:deu_x_preferred":[
@@ -28,7 +37,13 @@
     "name:eng_x_preferred":[
         "Bataban\u00f3"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062a\u0627\u0628\u0627\u0646\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Bataban\u00f3"
+    ],
+    "name:gle_x_preferred":[
         "Bataban\u00f3"
     ],
     "name:hat_x_preferred":[
@@ -60,6 +75,12 @@
     ],
     "name:swe_x_preferred":[
         "Surgidero de Bataban\u00f3"
+    ],
+    "name:swe_x_variant":[
+        "Bataban\u00f3"
+    ],
+    "name:uzb_x_preferred":[
+        "Batabano"
     ],
     "name:vie_x_preferred":[
         "Bataban\u00f3"
@@ -106,7 +127,7 @@
         }
     ],
     "wof:id":1125873705,
-    "wof:lastmodified":1561766487,
+    "wof:lastmodified":1690868552,
     "wof:name":"Bataban\u00f3",
     "wof:parent_id":1091903035,
     "wof:placetype":"locality",

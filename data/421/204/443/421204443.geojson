@@ -16,10 +16,19 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Moa"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09af\u09bc\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Moa"
+    ],
+    "name:cym_x_preferred":[
         "Moa"
     ],
     "name:dan_x_preferred":[
@@ -37,14 +46,23 @@
     "name:epo_x_preferred":[
         "Moa"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Moa"
     ],
     "name:fra_x_preferred":[
         "Moa"
     ],
+    "name:gle_x_preferred":[
+        "Moa"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a86"
+    ],
+    "name:hat_x_preferred":[
+        "Moa"
     ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0906"
@@ -136,6 +154,9 @@
     "name:urd_x_variant":[
         "\u0645\u0648\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Moa"
+    ],
     "name:vie_x_preferred":[
         "Moa"
     ],
@@ -192,7 +213,7 @@
         }
     ],
     "wof:id":421204443,
-    "wof:lastmodified":1563321490,
+    "wof:lastmodified":1690868526,
     "wof:name":"Moa",
     "wof:parent_id":1091906483,
     "wof:placetype":"locality",

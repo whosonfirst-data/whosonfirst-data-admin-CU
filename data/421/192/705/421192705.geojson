@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Palmira"
+    ],
     "name:cat_x_preferred":[
+        "Palmira"
+    ],
+    "name:cym_x_preferred":[
         "Palmira"
     ],
     "name:deu_x_preferred":[
@@ -22,7 +28,13 @@
     "name:eng_x_preferred":[
         "Palmira"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u0645\u06cc\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Palmira"
+    ],
+    "name:gle_x_preferred":[
         "Palmira"
     ],
     "name:hat_x_preferred":[
@@ -56,6 +68,9 @@
         "Palmira"
     ],
     "name:swe_x_preferred":[
+        "Palmira"
+    ],
+    "name:uzb_x_preferred":[
         "Palmira"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +126,7 @@
         }
     ],
     "wof:id":421192705,
-    "wof:lastmodified":1561766479,
+    "wof:lastmodified":1690868524,
     "wof:name":"Palmira",
     "wof:parent_id":1091906851,
     "wof:placetype":"locality",

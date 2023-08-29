@@ -19,7 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Gu\u00e1imaro"
+    ],
     "name:cat_x_preferred":[
+        "Gu\u00e1imaro"
+    ],
+    "name:cym_x_preferred":[
         "Gu\u00e1imaro"
     ],
     "name:deu_x_preferred":[
@@ -31,7 +37,13 @@
     "name:epo_x_preferred":[
         "Gu\u00e1imaro"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u06cc\u06cc\u0645\u0627\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Gu\u00e1imaro"
+    ],
+    "name:gle_x_preferred":[
         "Gu\u00e1imaro"
     ],
     "name:ita_x_preferred":[
@@ -46,17 +58,26 @@
     "name:pol_x_preferred":[
         "Gu\u00e1imaro"
     ],
+    "name:ron_x_preferred":[
+        "Gu\u00e1imaro"
+    ],
     "name:spa_x_preferred":[
         "Gu\u00e1imaro"
     ],
     "name:swe_x_preferred":[
         "Municipio de Gu\u00e1imaro"
     ],
+    "name:tum_x_preferred":[
+        "Gu\u00e1imaro"
+    ],
     "name:tur_x_preferred":[
         "Gu\u00e1imaro"
     ],
     "name:unk_x_variant":[
         "Guasimaro"
+    ],
+    "name:uzb_x_preferred":[
+        "Gu\u00e1imaro"
     ],
     "name:vie_x_preferred":[
         "Gu\u00e1imaro"
@@ -103,7 +124,7 @@
         }
     ],
     "wof:id":1125963127,
-    "wof:lastmodified":1561766487,
+    "wof:lastmodified":1690868552,
     "wof:name":"Gu\u00e1imaro",
     "wof:parent_id":1091904725,
     "wof:placetype":"locality",

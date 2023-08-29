@@ -19,11 +19,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0646\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Banes"
+    ],
     "name:bar_x_preferred":[
         "Banes"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09a8\u09b8"
+    ],
+    "name:cym_x_preferred":[
+        "Banes"
     ],
     "name:dan_x_preferred":[
         "Banes"
@@ -37,6 +46,9 @@
     "name:eng_x_preferred":[
         "Banes"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u0633"
+    ],
     "name:fin_x_preferred":[
         "Banes"
     ],
@@ -44,6 +56,9 @@
         "Banes"
     ],
     "name:gla_x_preferred":[
+        "Banes"
+    ],
+    "name:gle_x_preferred":[
         "Banes"
     ],
     "name:heb_x_preferred":[
@@ -97,6 +112,9 @@
     "name:swe_x_preferred":[
         "Municipio de Banes"
     ],
+    "name:szl_x_preferred":[
+        "Banes"
+    ],
     "name:tur_x_preferred":[
         "Banes"
     ],
@@ -105,6 +123,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0646\u0632"
+    ],
+    "name:uzb_x_preferred":[
+        "Banes"
     ],
     "name:vie_x_preferred":[
         "Banes"
@@ -242,7 +263,7 @@
         }
     ],
     "wof:id":890440189,
-    "wof:lastmodified":1636504864,
+    "wof:lastmodified":1690868536,
     "wof:name":"Banes",
     "wof:parent_id":1091902915,
     "wof:placetype":"locality",

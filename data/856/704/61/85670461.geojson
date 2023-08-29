@@ -64,6 +64,9 @@
     "name:kor_x_preferred":[
         "\uc544\ubc14\ub098"
     ],
+    "name:nld_x_preferred":[
+        "Mayabeque"
+    ],
     "name:por_x_preferred":[
         "Mayabeque"
     ],
@@ -147,7 +150,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636504737,
+    "wof:lastmodified":1690868496,
     "wof:name":"Mayabeque",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

@@ -15,8 +15,17 @@
     "iso:country":"CU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Remedios"
+    ],
+    "name:cym_x_preferred":[
+        "Remedios"
+    ],
     "name:deu_x_preferred":[
         "Remedios"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03bc\u03ad\u03b4\u03b9\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Remedios"
@@ -24,8 +33,14 @@
     "name:fra_x_preferred":[
         "Remedios"
     ],
+    "name:gle_x_preferred":[
+        "Remedios"
+    ],
     "name:hat_x_preferred":[
         "Remedios"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05de\u05d3\u05d9\u05d5\u05e1"
     ],
     "name:ita_x_preferred":[
         "Remedios"
@@ -54,8 +69,17 @@
     "name:swe_x_preferred":[
         "Municipio de San Juan de los Remedios"
     ],
+    "name:tum_x_preferred":[
+        "Remedios"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043c\u0435\u0434\u0456\u043e\u0441"
+    ],
     "name:unk_x_variant":[
         "San Juan de los Remedios"
+    ],
+    "name:uzb_x_preferred":[
+        "Remedios"
     ],
     "name:vep_x_preferred":[
         "Remedios"
@@ -96,7 +120,7 @@
         }
     ],
     "wof:id":890434865,
-    "wof:lastmodified":1563321565,
+    "wof:lastmodified":1690868549,
     "wof:name":"Remedios",
     "wof:parent_id":1091907371,
     "wof:placetype":"locality",
