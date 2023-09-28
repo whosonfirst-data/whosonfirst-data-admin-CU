@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.589656,
-    "geom:area_square_m":6762616336.108855,
+    "geom:area_square_m":6762617349.477057,
     "geom:bbox":"-80.110627,21.542055,-78.92313,22.461222",
     "geom:latitude":21.950317,
     "geom:longitude":-79.422951,
@@ -344,17 +344,19 @@
         "gn:id":3540665,
         "gp:id":2345118,
         "hasc:id":"CU.SS",
+        "iso:code":"CU-07",
         "iso:id":"CU-07",
         "qs:id":219535,
         "unlc:id":"CU-07",
         "wd:id":"Q115441",
         "wk:page":"Sancti Sp\u00edritus Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9ac47eaf4d70fab224d7528ceb3fdcc2",
+    "wof:geomhash":"01c7a446dd45b2c316197fcd8ae9ffde",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -369,7 +371,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868501,
+    "wof:lastmodified":1695884503,
     "wof:name":"Sancti Spiritus",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

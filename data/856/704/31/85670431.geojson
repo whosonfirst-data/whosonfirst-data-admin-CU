@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.727086,
-    "geom:area_square_m":8432551671.437721,
+    "geom:area_square_m":8432551641.164582,
     "geom:bbox":"-77.74128,19.82625,-76.196177,20.774852",
     "geom:latitude":20.291217,
     "geom:longitude":-76.920268,
@@ -337,17 +337,19 @@
         "gn:id":3558052,
         "gp:id":2345113,
         "hasc:id":"CU.GR",
+        "iso:code":"CU-12",
         "iso:id":"CU-12",
         "qs:id":219521,
         "unlc:id":"CU-12",
         "wd:id":"Q115046",
         "wk:page":"Granma Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2a715f38ca97e084bb3fd5c210fcd486",
+    "wof:geomhash":"3542436286336b11f38d065cc1ad67fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -362,7 +364,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868499,
+    "wof:lastmodified":1695884957,
     "wof:name":"Granma",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

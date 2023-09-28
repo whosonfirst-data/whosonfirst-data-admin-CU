@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.809218,
-    "geom:area_square_m":9356927582.675303,
+    "geom:area_square_m":9356925488.910027,
     "geom:bbox":"-76.72763,20.378524,-74.718733,21.245784",
     "geom:latitude":20.751823,
     "geom:longitude":-75.877604,
@@ -343,17 +343,19 @@
         "gn:id":3556965,
         "gp:id":2345116,
         "hasc:id":"CU.HO",
+        "iso:code":"CU-11",
         "iso:id":"CU-11",
         "qs:id":235573,
         "unlc:id":"CU-11",
         "wd:id":"Q115302",
         "wk:page":"Holgu\u00edn Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f446b3ff375ce78090a416602820ea69",
+    "wof:geomhash":"891c7d91915d6b1e306971a48065ba40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -368,7 +370,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868497,
+    "wof:lastmodified":1695884503,
     "wof:name":"Holguin",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.537779,
-    "geom:area_square_m":6240574964.203363,
+    "geom:area_square_m":6240576014.187192,
     "geom:bbox":"-75.494284,19.878805,-74.133781,20.568798",
     "geom:latitude":20.203635,
     "geom:longitude":-74.90971,
@@ -298,17 +298,19 @@
         "gn:id":3557685,
         "gp:id":2345114,
         "hasc:id":"CU.GU",
+        "iso:code":"CU-14",
         "iso:id":"CU-14",
         "qs:id":423632,
         "unlc:id":"CU-14",
         "wd:id":"Q115319",
         "wk:page":"Guant\u00e1namo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d297c971d501a8ad590940bb08894db",
+    "wof:geomhash":"2fc91d523094ea71d6f5bc38d26c20e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -323,7 +325,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868501,
+    "wof:lastmodified":1695884503,
     "wof:name":"Guantanamo",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

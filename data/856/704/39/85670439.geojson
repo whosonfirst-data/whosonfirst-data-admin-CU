@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.573078,
-    "geom:area_square_m":6615135879.437184,
+    "geom:area_square_m":6615135595.004243,
     "geom:bbox":"-77.831005,20.642084,-76.30662,21.457651",
     "geom:latitude":21.008828,
     "geom:longitude":-77.032347,
@@ -334,17 +334,19 @@
         "gn:id":3550595,
         "gp:id":2345117,
         "hasc:id":"CU.LT",
+        "iso:code":"CU-10",
         "iso:id":"CU-10",
         "qs:id":219534,
         "unlc:id":"CU-10",
         "wd:id":"Q115334",
         "wk:page":"Las Tunas Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9d91cf9d6ea68457d9ae332dd20819ab",
+    "wof:geomhash":"060fbe0d8e2b200e1e71dc1d5f6d9fe8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -359,7 +361,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868499,
+    "wof:lastmodified":1695884957,
     "wof:name":"Las Tunas",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

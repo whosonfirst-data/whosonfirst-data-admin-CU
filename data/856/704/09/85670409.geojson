@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.959019,
-    "geom:area_square_m":10960823343.491816,
+    "geom:area_square_m":10960823572.259926,
     "geom:bbox":"-84.95208,21.754555,-82.833583,23.01375",
     "geom:latitude":22.434718,
     "geom:longitude":-83.721856,
@@ -341,17 +341,19 @@
         "gn:id":3544088,
         "gp:id":2345106,
         "hasc:id":"CU.PD",
+        "iso:code":"CU-01",
         "iso:id":"CU-01",
         "qs:id":219533,
         "unlc:id":"CU-01",
         "wd:id":"Q115497",
         "wk:page":"Pinar del R\u00edo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6f12e6f8c7bd614bfdf25b9089a17564",
+    "wof:geomhash":"9b0376bcc86e9335bb4f82fe4f0fa781",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -366,7 +368,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868499,
+    "wof:lastmodified":1695884503,
     "wof:name":"Pinar Del Rio",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

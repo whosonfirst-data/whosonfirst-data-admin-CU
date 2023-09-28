@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.207704,
-    "geom:area_square_m":2386695957.372408,
+    "geom:area_square_m":2386695957.371999,
     "geom:bbox":"-83.207947,21.439556,-81.359581,21.947056",
     "geom:latitude":21.674996,
     "geom:longitude":-82.788054,
@@ -304,11 +304,13 @@
         "gn:id":3556608,
         "gp:id":2345109,
         "hasc:id":"CU.IJ",
+        "iso:code":"CU-99",
         "iso:id":"CU-99",
         "qs:id":423683,
         "unlc:id":"CU-99",
         "wd:id":"Q12588"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1091906563
     ],
@@ -316,7 +318,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cec96f12402e17d458e7df3112d5d37b",
+    "wof:geomhash":"7d7002081fe50dbb38749e065f2b582f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -331,7 +333,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868498,
+    "wof:lastmodified":1695884477,
     "wof:name":"Isla de la Juventud",
     "wof:parent_id":85632675,
     "wof:placetype":"region",
