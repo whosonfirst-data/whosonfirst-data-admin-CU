@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049227,
-    "geom:area_square_m":565694341.8348,
+    "geom:area_square_m":565693665.404083,
     "geom:bbox":"-77.936199,21.534878,-77.605222,21.787056",
     "geom:latitude":21.667966,
     "geom:longitude":-77.764235,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CM.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892481,
-    "wof:geomhash":"afcff1602ec7e7d3d244874380ad6844",
+    "wof:geomhash":"e1ae5f869f114898686b05f3ca4b9463",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091908301,
-    "wof:lastmodified":1627507748,
+    "wof:lastmodified":1695886720,
     "wof:name":"Sierra De Cubitas",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

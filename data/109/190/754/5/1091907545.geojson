@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085225,
-    "geom:area_square_m":970978818.110353,
+    "geom:area_square_m":970978818.110331,
     "geom:bbox":"-80.464614868,22.6707016369,-79.653778076,23.15625",
     "geom:latitude":22.870946,
     "geom:longitude":-80.089326,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"CU.VC.SG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892454,
-    "wof:geomhash":"075227d5e83d3ff970477be4d9f008e1",
+    "wof:geomhash":"f760e35b9438310a1802f4bb2efbf5c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1091907545,
-    "wof:lastmodified":1564327934,
+    "wof:lastmodified":1695886594,
     "wof:name":"Sagua La Grande",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080854,
-    "geom:area_square_m":937435119.267433,
+    "geom:area_square_m":937435119.267113,
     "geom:bbox":"-74.7933437718,20.1650479235,-74.2840014605,20.5687977594",
     "geom:latitude":20.340155,
     "geom:longitude":-74.56915,
@@ -148,9 +148,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CA.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892259,
-    "wof:geomhash":"849338f30fa866825a800c4bb45101c4",
+    "wof:geomhash":"adc9d90ecc90181926b1b438a09a8852",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -160,7 +161,7 @@
         }
     ],
     "wof:id":1091902961,
-    "wof:lastmodified":1564327968,
+    "wof:lastmodified":1695886598,
     "wof:name":"Baracoa",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

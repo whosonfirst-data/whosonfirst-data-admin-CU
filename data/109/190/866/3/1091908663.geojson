@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174733,
-    "geom:area_square_m":2015334479.63033,
+    "geom:area_square_m":2015334479.630632,
     "geom:bbox":"-78.532142639,20.827110291,-77.9967355691,21.3694429414",
     "geom:latitude":21.129944,
     "geom:longitude":-78.262832,
@@ -101,9 +101,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CM.VE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892495,
-    "wof:geomhash":"4652ee62a27f9c047e251c37994f4b76",
+    "wof:geomhash":"d33c45b3cd2baa5891585746a70c6e10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1091908663,
-    "wof:lastmodified":1564327942,
+    "wof:lastmodified":1695886596,
     "wof:name":"Vertientes",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

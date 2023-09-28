@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067609,
-    "geom:area_square_m":775459006.647796,
+    "geom:area_square_m":775458960.742285,
     "geom:bbox":"-79.266009,21.721223,-78.961167,22.154305",
     "geom:latitude":21.938472,
     "geom:longitude":-79.123939,
@@ -111,9 +111,10 @@
         "hasc:id":"CU.SS.JA",
         "wd:id":"Q861575"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892359,
-    "wof:geomhash":"9a2897471193e455ac8462902b0deedb",
+    "wof:geomhash":"ef358bed817b148d0da08ba7ce67b78b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1091905283,
-    "wof:lastmodified":1690868515,
+    "wof:lastmodified":1695887185,
     "wof:name":"Jatibonico",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

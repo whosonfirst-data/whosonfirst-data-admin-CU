@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035458,
-    "geom:area_square_m":405676021.845006,
+    "geom:area_square_m":405675673.778989,
     "geom:bbox":"-83.969257,22.149676,-83.748398,22.443434",
     "geom:latitude":22.290504,
     "geom:longitude":-83.869513,
@@ -106,9 +106,10 @@
         "hasc:id":"CU.PD.SJ",
         "wd:id":"Q1716152"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892462,
-    "wof:geomhash":"7fe680885690ceaa3af3380ef534f210",
+    "wof:geomhash":"d71452279595b86a2a8ac2576d40410a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1091907755,
-    "wof:lastmodified":1690868521,
+    "wof:lastmodified":1695887186,
     "wof:name":"San Juan Y Martinez",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03763,
-    "geom:area_square_m":431801492.47794,
+    "geom:area_square_m":431801347.000922,
     "geom:bbox":"-78.901787,21.762767,-78.647675,21.992533",
     "geom:latitude":21.87609,
     "geom:longitude":-78.758513,
@@ -222,9 +222,10 @@
         "hasc:id":"CU.CA.CA",
         "wd:id":"Q115465"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892300,
-    "wof:geomhash":"edf880ad5c29c1f014a9f80c3d34db9f",
+    "wof:geomhash":"eb0c05b669d429be293f2272b8279517",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -234,7 +235,7 @@
         }
     ],
     "wof:id":1091903947,
-    "wof:lastmodified":1690868517,
+    "wof:lastmodified":1695886594,
     "wof:name":"Ciego De Avila",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

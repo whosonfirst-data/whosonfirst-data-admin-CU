@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050852,
-    "geom:area_square_m":578747738.663198,
+    "geom:area_square_m":578748088.223997,
     "geom:bbox":"-81.491136,22.829607,-81.04928,23.139283",
     "geom:latitude":23.013012,
     "geom:longitude":-81.256092,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MA.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892293,
-    "wof:geomhash":"f072784d3e63fdff22ec955458dcaed1",
+    "wof:geomhash":"8ad7dc12b7f5c26eb0452ab2376fe1fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1091903749,
-    "wof:lastmodified":1636504853,
+    "wof:lastmodified":1695886159,
     "wof:name":"Cardenas",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

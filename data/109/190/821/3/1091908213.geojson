@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046914,
-    "geom:area_square_m":543634261.020682,
+    "geom:area_square_m":543634261.020661,
     "geom:bbox":"-75.6749371233,20.3032841876,-75.3697074526,20.5458037167",
     "geom:latitude":20.423329,
     "geom:longitude":-75.520192,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"CU.SC.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892478,
-    "wof:geomhash":"87d0fb436df381f97a3f3a341c8ddafa",
+    "wof:geomhash":"7784d77eac44c5e6db705efc7516af80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1091908213,
-    "wof:lastmodified":1564327940,
+    "wof:lastmodified":1695886596,
     "wof:name":"Segundo Frente",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

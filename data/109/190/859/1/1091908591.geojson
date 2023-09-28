@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001813,
-    "geom:area_square_m":20612620.610892,
+    "geom:area_square_m":20612620.610891,
     "geom:bbox":"-81.2943694445,23.1326271466,-81.120475769,23.206222534",
     "geom:latitude":23.175614,
     "geom:longitude":-81.196779,
@@ -151,9 +151,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MA.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892491,
-    "wof:geomhash":"44afa6617128e85ddb6cef563d57d334",
+    "wof:geomhash":"70c531dd2ba6caa648c15d063a25caed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":1091908591,
-    "wof:lastmodified":1564327942,
+    "wof:lastmodified":1695886596,
     "wof:name":"Varadero",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

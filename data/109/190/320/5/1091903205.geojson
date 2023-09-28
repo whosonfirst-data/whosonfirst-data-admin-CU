@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011814,
-    "geom:area_square_m":134472315.939238,
+    "geom:area_square_m":134472355.433748,
     "geom:bbox":"-82.478874,22.932974,-82.316415,23.0798",
     "geom:latitude":22.997571,
     "geom:longitude":-82.39821,
@@ -108,9 +108,10 @@
         "hasc:id":"CU.CH.BO",
         "wd:id":"Q1936076"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892271,
-    "wof:geomhash":"1e446c384041d98867b4e5371888e1cd",
+    "wof:geomhash":"5a81d2366b876934ab0e149e037576f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1091903205,
-    "wof:lastmodified":1690868521,
+    "wof:lastmodified":1695886594,
     "wof:name":"Boyeros",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

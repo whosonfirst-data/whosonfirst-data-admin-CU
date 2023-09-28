@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074637,
-    "geom:area_square_m":850242302.094217,
+    "geom:area_square_m":850242302.094231,
     "geom:bbox":"-80.7544314133,22.7311252947,-80.3209833664,23.066223145",
     "geom:latitude":22.888126,
     "geom:longitude":-80.536054,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"CU.VC.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892315,
-    "wof:geomhash":"8ef8597c231704b6bc43275626682365",
+    "wof:geomhash":"dc2f362963db535f2a349e2982dadf83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1091904251,
-    "wof:lastmodified":1564327938,
+    "wof:lastmodified":1695886595,
     "wof:name":"Corralillo",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

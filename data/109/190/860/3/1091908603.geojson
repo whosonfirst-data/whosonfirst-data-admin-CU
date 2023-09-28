@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139056,
-    "geom:area_square_m":1598065629.851841,
+    "geom:area_square_m":1598065943.539983,
     "geom:bbox":"-79.451248,20.836195,-78.329979,21.914312",
     "geom:latitude":21.657605,
     "geom:longitude":-78.712196,
@@ -118,9 +118,10 @@
         "hasc:id":"CU.CA.VE",
         "wd:id":"Q593830"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892493,
-    "wof:geomhash":"11d1e4109a6e4baf54c34771d6e4b6e4",
+    "wof:geomhash":"4b909d386c1c5c90612f42cdd997684f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1091908603,
-    "wof:lastmodified":1690868514,
+    "wof:lastmodified":1695886593,
     "wof:name":"Venezuela",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

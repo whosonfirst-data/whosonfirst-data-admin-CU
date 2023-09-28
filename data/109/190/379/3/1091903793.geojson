@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058003,
-    "geom:area_square_m":666511068.601314,
+    "geom:area_square_m":666510903.553856,
     "geom:bbox":"-78.450918,21.51705,-78.102241,21.821389",
     "geom:latitude":21.672866,
     "geom:longitude":-78.262051,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CM.CC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892294,
-    "wof:geomhash":"e321497e69d20c674d590fe428412840",
+    "wof:geomhash":"95e313e8c7b17c1f7dbc00926a570dc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091903793,
-    "wof:lastmodified":1627507746,
+    "wof:lastmodified":1695886718,
     "wof:name":"Carlos Manuel De Cespedes",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

@@ -362,9 +362,10 @@
     "wof:concordances":{
         "hasc:id":"CU.VC.SD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892476,
-    "wof:geomhash":"28848492dc4f42a3aaff8e31c94a18f3",
+    "wof:geomhash":"eaf6d442325fa1b0c626362e2842c08e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -374,7 +375,7 @@
         }
     ],
     "wof:id":1091908169,
-    "wof:lastmodified":1564327937,
+    "wof:lastmodified":1695886595,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

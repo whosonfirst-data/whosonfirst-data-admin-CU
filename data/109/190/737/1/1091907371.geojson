@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048168,
-    "geom:area_square_m":550795481.982162,
+    "geom:area_square_m":550795330.620867,
     "geom:bbox":"-79.66012,22.221104,-79.313916,22.535657",
     "geom:latitude":22.36679,
     "geom:longitude":-79.49606,
@@ -114,9 +114,10 @@
         "hasc:id":"CU.VC.CB",
         "wd:id":"Q280795"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892448,
-    "wof:geomhash":"082edf4d60cb7f091ab9e27a75600209",
+    "wof:geomhash":"21d77f6a574c780c04c4a67f6422ebce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1091907371,
-    "wof:lastmodified":1690868509,
+    "wof:lastmodified":1695886592,
     "wof:name":"Remedios",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

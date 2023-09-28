@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051717,
-    "geom:area_square_m":600270112.208792,
+    "geom:area_square_m":600270112.208739,
     "geom:bbox":"-76.6682498729,20.0409557095,-76.390593928,20.3081912901",
     "geom:latitude":20.17024,
     "geom:longitude":-76.528359,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GR.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892350,
-    "wof:geomhash":"f1aac9dc0d89c40e772d99b4152e4a7a",
+    "wof:geomhash":"9909c710ae8d51d31fd112af416de4ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091905039,
-    "wof:lastmodified":1564327935,
+    "wof:lastmodified":1695886595,
     "wof:name":"Guisa",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

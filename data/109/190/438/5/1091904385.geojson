@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096411,
-    "geom:area_square_m":1105061806.255978,
+    "geom:area_square_m":1105061773.52965,
     "geom:bbox":"-80.412086,21.818494,-80.02873,22.270734",
     "geom:latitude":22.034447,
     "geom:longitude":-80.197151,
@@ -120,9 +120,10 @@
         "hasc:id":"CU.CF.CU",
         "wd:id":"Q5044"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892321,
-    "wof:geomhash":"59634f8f015dca237c30e08bd26f15eb",
+    "wof:geomhash":"e0f34a6a44761d72bacd0c55bcadde66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1091904385,
-    "wof:lastmodified":1690868514,
+    "wof:lastmodified":1695886593,
     "wof:name":"Cumanayagua",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

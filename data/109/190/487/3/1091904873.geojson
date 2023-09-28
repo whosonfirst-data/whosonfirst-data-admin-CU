@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062942,
-    "geom:area_square_m":720279698.926589,
+    "geom:area_square_m":720279767.866851,
     "geom:bbox":"-84.229627,22.085335,-83.933264,22.467956",
     "geom:latitude":22.261424,
     "geom:longitude":-84.065751,
@@ -108,9 +108,10 @@
         "hasc:id":"CU.PD.GU",
         "wd:id":"Q535537"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892343,
-    "wof:geomhash":"5b5711960ff54480691b6c1f7739038d",
+    "wof:geomhash":"79ee616cb602b1495783a5b0d0346468",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1091904873,
-    "wof:lastmodified":1690868519,
+    "wof:lastmodified":1695886594,
     "wof:name":"Guane",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

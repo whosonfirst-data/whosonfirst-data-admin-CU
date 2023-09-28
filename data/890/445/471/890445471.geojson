@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020467,
-    "geom:area_square_m":233353036.702286,
+    "geom:area_square_m":233353029.364944,
     "geom:bbox":"-82.241324,22.671163,-82.058846,22.859877",
     "geom:latitude":22.769621,
     "geom:longitude":-82.145105,
@@ -63,12 +63,13 @@
         "hasc:id":"CU.LH.MS",
         "qs:id":583418
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1469052511,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5509bbb77c12758a3363320e043de630",
+    "wof:geomhash":"02329411813e2264e17f554686df762e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":890445471,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"Melena Del Sur",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

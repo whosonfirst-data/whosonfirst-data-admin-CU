@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024136,
-    "geom:area_square_m":275229571.704888,
+    "geom:area_square_m":275229571.704907,
     "geom:bbox":"-83.103768809,22.5725403095,-82.8335829728,22.8749642037",
     "geom:latitude":22.747306,
     "geom:longitude":-82.96331,
@@ -119,9 +119,10 @@
     "wof:concordances":{
         "hasc:id":"CU.AR.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892291,
-    "wof:geomhash":"c493b55cc32f9af665b32dac7237fb3f",
+    "wof:geomhash":"300fddae6c8fe6c105a2f79bef294d59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1091903705,
-    "wof:lastmodified":1564327946,
+    "wof:lastmodified":1695886596,
     "wof:name":"Candelaria",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

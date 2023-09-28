@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038014,
-    "geom:area_square_m":434431266.215773,
+    "geom:area_square_m":434431810.17261,
     "geom:bbox":"-80.444225,22.322696,-80.217943,22.580857",
     "geom:latitude":22.449632,
     "geom:longitude":-80.325667,
@@ -123,9 +123,10 @@
         "hasc:id":"CU.CF.LA",
         "wd:id":"Q5045"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892376,
-    "wof:geomhash":"379109ab6fa911d6c6503ab42e8af49c",
+    "wof:geomhash":"f520df9a192afc57eb0eb4721ab84b54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1091905617,
-    "wof:lastmodified":1690868509,
+    "wof:lastmodified":1695886592,
     "wof:name":"Lajas",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

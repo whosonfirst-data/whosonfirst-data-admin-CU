@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053595,
-    "geom:area_square_m":618645592.303923,
+    "geom:area_square_m":618645592.303894,
     "geom:bbox":"-76.1925867083,20.8797334347,-75.8191140739,21.124584198",
     "geom:latitude":21.01221,
     "geom:longitude":-76.001993,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.RF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892443,
-    "wof:geomhash":"5eae735a552f64eb02c4aaa1595abb92",
+    "wof:geomhash":"b8efae6dd6fb99d6cb79fb2264918cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091907267,
-    "wof:lastmodified":1564327974,
+    "wof:lastmodified":1695886599,
     "wof:name":"Rafael Freyre",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

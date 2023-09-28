@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043855,
-    "geom:area_square_m":507434818.10984,
+    "geom:area_square_m":507434138.672467,
     "geom:bbox":"-75.486124,20.538216,-75.001738,20.745417",
     "geom:latitude":20.651983,
     "geom:longitude":-75.286053,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.FP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892334,
-    "wof:geomhash":"e595716a3894d9d3558dc71f667baddd",
+    "wof:geomhash":"a67cf8ab637d17c864526038252f90e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091904661,
-    "wof:lastmodified":1627507746,
+    "wof:lastmodified":1695886718,
     "wof:name":"Frank Pais",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

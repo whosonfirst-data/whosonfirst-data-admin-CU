@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016859,
-    "geom:area_square_m":192228896.005885,
+    "geom:area_square_m":192228782.840158,
     "geom:bbox":"-82.677544,22.680361,-82.533296,22.855121",
     "geom:latitude":22.762382,
     "geom:longitude":-82.606627,
@@ -136,9 +136,10 @@
         "hasc:id":"CU.AR.AL",
         "wd:id":"Q603163"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892246,
-    "wof:geomhash":"154d9cc61678f617e59f45c44640f80a",
+    "wof:geomhash":"6e369c0f1af1ee4b91c70e32e0b58ec9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1091902641,
-    "wof:lastmodified":1690868520,
+    "wof:lastmodified":1695887185,
     "wof:name":"Alquizar",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

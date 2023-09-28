@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072854,
-    "geom:area_square_m":845388616.642884,
+    "geom:area_square_m":845388570.094324,
     "geom:bbox":"-76.222006,20.023847,-75.892336,20.450147",
     "geom:latitude":20.209565,
     "geom:longitude":-76.057824,
@@ -122,9 +122,10 @@
     "wof:concordances":{
         "hasc:id":"CU.SC.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892425,
-    "wof:geomhash":"3acdacde2ddbedf028dc99272b2148fa",
+    "wof:geomhash":"55623fd153cdf948feebcd989b19f450",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1091906823,
-    "wof:lastmodified":1636504852,
+    "wof:lastmodified":1695886159,
     "wof:name":"Palma Soriano",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044835,
-    "geom:area_square_m":520361784.570173,
+    "geom:area_square_m":520362008.061352,
     "geom:bbox":"-74.447207,20.063723,-74.133781,20.316223",
     "geom:latitude":20.178569,
     "geom:longitude":-74.282547,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GU.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892386,
-    "wof:geomhash":"137f1ba9593814849fdd638a1d78329b",
+    "wof:geomhash":"d5aad4e135c46938230a495fff6236d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091905819,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"Maisi",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

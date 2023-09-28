@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063008,
-    "geom:area_square_m":731215484.209816,
+    "geom:area_square_m":731215224.307524,
     "geom:bbox":"-75.78727,20.050615,-75.415821,20.341835",
     "geom:latitude":20.193698,
     "geom:longitude":-75.590524,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CU.SC.LM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892483,
-    "wof:geomhash":"cd369d262c9635b213448506e4a74008",
+    "wof:geomhash":"fb3b1cb53b607a67a6babb914a43faeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091908347,
-    "wof:lastmodified":1627507748,
+    "wof:lastmodified":1695886720,
     "wof:name":"Songo La Maya",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

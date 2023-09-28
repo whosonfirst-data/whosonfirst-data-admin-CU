@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08224,
-    "geom:area_square_m":938405093.774621,
+    "geom:area_square_m":938404364.937263,
     "geom:bbox":"-83.361963,22.486408,-82.884012,22.815183",
     "geom:latitude":22.660864,
     "geom:longitude":-83.10946,
@@ -145,9 +145,10 @@
         "hasc:id":"CU.AR.SC",
         "wd:id":"Q559801"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892459,
-    "wof:geomhash":"951ae87bcba130db34e61a22d77c9fdb",
+    "wof:geomhash":"2de3d77a89620b653eed5b4b0e48bdd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":1091907679,
-    "wof:lastmodified":1690868516,
+    "wof:lastmodified":1695886159,
     "wof:name":"San Cristobal",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

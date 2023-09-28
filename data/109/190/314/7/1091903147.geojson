@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010685,
-    "geom:area_square_m":121698834.94558,
+    "geom:area_square_m":121698834.945603,
     "geom:bbox":"-82.4363966137,22.859803493,-82.2635582112,22.9739794257",
     "geom:latitude":22.913958,
     "geom:longitude":-82.347959,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MQ.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892268,
-    "wof:geomhash":"4b98cbf1cda340d8ec19c6fc51922b92",
+    "wof:geomhash":"fa829b4c8dc04c95ae2fe844ebd0c665",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1091903147,
-    "wof:lastmodified":1564327948,
+    "wof:lastmodified":1695886597,
     "wof:name":"Bejucal",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

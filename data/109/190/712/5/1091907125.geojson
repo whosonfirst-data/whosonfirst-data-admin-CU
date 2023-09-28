@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001306,
-    "geom:area_square_m":14847814.990356,
+    "geom:area_square_m":14847754.426773,
     "geom:bbox":"-82.417216,23.100875,-82.366253,23.147888",
     "geom:latitude":23.127988,
     "geom:longitude":-82.392197,
@@ -101,9 +101,10 @@
         "hasc:id":"CU.CH.PR",
         "wd:id":"Q2099152"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892438,
-    "wof:geomhash":"c38feff6cee3389c21331f98c58ba245",
+    "wof:geomhash":"ffba4d847a09cebf96c0e28b3dcd71a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1091907125,
-    "wof:lastmodified":1690868515,
+    "wof:lastmodified":1695886594,
     "wof:name":"Plaza De La Revolucion",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

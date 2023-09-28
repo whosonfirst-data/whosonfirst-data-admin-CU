@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076186,
-    "geom:area_square_m":879610977.606194,
+    "geom:area_square_m":879610434.602945,
     "geom:bbox":"-77.295133,20.723859,-76.832861,21.183655",
     "geom:latitude":20.977863,
     "geom:longitude":-77.031543,
@@ -237,9 +237,10 @@
         "hasc:id":"CU.LT.LT",
         "wd:id":"Q115527"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892378,
-    "wof:geomhash":"0ffb0467a11cdc1e11e7ecefa9ce4c3f",
+    "wof:geomhash":"f6b9d6b0935eed214ec3989e9793af26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -249,7 +250,7 @@
         }
     ],
     "wof:id":1091905619,
-    "wof:lastmodified":1690868509,
+    "wof:lastmodified":1695886158,
     "wof:name":"Las Tunas",
     "wof:parent_id":85670439,
     "wof:placetype":"county",

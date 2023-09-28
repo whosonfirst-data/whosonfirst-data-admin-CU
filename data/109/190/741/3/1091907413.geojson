@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13193,
-    "geom:area_square_m":1527032873.276222,
+    "geom:area_square_m":1527033247.343856,
     "geom:bbox":"-77.249611,20.366944,-76.72935,20.774852",
     "geom:latitude":20.599653,
     "geom:longitude":-76.976955,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GR.RC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892449,
-    "wof:geomhash":"2eb74c64166f6fb07a89e345fbab06d8",
+    "wof:geomhash":"10a7ad2282041c9ad8f03d8ca0cce375",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091907413,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"Rio Cauto",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

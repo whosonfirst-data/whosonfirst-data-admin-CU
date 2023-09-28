@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051192,
-    "geom:area_square_m":586941304.581046,
+    "geom:area_square_m":586941304.581129,
     "geom:bbox":"-78.8517026769,21.7744092958,-78.4966023769,22.166997777",
     "geom:latitude":21.991207,
     "geom:longitude":-78.678804,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CA.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892307,
-    "wof:geomhash":"3d109a1faa59941430fb7b0ccf39c191",
+    "wof:geomhash":"dc91ad827888fd701d35bb2e1178022c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1091904085,
-    "wof:lastmodified":1564327943,
+    "wof:lastmodified":1695886596,
     "wof:name":"Ciro Redondo",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

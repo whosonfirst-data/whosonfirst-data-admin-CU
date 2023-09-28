@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023267,
-    "geom:area_square_m":264705988.028719,
+    "geom:area_square_m":264705988.028732,
     "geom:bbox":"-82.1229065277,22.9754031202,-81.87274724,23.1564849563",
     "geom:latitude":23.061598,
     "geom:longitude":-82.002483,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MQ.JA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892358,
-    "wof:geomhash":"74fa3783641f6f098b6ef39141c6b56c",
+    "wof:geomhash":"4d9342bae9ccaff2a12ce3c027807bda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091905233,
-    "wof:lastmodified":1564327975,
+    "wof:lastmodified":1695886599,
     "wof:name":"Jaruco",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

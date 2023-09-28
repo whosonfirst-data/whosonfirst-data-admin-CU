@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068405,
-    "geom:area_square_m":788418142.454687,
+    "geom:area_square_m":788418379.36413,
     "geom:bbox":"-78.039936,21.095473,-77.610435,21.367519",
     "geom:latitude":21.233677,
     "geom:longitude":-77.845456,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CM.JI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892365,
-    "wof:geomhash":"b91d07bd65212df81718b49bb92cce41",
+    "wof:geomhash":"86f14b4fb895c58d3dfc338ebd5e2499",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091905417,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"Jimaguayu",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

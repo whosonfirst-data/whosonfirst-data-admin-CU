@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038315,
-    "geom:area_square_m":438854628.720711,
+    "geom:area_square_m":438854897.468554,
     "geom:bbox":"-80.567889,22.024166,-80.267584,22.231628",
     "geom:latitude":22.136567,
     "geom:longitude":-80.422592,
@@ -280,9 +280,10 @@
         "hasc:id":"CU.CF.CI",
         "wd:id":"Q190005"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892304,
-    "wof:geomhash":"101372ad196d1c3ec0160bce0dabf685",
+    "wof:geomhash":"dfe71249023114d9fbda755ba290b86d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -292,7 +293,7 @@
         }
     ],
     "wof:id":1091904035,
-    "wof:lastmodified":1690868521,
+    "wof:lastmodified":1695886159,
     "wof:name":"Cienfuegos",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

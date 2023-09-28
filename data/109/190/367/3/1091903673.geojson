@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048516,
-    "geom:area_square_m":563297246.088898,
+    "geom:area_square_m":563297246.088795,
     "geom:bbox":"-77.4078232999,19.9921747193,-77.0627220539,20.293750763",
     "geom:latitude":20.120057,
     "geom:longitude":-77.225485,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GR.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892289,
-    "wof:geomhash":"98448846813966bffda1883c6007bd89",
+    "wof:geomhash":"80dcbbdd35e824f6dd10ba810dc1749a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1091903673,
-    "wof:lastmodified":1564327950,
+    "wof:lastmodified":1695886597,
     "wof:name":"Campechuela",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

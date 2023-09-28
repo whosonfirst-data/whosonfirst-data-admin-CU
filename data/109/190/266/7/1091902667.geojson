@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075403,
-    "geom:area_square_m":871559311.677657,
+    "geom:area_square_m":871559075.559889,
     "geom:bbox":"-77.831005,20.667917,-77.459221,20.984965",
     "geom:latitude":20.807286,
     "geom:longitude":-77.63024,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"CU.LT.AM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892248,
-    "wof:geomhash":"41f43fb24b7b528f1c4c8e7d2ed4c21d",
+    "wof:geomhash":"2f2e8c1fa38ac0764f07db0bd22eb8dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1091902667,
-    "wof:lastmodified":1627507745,
+    "wof:lastmodified":1695886716,
     "wof:name":"Amancio Rodriguez",
     "wof:parent_id":85670439,
     "wof:placetype":"county",

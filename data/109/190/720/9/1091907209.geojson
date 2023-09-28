@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027799,
-    "geom:area_square_m":316873538.199592,
+    "geom:area_square_m":316873479.024043,
     "geom:bbox":"-80.404429,22.703726,-80.173279,22.930525",
     "geom:latitude":22.804404,
     "geom:longitude":-80.285219,
@@ -110,9 +110,10 @@
         "hasc:id":"CU.VC.QG",
         "wd:id":"Q5006"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892440,
-    "wof:geomhash":"18ad825dc1bbe61bc0e2de5ecb16d53c",
+    "wof:geomhash":"b96a825898cf44f13baabe443607409a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1091907209,
-    "wof:lastmodified":1690868523,
+    "wof:lastmodified":1695886594,
     "wof:name":"Quemado De Guines",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

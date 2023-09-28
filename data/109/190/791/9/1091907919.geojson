@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101792,
-    "geom:area_square_m":1168399330.766134,
+    "geom:area_square_m":1168399309.413691,
     "geom:bbox":"-79.718405,21.616194,-79.253956,22.025866",
     "geom:latitude":21.832483,
     "geom:longitude":-79.493363,
@@ -240,9 +240,10 @@
         "hasc:id":"CU.SS.SS",
         "wd:id":"Q845720"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892467,
-    "wof:geomhash":"a818e19046a565c3115885639c26300e",
+    "wof:geomhash":"975cd64d00e6fa67cab2ec980794c7de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -252,7 +253,7 @@
         }
     ],
     "wof:id":1091907919,
-    "wof:lastmodified":1690868510,
+    "wof:lastmodified":1695886592,
     "wof:name":"Sancti Spiritus",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

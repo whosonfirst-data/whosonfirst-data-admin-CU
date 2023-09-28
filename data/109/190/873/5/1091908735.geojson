@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090469,
-    "geom:area_square_m":1035106180.842832,
+    "geom:area_square_m":1035106747.013495,
     "geom:bbox":"-79.416936,22.091914,-78.92313,22.461222",
     "geom:latitude":22.286066,
     "geom:longitude":-79.168103,
@@ -120,9 +120,10 @@
         "hasc:id":"CU.SS.YA",
         "wd:id":"Q862092"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892498,
-    "wof:geomhash":"3308be473cb1f4d51075bdf8c8503208",
+    "wof:geomhash":"cf635008dba55df787823d60646315ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1091908735,
-    "wof:lastmodified":1690868512,
+    "wof:lastmodified":1695886593,
     "wof:name":"Yaguajay",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

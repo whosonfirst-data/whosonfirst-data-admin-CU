@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061398,
-    "geom:area_square_m":710995597.614303,
+    "geom:area_square_m":710995551.706924,
     "geom:bbox":"-75.426396,20.378524,-75.027718,20.670086",
     "geom:latitude":20.527255,
     "geom:longitude":-75.232234,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892453,
-    "wof:geomhash":"9dcba2e36bca74fe820b536f050395b2",
+    "wof:geomhash":"cc51d0e877e1c6230ca44cb5ebbe7fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091907503,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"Sagua De Tanamo",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

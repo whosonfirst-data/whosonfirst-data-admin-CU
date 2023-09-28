@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102291,
-    "geom:area_square_m":1173983241.676385,
+    "geom:area_square_m":1173983646.197925,
     "geom:bbox":"-80.110627,21.667084,-79.611621,22.023513",
     "geom:latitude":21.850289,
     "geom:longitude":-79.858899,
@@ -228,9 +228,10 @@
         "hasc:id":"CU.SS.TR",
         "wd:id":"Q319272"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892487,
-    "wof:geomhash":"e3793051f2749f9676b1730a7638b9e3",
+    "wof:geomhash":"fc8bd1072ad561a7bfc59f1065c3ad4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -240,7 +241,7 @@
         }
     ],
     "wof:id":1091908473,
-    "wof:lastmodified":1690868519,
+    "wof:lastmodified":1695886160,
     "wof:name":"Trinidad",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

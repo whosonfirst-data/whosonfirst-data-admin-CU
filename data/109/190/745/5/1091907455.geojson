@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048814,
-    "geom:area_square_m":558050438.869254,
+    "geom:area_square_m":558050033.433732,
     "geom:bbox":"-80.656699,22.214582,-80.408024,22.586273",
     "geom:latitude":22.399898,
     "geom:longitude":-80.522286,
@@ -117,9 +117,10 @@
         "hasc:id":"CU.CF.RO",
         "wd:id":"Q5004"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892451,
-    "wof:geomhash":"d2de999b3db21fbf7f06da29a2d2e96d",
+    "wof:geomhash":"4ec713c94a2bd156a1078ce91c8990ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1091907455,
-    "wof:lastmodified":1690868522,
+    "wof:lastmodified":1695887186,
     "wof:name":"Rodas",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

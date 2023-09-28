@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003408,
-    "geom:area_square_m":38778590.574327,
+    "geom:area_square_m":38778590.574337,
     "geom:bbox":"-82.5096552143,22.9706936024,-82.4340144734,23.0748906662",
     "geom:latitude":23.029983,
     "geom:longitude":-82.472477,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CH.LL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892371,
-    "wof:geomhash":"34462b49fa723929205305ed355dc4be",
+    "wof:geomhash":"4a2f67fc00a13ff83056999a0a01480c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091905567,
-    "wof:lastmodified":1564327932,
+    "wof:lastmodified":1695886594,
     "wof:name":"La Lisa",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

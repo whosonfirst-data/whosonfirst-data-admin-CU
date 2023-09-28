@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077509,
-    "geom:area_square_m":895549615.497991,
+    "geom:area_square_m":895549615.498018,
     "geom:bbox":"-77.3522435912,20.642084122,-77.0144058742,21.0353862281",
     "geom:latitude":20.86767,
     "geom:longitude":-77.209433,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"CU.LT.JO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892366,
-    "wof:geomhash":"6333924b3fb1b2ff9768a5898ca87ecd",
+    "wof:geomhash":"ac30b3f0a95489d26b545414d7ec76cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091905447,
-    "wof:lastmodified":1564327947,
+    "wof:lastmodified":1695886597,
     "wof:name":"Jobabo",
     "wof:parent_id":85670439,
     "wof:placetype":"county",

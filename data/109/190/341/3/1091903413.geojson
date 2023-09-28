@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036275,
-    "geom:area_square_m":421602461.276911,
+    "geom:area_square_m":421602461.276896,
     "geom:bbox":"-75.3537872762,19.881305695,-74.95375061,20.0671845788",
     "geom:latitude":19.962219,
     "geom:longitude":-75.140337,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GU.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892279,
-    "wof:geomhash":"8b707fc5d53ddfc1c6ae4dca258811d8",
+    "wof:geomhash":"88b920f02f4b8fbac7b37f3ba64b0347",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1091903413,
-    "wof:lastmodified":1564327945,
+    "wof:lastmodified":1695886596,
     "wof:name":"Caimanera",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

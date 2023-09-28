@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.364713,
-    "geom:area_square_m":4172196761.734388,
+    "geom:area_square_m":4172196882.306244,
     "geom:bbox":"-82.159637,22.018749,-80.590207,22.613025",
     "geom:latitude":22.308622,
     "geom:longitude":-81.416821,
@@ -124,9 +124,10 @@
         "hasc:id":"CU.MA.CZ",
         "wd:id":"Q5951909"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892302,
-    "wof:geomhash":"c4de09a344450a22d098bbedc342eace",
+    "wof:geomhash":"939a523c0bb9d54f0441d9f9e26ce7f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1091903987,
-    "wof:lastmodified":1690868508,
+    "wof:lastmodified":1695886592,
     "wof:name":"Cienaga De Zapata",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

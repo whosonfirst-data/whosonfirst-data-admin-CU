@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049848,
-    "geom:area_square_m":570680898.576353,
+    "geom:area_square_m":570680691.709444,
     "geom:bbox":"-80.830264,22.046509,-80.488845,22.365384",
     "geom:latitude":22.202634,
     "geom:longitude":-80.653851,
@@ -120,9 +120,10 @@
         "hasc:id":"CU.CF.AB",
         "wd:id":"Q331384"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892243,
-    "wof:geomhash":"bb3f425194459c6e081c56596bef442a",
+    "wof:geomhash":"09528d87aa445c4f4c06f2821c6f23cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1091902555,
-    "wof:lastmodified":1690868521,
+    "wof:lastmodified":1695886594,
     "wof:name":"Abreus",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

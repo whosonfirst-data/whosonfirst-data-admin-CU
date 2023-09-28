@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095813,
-    "geom:area_square_m":1095030276.18504,
+    "geom:area_square_m":1095030686.812041,
     "geom:bbox":"-83.665911,22.18375,-83.275777,22.646809",
     "geom:latitude":22.440378,
     "geom:longitude":-83.437662,
@@ -106,9 +106,10 @@
         "hasc:id":"CU.PD.CS",
         "wd:id":"Q1127452"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892312,
-    "wof:geomhash":"7afb9b7e015fe1a896228c33b66e46ec",
+    "wof:geomhash":"fff5e6d127378724539e6d1c0073f263",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1091904175,
-    "wof:lastmodified":1690868518,
+    "wof:lastmodified":1695887185,
     "wof:name":"Consolacion Del Sur",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010925,
-    "geom:area_square_m":124253032.584473,
+    "geom:area_square_m":124253032.584434,
     "geom:bbox":"-82.3270580603,23.0527936677,-82.1587826409,23.161509813",
     "geom:latitude":23.108695,
     "geom:longitude":-82.231043,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CH.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892340,
-    "wof:geomhash":"80c0ac3959c6a6dab03622b6d903dc1e",
+    "wof:geomhash":"7b75b7c78f49a4437717b0f35d025fbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1091904803,
-    "wof:lastmodified":1564327957,
+    "wof:lastmodified":1695886597,
     "wof:name":"Guanabacoa",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

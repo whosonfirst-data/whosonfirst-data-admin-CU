@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036926,
-    "geom:area_square_m":428730894.903952,
+    "geom:area_square_m":428730894.903942,
     "geom:bbox":"-76.8128163458,20.0084255512,-76.5453733827,20.2809642355",
     "geom:latitude":20.119367,
     "geom:longitude":-76.711284,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GR.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892272,
-    "wof:geomhash":"7e18c4c87b52b21436d587e598832fd3",
+    "wof:geomhash":"c7ae559aabd97da84f8e9266d7e0e93c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1091903243,
-    "wof:lastmodified":1564327946,
+    "wof:lastmodified":1695886596,
     "wof:name":"Buey Arriba",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

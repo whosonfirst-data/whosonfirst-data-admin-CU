@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049207,
-    "geom:area_square_m":568548983.31283,
+    "geom:area_square_m":568548983.312829,
     "geom:bbox":"-77.5341917784,20.6801083119,-77.3213740362,21.0853136017",
     "geom:latitude":20.866324,
     "geom:longitude":-77.418684,
@@ -749,9 +749,10 @@
     "wof:concordances":{
         "hasc:id":"CU.LT.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892309,
-    "wof:geomhash":"b1311634bdf94ff76a3252f2b955a7de",
+    "wof:geomhash":"eb1dc4e722f21e2059daa99cdd680bcf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -761,7 +762,7 @@
         }
     ],
     "wof:id":1091904115,
-    "wof:lastmodified":1564327956,
+    "wof:lastmodified":1695886597,
     "wof:name":"Colombia",
     "wof:parent_id":85670439,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05314,
-    "geom:area_square_m":608419052.458712,
+    "geom:area_square_m":608419052.458927,
     "geom:bbox":"-78.7409045083,21.9952677019,-78.3679276879,22.387083054",
     "geom:latitude":22.191032,
     "geom:longitude":-78.590255,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CA.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892413,
-    "wof:geomhash":"1ca6618a27a90c5cfde0c8af3aafe7fa",
+    "wof:geomhash":"ebf3d553171aa6b8f0368367bcc67819",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1091906525,
-    "wof:lastmodified":1564327965,
+    "wof:lastmodified":1695886598,
     "wof:name":"Moron",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

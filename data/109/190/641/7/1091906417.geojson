@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076697,
-    "geom:area_square_m":875900152.428537,
+    "geom:area_square_m":875900152.428563,
     "geom:bbox":"-84.1390995047,22.3413451313,-83.8104894086,22.750389099",
     "geom:latitude":22.544412,
     "geom:longitude":-83.963531,
@@ -94,9 +94,10 @@
         "hasc:id":"CU.PD.MM",
         "wd:id":"Q2204246"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892408,
-    "wof:geomhash":"1f65aa3838d54c7558237d16dfb42df4",
+    "wof:geomhash":"d08d0ac2476df5a1cceec4efa64a05b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1091906417,
-    "wof:lastmodified":1561766476,
+    "wof:lastmodified":1695887185,
     "wof:name":"Minas De Matahambre",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

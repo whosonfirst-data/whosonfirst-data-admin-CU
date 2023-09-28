@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000986,
-    "geom:area_square_m":11216747.811148,
+    "geom:area_square_m":11216446.37633,
     "geom:bbox":"-82.381746,23.07998,-82.336999,23.11561",
     "geom:latitude":23.096026,
     "geom:longitude":-82.360186,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CH.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892323,
-    "wof:geomhash":"602662d8447eb34f2b049a77521a3382",
+    "wof:geomhash":"bfcd38c09d4cd6384fe595b64df8d2d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1091904421,
-    "wof:lastmodified":1627507746,
+    "wof:lastmodified":1695886718,
     "wof:name":"Diez De Octubre",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

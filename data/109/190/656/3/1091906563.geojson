@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.207704,
-    "geom:area_square_m":2386695957.372408,
+    "geom:area_square_m":2386695957.371999,
     "geom:bbox":"-83.207947,21.439556,-81.359581,21.947056",
     "geom:latitude":21.674996,
     "geom:longitude":-82.788054,
@@ -232,12 +232,13 @@
         "hasc:id":"CU.IJ.IJ",
         "wd:id":"Q115027"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85670405
     ],
     "wof:country":"CU",
     "wof:created":1473892414,
-    "wof:geomhash":"cec96f12402e17d458e7df3112d5d37b",
+    "wof:geomhash":"7d7002081fe50dbb38749e065f2b582f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -247,7 +248,7 @@
         }
     ],
     "wof:id":1091906563,
-    "wof:lastmodified":1690868513,
+    "wof:lastmodified":1695886411,
     "wof:name":"Municipio Especial Isla De La Juventud",
     "wof:parent_id":85670405,
     "wof:placetype":"county",

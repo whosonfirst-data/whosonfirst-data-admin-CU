@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073438,
-    "geom:area_square_m":850080469.613026,
+    "geom:area_square_m":850080469.6131,
     "geom:bbox":"-76.4543470189,20.4003686243,-76.0021356043,20.7165205452",
     "geom:latitude":20.587654,
     "geom:longitude":-76.204867,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.UN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892490,
-    "wof:geomhash":"f8265f16a7312beb0924fe90b5ca6b13",
+    "wof:geomhash":"deac60d5eb849118c3dcdf651d7a84c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091908561,
-    "wof:lastmodified":1564327944,
+    "wof:lastmodified":1695886596,
     "wof:name":"Urbano Noris",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

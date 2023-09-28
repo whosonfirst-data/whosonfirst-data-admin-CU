@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039586,
-    "geom:area_square_m":450771743.261369,
+    "geom:area_square_m":450771743.261398,
     "geom:bbox":"-81.7082895179,22.8284486636,-81.2947507059,23.0246880701",
     "geom:latitude":22.941849,
     "geom:longitude":-81.483302,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MA.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892379,
-    "wof:geomhash":"5ff4a9285d5a8ccf7b469b53c2285402",
+    "wof:geomhash":"eece8258919d1a82cbdf2a703eb75aa8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1091905663,
-    "wof:lastmodified":1564327934,
+    "wof:lastmodified":1695886594,
     "wof:name":"Limonar",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

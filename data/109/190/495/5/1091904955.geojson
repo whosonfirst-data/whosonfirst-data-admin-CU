@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040959,
-    "geom:area_square_m":466868409.611797,
+    "geom:area_square_m":466868409.611651,
     "geom:bbox":"-82.143214706,22.654556274,-81.8444317122,22.938963923",
     "geom:latitude":22.806995,
     "geom:longitude":-81.999707,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MQ.GS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892346,
-    "wof:geomhash":"fdb05b0022631ddb33a22be50ddb7a82",
+    "wof:geomhash":"db91e11fc4a98000a3231793360ad8ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1091904955,
-    "wof:lastmodified":1564327969,
+    "wof:lastmodified":1695886598,
     "wof:name":"Guines",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

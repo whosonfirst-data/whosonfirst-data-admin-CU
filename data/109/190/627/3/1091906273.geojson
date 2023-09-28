@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029492,
-    "geom:area_square_m":335545750.666097,
+    "geom:area_square_m":335545750.666151,
     "geom:bbox":"-81.7514901536,22.9596698661,-81.4518441956,23.153749466",
     "geom:latitude":23.057095,
     "geom:longitude":-81.605163,
@@ -182,9 +182,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MA.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892402,
-    "wof:geomhash":"81847cddfd891b4886e0a5f72e96186b",
+    "wof:geomhash":"40ea118adf58f056700a5fe0f21cda90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -194,7 +195,7 @@
         }
     ],
     "wof:id":1091906273,
-    "wof:lastmodified":1564327941,
+    "wof:lastmodified":1695886596,
     "wof:name":"Matanzas",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

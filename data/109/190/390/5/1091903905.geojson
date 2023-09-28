@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102052,
-    "geom:area_square_m":1167301670.644697,
+    "geom:area_square_m":1167301670.644738,
     "geom:bbox":"-79.0320877778,22.0904357948,-78.271247864,22.61536026",
     "geom:latitude":22.325623,
     "geom:longitude":-78.723477,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CA.FL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892299,
-    "wof:geomhash":"eaa825a39cba11eb17e5f55982d64d28",
+    "wof:geomhash":"b1639be9939ab5074f57b32d393a573b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091903905,
-    "wof:lastmodified":1564327936,
+    "wof:lastmodified":1695886595,
     "wof:name":"Chambas",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

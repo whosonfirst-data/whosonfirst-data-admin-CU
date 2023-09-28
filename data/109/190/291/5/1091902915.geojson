@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067077,
-    "geom:area_square_m":774481283.114551,
+    "geom:area_square_m":774481207.43172,
     "geom:bbox":"-75.901678,20.785701,-75.575417,21.136223",
     "geom:latitude":20.97091,
     "geom:longitude":-75.749067,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892258,
-    "wof:geomhash":"267ced83eb8da14d2ce0fadcb955a48c",
+    "wof:geomhash":"9bf92baa8d5bc1c6be6c3c443d7eaf3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1091902915,
-    "wof:lastmodified":1636504853,
+    "wof:lastmodified":1695886159,
     "wof:name":"Banes",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

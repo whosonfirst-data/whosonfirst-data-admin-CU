@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016955,
-    "geom:area_square_m":193357106.740924,
+    "geom:area_square_m":193356797.630614,
     "geom:bbox":"-82.569185,22.54789,-82.430933,22.850679",
     "geom:latitude":22.737529,
     "geom:longitude":-82.502218,
@@ -113,9 +113,10 @@
         "hasc:id":"CU.AR.GM",
         "wd:id":"Q603115"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892348,
-    "wof:geomhash":"f006bff0ece54a31dab6d98b288f94da",
+    "wof:geomhash":"7555f25cd45fd2495c3d9ec7badb82b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1091905003,
-    "wof:lastmodified":1690868517,
+    "wof:lastmodified":1695887185,
     "wof:name":"Guira De Melena",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

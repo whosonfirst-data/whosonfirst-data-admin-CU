@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049245,
-    "geom:area_square_m":570969938.662675,
+    "geom:area_square_m":570970042.031162,
     "geom:bbox":"-77.105378,20.160612,-76.784047,20.500834",
     "geom:latitude":20.33477,
     "geom:longitude":-76.954454,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GR.YA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892499,
-    "wof:geomhash":"a7e51bf101fee73082c372179484b85a",
+    "wof:geomhash":"d640f647f104244c2480de461d485057",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1091908741,
-    "wof:lastmodified":1627507748,
+    "wof:lastmodified":1695886720,
     "wof:name":"Yara",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

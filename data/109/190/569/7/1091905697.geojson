@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065548,
-    "geom:area_square_m":748051480.947893,
+    "geom:area_square_m":748051480.947807,
     "geom:bbox":"-80.8471963793,22.4601396022,-80.5139803782,22.8300996392",
     "geom:latitude":22.640755,
     "geom:longitude":-80.653356,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MA.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892381,
-    "wof:geomhash":"cf59976cc9a43f0de42a8f5218da79cc",
+    "wof:geomhash":"b22908c192fe218378763e6e39d1ec9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1091905697,
-    "wof:lastmodified":1564327933,
+    "wof:lastmodified":1695886594,
     "wof:name":"Los Arabos",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031051,
-    "geom:area_square_m":360466384.222405,
+    "geom:area_square_m":360466384.22239,
     "geom:bbox":"-76.4288928747,20.0496541948,-76.1563398401,20.2432708714",
     "geom:latitude":20.144588,
     "geom:longitude":-76.303155,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"CU.SC.TF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892486,
-    "wof:geomhash":"8749e0174b6c756adb6a31ce829b6557",
+    "wof:geomhash":"6783eae24df501454e5dbe7533be7a59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1091908439,
-    "wof:lastmodified":1564327941,
+    "wof:lastmodified":1695886596,
     "wof:name":"Tercer Frente",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

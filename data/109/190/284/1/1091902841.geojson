@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06944,
-    "geom:area_square_m":802711259.32577,
+    "geom:area_square_m":802710850.268206,
     "geom:bbox":"-76.259737,20.616081,-75.852326,20.960195",
     "geom:latitude":20.792736,
     "geom:longitude":-76.038213,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892255,
-    "wof:geomhash":"b7b7471787073df24e0c7838da10980c",
+    "wof:geomhash":"8b8cabee84442799a44c30d521710fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091902841,
-    "wof:lastmodified":1627507745,
+    "wof:lastmodified":1695886716,
     "wof:name":"Baguanos",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

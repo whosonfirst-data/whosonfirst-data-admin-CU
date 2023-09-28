@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052937,
-    "geom:area_square_m":603854623.149571,
+    "geom:area_square_m":603854623.149572,
     "geom:bbox":"-79.9480729827,22.5311165667,-79.6460691716,22.905416489",
     "geom:latitude":22.703143,
     "geom:longitude":-79.81938,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"CU.VC.EN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892326,
-    "wof:geomhash":"8edc618095d846b235b7bae28422fbfc",
+    "wof:geomhash":"4f029cce116cdd05d88369ee38a75bc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1091904483,
-    "wof:lastmodified":1564327940,
+    "wof:lastmodified":1695886595,
     "wof:name":"Encrucijada",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

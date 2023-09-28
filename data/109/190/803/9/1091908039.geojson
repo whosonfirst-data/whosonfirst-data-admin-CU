@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032878,
-    "geom:area_square_m":373908962.027274,
+    "geom:area_square_m":373908760.019129,
     "geom:bbox":"-82.101069,23.015143,-81.670457,23.187944",
     "geom:latitude":23.111764,
     "geom:longitude":-81.851154,
@@ -132,9 +132,10 @@
         "hasc:id":"CU.MQ.SC",
         "wd:id":"Q270302"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892472,
-    "wof:geomhash":"af3c04fc77eee2f07d85b2918ded5396",
+    "wof:geomhash":"62ca98477a325305bbe3b1b18b0c7799",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1091908039,
-    "wof:lastmodified":1690868512,
+    "wof:lastmodified":1695886593,
     "wof:name":"Santa Cruz Del Norte",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

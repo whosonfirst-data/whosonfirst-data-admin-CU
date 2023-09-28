@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071071,
-    "geom:area_square_m":809578140.644137,
+    "geom:area_square_m":809578776.068348,
     "geom:bbox":"-83.397156,22.764841,-82.928203,23.01375",
     "geom:latitude":22.893344,
     "geom:longitude":-83.166711,
@@ -127,9 +127,10 @@
         "hasc:id":"CU.AR.BH",
         "wd:id":"Q571968"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892256,
-    "wof:geomhash":"1f861f7ea0fb1dbec0f7ad7aa92edfc9",
+    "wof:geomhash":"2b1376649c29128c810713024505b58a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1091902873,
-    "wof:lastmodified":1690868512,
+    "wof:lastmodified":1695887185,
     "wof:name":"Bahia Honda",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089332,
-    "geom:area_square_m":1026540834.11053,
+    "geom:area_square_m":1026540834.110567,
     "geom:bbox":"-79.5469212699,21.54205513,-78.9548802406,21.8705612218",
     "geom:latitude":21.670567,
     "geom:longitude":-79.243802,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"CU.SS.LS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892374,
-    "wof:geomhash":"bdddb3bf990d55614a3b84cbdcaad578",
+    "wof:geomhash":"5e9e49dc2dd05620e46f2b314b7221cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091905615,
-    "wof:lastmodified":1564327935,
+    "wof:lastmodified":1695886595,
     "wof:name":"La Sierpe",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01157,
-    "geom:area_square_m":131801049.315127,
+    "geom:area_square_m":131801443.98799,
     "geom:bbox":"-82.576494,22.813952,-82.426146,22.938919",
     "geom:latitude":22.883329,
     "geom:longitude":-82.505232,
@@ -122,9 +122,10 @@
         "hasc:id":"CU.AR.SA",
         "wd:id":"Q114984"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892456,
-    "wof:geomhash":"196248c7ee012de02d5e8d258a1987c5",
+    "wof:geomhash":"1d939333592381159721785367b2c93c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1091907587,
-    "wof:lastmodified":1690868517,
+    "wof:lastmodified":1695887185,
     "wof:name":"San Antonio De Los Banos",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

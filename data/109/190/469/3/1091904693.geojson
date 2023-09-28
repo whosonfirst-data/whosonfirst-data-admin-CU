@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054402,
-    "geom:area_square_m":627631693.2342,
+    "geom:area_square_m":627631693.234097,
     "geom:bbox":"-76.4809995371,20.97141356,-76.0726342166,21.2457837472",
     "geom:latitude":21.090162,
     "geom:longitude":-76.279446,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.GI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892336,
-    "wof:geomhash":"68a4f4c5cfb3208e04ab5767664823c8",
+    "wof:geomhash":"d4fcb23012d37f5affac8f8a9737ce9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091904693,
-    "wof:lastmodified":1564327965,
+    "wof:lastmodified":1695886598,
     "wof:name":"Gibara",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

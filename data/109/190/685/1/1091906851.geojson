@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026739,
-    "geom:area_square_m":305932358.524779,
+    "geom:area_square_m":305932372.700367,
     "geom:bbox":"-80.49875,22.192403,-80.246895,22.429902",
     "geom:latitude":22.289066,
     "geom:longitude":-80.382205,
@@ -120,9 +120,10 @@
         "hasc:id":"CU.CF.PA",
         "wd:id":"Q5008"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892426,
-    "wof:geomhash":"0145b4d36acd9e74cff3b5b433b98659",
+    "wof:geomhash":"7560d70dfb88a0d9d88af246f0ba054e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1091906851,
-    "wof:lastmodified":1690868519,
+    "wof:lastmodified":1695887185,
     "wof:name":"Palmira",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

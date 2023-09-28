@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157853,
-    "geom:area_square_m":1820362263.120488,
+    "geom:area_square_m":1820362883.172693,
     "geom:bbox":"-76.891479,20.940134,-76.30662,21.390444",
     "geom:latitude":21.152933,
     "geom:longitude":-76.640799,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.LT.JM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892361,
-    "wof:geomhash":"a93f1d66b13eecc234371028dbee4c7c",
+    "wof:geomhash":"0b9f5427aab70be23521c1f305525d4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091905315,
-    "wof:lastmodified":1627507746,
+    "wof:lastmodified":1695886719,
     "wof:name":"Jesus Menendez",
     "wof:parent_id":85670439,
     "wof:placetype":"county",
