@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056438,
-    "geom:area_square_m":654052512.009084,
+    "geom:area_square_m":654052309.52974,
     "geom:bbox":"-76.546858,20.22704,-76.196177,20.557822",
     "geom:latitude":20.410804,
     "geom:longitude":-76.389149,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GR.JI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892363,
-    "wof:geomhash":"b845ead801454db265f887443bbae33d",
+    "wof:geomhash":"7c1a15bfbddb76ce365d555edd69b784",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091905355,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"Jiguani",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

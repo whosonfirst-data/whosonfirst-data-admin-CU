@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069561,
-    "geom:area_square_m":794504190.055556,
+    "geom:area_square_m":794503966.64308,
     "geom:bbox":"-83.47426,22.322916,-83.079613,22.726157",
     "geom:latitude":22.527252,
     "geom:longitude":-83.254939,
@@ -96,9 +96,10 @@
         "hasc:id":"CU.PD.LS",
         "wd:id":"Q1870561"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892383,
-    "wof:geomhash":"52b9609e1af4ea74956c89dd9be3df35",
+    "wof:geomhash":"0ff61dc6da0ad7814a0a41165dc09176",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1091905737,
-    "wof:lastmodified":1690868516,
+    "wof:lastmodified":1695887185,
     "wof:name":"Los Palacios",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

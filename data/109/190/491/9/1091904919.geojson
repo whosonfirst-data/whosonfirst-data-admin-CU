@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064206,
-    "geom:area_square_m":744828138.061844,
+    "geom:area_square_m":744828125.317182,
     "geom:bbox":"-75.258591,20.018104,-75.049337,20.479123",
     "geom:latitude":20.254945,
     "geom:longitude":-75.156472,
@@ -291,9 +291,10 @@
         "hasc:id":"CU.GU.GU",
         "wd:id":"Q185156"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892345,
-    "wof:geomhash":"9378765efad1873aa5a87cf7bddfa1a8",
+    "wof:geomhash":"96d38181d39dfda27487c9e7c0259fc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -303,7 +304,7 @@
         }
     ],
     "wof:id":1091904919,
-    "wof:lastmodified":1690868514,
+    "wof:lastmodified":1695886593,
     "wof:name":"Guantanamo",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

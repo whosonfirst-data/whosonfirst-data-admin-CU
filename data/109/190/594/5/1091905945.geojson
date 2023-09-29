@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083779,
-    "geom:area_square_m":965402168.335027,
+    "geom:area_square_m":965402332.063274,
     "geom:bbox":"-77.145325,21.066262,-76.811056,21.457651",
     "geom:latitude":21.266408,
     "geom:longitude":-76.979771,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.LT.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892390,
-    "wof:geomhash":"86d777a54e3e01c6d501ffcd22425677",
+    "wof:geomhash":"2c5c9670e20607e6ab2ee514a70dc7be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091905945,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"Manati",
     "wof:parent_id":85670439,
     "wof:placetype":"county",

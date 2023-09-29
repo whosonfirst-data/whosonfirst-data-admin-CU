@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083307,
-    "geom:area_square_m":968031113.013418,
+    "geom:area_square_m":968031113.013457,
     "geom:bbox":"-77.0567747499,19.885389328,-75.9505390362,20.0928400738",
     "geom:latitude":19.992915,
     "geom:longitude":-76.53112,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"CU.SC.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892339,
-    "wof:geomhash":"10b5222bd00140897ff82538757c7a02",
+    "wof:geomhash":"b3fe398b7d6f6e3d68ba130d83677dd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091904765,
-    "wof:lastmodified":1564327938,
+    "wof:lastmodified":1695886595,
     "wof:name":"Guama",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

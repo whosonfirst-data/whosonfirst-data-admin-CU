@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00208,
-    "geom:area_square_m":23667903.321098,
+    "geom:area_square_m":23667903.321088,
     "geom:bbox":"-82.4480515839,23.0273828221,-82.3953099988,23.1032469932",
     "geom:latitude":23.066511,
     "geom:longitude":-82.423004,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CH.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892398,
-    "wof:geomhash":"5928bd37a39849e887be3f7ff298e516",
+    "wof:geomhash":"a14ab717929db6d18def5a5a69ef6fe3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1091906137,
-    "wof:lastmodified":1564327951,
+    "wof:lastmodified":1695886597,
     "wof:name":"Marianao",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

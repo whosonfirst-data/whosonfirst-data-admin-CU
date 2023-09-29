@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021272,
-    "geom:area_square_m":242557034.405669,
+    "geom:area_square_m":242556979.544286,
     "geom:bbox":"-81.984752,22.672056,-81.80834,22.85315",
     "geom:latitude":22.754987,
     "geom:longitude":-81.894319,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MQ.SN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892466,
-    "wof:geomhash":"4b9a3df780dc8380b75d76008c0a4a2c",
+    "wof:geomhash":"f92ae4ecae7bc1a38f187087704b3bdd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091907877,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"San Nicolas",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

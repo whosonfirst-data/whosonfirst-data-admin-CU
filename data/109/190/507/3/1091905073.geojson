@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013165,
-    "geom:area_square_m":149696324.134368,
+    "geom:area_square_m":149695918.982265,
     "geom:bbox":"-82.359949,23.054584,-82.074825,23.18125",
     "geom:latitude":23.136157,
     "geom:longitude":-82.178549,
@@ -109,9 +109,10 @@
         "hasc:id":"CU.CH.HE",
         "wd:id":"Q1566695"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892351,
-    "wof:geomhash":"dbccaa7ef9c655bf72016dbcd504dc67",
+    "wof:geomhash":"2b22e1723407c4af68f1a60b2abcee90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1091905073,
-    "wof:lastmodified":1690868517,
+    "wof:lastmodified":1695887185,
     "wof:name":"Habana Del Este",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

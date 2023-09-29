@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045403,
-    "geom:area_square_m":520341103.069678,
+    "geom:area_square_m":520340822.873489,
     "geom:bbox":"-79.438881,21.92827,-79.144414,22.185612",
     "geom:latitude":22.054622,
     "geom:longitude":-79.282818,
@@ -111,9 +111,10 @@
         "hasc:id":"CU.SS.TA",
         "wd:id":"Q862734"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892484,
-    "wof:geomhash":"8bad39755fa69b06f159df2169d6ee56",
+    "wof:geomhash":"1576d385e5f1acecd47331c6efba5791",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1091908397,
-    "wof:lastmodified":1690868520,
+    "wof:lastmodified":1695886594,
     "wof:name":"Taguasco",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

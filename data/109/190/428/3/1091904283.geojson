@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006618,
-    "geom:area_square_m":75318612.531773,
+    "geom:area_square_m":75318612.531798,
     "geom:bbox":"-82.3121059735,22.9733414417,-82.204814001,23.080302548",
     "geom:latitude":23.025172,
     "geom:longitude":-82.259811,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CH.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892317,
-    "wof:geomhash":"9b5a65e24cf6455193c024a60b39aae9",
+    "wof:geomhash":"49e799bdad335e490325de6b9e27240c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091904283,
-    "wof:lastmodified":1564327951,
+    "wof:lastmodified":1695886597,
     "wof:name":"Cotorro",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065845,
-    "geom:area_square_m":749076961.819265,
+    "geom:area_square_m":749076238.935793,
     "geom:bbox":"-82.538978,22.932974,-82.074825,23.18125",
     "geom:latitude":23.069728,
     "geom:longitude":-82.306896,
@@ -234,12 +234,14 @@
         "gn:id":3564073,
         "gp:id":2345107,
         "hasc:id":"CU.CH",
+        "iso:code":"CU-03",
         "iso:id":"CU-03",
         "qs:id":428296,
         "unlc:id":"CU-03",
         "wd:id":"Q274126",
         "wk:page":"La Habana Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421186583
     ],
@@ -247,7 +249,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0877133207736721797a1fa1503e9174",
+    "wof:geomhash":"fca8498d225992be891f3b1d0fa76513",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -262,7 +264,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868498,
+    "wof:lastmodified":1695884737,
     "wof:name":"Ciudad De La Habana",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

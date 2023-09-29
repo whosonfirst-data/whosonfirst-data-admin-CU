@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066164,
-    "geom:area_square_m":767445072.992762,
+    "geom:area_square_m":767445072.992841,
     "geom:bbox":"-75.988736,20.089908,-75.639836,20.456493",
     "geom:latitude":20.273903,
     "geom:longitude":-75.810546,
@@ -139,9 +139,10 @@
         "hasc:id":"CU.SC.SL",
         "wd:id":"Q555956"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892463,
-    "wof:geomhash":"3e392d8b3fd269cffdbd3ce4f408fe13",
+    "wof:geomhash":"29118b9a1aab2a7d63384fce3ffee895",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1360667251,
-    "wof:lastmodified":1690868507,
+    "wof:lastmodified":1695886158,
     "wof:name":"San Luis",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

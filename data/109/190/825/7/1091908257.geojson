@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063972,
-    "geom:area_square_m":737099197.59746,
+    "geom:area_square_m":737099293.876723,
     "geom:bbox":"-77.726588,21.070223,-77.421335,21.441257",
     "geom:latitude":21.279578,
     "geom:longitude":-77.571742,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CM.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892479,
-    "wof:geomhash":"2e491db3deb3621eda942b42885ef82e",
+    "wof:geomhash":"aa7bbb1c8abe87bcb8efbe211d15091c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091908257,
-    "wof:lastmodified":1627507748,
+    "wof:lastmodified":1695886720,
     "wof:name":"Sibanicu",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

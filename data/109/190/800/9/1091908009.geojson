@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046164,
-    "geom:area_square_m":527737401.883677,
+    "geom:area_square_m":527737401.88359,
     "geom:bbox":"-80.0823136138,22.2679434353,-79.7614797533,22.5398842828",
     "geom:latitude":22.404587,
     "geom:longitude":-79.921604,
@@ -170,9 +170,10 @@
     "wof:concordances":{
         "hasc:id":"CU.VC.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892470,
-    "wof:geomhash":"54f8acb317d913fc3600825df508e96e",
+    "wof:geomhash":"9c7bc3216f33c4bf0248bfe22b573015",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1091908009,
-    "wof:lastmodified":1564327965,
+    "wof:lastmodified":1695886598,
     "wof:name":"Santa Clara",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

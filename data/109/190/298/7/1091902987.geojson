@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056979,
-    "geom:area_square_m":661639767.008083,
+    "geom:area_square_m":661639808.601723,
     "geom:bbox":"-77.080795,19.937615,-76.781932,20.270819",
     "geom:latitude":20.102222,
     "geom:longitude":-76.925236,
@@ -103,9 +103,10 @@
         "hasc:id":"CU.GR.BM",
         "wd:id":"Q809538"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892261,
-    "wof:geomhash":"7cb16c9d5d60328931aaf3a514b7406b",
+    "wof:geomhash":"cfdfa755d547fe89506faeca79d85d95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091902987,
-    "wof:lastmodified":1690868520,
+    "wof:lastmodified":1695887185,
     "wof:name":"Bartolome Maso",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062058,
-    "geom:area_square_m":712040976.441136,
+    "geom:area_square_m":712041248.579281,
     "geom:bbox":"-78.574998,21.753316,-78.145976,22.037982",
     "geom:latitude":21.888384,
     "geom:longitude":-78.374231,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CA.PE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892439,
-    "wof:geomhash":"45aa862508ecf5efb8556629913f7254",
+    "wof:geomhash":"2b423594dc87695c827173599841c8b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091907167,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"Primero De Enero",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

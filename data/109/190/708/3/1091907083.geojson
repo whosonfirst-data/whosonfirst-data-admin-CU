@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003439,
-    "geom:area_square_m":39112403.726329,
+    "geom:area_square_m":39112403.726355,
     "geom:bbox":"-82.5389776885,23.0507225905,-82.404465873,23.1332178039",
     "geom:latitude":23.088688,
     "geom:longitude":-82.461807,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CH.PL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892436,
-    "wof:geomhash":"485b09a291ae611e59918e3908199788",
+    "wof:geomhash":"f4649db1f0ee75bf9f7cb173e8ea75e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091907083,
-    "wof:lastmodified":1564327934,
+    "wof:lastmodified":1695886594,
     "wof:name":"Playa",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

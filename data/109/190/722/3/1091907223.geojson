@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02445,
-    "geom:area_square_m":278708296.53913,
+    "geom:area_square_m":278708389.846777,
     "geom:bbox":"-82.470594,22.679575,-82.282549,22.911035",
     "geom:latitude":22.799698,
     "geom:longitude":-82.388796,
@@ -118,9 +118,10 @@
         "hasc:id":"CU.MQ.QU",
         "wd:id":"Q2123580"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892442,
-    "wof:geomhash":"f3a9d6b6baab9182705e88de1de9cb5a",
+    "wof:geomhash":"b02bea23c14b80f9d2d42adaae5c3686",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1091907223,
-    "wof:lastmodified":1690868515,
+    "wof:lastmodified":1695887185,
     "wof:name":"Quivican",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

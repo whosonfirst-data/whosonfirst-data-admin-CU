@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047608,
-    "geom:area_square_m":551059581.265553,
+    "geom:area_square_m":551059581.265526,
     "geom:bbox":"-76.7932503042,20.454051838,-76.3673804677,20.7331845846",
     "geom:latitude":20.596446,
     "geom:longitude":-76.580284,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GR.CC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892296,
-    "wof:geomhash":"3d732b8b9a7a824e9c41df87f39687dc",
+    "wof:geomhash":"d98791d1c2f70d5f18598cf2738927a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1091903821,
-    "wof:lastmodified":1564327947,
+    "wof:lastmodified":1695886597,
     "wof:name":"Cauto Cristo",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

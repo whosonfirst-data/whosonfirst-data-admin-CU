@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007086,
-    "geom:area_square_m":80645515.953029,
+    "geom:area_square_m":80645686.049891,
     "geom:bbox":"-82.38002,22.946096,-82.252353,23.091402",
     "geom:latitude":23.021189,
     "geom:longitude":-82.323348,
@@ -96,9 +96,10 @@
         "hasc:id":"CU.CH.AN",
         "wd:id":"Q1936053"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892251,
-    "wof:geomhash":"96398b71d59cee82a35936acc181f810",
+    "wof:geomhash":"253d8338799e21ed39f7e427e89b9c75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1091902737,
-    "wof:lastmodified":1690868511,
+    "wof:lastmodified":1695886593,
     "wof:name":"Arroyo Naranjo",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

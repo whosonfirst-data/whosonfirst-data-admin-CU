@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037953,
-    "geom:area_square_m":441171964.672333,
+    "geom:area_square_m":441171964.672319,
     "geom:bbox":"-77.4540156605,19.847888947,-77.0273860059,20.0264439022",
     "geom:latitude":19.934562,
     "geom:longitude":-77.254142,
@@ -85,9 +85,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GR.PI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892431,
-    "wof:geomhash":"0d63943d2f19fa0a380f9426bf1c2b44",
+    "wof:geomhash":"bbf8281916dd249cefac6236b34643b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1091906965,
-    "wof:lastmodified":1564327969,
+    "wof:lastmodified":1695886599,
     "wof:name":"Pilon",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052739,
-    "geom:area_square_m":601405721.635585,
+    "geom:area_square_m":601405721.635575,
     "geom:bbox":"-81.0539705255,22.6170937417,-80.7158191284,22.897300767",
     "geom:latitude":22.747363,
     "geom:longitude":-80.878165,
@@ -118,9 +118,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MA.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892311,
-    "wof:geomhash":"ce38dac8033b6057e8c45a016c6da457",
+    "wof:geomhash":"046f9611b30e683da1ee62bb3aa2bb7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1091904143,
-    "wof:lastmodified":1564327939,
+    "wof:lastmodified":1695886595,
     "wof:name":"Colon",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

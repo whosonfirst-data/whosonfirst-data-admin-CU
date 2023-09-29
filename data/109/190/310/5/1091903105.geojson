@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079143,
-    "geom:area_square_m":917212890.905436,
+    "geom:area_square_m":917213174.823766,
     "geom:bbox":"-76.86228,20.210681,-76.509813,20.579614",
     "geom:latitude":20.404216,
     "geom:longitude":-76.669277,
@@ -243,9 +243,10 @@
         "hasc:id":"CU.GR.BY",
         "wd:id":"Q115382"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892266,
-    "wof:geomhash":"52ef229fc09fd041818ff1b24137a25a",
+    "wof:geomhash":"0d9d7bdbf665b1546182ad24f0611732",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -255,7 +256,7 @@
         }
     ],
     "wof:id":1091903105,
-    "wof:lastmodified":1690868522,
+    "wof:lastmodified":1695886594,
     "wof:name":"Bayamo",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

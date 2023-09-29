@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052708,
-    "geom:area_square_m":603114894.185263,
+    "geom:area_square_m":603115349.673266,
     "geom:bbox":"-79.848355,22.142761,-79.473392,22.400064",
     "geom:latitude":22.273721,
     "geom:longitude":-79.659155,
@@ -150,9 +150,10 @@
         "hasc:id":"CU.VC.RE",
         "wd:id":"Q280795"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892435,
-    "wof:geomhash":"b390af7bacc25b55313d5292a433821c",
+    "wof:geomhash":"4d293febaa70fef307333c96f22a43da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1091907053,
-    "wof:lastmodified":1690868516,
+    "wof:lastmodified":1695886159,
     "wof:name":"Placetas",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

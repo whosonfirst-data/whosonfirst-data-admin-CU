@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034152,
-    "geom:area_square_m":389456455.520242,
+    "geom:area_square_m":389456455.520191,
     "geom:bbox":"-81.4958018399,22.6210556095,-81.2088038175,22.8588333213",
     "geom:latitude":22.745087,
     "geom:longitude":-81.357659,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MA.PB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892428,
-    "wof:geomhash":"4ca1bf9009ed6bdd1d38d1c7e1d966c3",
+    "wof:geomhash":"ae1fa92f61c2e0d2e16274cff41ca2f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1091906893,
-    "wof:lastmodified":1564327940,
+    "wof:lastmodified":1695886596,
     "wof:name":"Pedro Betancourt",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

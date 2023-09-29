@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055484,
-    "geom:area_square_m":644490353.147247,
+    "geom:area_square_m":644491094.231915,
     "geom:bbox":"-75.494284,19.878805,-75.221269,20.205909",
     "geom:latitude":20.050067,
     "geom:longitude":-75.353149,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GU.NP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892418,
-    "wof:geomhash":"c838cb6514d06734c820d2455fc38da7",
+    "wof:geomhash":"229afb87c62d3f4286bef519df13efe9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091906637,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"Niceto Perez",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

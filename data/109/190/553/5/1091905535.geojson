@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000579,
-    "geom:area_square_m":6588807.321387,
+    "geom:area_square_m":6588803.178096,
     "geom:bbox":"-82.373002,23.110223,-82.343699,23.14625",
     "geom:latitude":23.12968,
     "geom:longitude":-82.359197,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CH.HV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892370,
-    "wof:geomhash":"51728f76e15d01158cd5b1e693587b65",
+    "wof:geomhash":"a38d7c4c59645f8065ba7763fbafa06e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091905535,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"La Habana Vieja",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

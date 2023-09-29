@@ -626,9 +626,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GU.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892324,
-    "wof:geomhash":"82d0977a970f53e05d7f5e7579c52189",
+    "wof:geomhash":"ff8371e5c68879c02adc5f1de5bd71c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -638,7 +639,7 @@
         }
     ],
     "wof:id":1091904459,
-    "wof:lastmodified":1564327960,
+    "wof:lastmodified":1695886597,
     "wof:name":"El Salvador",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

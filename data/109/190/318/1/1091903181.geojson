@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078135,
-    "geom:area_square_m":895282083.704406,
+    "geom:area_square_m":895282083.704337,
     "geom:bbox":"-78.5615007997,21.9259738145,-78.0697123196,22.2360086802",
     "geom:latitude":22.081383,
     "geom:longitude":-78.327877,
@@ -713,9 +713,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CA.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892269,
-    "wof:geomhash":"dfc49dafac4ce9cd4ced3156f96e1f34",
+    "wof:geomhash":"d47ade1b03d34b4d135aaaaab4c780cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -725,7 +726,7 @@
         }
     ],
     "wof:id":1091903181,
-    "wof:lastmodified":1564327973,
+    "wof:lastmodified":1695886599,
     "wof:name":"Bolivia",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

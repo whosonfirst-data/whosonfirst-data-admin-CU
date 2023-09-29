@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044462,
-    "geom:area_square_m":506646885.794711,
+    "geom:area_square_m":506646885.794857,
     "geom:bbox":"-81.3798594665,22.6963399972,-81.0761222717,23.0048441201",
     "geom:latitude":22.845902,
     "geom:longitude":-81.239456,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MA.JO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892368,
-    "wof:geomhash":"d8fd992a42bd2286ec29c9681ecd8a04",
+    "wof:geomhash":"994fb982ddb97e320a500c6ef7092d93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091905493,
-    "wof:lastmodified":1564327970,
+    "wof:lastmodified":1695886599,
     "wof:name":"Jovellanos",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

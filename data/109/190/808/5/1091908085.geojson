@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108885,
-    "geom:area_square_m":1258252629.41764,
+    "geom:area_square_m":1258253031.954044,
     "geom:bbox":"-78.954582,20.519583,-77.773584,21.05095",
     "geom:latitude":20.845827,
     "geom:longitude":-78.056711,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CM.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892473,
-    "wof:geomhash":"37d11a274a552d39e708e863c3aacdcc",
+    "wof:geomhash":"7019d5e7bc6ac71e6ee34d57bbeffd3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1091908085,
-    "wof:lastmodified":1627507748,
+    "wof:lastmodified":1695886720,
     "wof:name":"Santa Cruz Del Sur",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

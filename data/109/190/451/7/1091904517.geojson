@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141511,
-    "geom:area_square_m":1623741437.375259,
+    "geom:area_square_m":1623741437.375249,
     "geom:bbox":"-78.2624522871,21.6169946228,-77.620414734,22.1120256127",
     "geom:latitude":21.881527,
     "geom:longitude":-77.945269,
@@ -122,9 +122,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CM.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892328,
-    "wof:geomhash":"a8c5674d2acb3167eee16f8eabcb54fe",
+    "wof:geomhash":"cb281f3a50d80b2f3f93435b84e425d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1091904517,
-    "wof:lastmodified":1564327966,
+    "wof:lastmodified":1695886598,
     "wof:name":"Esmeralda",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

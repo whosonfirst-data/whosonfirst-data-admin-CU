@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000889,
-    "geom:area_square_m":10111246.520663,
+    "geom:area_square_m":10111357.513813,
     "geom:bbox":"-82.405604,23.076702,-82.365783,23.128021",
     "geom:latitude":23.099859,
     "geom:longitude":-82.384462,
@@ -114,9 +114,10 @@
         "hasc:id":"CU.CH.CE",
         "wd:id":"Q1055715"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892297,
-    "wof:geomhash":"e44e3f98ff1310ceb6f4671544328356",
+    "wof:geomhash":"b40aff5a807a6cd46418f3973e4d9375",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1091903863,
-    "wof:lastmodified":1690868522,
+    "wof:lastmodified":1695887185,
     "wof:name":"Cerro",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

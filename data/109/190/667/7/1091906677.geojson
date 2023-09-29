@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053075,
-    "geom:area_square_m":616907944.408518,
+    "geom:area_square_m":616907767.190357,
     "geom:bbox":"-77.74128,19.82625,-77.412605,20.108429",
     "geom:latitude":19.946632,
     "geom:longitude":-77.564907,
@@ -102,9 +102,10 @@
         "hasc:id":"CU.GR.NI",
         "wd:id":"Q972546"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892419,
-    "wof:geomhash":"25c5de49e73c9171e93d96ae0144c6c6",
+    "wof:geomhash":"be026534df9f082c62178851e758c593",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1091906677,
-    "wof:lastmodified":1690868513,
+    "wof:lastmodified":1695887185,
     "wof:name":"Niquero",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

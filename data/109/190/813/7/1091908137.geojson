@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088344,
-    "geom:area_square_m":1026434667.911956,
+    "geom:area_square_m":1026434185.197632,
     "geom:bbox":"-76.07411,19.882973,-75.380369,20.129551",
     "geom:latitude":20.011405,
     "geom:longitude":-75.709969,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CU.SC.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892475,
-    "wof:geomhash":"d0b35225307d5091a54bccde0a7c1aba",
+    "wof:geomhash":"7f1e313d63456401f54c8029094a0340",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091908137,
-    "wof:lastmodified":1627507748,
+    "wof:lastmodified":1695886720,
     "wof:name":"Santiago De Cuba",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

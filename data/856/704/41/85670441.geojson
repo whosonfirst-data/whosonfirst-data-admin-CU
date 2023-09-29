@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.534264,
-    "geom:area_square_m":6200459449.043439,
+    "geom:area_square_m":6200459398.810125,
     "geom:bbox":"-77.056775,19.882973,-75.369707,20.571683",
     "geom:latitude":20.18638,
     "geom:longitude":-75.966889,
@@ -315,17 +315,19 @@
         "gn:id":3536725,
         "gp:id":2345119,
         "hasc:id":"CU.SC",
+        "iso:code":"CU-13",
         "iso:id":"CU-13",
         "qs:id":423701,
         "unlc:id":"CU-13",
         "wd:id":"Q234200",
         "wk:page":"Santiago de Cuba Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5afe3e55ef5051bd815dc4c38d62a7da",
+    "wof:geomhash":"3a6da214c0197aeb3438d4896971b793",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -340,7 +342,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868500,
+    "wof:lastmodified":1695884957,
     "wof:name":"Santiago de Cuba",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

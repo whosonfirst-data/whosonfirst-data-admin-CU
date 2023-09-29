@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086447,
-    "geom:area_square_m":988104250.15434,
+    "geom:area_square_m":988104250.154151,
     "geom:bbox":"-81.0959446838,22.150519729,-80.6676198177,22.648576064",
     "geom:latitude":22.423843,
     "geom:longitude":-80.919752,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MA.CM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892282,
-    "wof:geomhash":"cacf6f698776ce0f3bcbc6a0167e388e",
+    "wof:geomhash":"00bc68c2421c17459d318ebeee4b61a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1091903495,
-    "wof:lastmodified":1564327947,
+    "wof:lastmodified":1695886596,
     "wof:name":"Calimete",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

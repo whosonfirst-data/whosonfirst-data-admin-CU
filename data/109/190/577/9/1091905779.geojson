@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039255,
-    "geom:area_square_m":446971541.980719,
+    "geom:area_square_m":446971541.980723,
     "geom:bbox":"-81.9808229237,22.8411358364,-81.6813203923,23.0540143753",
     "geom:latitude":22.949594,
     "geom:longitude":-81.812723,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MQ.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892384,
-    "wof:geomhash":"54eaf48c16a420e21127789ba6dca602",
+    "wof:geomhash":"98d82df28d27fb996effc8819a44282e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1091905779,
-    "wof:lastmodified":1564327975,
+    "wof:lastmodified":1695886599,
     "wof:name":"Madruga",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

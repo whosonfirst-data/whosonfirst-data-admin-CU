@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016689,
-    "geom:area_square_m":190326936.168394,
+    "geom:area_square_m":190326608.403623,
     "geom:bbox":"-82.372525,22.677055,-82.195435,22.823884",
     "geom:latitude":22.737201,
     "geom:longitude":-82.284209,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MQ.BB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892263,
-    "wof:geomhash":"d642fc905cbfc62def5cb7f120646b04",
+    "wof:geomhash":"74462c33bd7bf6d8df9e66e4c7d77337",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091903035,
-    "wof:lastmodified":1627507746,
+    "wof:lastmodified":1695886717,
     "wof:name":"Batabano",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

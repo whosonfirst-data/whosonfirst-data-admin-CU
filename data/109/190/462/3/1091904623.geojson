@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040725,
-    "geom:area_square_m":466726295.252236,
+    "geom:area_square_m":466726315.00385,
     "geom:bbox":"-79.805072,21.892072,-79.546485,22.212821",
     "geom:latitude":22.052521,
     "geom:longitude":-79.691442,
@@ -105,9 +105,10 @@
         "hasc:id":"CU.SS.FO",
         "wd:id":"Q861489"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892333,
-    "wof:geomhash":"2fc664820761225ef304507f651ffc6d",
+    "wof:geomhash":"c825b620a4b59e2ee02b6639ab1f84a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1091904623,
-    "wof:lastmodified":1690868515,
+    "wof:lastmodified":1695887185,
     "wof:name":"Fomento",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

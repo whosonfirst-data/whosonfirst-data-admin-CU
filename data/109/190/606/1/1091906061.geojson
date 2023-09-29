@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046207,
-    "geom:area_square_m":536399187.646149,
+    "geom:area_square_m":536399187.646102,
     "geom:bbox":"-75.1262099404,20.0103870705,-74.849785445,20.3065769718",
     "geom:latitude":20.145693,
     "geom:longitude":-74.971554,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GU.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892395,
-    "wof:geomhash":"40f69e24ecaf71eab358494851212ef4",
+    "wof:geomhash":"02bbeb0548fd0db0001e7a6dea8d0578",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1091906061,
-    "wof:lastmodified":1564327967,
+    "wof:lastmodified":1695886598,
     "wof:name":"Manuel Tames",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

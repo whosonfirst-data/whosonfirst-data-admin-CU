@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050828,
-    "geom:area_square_m":590040370.382771,
+    "geom:area_square_m":590040818.958417,
     "geom:bbox":"-75.038639,19.967795,-74.677788,20.344827",
     "geom:latitude":20.146916,
     "geom:longitude":-74.809847,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GU.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892457,
-    "wof:geomhash":"533ff2d5da71643d6fbcc1545ff3c1b6",
+    "wof:geomhash":"49ce072b27cfa2f6209c0579ec26dbe4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091907633,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"San Antonio Del Sur",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

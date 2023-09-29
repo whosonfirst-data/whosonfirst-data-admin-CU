@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.376656,
-    "geom:area_square_m":15848118578.863031,
+    "geom:area_square_m":15848118650.962585,
     "geom:bbox":"-78.954582,20.519583,-76.951279,22.482916",
     "geom:latitude":21.405564,
     "geom:longitude":-77.873225,
@@ -340,17 +340,19 @@
         "gn:id":3566062,
         "gp:id":2345110,
         "hasc:id":"CU.CM",
+        "iso:code":"CU-09",
         "iso:id":"CU-09",
         "qs:id":423696,
         "unlc:id":"CU-09",
         "wd:id":"Q215147",
         "wk:page":"Camag\u00fcey Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7d0ee8246bc57cec2161475b1fd50cde",
+    "wof:geomhash":"ae13f3da96903b638a320f158c547760",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -365,7 +367,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868500,
+    "wof:lastmodified":1695884503,
     "wof:name":"Camag\u00fcey",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

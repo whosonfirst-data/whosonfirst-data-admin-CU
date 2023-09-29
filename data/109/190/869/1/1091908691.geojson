@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061274,
-    "geom:area_square_m":699332594.660823,
+    "geom:area_square_m":699332400.146453,
     "geom:bbox":"-83.884729,22.46738,-83.58138,22.817888",
     "geom:latitude":22.630622,
     "geom:longitude":-83.739578,
@@ -123,9 +123,10 @@
         "hasc:id":"CU.PD.VI",
         "wd:id":"Q1180693"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892496,
-    "wof:geomhash":"acff0ff55318cdcdc8d24773cd890167",
+    "wof:geomhash":"4635b731cedb2c81dca7458647492deb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1091908691,
-    "wof:lastmodified":1690868514,
+    "wof:lastmodified":1695886593,
     "wof:name":"Vinales",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

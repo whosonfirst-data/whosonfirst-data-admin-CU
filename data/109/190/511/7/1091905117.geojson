@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057617,
-    "geom:area_square_m":665572514.921935,
+    "geom:area_square_m":665573054.019406,
     "geom:bbox":"-76.471831,20.763,-76.096216,21.013258",
     "geom:latitude":20.899595,
     "geom:longitude":-76.280957,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892353,
-    "wof:geomhash":"99f394ab07f0fbc1ce064bc29970545e",
+    "wof:geomhash":"715bdd1c17ac9780a7c5a51edca37363",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091905117,
-    "wof:lastmodified":1627507746,
+    "wof:lastmodified":1695886718,
     "wof:name":"Holguin",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

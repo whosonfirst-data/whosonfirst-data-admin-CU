@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05855,
-    "geom:area_square_m":678817322.3038,
+    "geom:area_square_m":678817322.303718,
     "geom:bbox":"-75.12043742,20.1985473022,-74.6931939558,20.4722028913",
     "geom:latitude":20.344918,
     "geom:longitude":-74.924894,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GU.YA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892501,
-    "wof:geomhash":"e585f0417c7723d1f10540f8cfa7b8aa",
+    "wof:geomhash":"b20d47189d6f8ea5e75ea033d9d89112",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091908743,
-    "wof:lastmodified":1564327939,
+    "wof:lastmodified":1695886595,
     "wof:name":"Yateras",
     "wof:parent_id":85670425,
     "wof:placetype":"county",

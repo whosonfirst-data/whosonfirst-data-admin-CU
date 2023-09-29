@@ -1180,6 +1180,7 @@
         "hasc:id":"CU",
         "icao:code":"CU",
         "ioc:id":"CUB",
+        "iso:code":"CU",
         "itu:id":"CUB",
         "loc:id":"n79079435",
         "m49:code":"192",
@@ -1194,6 +1195,7 @@
         "wk:page":"Cuba",
         "wmo:id":"CU"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:country_alpha3":"CUB",
     "wof:geom_alt":[
@@ -1215,7 +1217,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694639563,
+    "wof:lastmodified":1695881222,
     "wof:name":"Cuba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

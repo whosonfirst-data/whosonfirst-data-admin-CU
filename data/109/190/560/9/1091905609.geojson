@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056491,
-    "geom:area_square_m":644177283.280745,
+    "geom:area_square_m":644177105.619091,
     "geom:bbox":"-83.660731,22.585528,-83.356487,22.914583",
     "geom:latitude":22.749184,
     "geom:longitude":-83.509928,
@@ -117,9 +117,10 @@
         "hasc:id":"CU.PD.LA",
         "wd:id":"Q2234325"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892373,
-    "wof:geomhash":"b7c8ca6e0aca318dd379abd0b619e2bb",
+    "wof:geomhash":"912d3063930d1e2c0173451bc058f67b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1091905609,
-    "wof:lastmodified":1690868508,
+    "wof:lastmodified":1695886158,
     "wof:name":"La Palma",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

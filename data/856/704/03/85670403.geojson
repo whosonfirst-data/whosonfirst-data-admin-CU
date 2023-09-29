@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.373522,
-    "geom:area_square_m":4275130239.384547,
+    "geom:area_square_m":4275130635.131387,
     "geom:bbox":"-80.931183,21.818494,-80.02873,22.586273",
     "geom:latitude":22.237389,
     "geom:longitude":-80.444707,
@@ -328,17 +328,19 @@
         "gn:id":3564120,
         "gp:id":2345112,
         "hasc:id":"CU.CF",
+        "iso:code":"CU-06",
         "iso:id":"CU-06",
         "qs:id":235574,
         "unlc:id":"CU-06",
         "wd:id":"Q115444",
         "wk:page":"Cienfuegos Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b95b6b58dd867bd86516fd986eef626",
+    "wof:geomhash":"9788dbf47b87446e57e29797eb980b78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -353,7 +355,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868497,
+    "wof:lastmodified":1695884957,
     "wof:name":"Cienfuegos",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

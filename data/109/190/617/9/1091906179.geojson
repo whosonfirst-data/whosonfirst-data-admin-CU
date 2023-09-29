@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024464,
-    "geom:area_square_m":278504356.220902,
+    "geom:area_square_m":278503960.388923,
     "geom:bbox":"-82.978864,22.908599,-82.666296,23.030126",
     "geom:latitude":22.97611,
     "geom:longitude":-82.817018,
@@ -129,9 +129,10 @@
         "hasc:id":"CU.AR.MR",
         "wd:id":"Q116156"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892399,
-    "wof:geomhash":"24893cf107c92465f213b833132b4133",
+    "wof:geomhash":"ef902f29ac632d4613778eb66159d47d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1091906179,
-    "wof:lastmodified":1690868511,
+    "wof:lastmodified":1695886593,
     "wof:name":"Mariel",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

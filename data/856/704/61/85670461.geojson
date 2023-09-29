@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.327145,
-    "geom:area_square_m":3727072587.543743,
+    "geom:area_square_m":3727072905.305727,
     "geom:bbox":"-82.470594,22.572056,-81.581603,23.187944",
     "geom:latitude":22.874819,
     "geom:longitude":-82.005385,
@@ -127,15 +127,17 @@
         "fips:code":"CU18",
         "gp:id":2345115,
         "hasc:id":"CU.MQ",
+        "iso:code":"CU-16",
         "iso:id":"CU-16",
         "unlc:id":"CU-16",
         "wd:id":"Q1914389"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d63183381a1a16a739aec9e5b9bd29f0",
+    "wof:geomhash":"f2a3451fe43cd2375561fffebf79177d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -150,7 +152,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868496,
+    "wof:lastmodified":1695884957,
     "wof:name":"Mayabeque",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

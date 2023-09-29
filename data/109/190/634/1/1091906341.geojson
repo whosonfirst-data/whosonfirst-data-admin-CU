@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033769,
-    "geom:area_square_m":392219942.569613,
+    "geom:area_square_m":392219961.832588,
     "geom:bbox":"-77.501838,19.953464,-77.206508,20.187609",
     "geom:latitude":20.064693,
     "geom:longitude":-77.371461,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GR.ML"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892405,
-    "wof:geomhash":"74574ef30f10734c6186722cc026ad39",
+    "wof:geomhash":"f34836ec979a5e358f1fc8f6b2eb6358",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1091906341,
-    "wof:lastmodified":1627507747,
+    "wof:lastmodified":1695886719,
     "wof:name":"Media Luna",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

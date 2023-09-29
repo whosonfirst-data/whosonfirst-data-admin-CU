@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05722,
-    "geom:area_square_m":661688584.419506,
+    "geom:area_square_m":661688584.419541,
     "geom:bbox":"-76.6213989995,20.5916717588,-76.2515938913,20.8727259057",
     "geom:latitude":20.740187,
     "geom:longitude":-76.441589,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892275,
-    "wof:geomhash":"6091562f1bd1fc980cef91c367c202b3",
+    "wof:geomhash":"9d95f71695e9e663131b7ea4398c91f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1091903321,
-    "wof:lastmodified":1564327949,
+    "wof:lastmodified":1695886597,
     "wof:name":"Cacocum",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

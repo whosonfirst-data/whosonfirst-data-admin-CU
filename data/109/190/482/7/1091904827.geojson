@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010213,
-    "geom:area_square_m":116329326.012185,
+    "geom:area_square_m":116329194.964777,
     "geom:bbox":"-82.827486,22.862108,-82.654989,22.971991",
     "geom:latitude":22.907098,
     "geom:longitude":-82.72981,
@@ -135,9 +135,10 @@
         "hasc:id":"CU.AR.GJ",
         "wd:id":"Q114977"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892342,
-    "wof:geomhash":"f35d24280bbaca388091cf4c68380351",
+    "wof:geomhash":"082e85c57a1ed108a9d5d0c4ef2d74d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1091904827,
-    "wof:lastmodified":1690868511,
+    "wof:lastmodified":1695886593,
     "wof:name":"Guanajay",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

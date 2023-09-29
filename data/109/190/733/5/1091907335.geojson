@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001285,
-    "geom:area_square_m":14609825.231775,
+    "geom:area_square_m":14609774.695577,
     "geom:bbox":"-82.353634,23.104716,-82.308759,23.155153",
     "geom:latitude":23.129596,
     "geom:longitude":-82.332507,
@@ -114,9 +114,10 @@
         "hasc:id":"CU.CH.RE",
         "wd:id":"Q2066278"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892446,
-    "wof:geomhash":"a666bbdc84bb36d337ab720fee4cae15",
+    "wof:geomhash":"860cbfeda8fd12a21774b06e39c00e38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1091907335,
-    "wof:lastmodified":1690868516,
+    "wof:lastmodified":1695887185,
     "wof:name":"Regla",
     "wof:parent_id":85670445,
     "wof:placetype":"county",

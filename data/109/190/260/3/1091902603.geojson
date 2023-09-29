@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058606,
-    "geom:area_square_m":670216453.429204,
+    "geom:area_square_m":670216453.429322,
     "geom:bbox":"-80.9311828153,22.1600243467,-80.6284340974,22.4742946811",
     "geom:latitude":22.353618,
     "geom:longitude":-80.793769,
@@ -103,9 +103,10 @@
         "hasc:id":"CU.CF.AP",
         "wd:id":"Q2245953"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892245,
-    "wof:geomhash":"c01ee2ed3e0207a321787235da91b208",
+    "wof:geomhash":"29cc1994c2e51f535fd869350b721259",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091902603,
-    "wof:lastmodified":1561766474,
+    "wof:lastmodified":1695887185,
     "wof:name":"Aguada De Pasajeros",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

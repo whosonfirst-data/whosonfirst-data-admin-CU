@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08075,
-    "geom:area_square_m":923523519.180502,
+    "geom:area_square_m":923523730.94627,
     "geom:bbox":"-84.447136,22.131768,-84.086532,22.607225",
     "geom:latitude":22.343433,
     "geom:longitude":-84.261213,
@@ -105,9 +105,10 @@
         "hasc:id":"CU.PD.MA",
         "wd:id":"Q2213002"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892393,
-    "wof:geomhash":"af337ec6a6f0f66ae1f4cb05fd991090",
+    "wof:geomhash":"5be2477860f7d158b2f3e76b2b38b183",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1091906027,
-    "wof:lastmodified":1690868512,
+    "wof:lastmodified":1695887185,
     "wof:name":"Mantua",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

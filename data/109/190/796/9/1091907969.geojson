@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152187,
-    "geom:area_square_m":1745126528.85675,
+    "geom:area_square_m":1745127180.636238,
     "geom:bbox":"-84.95208,21.754555,-83.960442,22.199555",
     "geom:latitude":21.972975,
     "geom:longitude":-84.358582,
@@ -108,9 +108,10 @@
         "hasc:id":"CU.PD.SA",
         "wd:id":"Q567769"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892469,
-    "wof:geomhash":"ccc669577a7e91f6169fe5926004ba4d",
+    "wof:geomhash":"e51a08bcee5b9c1826913c3dbee396b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1091907969,
-    "wof:lastmodified":1690868510,
+    "wof:lastmodified":1695886592,
     "wof:name":"Sandino",
     "wof:parent_id":85670409,
     "wof:placetype":"county",

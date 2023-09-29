@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.596099,
-    "geom:area_square_m":6835265556.103239,
+    "geom:area_square_m":6835264995.993061,
     "geom:bbox":"-79.451248,20.836195,-78.069712,22.61536",
     "geom:latitude":21.975663,
     "geom:longitude":-78.649067,
@@ -311,17 +311,19 @@
         "gn:id":3564175,
         "gp:id":2345111,
         "hasc:id":"CU.CA",
+        "iso:code":"CU-08",
         "iso:id":"CU-08",
         "qs:id":235575,
         "unlc:id":"CU-08",
         "wd:id":"Q220692",
         "wk:page":"Ciego de \u00c1vila Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a176bb8f1de81fcdb40e7e04217b7e23",
+    "wof:geomhash":"77a35ffc93aa869f7513d1e5ac28eee2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -336,7 +338,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868498,
+    "wof:lastmodified":1695884503,
     "wof:name":"Ciego de \u00c1vila",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

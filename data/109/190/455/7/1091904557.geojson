@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025974,
-    "geom:area_square_m":297598800.974575,
+    "geom:area_square_m":297598800.974568,
     "geom:bbox":"-79.0570162852,21.9891607995,-78.8294539978,22.1790935629",
     "geom:latitude":22.088347,
     "geom:longitude":-78.93626,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CA.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892329,
-    "wof:geomhash":"cdd4cd12b56a22100f2f24089e4ddecc",
+    "wof:geomhash":"593f1c8b709a81fe1548b8c5c21efbb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1091904557,
-    "wof:lastmodified":1564327944,
+    "wof:lastmodified":1695886596,
     "wof:name":"Florencia",
     "wof:parent_id":85670419,
     "wof:placetype":"county",

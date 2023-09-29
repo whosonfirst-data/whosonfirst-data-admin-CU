@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016774,
-    "geom:area_square_m":191902388.792849,
+    "geom:area_square_m":191902413.991968,
     "geom:bbox":"-80.334044,22.222065,-80.09623,22.383492",
     "geom:latitude":22.295042,
     "geom:longitude":-80.220619,
@@ -114,9 +114,10 @@
         "hasc:id":"CU.CF.CR",
         "wd:id":"Q5042"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892318,
-    "wof:geomhash":"2c8f19519d77ad2cf66bcb5397df5be3",
+    "wof:geomhash":"bd7b168c7223734b0da641ac246851f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1091904329,
-    "wof:lastmodified":1690868520,
+    "wof:lastmodified":1695887185,
     "wof:name":"Cruces",
     "wof:parent_id":85670403,
     "wof:placetype":"county",

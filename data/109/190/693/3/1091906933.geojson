@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024647,
-    "geom:area_square_m":280862259.348122,
+    "geom:area_square_m":280862259.348026,
     "geom:bbox":"-81.1208541258,22.6994667109,-80.9454364226,22.9643746925",
     "geom:latitude":22.840579,
     "geom:longitude":-81.028645,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MA.PE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892429,
-    "wof:geomhash":"a0eba4eb5868fa368f250f78a954767d",
+    "wof:geomhash":"b884db41eaca2daa30a4e405fa5fa846",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091906933,
-    "wof:lastmodified":1564327944,
+    "wof:lastmodified":1695886596,
     "wof:name":"Perico",
     "wof:parent_id":85670455,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093403,
-    "geom:area_square_m":1069753757.619997,
+    "geom:area_square_m":1069753757.619955,
     "geom:bbox":"-80.1052319481,21.9533787521,-79.7468439898,22.3604312396",
     "geom:latitude":22.144641,
     "geom:longitude":-79.930502,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CU.VC.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892392,
-    "wof:geomhash":"841e66625ee1ab211b2408f5496b3303",
+    "wof:geomhash":"adad2b8ad19da78c6e909689c1f843b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1091905979,
-    "wof:lastmodified":1564327949,
+    "wof:lastmodified":1695886597,
     "wof:name":"Manicaragua",
     "wof:parent_id":85670457,
     "wof:placetype":"county",

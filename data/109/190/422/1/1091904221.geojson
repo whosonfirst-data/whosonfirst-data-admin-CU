@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052288,
-    "geom:area_square_m":606369552.944722,
+    "geom:area_square_m":606369474.600773,
     "geom:bbox":"-76.393701,20.161474,-76.067881,20.462387",
     "geom:latitude":20.306585,
     "geom:longitude":-76.231159,
@@ -123,9 +123,10 @@
         "hasc:id":"CU.SC.CO",
         "wd:id":"Q1129122"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892314,
-    "wof:geomhash":"5d09ffe9a8b696ca376208fedc8c6fd4",
+    "wof:geomhash":"a8d2be1cbaa457b8755fa3b20aa40cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1091904221,
-    "wof:lastmodified":1690868511,
+    "wof:lastmodified":1695886593,
     "wof:name":"Contramaestre",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

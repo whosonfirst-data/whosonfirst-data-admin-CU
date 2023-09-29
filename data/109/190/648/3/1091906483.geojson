@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063118,
-    "geom:area_square_m":730823968.3034,
+    "geom:area_square_m":730823968.303482,
     "geom:bbox":"-75.0575432573,20.3955885415,-74.718733426,20.695417404",
     "geom:latitude":20.546068,
     "geom:longitude":-74.909339,
@@ -218,9 +218,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892411,
-    "wof:geomhash":"58e59a318c9867436026553bf163240e",
+    "wof:geomhash":"acbc0f9d6c30c209838e9687c64f5bf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -230,7 +231,7 @@
         }
     ],
     "wof:id":1091906483,
-    "wof:lastmodified":1564327961,
+    "wof:lastmodified":1695886597,
     "wof:name":"Moa",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

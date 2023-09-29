@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043788,
-    "geom:area_square_m":507985979.059443,
+    "geom:area_square_m":507985979.059361,
     "geom:bbox":"-77.2474234573,20.0566944849,-76.972943309,20.4179354794",
     "geom:latitude":20.24757,
     "geom:longitude":-77.094647,
@@ -110,9 +110,10 @@
     "wof:concordances":{
         "hasc:id":"CU.GR.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892396,
-    "wof:geomhash":"1d260a7446e3730bb5f8ca4bae7e299f",
+    "wof:geomhash":"028391a1309d518ad71a653b55c28ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1091906089,
-    "wof:lastmodified":1564327967,
+    "wof:lastmodified":1695886598,
     "wof:name":"Manzanillo",
     "wof:parent_id":85670431,
     "wof:placetype":"county",

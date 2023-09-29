@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030333,
-    "geom:area_square_m":351474340.242885,
+    "geom:area_square_m":351474340.242949,
     "geom:bbox":"-76.1008701041,20.3047895323,-75.8226088744,20.5716834096",
     "geom:latitude":20.434622,
     "geom:longitude":-75.961038,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"CU.SC.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892407,
-    "wof:geomhash":"5504f89375d81516d3eb7b81cd634e22",
+    "wof:geomhash":"086672218b5f5e460850f5bc5f98557b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091906371,
-    "wof:lastmodified":1564327967,
+    "wof:lastmodified":1695886598,
     "wof:name":"Mella",
     "wof:parent_id":85670441,
     "wof:placetype":"county",

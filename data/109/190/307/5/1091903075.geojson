@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013583,
-    "geom:area_square_m":154626377.799031,
+    "geom:area_square_m":154626461.487965,
     "geom:bbox":"-82.598215,22.920124,-82.43605,23.07656",
     "geom:latitude":22.985917,
     "geom:longitude":-82.524062,
@@ -129,9 +129,10 @@
         "hasc:id":"CU.AR.BU",
         "wd:id":"Q114970"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892264,
-    "wof:geomhash":"5059882ec696f320676fb2cb4121db7d",
+    "wof:geomhash":"ae590d32aaa9a4cb5cf9ebc0ec7edb7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1091903075,
-    "wof:lastmodified":1690868508,
+    "wof:lastmodified":1695887185,
     "wof:name":"Bauta",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

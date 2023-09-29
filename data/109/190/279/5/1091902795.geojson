@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060151,
-    "geom:area_square_m":685754438.53767,
+    "geom:area_square_m":685755215.944237,
     "geom:bbox":"-82.982568,22.594907,-82.650339,22.93563",
     "geom:latitude":22.780739,
     "geom:longitude":-82.817327,
@@ -234,9 +234,10 @@
         "hasc:id":"CU.AR.AR",
         "wd:id":"Q115006"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892253,
-    "wof:geomhash":"72041763a3788aa1dc78a875f54296ef",
+    "wof:geomhash":"633ecc4177df3b2dc98718cd7ec3fbaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -246,7 +247,7 @@
         }
     ],
     "wof:id":1091902795,
-    "wof:lastmodified":1690868518,
+    "wof:lastmodified":1695886159,
     "wof:name":"Artemisa",
     "wof:parent_id":85670449,
     "wof:placetype":"county",

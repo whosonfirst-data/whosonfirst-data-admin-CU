@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053141,
-    "geom:area_square_m":614102559.887179,
+    "geom:area_square_m":614102559.887212,
     "geom:bbox":"-76.9684334025,20.6837911759,-76.678013137,20.9746691809",
     "geom:latitude":20.84289,
     "geom:longitude":-76.815076,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"CU.LT.MJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892389,
-    "wof:geomhash":"a6db59c8847577afed6139b0118726a9",
+    "wof:geomhash":"3912b1e36734d7ca1d6cad769dc12e01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1091905901,
-    "wof:lastmodified":1564327949,
+    "wof:lastmodified":1695886597,
     "wof:name":"Majibacoa",
     "wof:parent_id":85670439,
     "wof:placetype":"county",

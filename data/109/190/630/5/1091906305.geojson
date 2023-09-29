@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11695,
-    "geom:area_square_m":1353562064.346873,
+    "geom:area_square_m":1353562064.346981,
     "geom:bbox":"-75.9407935966,20.4024974606,-75.4440422166,20.7984272703",
     "geom:latitude":20.609645,
     "geom:longitude":-75.698754,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892404,
-    "wof:geomhash":"3279b49d11cd6c493d71446904da3501",
+    "wof:geomhash":"2d3b00ee0adc5c957d5c507c8b276917",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1091906305,
-    "wof:lastmodified":1564327967,
+    "wof:lastmodified":1695886598,
     "wof:name":"Mayari",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

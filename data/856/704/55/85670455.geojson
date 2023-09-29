@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.040756,
-    "geom:area_square_m":11880244946.028805,
+    "geom:area_square_m":11880246076.303883,
     "geom:bbox":"-82.159637,22.018749,-80.469612,23.277082",
     "geom:latitude":22.60621,
     "geom:longitude":-81.216557,
@@ -337,17 +337,19 @@
         "gn:id":3547394,
         "gp:id":2345108,
         "hasc:id":"CU.MA",
+        "iso:code":"CU-04",
         "iso:id":"CU-04",
         "qs:id":423676,
         "unlc:id":"CU-04",
         "wd:id":"Q115438",
         "wk:page":"Matanzas Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CU",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c95c03ec0a7f35d59d78eba3af1bac03",
+    "wof:geomhash":"c073bd9a3dc935fb3366ecf7361191d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -362,7 +364,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868500,
+    "wof:lastmodified":1695884378,
     "wof:name":"Matanzas",
     "wof:parent_id":85632675,
     "wof:placetype":"region",

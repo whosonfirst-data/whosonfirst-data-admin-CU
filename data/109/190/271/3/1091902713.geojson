@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009902,
-    "geom:area_square_m":114428931.137058,
+    "geom:area_square_m":114428931.137021,
     "geom:bbox":"-75.7723746999,20.7776672808,-75.552886963,20.8958842017",
     "geom:latitude":20.846662,
     "geom:longitude":-75.660234,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892250,
-    "wof:geomhash":"fe98b78d9f60c1eb4801b63764c2bc5b",
+    "wof:geomhash":"ad3d7437f12868e9af38076a408f35f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1091902713,
-    "wof:lastmodified":1564327956,
+    "wof:lastmodified":1695886597,
     "wof:name":"Antilla",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

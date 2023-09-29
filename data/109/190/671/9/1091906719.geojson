@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045226,
-    "geom:area_square_m":515844070.542523,
+    "geom:area_square_m":515844070.542575,
     "geom:bbox":"-81.868695456,22.572055817,-81.5816025426,22.858968976",
     "geom:latitude":22.716535,
     "geom:longitude":-81.721464,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"CU.MQ.NP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892421,
-    "wof:geomhash":"1087b4f717df2d281b2d9f2a5b492681",
+    "wof:geomhash":"502800b005f186f1a68585dbcbe184fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091906719,
-    "wof:lastmodified":1564327952,
+    "wof:lastmodified":1695886597,
     "wof:name":"Nueva Paz",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

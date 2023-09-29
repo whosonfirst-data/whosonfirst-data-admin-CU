@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052034,
-    "geom:area_square_m":596060343.743538,
+    "geom:area_square_m":596060236.34905,
     "geom:bbox":"-79.653588,21.986143,-79.296237,22.253554",
     "geom:latitude":22.118384,
     "geom:longitude":-79.479509,
@@ -124,9 +124,10 @@
         "hasc:id":"CU.SS.CA",
         "wd:id":"Q862728"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892274,
-    "wof:geomhash":"88e663382c93cf4195d9e417bb513848",
+    "wof:geomhash":"58544344dd92ae9de29e38253abcfe67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1091903285,
-    "wof:lastmodified":1690868522,
+    "wof:lastmodified":1695887185,
     "wof:name":"Cabaiguan",
     "wof:parent_id":85670413,
     "wof:placetype":"county",

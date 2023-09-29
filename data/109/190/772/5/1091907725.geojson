@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051998,
-    "geom:area_square_m":592129476.591407,
+    "geom:area_square_m":592129883.699773,
     "geom:bbox":"-82.308622,22.805707,-81.964652,23.079975",
     "geom:latitude":22.937949,
     "geom:longitude":-82.151328,
@@ -188,9 +188,10 @@
         "hasc:id":"CU.MQ.SJ",
         "wd:id":"Q1001941"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892460,
-    "wof:geomhash":"fbee845ddf24ffa242f379bd03a608d2",
+    "wof:geomhash":"ec1ab58f0758908800fa0473d5245d89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":1091907725,
-    "wof:lastmodified":1690868521,
+    "wof:lastmodified":1695887186,
     "wof:name":"San Jose De Las Lajas",
     "wof:parent_id":85670461,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053287,
-    "geom:area_square_m":615707799.336612,
+    "geom:area_square_m":615707399.59065,
     "geom:bbox":"-76.72763,20.674083,-76.429624,21.03175",
     "geom:latitude":20.861866,
     "geom:longitude":-76.588656,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"CU.HO.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892284,
-    "wof:geomhash":"dee69897c79e4b60df10883852a7d6a5",
+    "wof:geomhash":"b891de17f7b0a74aef83bb5c63570a54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091903541,
-    "wof:lastmodified":1627507746,
+    "wof:lastmodified":1695886718,
     "wof:name":"Calixto Garcia",
     "wof:parent_id":85670435,
     "wof:placetype":"county",

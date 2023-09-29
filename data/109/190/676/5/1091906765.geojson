@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12932,
-    "geom:area_square_m":1483888492.306452,
+    "geom:area_square_m":1483888810.690871,
     "geom:bbox":"-78.332916,21.399991,-76.951279,22.482916",
     "geom:latitude":21.876172,
     "geom:longitude":-77.563424,
@@ -128,9 +128,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CM.NU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892423,
-    "wof:geomhash":"e82d28777830eaeb1282092554db85b5",
+    "wof:geomhash":"3d54e822d1b262b7ae2deddd604a8ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1091906765,
-    "wof:lastmodified":1636504852,
+    "wof:lastmodified":1695886159,
     "wof:name":"Nuevitas",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

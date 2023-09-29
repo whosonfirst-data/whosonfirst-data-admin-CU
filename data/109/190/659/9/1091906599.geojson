@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CM.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892416,
-    "wof:geomhash":"d27c9457289776f5ef25f35587ade16b",
+    "wof:geomhash":"d42538480ac7124561dd18a6655964dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091906599,
-    "wof:lastmodified":1564327944,
+    "wof:lastmodified":1695886596,
     "wof:name":"Najasa",
     "wof:parent_id":85670423,
     "wof:placetype":"county",

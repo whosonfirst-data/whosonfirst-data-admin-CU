@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046862,
-    "geom:area_square_m":537814544.967613,
+    "geom:area_square_m":537814544.967622,
     "geom:bbox":"-79.1284154813,21.6688715431,-78.7862785411,22.0237068998",
     "geom:latitude":21.852944,
     "geom:longitude":-78.986333,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"CU.CA.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CU",
     "wof:created":1473892387,
-    "wof:geomhash":"300895c85d02e411a1b9b380ccc844e9",
+    "wof:geomhash":"adedaae6da8f5f8f4e1a76c1c1da956d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091905859,
-    "wof:lastmodified":1564327973,
+    "wof:lastmodified":1695886599,
     "wof:name":"Majagua",
     "wof:parent_id":85670419,
     "wof:placetype":"county",
