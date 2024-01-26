@@ -73,6 +73,9 @@
     "name:sco_x_preferred":[
         "Santo Tomas"
     ],
+    "name:spa_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0442\u043e \u0422\u043e\u043c\u0430\u0441"
     ],
@@ -105,6 +108,11 @@
     "wof:concordances":{
         "gn:id":3536580
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3536607
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"50998881548a3b305be50b4e8d127388",
     "wof:hierarchy":[
@@ -117,13 +125,15 @@
         }
     ],
     "wof:id":1276339601,
-    "wof:lastmodified":1636504771,
+    "wof:lastmodified":1706239488,
     "wof:name":"Santo Tomas",
     "wof:parent_id":1091908301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293389095
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-79.12806,22.06333,-79.12806,22.06333",
@@ -24,7 +26,7 @@
     "gn:timezone":"America/Havana",
     "iso:country":"CU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -37,7 +39,7 @@
         "gn:id":3751589
     },
     "wof:country":"CU",
-    "wof:geomhash":"38d378ac3be9553d540e03aa4ddf2182",
+    "wof:geomhash":"eaaf4467158f5954c176dd039a95cb11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +50,22 @@
         }
     ],
     "wof:id":1310176181,
-    "wof:lastmodified":1536894462,
+    "wof:lastmodified":1706239487,
     "wof:name":"Dagamal",
     "wof:parent_id":1091905283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226620009
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -79.12805999999998,
+    -79.12806,
     22.06333,
-    -79.12805999999998,
+    -79.12806,
     22.06333
 ],
-  "geometry": {"coordinates":[-79.12805999999998,22.06333],"type":"Point"}
+  "geometry": {"coordinates":[-79.12806,22.06333],"type":"Point"}
 }

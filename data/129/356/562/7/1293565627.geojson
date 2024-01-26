@@ -37,8 +37,13 @@
     "wof:concordances":{
         "gn:id":3543325
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3740229
+        ]
+    },
     "wof:country":"CU",
-    "wof:geomhash":"09b28380cb766ab7fa88d0a8b573c6a4",
+    "wof:geomhash":"0b81dbab18473d829e3567a156f0910e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +53,22 @@
         }
     ],
     "wof:id":1293565627,
-    "wof:lastmodified":1537618933,
+    "wof:lastmodified":1706239489,
     "wof:name":"Puerto Carupano",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343748129
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -76.54026999999998,
+    -76.54027,
     21.22684,
-    -76.54026999999998,
+    -76.54027,
     21.22684
 ],
-  "geometry": {"coordinates":[-76.54026999999998,21.22684],"type":"Point"}
+  "geometry": {"coordinates":[-76.54027000000001,21.22684],"type":"Point"}
 }

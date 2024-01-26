@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":3543225
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3741782
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"9fbfb599e1ed06da40a268562b3770bd",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1260288553,
-    "wof:lastmodified":1537618932,
+    "wof:lastmodified":1706239488,
     "wof:name":"Punta de la Sierra",
     "wof:parent_id":1091904873,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276562321
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -75,6 +75,11 @@
     "wof:concordances":{
         "gn:id":3541525
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3541543
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"46ddfbc2ad87049ecc4a05cd6da28bbd",
     "wof:hierarchy":[
@@ -87,13 +92,15 @@
         }
     ],
     "wof:id":1260206409,
-    "wof:lastmodified":1564327508,
+    "wof:lastmodified":1706239488,
     "wof:name":"Sabanilla",
     "wof:parent_id":1091904585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276447355
+    ],
     "wof:tags":[]
 },
   "bbox": [

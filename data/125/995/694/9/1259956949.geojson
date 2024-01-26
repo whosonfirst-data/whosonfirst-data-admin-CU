@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-76.12851,21.03123,-76.12851,21.03123",
@@ -24,7 +26,7 @@
     "gn:timezone":"America/Havana",
     "iso:country":"CU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:ast_x_preferred":[
         "A Carid\u00e1"
     ],
@@ -53,7 +55,7 @@
         "gn:id":3555048
     },
     "wof:country":"CU",
-    "wof:geomhash":"a79ea31efcf2f9f71a68347694254e30",
+    "wof:geomhash":"a9aad178a8c3d3909a97abdbff3d3ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,20 +66,22 @@
         }
     ],
     "wof:id":1259956949,
-    "wof:lastmodified":1564328612,
+    "wof:lastmodified":1706239487,
     "wof:name":"La Caridad",
     "wof:parent_id":1091907267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226730065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -76.12850999999998,
+    -76.12851,
     21.03123,
-    -76.12850999999998,
+    -76.12851,
     21.03123
 ],
-  "geometry": {"coordinates":[-76.12850999999998,21.03123],"type":"Point"}
+  "geometry": {"coordinates":[-76.12851000000001,21.03123],"type":"Point"}
 }

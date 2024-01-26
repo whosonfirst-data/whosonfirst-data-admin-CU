@@ -132,6 +132,11 @@
     "wof:concordances":{
         "gn:id":3553852
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10946824
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"a3827419d23d0d16aea5c30ec75ee7a9",
     "wof:hierarchy":[
@@ -144,13 +149,15 @@
         }
     ],
     "wof:id":1242980375,
-    "wof:lastmodified":1564328397,
+    "wof:lastmodified":1706239488,
     "wof:name":"Sierra Maestra",
     "wof:parent_id":1091905737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344271485
+    ],
     "wof:tags":[]
 },
   "bbox": [

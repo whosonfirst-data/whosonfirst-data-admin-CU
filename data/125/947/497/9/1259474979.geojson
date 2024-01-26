@@ -39,6 +39,11 @@
     "wof:concordances":{
         "gn:id":11008904
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3551220
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"2ad50c17174e46b2771d0c18054aefa4",
     "wof:hierarchy":[
@@ -51,13 +56,15 @@
         }
     ],
     "wof:id":1259474979,
-    "wof:lastmodified":1537619173,
+    "wof:lastmodified":1706239488,
     "wof:name":"Las Grullas",
     "wof:parent_id":1091904557,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326624799
+    ],
     "wof:tags":[]
 },
   "bbox": [

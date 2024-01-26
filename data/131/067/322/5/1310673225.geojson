@@ -28,6 +28,12 @@
     "name:spa_x_preferred":[
         "Guillermo Llabre"
     ],
+    "name:spa_x_variant":[
+        "Guillermo Llabr\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Guillermo Yabre"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -38,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11007140
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3557391
+        ]
     },
     "wof:country":"CU",
     "wof:geomhash":"67f079a95808232f93539954b7cdeccd",
@@ -51,13 +62,15 @@
         }
     ],
     "wof:id":1310673225,
-    "wof:lastmodified":1537619157,
+    "wof:lastmodified":1706239489,
     "wof:name":"Guillermo Llabre",
     "wof:parent_id":1091904251,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326702705
+    ],
     "wof:tags":[]
 },
   "bbox": [

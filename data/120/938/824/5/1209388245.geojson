@@ -36,6 +36,11 @@
     "wof:concordances":{
         "gn:id":3548223
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3766943
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"b041fab3ce3a948858afa86a4a8517ac",
     "wof:hierarchy":[
@@ -45,13 +50,15 @@
         }
     ],
     "wof:id":1209388245,
-    "wof:lastmodified":1537618966,
+    "wof:lastmodified":1706239487,
     "wof:name":"Manacal",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360157867
+    ],
     "wof:tags":[]
 },
   "bbox": [

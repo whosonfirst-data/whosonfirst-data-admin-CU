@@ -36,8 +36,13 @@
     "wof:concordances":{
         "gn:id":3564333
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3564332
+        ]
+    },
     "wof:country":"CU",
-    "wof:geomhash":"8b874ffadd637df81fc3f55b7f9de5aa",
+    "wof:geomhash":"98cfc0f1383d7a8a10883196feb5cc0e",
     "wof:hierarchy":[
         {
             "country_id":85632675,
@@ -45,20 +50,22 @@
         }
     ],
     "wof:id":1209090705,
-    "wof:lastmodified":1537619083,
+    "wof:lastmodified":1706239487,
     "wof:name":"Charco Redondo",
     "wof:parent_id":85632675,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360074903
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -76.42714000000002,
+    -76.42714,
     20.26161,
-    -76.42714000000002,
+    -76.42714,
     20.26161
 ],
-  "geometry": {"coordinates":[-76.42714000000002,20.26161],"type":"Point"}
+  "geometry": {"coordinates":[-76.42713999999999,20.26161],"type":"Point"}
 }

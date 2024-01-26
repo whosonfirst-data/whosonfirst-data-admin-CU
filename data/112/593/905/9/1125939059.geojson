@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-82.38304,23.13302,-82.38304,23.13302",
@@ -17,7 +19,7 @@
     "lbl:latitude":23.13302,
     "lbl:longitude":-82.38304,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "Havana"
@@ -613,14 +615,16 @@
         }
     ],
     "wof:id":1125939059,
-    "wof:lastmodified":1690868551,
+    "wof:lastmodified":1706239486,
     "wof:name":"Havana",
     "wof:parent_id":1091907125,
     "wof:placetype":"locality",
     "wof:population":2163824,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-cu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421186583
+    ],
     "wof:supersedes":[
         1141909419
     ],

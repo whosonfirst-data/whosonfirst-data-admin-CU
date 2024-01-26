@@ -125,6 +125,11 @@
     "wof:concordances":{
         "gn:id":3538435
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3538411
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"283589eb9e3b51c8997412979f3c5b71",
     "wof:hierarchy":[
@@ -137,13 +142,15 @@
         }
     ],
     "wof:id":1226144951,
-    "wof:lastmodified":1636504924,
+    "wof:lastmodified":1706239487,
     "wof:name":"San Rafael",
     "wof:parent_id":1091906893,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293590963
+    ],
     "wof:tags":[]
 },
   "bbox": [

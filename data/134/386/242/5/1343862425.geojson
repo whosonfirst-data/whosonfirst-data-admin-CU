@@ -36,8 +36,13 @@
     "wof:concordances":{
         "gn:id":3563566
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3741786
+        ]
+    },
     "wof:country":"CU",
-    "wof:geomhash":"2cd4e7b72a1af69480445c803cb9d952",
+    "wof:geomhash":"86086e234d0391a498cbbfe446658c34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +53,22 @@
         }
     ],
     "wof:id":1343862425,
-    "wof:lastmodified":1536663751,
+    "wof:lastmodified":1706239489,
     "wof:name":"Conico",
     "wof:parent_id":1091906027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344070965
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -84.29333000000003,
+    -84.29333,
     22.25306,
-    -84.29333000000003,
+    -84.29333,
     22.25306
 ],
-  "geometry": {"coordinates":[-84.29333000000003,22.25306],"type":"Point"}
+  "geometry": {"coordinates":[-84.29333,22.25306],"type":"Point"}
 }

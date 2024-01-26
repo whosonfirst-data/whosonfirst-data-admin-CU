@@ -69,6 +69,11 @@
     "wof:concordances":{
         "gn:id":3552115
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3552122
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"6b533206057e35234d9658b437f418a8",
     "wof:hierarchy":[
@@ -81,13 +86,15 @@
         }
     ],
     "wof:id":1193027491,
-    "wof:lastmodified":1564327407,
+    "wof:lastmodified":1706239487,
     "wof:name":"La Perla",
     "wof:parent_id":1091905195,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326537559
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-84.29333,22.25306,-84.29333,22.25306",
@@ -24,7 +26,7 @@
     "gn:timezone":"America/Havana",
     "iso:country":"CU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -37,7 +39,7 @@
         "gn:id":3741786
     },
     "wof:country":"CU",
-    "wof:geomhash":"2cd4e7b72a1af69480445c803cb9d952",
+    "wof:geomhash":"86086e234d0391a498cbbfe446658c34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +50,22 @@
         }
     ],
     "wof:id":1344070965,
-    "wof:lastmodified":1536858999,
+    "wof:lastmodified":1706239489,
     "wof:name":"Conico",
     "wof:parent_id":1091906027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1343862425
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -84.29333000000003,
+    -84.29333,
     22.25306,
-    -84.29333000000003,
+    -84.29333,
     22.25306
 ],
-  "geometry": {"coordinates":[-84.29333000000003,22.25306],"type":"Point"}
+  "geometry": {"coordinates":[-84.29333,22.25306],"type":"Point"}
 }
