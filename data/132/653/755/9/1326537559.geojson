@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-81.16229,22.49863,-81.16229,22.49863",
@@ -24,7 +26,7 @@
     "gn:timezone":"America/Havana",
     "iso:country":"CU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:ceb_x_preferred":[
         "La Perla"
     ],
@@ -75,12 +77,14 @@
         }
     ],
     "wof:id":1326537559,
-    "wof:lastmodified":1564325941,
+    "wof:lastmodified":1706239487,
     "wof:name":"La Perla",
     "wof:parent_id":1091905195,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193027491
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

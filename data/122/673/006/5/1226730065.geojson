@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":3554944
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3555048
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"f311960983f9f161ded1ec80dc31d4da",
     "wof:hierarchy":[
@@ -65,13 +70,15 @@
         }
     ],
     "wof:id":1226730065,
-    "wof:lastmodified":1564328778,
+    "wof:lastmodified":1706239487,
     "wof:name":"La Caridad",
     "wof:parent_id":1091907267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259956949
+    ],
     "wof:tags":[]
 },
   "bbox": [

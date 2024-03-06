@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-83.99917,22.31278,-83.99917,22.31278",
@@ -24,7 +26,7 @@
     "gn:timezone":"America/Havana",
     "iso:country":"CU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -37,7 +39,7 @@
         "gn:id":3741782
     },
     "wof:country":"CU",
-    "wof:geomhash":"83e95985c80c434682635aa6227e100f",
+    "wof:geomhash":"e827d8815394337af464955b2d701110",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +50,22 @@
         }
     ],
     "wof:id":1276562321,
-    "wof:lastmodified":1536968934,
+    "wof:lastmodified":1706239488,
     "wof:name":"Punta de la Sierra",
     "wof:parent_id":1091904873,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1260288553
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -83.99916999999998,
+    -83.99917,
     22.31278,
-    -83.99916999999998,
+    -83.99917,
     22.31278
 ],
-  "geometry": {"coordinates":[-83.99916999999998,22.31278],"type":"Point"}
+  "geometry": {"coordinates":[-83.99917000000001,22.31278],"type":"Point"}
 }

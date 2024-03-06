@@ -111,6 +111,11 @@
     "wof:concordances":{
         "gn:id":3754894
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3568313
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"8d459a47f34320f2661dccac7c51767f",
     "wof:hierarchy":[
@@ -123,13 +128,15 @@
         }
     ],
     "wof:id":1276880567,
-    "wof:lastmodified":1636504766,
+    "wof:lastmodified":1706239488,
     "wof:name":"Artemisa",
     "wof:parent_id":1091905697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293894939
+    ],
     "wof:tags":[]
 },
   "bbox": [

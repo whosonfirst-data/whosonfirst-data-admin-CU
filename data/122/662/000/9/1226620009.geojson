@@ -39,6 +39,11 @@
     "wof:concordances":{
         "gn:id":3562732
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3751589
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"be8570b863a82b4acee601f3b92c42e8",
     "wof:hierarchy":[
@@ -51,13 +56,15 @@
         }
     ],
     "wof:id":1226620009,
-    "wof:lastmodified":1537619071,
+    "wof:lastmodified":1706239487,
     "wof:name":"Dagamal",
     "wof:parent_id":1091905283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310176181
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Emilio C\u00f3rdova"
     ],
+    "name:und_x_variant":[
+        "Naz\u00e1bal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -38,6 +41,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11007616
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3546122
+        ]
     },
     "wof:country":"CU",
     "wof:geomhash":"ae4f9550a76aebf30910219c12609b20",
@@ -51,13 +59,15 @@
         }
     ],
     "wof:id":1310583461,
-    "wof:lastmodified":1537619164,
+    "wof:lastmodified":1706239489,
     "wof:name":"Emilio Cordova",
     "wof:parent_id":1091904483,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326802891
+    ],
     "wof:tags":[]
 },
   "bbox": [

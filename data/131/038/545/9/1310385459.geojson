@@ -39,8 +39,13 @@
     "wof:concordances":{
         "gn:id":3548918
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3548917
+        ]
+    },
     "wof:country":"CU",
-    "wof:geomhash":"d55cae2b357d0c805a011c50b98daaa5",
+    "wof:geomhash":"519a3bad6e04ac0b5831d6667fd49c0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,20 +56,22 @@
         }
     ],
     "wof:id":1310385459,
-    "wof:lastmodified":1537618970,
+    "wof:lastmodified":1706239489,
     "wof:name":"Los Pocitos",
     "wof:parent_id":1091902915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326517159
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -75.6389,
-    21.04047000000001,
+    21.04047,
     -75.6389,
-    21.04047000000001
+    21.04047
 ],
-  "geometry": {"coordinates":[-75.63890000000001,21.04047000000001],"type":"Point"}
+  "geometry": {"coordinates":[-75.63890000000001,21.04047],"type":"Point"}
 }

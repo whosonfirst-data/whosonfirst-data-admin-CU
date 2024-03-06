@@ -78,6 +78,11 @@
     "wof:concordances":{
         "gn:id":3561628
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3766951
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"553da12fa1e0b42c2f8ea9109536700c",
     "wof:hierarchy":[
@@ -90,13 +95,15 @@
         }
     ],
     "wof:id":1293756889,
-    "wof:lastmodified":1564326678,
+    "wof:lastmodified":1706239489,
     "wof:name":"El Carmen",
     "wof:parent_id":1091908137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309888707
+    ],
     "wof:tags":[]
 },
   "bbox": [

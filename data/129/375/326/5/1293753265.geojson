@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-80.32522,22.74879,-80.32522,22.74879",
@@ -24,7 +26,7 @@
     "gn:timezone":"America/Havana",
     "iso:country":"CU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:spa_x_preferred":[
         "Felicidad"
     ],
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":1293753265,
-    "wof:lastmodified":1564326681,
+    "wof:lastmodified":1706239488,
     "wof:name":"Felicidad",
     "wof:parent_id":1091907209,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259666021
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

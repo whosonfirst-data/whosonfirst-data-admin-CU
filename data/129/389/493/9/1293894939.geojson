@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-80.59305,22.63129,-80.59305,22.63129",
@@ -24,7 +26,7 @@
     "gn:timezone":"America/Havana",
     "iso:country":"CU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:ara_x_preferred":[
         "\u0622\u0631\u062a\u0645\u064a\u0633\u0627"
     ],
@@ -123,12 +125,14 @@
         }
     ],
     "wof:id":1293894939,
-    "wof:lastmodified":1636504760,
+    "wof:lastmodified":1706239488,
     "wof:name":"Artemisa",
     "wof:parent_id":1091905697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276880567
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

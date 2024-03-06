@@ -28,8 +28,14 @@
     "name:pol_x_preferred":[
         "Chytry Lis"
     ],
+    "name:spa_x_preferred":[
+        "Magua"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0433\u0443\u0430"
+    ],
+    "name:und_x_variant":[
+        "Magna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3746510
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3548489
+        ]
     },
     "wof:country":"CU",
     "wof:geomhash":"16fa96ae26211daf818abacab0849458",
@@ -54,13 +65,15 @@
         }
     ],
     "wof:id":1226820091,
-    "wof:lastmodified":1564328920,
+    "wof:lastmodified":1706239487,
     "wof:name":"Magua",
     "wof:parent_id":1091908473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327108345
+    ],
     "wof:tags":[]
 },
   "bbox": [

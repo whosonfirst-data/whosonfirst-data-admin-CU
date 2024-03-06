@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3550995
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11007837
+        ]
+    },
     "wof:country":"CU",
     "wof:geomhash":"bd1983c7c461912e007eeaf9f3d0acfa",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1260362035,
-    "wof:lastmodified":1537618985,
+    "wof:lastmodified":1706239488,
     "wof:name":"Las Marias",
     "wof:parent_id":1091907053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344239063
+    ],
     "wof:tags":[]
 },
   "bbox": [
